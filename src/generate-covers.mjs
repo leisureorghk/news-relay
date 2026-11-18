@@ -2,11 +2,18 @@
  * 為 feed.json 中無圖項目產生 AI 封面，寫入 data/covers/{id}.jpg + covers.json，
  * 並把 raw.githubusercontent.com URL 寫回 feed item.imageUrl。
  *
+ * 省額度策略：
+ *   - 只打 image-01（不先打 H3）
+ *   - 只看 feed 前 COVER_POOL 則中的無圖項
+ *   - 每輪 COVER_MAX、每日 COVER_DAILY_MAX
+ *   - 撞 quota 立刻停
+ *
  * 環境變數：
  *   MINIMAX_API_KEY（必填）
- *   MINIMAX_BASE_URL（預設 https://api.minimaxi.com）
- *   COVER_MAX（每輪最多幾張，預設 8）
- *   GITHUB_REPOSITORY / GITHUB_REF_NAME（Actions 自動帶入，用於組 raw URL）
+ *   MINIMAX_BASE_URL / MINIMAX_REGION
+ *   COVER_MAX（每輪，預設 4）
+ *   COVER_POOL（候選池，預設 40）
+ *   COVER_DAILY_MAX（每日上限，預設 16）
  */
 import { readFile, writeFile, mkdir, readdir, unlink } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
@@ -18,13 +25,19 @@ const FEED_PATH = join(ROOT, 'data', 'feed.json');
 const COVERS_DIR = join(ROOT, 'data', 'covers');
 const COVERS_JSON = join(ROOT, 'data', 'covers.json');
 
-const MAX = Math.max(1, Math.min(24, Number(process.env.COVER_MAX || 8)));
+const MAX = Math.max(1, Math.min(24, Number(process.env.COVER_MAX || 4)));
+const POOL = Math.max(MAX, Math.min(80, Number(process.env.COVER_POOL || 40)));
+const DAILY_MAX = Math.max(1, Math.min(48, Number(process.env.COVER_DAILY_MAX || 16)));
 const TIMEOUT_MS = 180_000;
 const UA =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36';
 
 function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
+}
+
+function todayKeyHK() {
+  return new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Hong_Kong' }).format(new Date());
 }
 
 function rawBase() {
@@ -90,39 +103,36 @@ async function loadCovers() {
   } catch {
     /* empty */
   }
-  return { generatedAt: '', baseUrl: rawBase(), items: {} };
+  return { generatedAt: '', baseUrl: rawBase(), items: {}, dailyKey: '', dailyCount: 0 };
 }
 
-async function genImage(base, key, prompt, { model = 'image-01', optimizer = true } = {}) {
-  const clean = sanitizePrompt(prompt).slice(0, model.includes('H3') ? 4000 : 1400);
+function ensureDailyBudget(covers) {
+  const key = todayKeyHK();
+  if (covers.dailyKey !== key) {
+    covers.dailyKey = key;
+    covers.dailyCount = 0;
+  }
+  covers.dailyCount = Number(covers.dailyCount) || 0;
+  return key;
+}
+
+async function genImage(base, key, prompt, { optimizer = true } = {}) {
+  const clean = sanitizePrompt(prompt).slice(0, 1400);
   if (!clean) return { error: 'empty_prompt' };
 
-  const isH3 = /H3-Image/i.test(model);
-  const path = isH3 ? '/v1/images/generations' : '/v1/image_generation';
-  const payload = isH3
-    ? {
-        model,
-        prompt: clean,
-        n: 1,
-        aspect_ratio: '16:9',
-        area: '1K',
-        response_format: 'b64_json',
-        output_format: 'jpeg',
-        stream: false,
-      }
-    : {
-        model: 'image-01',
-        prompt: clean,
-        aspect_ratio: '16:9',
-        response_format: 'base64',
-        n: 1,
-        prompt_optimizer: Boolean(optimizer),
-      };
+  const payload = {
+    model: 'image-01',
+    prompt: clean,
+    aspect_ratio: '16:9',
+    response_format: 'base64',
+    n: 1,
+    prompt_optimizer: Boolean(optimizer),
+  };
 
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
   try {
-    const res = await fetch(`${base}${path}`, {
+    const res = await fetch(`${base}/v1/image_generation`, {
       method: 'POST',
       signal: ctrl.signal,
       headers: {
@@ -146,21 +156,17 @@ async function genImage(base, key, prompt, { model = 'image-01', optimizer = tru
       const quota = /Token Plan|用量|quota|insufficient/i.test(msg);
       return { error: msg, quota };
     }
-    let b64 =
-      j?.data?.[0]?.b64_json ||
-      j?.data?.image_base64?.[0] ||
-      j?.data?.image_base64 ||
-      null;
+    let b64 = j?.data?.image_base64?.[0] || j?.data?.image_base64 || null;
     if (Array.isArray(b64)) b64 = b64[0];
     if (typeof b64 === 'string' && b64.includes('base64,')) b64 = b64.split('base64,').pop();
     if (typeof b64 === 'string' && b64.length > 200) {
-      return { buf: Buffer.from(b64, 'base64'), model };
+      return { buf: Buffer.from(b64, 'base64'), model: 'image-01' };
     }
-    const url = j?.data?.[0]?.url || j?.data?.image_urls?.[0];
+    const url = j?.data?.image_urls?.[0];
     if (url) {
       const img = await fetch(url, { signal: ctrl.signal });
       const ab = await img.arrayBuffer();
-      if (ab.byteLength > 200) return { buf: Buffer.from(ab), model };
+      if (ab.byteLength > 200) return { buf: Buffer.from(ab), model: 'image-01' };
     }
     return { error: 'empty_image' };
   } catch (e) {
@@ -170,25 +176,24 @@ async function genImage(base, key, prompt, { model = 'image-01', optimizer = tru
   }
 }
 
+/** 只走 image-01：主 prompt → 失敗再一層超短安全 prompt；quota 即停 */
 async function genWithFallback(key, prompt) {
   const bases = minimaxBases();
+  const safe =
+    'Wide 16:9 hand-drawn watercolor news sketch on cream paper, soft grain. ' +
+    'Calm abstract editorial still life on a desk: notebook, soft lamp, city window silhouette, no people faces, no text.';
   const attempts = [
-    { model: process.env.MINIMAX_IMAGE_MODEL || 'MiniMax-H3-Image', optimizer: false },
-    { model: 'image-01', optimizer: true },
-    { model: 'image-01', optimizer: true, promptExtra: true },
+    { prompt, optimizer: true },
+    { prompt: safe, optimizer: true },
   ];
-  const theme = 'Calm abstract editorial still life on a desk: notebook, soft lamp, city window silhouette, no people faces, no text.';
   let last = { error: 'no_attempt' };
   for (const att of attempts) {
-    const p = att.promptExtra
-      ? `Wide 16:9 hand-drawn watercolor news sketch on cream paper. ${theme}`
-      : prompt;
     for (const base of bases) {
-      const r = await genImage(base, key, p, att);
+      const r = await genImage(base, key, att.prompt, att);
       if (r.buf) return r;
       last = r;
       if (r.quota) return r;
-      if (/sensitive|nsfw|risk/i.test(String(r.error || ''))) break; // 換更安全 prompt
+      if (/sensitive|nsfw|risk/i.test(String(r.error || ''))) break;
     }
   }
   return last;
@@ -207,20 +212,49 @@ async function main() {
   covers.baseUrl = rawBase();
   await mkdir(COVERS_DIR, { recursive: true });
 
-  const need = items.filter((it) => {
+  const day = ensureDailyBudget(covers);
+  const dailyLeft = Math.max(0, DAILY_MAX - covers.dailyCount);
+  if (dailyLeft <= 0) {
+    console.log(`covers: daily cap reached (${covers.dailyCount}/${DAILY_MAX}) day=${day}`);
+    covers.lastRun = {
+      ok: 0,
+      fail: 0,
+      need: 0,
+      tried: 0,
+      quotaHit: false,
+      dailySkipped: true,
+      dailyCount: covers.dailyCount,
+      dailyMax: DAILY_MAX,
+    };
+    covers.generatedAt = new Date().toISOString();
+    await writeFile(COVERS_JSON, JSON.stringify(covers, null, 2) + '\n', 'utf8');
+    process.exit(0);
+  }
+
+  // 只在 feed 前 POOL 則裡找無圖（接近精選規模，避免 need=100+）
+  const pool = items.slice(0, POOL);
+  for (const it of pool) {
+    if (!it?.id) continue;
+    if (!String(it.imageUrl || '').trim() && covers.items[it.id]?.url) {
+      it.imageUrl = covers.items[it.id].url;
+    }
+  }
+
+  const need = pool.filter((it) => {
     if (!it?.id) return false;
-    const img = String(it.imageUrl || '').trim();
-    if (img) return false;
+    if (String(it.imageUrl || '').trim()) return false;
     if (covers.items[it.id]?.url) {
-      // 清單已有 → 回寫 feed
       it.imageUrl = covers.items[it.id].url;
       return false;
     }
     return true;
   });
 
-  console.log(`covers: need=${need.length} max=${MAX} base=${covers.baseUrl}`);
-  const batch = need.slice(0, MAX);
+  const roundMax = Math.min(MAX, dailyLeft);
+  console.log(
+    `covers: need=${need.length} pool=${POOL} max=${roundMax} daily=${covers.dailyCount}/${DAILY_MAX} base=${covers.baseUrl}`,
+  );
+  const batch = need.slice(0, roundMax);
   let ok = 0;
   let fail = 0;
   let quotaHit = false;
@@ -251,8 +285,7 @@ async function main() {
       continue;
     }
     const file = `${it.id}.jpg`;
-    const abs = join(COVERS_DIR, file);
-    await writeFile(abs, result.buf);
+    await writeFile(join(COVERS_DIR, file), result.buf);
     const url = `${covers.baseUrl}/${file}`;
     covers.items[it.id] = {
       url,
@@ -260,16 +293,21 @@ async function main() {
       sourceUrl: String(it.url || ''),
       title: title.slice(0, 120),
       createdAt: new Date().toISOString(),
-      model: result.model || '',
+      model: result.model || 'image-01',
       bytes: result.buf.length,
     };
     it.imageUrl = url;
     ok++;
-    console.log(`OK ${it.id} ${result.buf.length}b model=${result.model || '?'}`);
+    covers.dailyCount += 1;
+    console.log(`OK ${it.id} ${result.buf.length}b model=${result.model || 'image-01'}`);
+    if (covers.dailyCount >= DAILY_MAX) {
+      console.log(`daily cap hit after OK (${covers.dailyCount}/${DAILY_MAX})`);
+      break;
+    }
     await sleep(500);
   }
 
-  // 回寫已有封面到 feed（整表）
+  // 回寫已有封面到整份 feed
   for (const it of items) {
     if (!it?.id) continue;
     if (!String(it.imageUrl || '').trim() && covers.items[it.id]?.url) {
@@ -277,7 +315,7 @@ async function main() {
     }
   }
 
-  // 清掉不在目前 feed 的舊封面（控制 repo 體積）
+  // 清掉不在目前 feed 的舊封面
   const live = new Set(items.map((it) => it?.id).filter(Boolean));
   const kept = {};
   for (const [id, row] of Object.entries(covers.items)) {
@@ -289,9 +327,7 @@ async function main() {
     for (const f of files) {
       if (!f.endsWith('.jpg')) continue;
       const id = f.replace(/\.jpg$/i, '');
-      if (!live.has(id)) {
-        await unlink(join(COVERS_DIR, f)).catch(() => {});
-      }
+      if (!live.has(id)) await unlink(join(COVERS_DIR, f)).catch(() => {});
     }
   } catch {
     /* ignore */
@@ -299,13 +335,21 @@ async function main() {
 
   covers.generatedAt = new Date().toISOString();
   covers.count = Object.keys(covers.items).length;
-  covers.lastRun = { ok, fail, need: need.length, tried: batch.length, quotaHit };
+  covers.lastRun = {
+    ok,
+    fail,
+    need: need.length,
+    tried: batch.length,
+    quotaHit,
+    pool: POOL,
+    dailyCount: covers.dailyCount,
+    dailyMax: DAILY_MAX,
+    dailyKey: covers.dailyKey,
+  };
 
-  feed.generatedAt = feed.generatedAt || covers.generatedAt;
   await writeFile(COVERS_JSON, JSON.stringify(covers, null, 2) + '\n', 'utf8');
   await writeFile(FEED_PATH, JSON.stringify(feed, null, 2) + '\n', 'utf8');
   console.log(JSON.stringify(covers.lastRun));
-  if (quotaHit) process.exitCode = 0; // 不讓 workflow 紅燈；下輪再試
 }
 
 main().catch((err) => {

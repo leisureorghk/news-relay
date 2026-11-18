@@ -34,7 +34,16 @@ https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers.json
 ## AI 封面（GitHub）
 
 Actions：`Generate AI covers`（每 3 小時 :30，亦可手動）。  
-為 `feed.json` 中**無圖**項目生圖 → `data/covers/{id}.jpg`，並把 raw URL 寫回 `imageUrl`。
+**封面以 GitHub 為主**；NAS 應設 `MINIMAX_AUTO_COVERS=0`，只套用 raw URL／og 圖，避免雙重生圖燒額度。
+
+省額度規則：
+
+- 模型只打 **image-01**（不先打 H3）
+- 只處理 feed **前 40 則**中的無圖項
+- 每輪最多 **4** 張、每日最多 **16** 張
+- 撞 Token Plan／quota 立刻停
+
+產出：`data/covers/{id}.jpg` + `covers.json`，並把 raw URL 寫回 `imageUrl`。
 
 GitHub repo **Secrets**（Settings → Secrets and variables → Actions）：
 
@@ -47,10 +56,10 @@ MINIMAX_REGION=cn                            # 可選
 ```bash
 # 本機（需已設 MINIMAX_API_KEY）
 npm run covers
-# COVER_MAX=4 npm run covers
+# COVER_MAX=2 COVER_DAILY_MAX=16 npm run covers
 ```
 
-NAS 同步會先套用 GitHub 封面（`RELAY_COVERS_URL`，可省略用預設），本機 MiniMax 只作備援。
+NAS 同步：原文 og → GitHub `covers.json` →（本機 MiniMax 僅在 `AUTO_COVERS=1` 時備援）。
 
 ## 本機手動更新
 

@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
     inputs:
       max:
-        description: "本輪最多生幾張（1–24）"
+        description: "本輪最多生幾張（1–24；另受每日 16 上限）"
         required: false
-        default: "8"
+        default: "4"
 
 permissions:
   contents: write
@@ -36,8 +36,9 @@ jobs:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
           MINIMAX_BASE_URL: ${{ secrets.MINIMAX_BASE_URL }}
           MINIMAX_REGION: ${{ secrets.MINIMAX_REGION }}
-          MINIMAX_IMAGE_MODEL: ${{ secrets.MINIMAX_IMAGE_MODEL }}
-          COVER_MAX: ${{ github.event.inputs.max || '8' }}
+          COVER_MAX: ${{ github.event.inputs.max || '4' }}
+          COVER_POOL: "40"
+          COVER_DAILY_MAX: "16"
         run: |
           if [ -z "$MINIMAX_API_KEY" ]; then
             echo "MINIMAX_API_KEY secret 未設定，略過"
