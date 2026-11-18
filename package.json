@@ -5,7 +5,8 @@
   "type": "module",
   "description": "每 3 小時抓取 RSS、過濾約 200 則，寫入 data/feed.json 供 NAS 拉取",
   "scripts": {
-    "refresh": "node src/refresh.mjs"
+    "refresh": "node src/refresh.mjs",
+    "optimize": "node src/optimize-sources.mjs"
   },
   "engines": {
     "node": ">=18"

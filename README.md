@@ -40,6 +40,23 @@ powershell -File ../scripts/refresh-relay-to-nas.ps1
 
 需要 Node 18+（Actions 使用 22）。無額外 npm 依賴。
 
+## 每月優化來源
+
+Actions：`Monthly optimize sources`（每月 1 日 04:00 UTC，亦可手動）。
+
+```bash
+npm run optimize
+# = node src/optimize-sources.mjs
+```
+
+會探測每個來源的主網址／備援，寫入：
+
+- `sources.json`：`health`、必要時 `softBlock`／`enabled: false`／微調 `trustScore`（不刪來源）
+- `data/optimize-report.json`：本次報告
+- `data/health-history.json`：最近約 24 次紀錄
+
+`refresh` 會自動略過 `enabled: false` 的來源。
+
 ## 輸出格式
 
 - `data/feed.json`：標題、連結、短摘要、來源、時間、圖片網址；不含全文與金鑰。

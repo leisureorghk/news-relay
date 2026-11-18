@@ -491,10 +491,16 @@ function isSoftBlocked(source) {
 }
 
 async function main() {
-  const sources = JSON.parse(await readFile(SOURCES_PATH, 'utf8'));
-  if (!Array.isArray(sources) || !sources.length) {
+  const allSources = JSON.parse(await readFile(SOURCES_PATH, 'utf8'));
+  if (!Array.isArray(allSources) || !allSources.length) {
     throw new Error('sources.json 空白或格式錯誤');
   }
+  const disabled = allSources.filter((s) => s && s.enabled === false);
+  const sources = allSources.filter((s) => s && s.enabled !== false);
+  if (disabled.length) {
+    console.log(`略過已停用來源 ${disabled.length} 個：`, disabled.map((s) => s.id || s.name).join(', '));
+  }
+  if (!sources.length) throw new Error('沒有啟用中的來源');
 
   const gSources = sources.filter((s) => isGoogleSource(s));
   const softSources = sources.filter((s) => !isGoogleSource(s) && isSoftBlocked(s));
@@ -556,7 +562,9 @@ async function main() {
     count: items.length,
     target: TARGET_TOTAL,
     categories: byCat,
-    sourcesTotal: sources.length,
+    sourcesTotal: allSources.length,
+    sourcesEnabled: sources.length,
+    sourcesDisabled: disabled.length,
     sourcesOk: okSources,
     sourcesFail: failSources,
     fallbackUsed,

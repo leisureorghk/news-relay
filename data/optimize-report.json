@@ -1,0 +1,654 @@
+{
+  "generatedAt": "2026-11-18T05:12:48.780Z",
+  "sourcesTotal": 26,
+  "enabledCount": 26,
+  "disabledCount": 0,
+  "disabledIds": [],
+  "reenabledIds": [
+    "s6",
+    "s10",
+    "s11",
+    "s21",
+    "s22",
+    "s23",
+    "s24"
+  ],
+  "actions": [
+    "s1: trustScore 0.91 → 0.92（穩定）",
+    "s2: trustScore 0.91 → 0.92（穩定）",
+    "s3: trustScore 0.89 → 0.9（穩定）",
+    "s5: trustScore 0.83 → 0.84（穩定）",
+    "s6: 重新啟用來源（探測恢復）",
+    "s6: trustScore 0.8 → 0.75（Google 解原文偏弱）",
+    "s6: trustScore 0.75 → 0.76（穩定）",
+    "s7: trustScore 0.89 → 0.9（穩定）",
+    "s8: trustScore 0.87 → 0.88（穩定）",
+    "s9: trustScore 0.71 → 0.72（穩定）",
+    "s10: 重新啟用來源（探測恢復）",
+    "s10: trustScore 0.65 → 0.6（Google 解原文偏弱）",
+    "s10: trustScore 0.6 → 0.61（穩定）",
+    "s11: 重新啟用來源（探測恢復）",
+    "s11: trustScore 0.67 → 0.62（Google 解原文偏弱）",
+    "s11: trustScore 0.62 → 0.63（穩定）",
+    "s12: trustScore 0.73 → 0.74（穩定）",
+    "s13: trustScore 0.76 → 0.77（穩定）",
+    "s14: trustScore 0.77 → 0.78（穩定）",
+    "s15: trustScore 0.87 → 0.88（穩定）",
+    "s17: trustScore 0.79 → 0.8（穩定）",
+    "s18: trustScore 0.85 → 0.86（穩定）",
+    "s19: trustScore 0.88 → 0.89（穩定）",
+    "s20: trustScore 0.79 → 0.8（穩定）",
+    "s21: 重新啟用來源（探測恢復）",
+    "s21: trustScore 0.69 → 0.64（Google 解原文偏弱）",
+    "s21: trustScore 0.64 → 0.65（穩定）",
+    "s22: 重新啟用來源（探測恢復）",
+    "s22: trustScore 0.69 → 0.64（Google 解原文偏弱）",
+    "s22: trustScore 0.64 → 0.65（穩定）",
+    "s23: 重新啟用來源（探測恢復）",
+    "s23: trustScore 0.71 → 0.66（Google 解原文偏弱）",
+    "s23: trustScore 0.66 → 0.67（穩定）",
+    "s24: 重新啟用來源（探測恢復）",
+    "s24: trustScore 0.73 → 0.68（Google 解原文偏弱）",
+    "s25: trustScore 0.81 → 0.82（穩定）",
+    "s26: trustScore 0.81 → 0.82（穩定）"
+  ],
+  "averageScore": 78,
+  "sources": [
+    {
+      "id": "s1",
+      "name": "香港電台 · 本地",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.91 → 0.92（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 129,
+        "items": 20,
+        "usable": 20,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s2",
+      "name": "香港電台 · 國際",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.91 → 0.92（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 87,
+        "items": 20,
+        "usable": 20,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s3",
+      "name": "香港電台 · 財經",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.89 → 0.9（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 83,
+        "items": 20,
+        "usable": 20,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s4",
+      "name": "香港政府新聞網",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 248,
+        "items": 15,
+        "usable": 15,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s5",
+      "name": "明報 · 要聞",
+      "score": 90,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": true,
+      "actions": [
+        "trustScore 0.83 → 0.84（穩定）"
+      ],
+      "notes": [
+        "備援為 Google RSS（refresh 會解）"
+      ],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 37,
+        "items": 44,
+        "usable": 44,
+        "error": null
+      },
+      "fallback": {
+        "ok": true,
+        "status": 200,
+        "ms": 13,
+        "items": 100,
+        "usable": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "s6",
+      "name": "信報財經新聞",
+      "score": 70,
+      "enabled": true,
+      "wasEnabled": false,
+      "softBlock": false,
+      "actions": [
+        "重新啟用來源（探測恢復）",
+        "trustScore 0.8 → 0.75（Google 解原文偏弱）",
+        "trustScore 0.75 → 0.76（穩定）"
+      ],
+      "notes": [
+        "主源 Google 暫解不出原文連結"
+      ],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 37,
+        "items": 100,
+        "usable": 0,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s7",
+      "name": "SCMP",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.89 → 0.9（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 78,
+        "items": 50,
+        "usable": 50,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s8",
+      "name": "BBC 中文",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.87 → 0.88（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 268,
+        "items": 42,
+        "usable": 42,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s9",
+      "name": "Yahoo 新聞 · 香港",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.71 → 0.72（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 133,
+        "items": 30,
+        "usable": 30,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s10",
+      "name": "Yahoo 新聞 · 科技",
+      "score": 70,
+      "enabled": true,
+      "wasEnabled": false,
+      "softBlock": false,
+      "actions": [
+        "重新啟用來源（探測恢復）",
+        "trustScore 0.65 → 0.6（Google 解原文偏弱）",
+        "trustScore 0.6 → 0.61（穩定）"
+      ],
+      "notes": [
+        "主源 Google 暫解不出原文連結"
+      ],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 8,
+        "items": 100,
+        "usable": 0,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s11",
+      "name": "Google 新聞 · 香港",
+      "score": 70,
+      "enabled": true,
+      "wasEnabled": false,
+      "softBlock": false,
+      "actions": [
+        "重新啟用來源（探測恢復）",
+        "trustScore 0.67 → 0.62（Google 解原文偏弱）",
+        "trustScore 0.62 → 0.63（穩定）"
+      ],
+      "notes": [
+        "主源 Google 暫解不出原文連結"
+      ],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 8,
+        "items": 30,
+        "usable": 0,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s12",
+      "name": "unwire.hk",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.73 → 0.74（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 325,
+        "items": 10,
+        "usable": 10,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s13",
+      "name": "The Verge",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.76 → 0.77（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 17,
+        "items": 10,
+        "usable": 10,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s14",
+      "name": "TechCrunch",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.77 → 0.78（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 31,
+        "items": 20,
+        "usable": 20,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s15",
+      "name": "MIT Technology Review",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.87 → 0.88（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 19,
+        "items": 10,
+        "usable": 10,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s16",
+      "name": "Hacker News",
+      "score": 70,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 8330,
+        "items": 20,
+        "usable": 20,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s17",
+      "name": "Ars Technica",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.79 → 0.8（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 16,
+        "items": 20,
+        "usable": 20,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s18",
+      "name": "BBC Technology",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.85 → 0.86（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 9,
+        "items": 21,
+        "usable": 21,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s19",
+      "name": "Bloomberg Markets",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.88 → 0.89（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 878,
+        "items": 20,
+        "usable": 20,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s20",
+      "name": "Smashing Magazine",
+      "score": 80,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": false,
+      "actions": [
+        "trustScore 0.79 → 0.8（穩定）"
+      ],
+      "notes": [],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 141,
+        "items": 40,
+        "usable": 40,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s21",
+      "name": "Google 新聞 · 游泳",
+      "score": 70,
+      "enabled": true,
+      "wasEnabled": false,
+      "softBlock": false,
+      "actions": [
+        "重新啟用來源（探測恢復）",
+        "trustScore 0.69 → 0.64（Google 解原文偏弱）",
+        "trustScore 0.64 → 0.65（穩定）"
+      ],
+      "notes": [
+        "主源 Google 暫解不出原文連結"
+      ],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 7,
+        "items": 82,
+        "usable": 0,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s22",
+      "name": "Google 新聞 · 門球",
+      "score": 70,
+      "enabled": true,
+      "wasEnabled": false,
+      "softBlock": false,
+      "actions": [
+        "重新啟用來源（探測恢復）",
+        "trustScore 0.69 → 0.64（Google 解原文偏弱）",
+        "trustScore 0.64 → 0.65（穩定）"
+      ],
+      "notes": [
+        "主源 Google 暫解不出原文連結"
+      ],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 11,
+        "items": 8,
+        "usable": 0,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s23",
+      "name": "Google 新聞 · SEN／特殊教育",
+      "score": 70,
+      "enabled": true,
+      "wasEnabled": false,
+      "softBlock": false,
+      "actions": [
+        "重新啟用來源（探測恢復）",
+        "trustScore 0.71 → 0.66（Google 解原文偏弱）",
+        "trustScore 0.66 → 0.67（穩定）"
+      ],
+      "notes": [
+        "主源 Google 暫解不出原文連結"
+      ],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 14,
+        "items": 35,
+        "usable": 0,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s24",
+      "name": "Google 新聞 · SEN 游泳",
+      "score": 55,
+      "enabled": true,
+      "wasEnabled": false,
+      "softBlock": false,
+      "actions": [
+        "重新啟用來源（探測恢復）",
+        "trustScore 0.73 → 0.68（Google 解原文偏弱）"
+      ],
+      "notes": [
+        "主源 Google 暫解不出原文連結"
+      ],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 5,
+        "items": 1,
+        "usable": 0,
+        "error": null
+      },
+      "fallback": null
+    },
+    {
+      "id": "s25",
+      "name": "明報 · 體育",
+      "score": 90,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": true,
+      "actions": [
+        "trustScore 0.81 → 0.82（穩定）"
+      ],
+      "notes": [
+        "備援為 Google RSS（refresh 會解）"
+      ],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 18,
+        "items": 27,
+        "usable": 27,
+        "error": null
+      },
+      "fallback": {
+        "ok": true,
+        "status": 200,
+        "ms": 20,
+        "items": 100,
+        "usable": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "s26",
+      "name": "明報 · 教育",
+      "score": 90,
+      "enabled": true,
+      "wasEnabled": true,
+      "softBlock": true,
+      "actions": [
+        "trustScore 0.81 → 0.82（穩定）"
+      ],
+      "notes": [
+        "備援為 Google RSS（refresh 會解）"
+      ],
+      "primary": {
+        "ok": true,
+        "status": 200,
+        "ms": 31,
+        "items": 35,
+        "usable": 35,
+        "error": null
+      },
+      "fallback": {
+        "ok": true,
+        "status": 200,
+        "ms": 21,
+        "items": 100,
+        "usable": 0,
+        "error": null
+      }
+    }
+  ]
+}

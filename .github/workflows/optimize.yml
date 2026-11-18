@@ -1,0 +1,55 @@
+name: Monthly optimize sources
+
+on:
+  schedule:
+    # 每月 1 日 04:00 UTC（香港約中午）
+    - cron: "0 4 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-relay-optimize
+  cancel-in-progress: true
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Probe and optimize sources
+        run: node src/optimize-sources.mjs
+
+      - name: Commit sources / reports if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sources.json data/optimize-report.json data/health-history.json
+          if git diff --staged --quiet; then
+            echo "sources/reports unchanged"
+            exit 0
+          fi
+          git commit -m "chore: monthly source optimize ($(date -u +%Y-%m))"
+          git push
+
+      - name: Refresh feed after optimize
+        run: node src/refresh.mjs
+
+      - name: Commit feed if changed
+        run: |
+          git add data/feed.json data/status.json
+          if git diff --staged --quiet; then
+            echo "feed unchanged"
+            exit 0
+          fi
+          git commit -m "chore: refresh relay feed after source optimize"
+          git push
