@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-11-18T05:44:49.000Z",
+  "generatedAt": "2026-11-18T05:54:20.610Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
   "count": 0,
   "items": {},
   "lastRun": {
     "ok": 0,
     "fail": 1,
-    "need": 107,
-    "tried": 4,
-    "quotaHit": true
-  }
+    "need": 34,
+    "tried": 2,
+    "quotaHit": true,
+    "pool": 40,
+    "dailyCount": 0,
+    "dailyMax": 16,
+    "dailyKey": "2026-11-18"
+  },
+  "dailyKey": "2026-11-18",
+  "dailyCount": 0
 }
