@@ -1,25 +1,59 @@
 {
-  "generatedAt": "2026-11-18T04:48:21.307Z",
-  "count": 200,
+  "generatedAt": "2026-11-18T05:02:59.827Z",
+  "count": 168,
   "target": 200,
   "categories": {
+    "tech": 76,
     "world": 36,
-    "tech": 72,
+    "hk": 33,
     "biz": 21,
-    "hk": 45,
-    "other": 26
+    "other": 2
   },
   "errors": [],
   "warnings": [
+    "明報 · 要聞: Google 新聞 0 則（解不出原文 100）",
+    "明報 · 體育: Google 新聞 0 則（解不出原文 100）",
+    "明報 · 教育: Google 新聞 0 則（解不出原文 100）",
     "信報財經新聞: Google 新聞 0 則（解不出原文 100）",
     "Yahoo 新聞 · 科技: Google 新聞 0 則（解不出原文 100）",
     "Google 新聞 · 香港: Google 新聞 0 則（解不出原文 30）",
-    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 81）",
+    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 82）",
     "Google 新聞 · 門球: Google 新聞 0 則（解不出原文 8）",
     "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 35）",
     "Google 新聞 · SEN 游泳: Google 新聞 0 則（解不出原文 1）"
   ],
   "items": [
+    {
+      "id": "r7043c009e80a3672",
+      "sourceId": "s18",
+      "sourceName": "BBC Technology",
+      "title": "Security flaw found Java, world's third-largest programming language",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes.",
+      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-18T05:01:29.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r8307757b3c07f403",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "深圳APEC｜國家主席習近平會見俄羅斯總統普京",
+      "summary": "國家主席習近平中午在深圳，會見來華出席亞太經合組織領導人非正式會議的俄羅斯總統普京。 編輯：羅宇光",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878276-20261118.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T04:46:56.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
     {
       "id": "r66468f24994f1bd0",
       "sourceId": "s7",
@@ -34,6 +68,22 @@
       "tags": [
         "香港",
         "國際"
+      ]
+    },
+    {
+      "id": "rbd967aa8d7d129e1",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "當局稱過去三年消委會接獲轉介92宗個案予內地相關組織跟進",
+      "summary": "署理商務及經濟發展局局長陳百里表示，由2023至2025年，消委會接獲並轉介共92宗個案予內地消費者保護組織跟進，涉及本港消費者在內地跨境消費時遇到的消費爭議，主要與服務或物流延誤，以及貨品或服務質素有關。當中成功調停的個案超過60宗。 陳百里書面回覆立法會議員質詢表示，因應跨境消費普及，消委會一直爭取與各地消保組織簽訂合作備忘錄，建立跨境訊息及投訴個案轉介機制。消委會已經與30個內地省市，涵蓋9個大灣區城市及澳門達成合作協議。如接獲消費者就跨境消費方面的投訴，消委會會按既定處理機制與相關消保組織跟進投訴。有關機制行之有效，一直協助三地消費者排解與商戶的",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878275-20261118.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T04:43:17.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
       ]
     },
     {
@@ -309,22 +359,6 @@
       ]
     },
     {
-      "id": "rc1e18f98b5993e51",
-      "sourceId": "s5",
-      "sourceName": "明報 · 要聞",
-      "title": "孫玉菡：自願通報吊棚工程數量近年持續上升 靠巡查「補足」無通報大廈",
-      "summary": "勞工及福利局長孫玉菡表示，自2023年起，勞工處接獲物業管理公司自願通報吊棚搭建工程數量持續上升，今年截至10月已接獲19876宗通報，全年料通報近2.4萬宗，與2022年相比增15倍。勞聯林振昇於立法會口頭質詢提出，自願通報機制有盲點，一些沒有物管公司的大廈或不會通報，關注當局會否先要求強制呈報吊棚等高危工程。勞工及福利局長孫玉菡回應說，就一些沒有法團的大廈，當局可以靠巡查「補足」。",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261118/s00001/1794974919507/%e5%ad%ab%e7%8e%89%e8%8f%a1-%e8%87%aa%e9%a1%98%e9%80%9a%e5%a0%b1%e5%90%8a%e6%a3%9a%e5%b7%a5%e7%a8%8b%e6%95%b8%e9%87%8f%e8%bf%91%e5%b9%b4%e6%8c%81%e7%ba%8c%e4%b8%8a%e5%8d%87-%e9%9d%a0%e5%b7%a1%e6%9f%a5%e3%80%8c%e8%a3%9c%e8%b6%b3%e3%80%8d%e7%84%a1%e9%80%9a%e5%a0%b1%e5%a4%a7%e5%bb%88",
-      "imageUrl": "https://fs.mingpao.com/ins/20261118/s00001/7652aacdfda94b3fa6b235f348372dc6.jpg",
-      "publishedAt": "2026-11-18T04:14:38.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "新聞"
-      ]
-    },
-    {
       "id": "r156dab0f0c8ec800",
       "sourceId": "s1",
       "sourceName": "香港電台 · 本地",
@@ -338,22 +372,6 @@
       "tags": [
         "香港",
         "本地"
-      ]
-    },
-    {
-      "id": "r6122ddd4fc4eb212",
-      "sourceId": "s5",
-      "sourceName": "明報 · 要聞",
-      "title": "持「2000億元」月結單到滙豐開戶 兩人被捕",
-      "summary": "兩人涉攜虛假月結單到滙豐總行開戶而被捕。",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261118/s00001/1794974898674/%e6%8c%81%e3%80%8c2000%e5%84%84%e5%85%83%e3%80%8d%e6%9c%88%e7%b5%90%e5%96%ae%e5%88%b0%e6%bb%99%e8%b1%90%e9%96%8b%e6%88%b6-%e5%85%a9%e4%ba%ba%e8%a2%ab%e6%8d%95",
-      "imageUrl": "https://fs.mingpao.com/ins/20261118/s00001/35a4e5b811e749ef8c56cf8d30d6ad75.jpg",
-      "publishedAt": "2026-11-18T04:13:22.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "新聞"
       ]
     },
     {
@@ -549,38 +567,6 @@
       ]
     },
     {
-      "id": "r8c4c75f692619c2a",
-      "sourceId": "s5",
-      "sourceName": "明報 · 要聞",
-      "title": "警拘五男涉酒後駕駛",
-      "summary": "新界北總區交通部執行及管制組於月13日至17日在區內主要幹道及高速公路展開執法行動，拘捕5名本地男子，年齡介乎37至48歲。五人均未能通過酒精呼氣測試，涉嫌「酒後駕駛」被捕。",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261118/s00001/1794972760842/%e8%ad%a6%e6%8b%98%e4%ba%94%e7%94%b7%e6%b6%89%e9%85%92%e5%be%8c%e9%a7%95%e9%a7%9b",
-      "imageUrl": "https://fs.mingpao.com/ins/20261118/s00001/3f15fcbbcd1a9d433d644b250a50730c.jpg",
-      "publishedAt": "2026-11-18T03:45:18.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "新聞"
-      ]
-    },
-    {
-      "id": "r2029778891851943",
-      "sourceId": "s5",
-      "sourceName": "明報 · 要聞",
-      "title": "警方因應APEC設無人機禁飛區 一名男子涉違禁令被捕",
-      "summary": "警方昨晚（17日）10時許時於天水圍拘捕一名67歲男子，涉嫌「未經許可在限制飛行區以內飛行」及「操作期間違反操作規定」。警員在行動中檢獲一部小型無人機，被捕人現正被扣留調查。案件交由元朗警區刑事調查隊跟進。",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261118/s00001/1794972302811/%e8%ad%a6%e6%96%b9%e5%9b%a0%e6%87%89apec%e8%a8%ad%e7%84%a1%e4%ba%ba%e6%a9%9f%e7%a6%81%e9%a3%9b%e5%8d%80-%e4%b8%80%e5%90%8d%e7%94%b7%e5%ad%90%e6%b6%89%e9%81%95%e7%a6%81%e4%bb%a4%e8%a2%ab%e6%8d%95",
-      "imageUrl": "https://fs.mingpao.com/ins/20261118/s00001/3ed2f731d5070dc6d08d1ee97dbf6f4b.jpg",
-      "publishedAt": "2026-11-18T03:43:09.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "新聞"
-      ]
-    },
-    {
       "id": "r06d233cebce2e9d5",
       "sourceId": "s19",
       "sourceName": "Bloomberg Markets",
@@ -674,22 +660,6 @@
       "tags": [
         "香港",
         "本地"
-      ]
-    },
-    {
-      "id": "r9ef3b2bbfcb320c5",
-      "sourceId": "s5",
-      "sourceName": "明報 · 要聞",
-      "title": "警方大嶼山反非法電動單車 拘捕2人",
-      "summary": "大嶼山警區交通隊及軍裝巡邏小隊昨日（17日）在區內打擊非法使用電動可移動工具。警員拘捕一名69歲男子及一名45歲外籍女子，涉嫌「駕駛時沒有有效駕駛執照」、「駕駛未有登記及未持牌車輛」、「沒有第三者保險而使用車輛」、「駕駛電單車時沒有戴上認可防護頭盔」及「未經准許在行人路上駕駛電單車」，並扣查兩輛涉案電動可移動工具。",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261118/s00001/1794971719612/%e8%ad%a6%e6%96%b9%e5%a4%a7%e5%b6%bc%e5%b1%b1%e5%8f%8d%e9%9d%9e%e6%b3%95%e9%9b%bb%e5%8b%95%e5%96%ae%e8%bb%8a-%e6%8b%98%e6%8d%952%e4%ba%ba",
-      "imageUrl": "https://fs.mingpao.com/ins/20261118/s00001/3e753b96b0a02dd9035f84c9d3e220a8.jpg",
-      "publishedAt": "2026-11-18T03:25:01.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "新聞"
       ]
     },
     {
@@ -801,38 +771,6 @@
       "tags": [
         "香港",
         "財經"
-      ]
-    },
-    {
-      "id": "rf93580e13deb8cad",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "港鐵：信號設備故障修復 港島綫列車服務陸續恢復正常",
-      "summary": "港鐵表示，早前的信號設備故障已修復，港島綫列車服務陸續恢復正常。 今早大約8時45分，港鐵表示，香港大學站附近有信號設備故障，列車行經該路段需要慢駛，港島綫列車服務一度受阻需要額外延長行車時間。 至早上大約10時30分，港鐵人員完成修復，列車服務陸續恢復正常。 編輯：李俊傑",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878251-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T02:41:05.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "本地"
-      ]
-    },
-    {
-      "id": "r3c77831b43d8a29b",
-      "sourceId": "s5",
-      "sourceName": "明報 · 要聞",
-      "title": "港鐵：信號設備已修復 港島線列車服務陸續恢復正常",
-      "summary": "港鐵於今早8時46分指，由於香港大學站附近有信號設備故障，列車行經該路段需要慢駛。港島線列車服務受阻，整體行車時間一度延長5至8分鐘。",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261118/s00001/1794963466190/%e6%b8%af%e9%90%b5-%e4%bf%a1%e8%99%9f%e8%a8%ad%e5%82%99%e5%b7%b2%e4%bf%ae%e5%be%a9-%e6%b8%af%e5%b3%b6%e7%b7%9a%e5%88%97%e8%bb%8a%e6%9c%8d%e5%8b%99%e9%99%b8%e7%ba%8c%e6%81%a2%e5%be%a9%e6%ad%a3%e5%b8%b8",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T02:38:35.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "新聞"
       ]
     },
     {
@@ -1074,22 +1012,6 @@
       "tags": [
         "香港",
         "財經"
-      ]
-    },
-    {
-      "id": "rc0b500644b0549dc",
-      "sourceId": "s5",
-      "sourceName": "明報 · 要聞",
-      "title": "深水埗運菜車撞校巴 校巴司機與一名學童受傷送院",
-      "summary": "深水埗連翔道近南昌站對開發生貨車撞校巴車禍，校巴男司機及一名學童受傷。",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261118/s00001/1794964532433/%e6%b7%b1%e6%b0%b4%e5%9f%97%e9%81%8b%e8%8f%9c%e8%bb%8a%e6%92%9e%e6%a0%a1%e5%b7%b4-%e6%a0%a1%e5%b7%b4%e5%8f%b8%e6%a9%9f%e8%88%87%e4%b8%80%e5%90%8d%e5%ad%b8%e7%ab%a5%e5%8f%97%e5%82%b7%e9%80%81%e9%99%a2",
-      "imageUrl": "https://fs.mingpao.com/ins/20261118/s00001/3a22c444e3894951e91353a32a203e49.jpg",
-      "publishedAt": "2026-11-18T01:26:06.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "新聞"
       ]
     },
     {
@@ -1656,8 +1578,8 @@
       "id": "rae39df31c07d5e2f",
       "sourceId": "s19",
       "sourceName": "Bloomberg Markets",
-      "title": "Stocks Fluctuate After Nvidia, Treasuries Rise: Markets Wrap",
-      "summary": "Stocks fluctuated as traders assessed Nvidia Corp.’s better-than-expected sales forecast and whether the results were enough to reverse a broader retreat from the artificial intelligence trade. Treasuries gained.",
+      "title": "Stocks Waver After Nvidia Results, Treasuries Rise: Markets Wrap",
+      "summary": "Stocks struggled for direction as traders assessed Nvidia Corp.’s better-than-expected sales forecast and whether the results were enough to reverse a broader retreat from the artificial intelligence trade. Treasuries gained.",
       "url": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
       "imageUrl": "",
       "publishedAt": "2026-11-17T22:07:08.000Z",
@@ -1798,262 +1720,6 @@
       ]
     },
     {
-      "id": "r0749eef642c24a4d",
-      "sourceId": "s25",
-      "sourceName": "明報 · 體育",
-      "title": "謝影雪伙禹智睿闖港羽賽混雙正賽 讚體藝館場地媲美全英賽 雙楊配揚威港隊內訌闖女雙16強",
-      "summary": "【明報專訊】世界羽聯（BWF）超級500的香港公開羽毛球錦標賽昨起一連6日首次在啟德體藝館舉行，港隊「大師姐」謝影雪伙拍17歲新星禹智睿出戰混雙外圍賽，最終僅花25分鐘便以直落兩局晉身今日正賽；「雙楊配」楊雅婷／楊霈霖昨晚則在女雙正賽首圈局數2：1淘汰港隊隊友呂樂樂／曾曉昕，晉身16強。",
-      "url": "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20261118/s00015/1794931585250/%e8%ac%9d%e5%bd%b1%e9%9b%aa%e4%bc%99%e7%a6%b9%e6%99%ba%e7%9d%bf%e9%97%96%e6%b8%af%e7%be%bd%e8%b3%bd%e6%b7%b7%e9%9b%99%e6%ad%a3%e8%b3%bd-%e8%ae%9a%e9%ab%94%e8%97%9d%e9%a4%a8%e5%a0%b4%e5%9c%b0%e5%aa%b2%e7%be%8e%e5%85%a8%e8%8b%b1%e8%b3%bd-%e9%9b%99%e6%a5%8a%e9%85%8d%e6%8f%9a%e5%a8%81%e6%b8%af%e9%9a%8a%e5%85%a7%e8%a8%8c%e9%97%96%e5%a5%b3%e9%9b%9916%e5%bc%b7",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00085/e017cfbc6bc64287b077e293d077f1b9.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "體育",
-        "游泳"
-      ]
-    },
-    {
-      "id": "r162eafaf37da023e",
-      "sourceId": "s25",
-      "sourceName": "明報 · 體育",
-      "title": "女佩港隊攜世盃開羅站銅牌榮歸 劉綺程認驚喜惟自信團隊具實力 薛雅齊為締歷史自豪",
-      "summary": "【明報專訊】港隊周日在佩劍世界盃開羅站，由朱詠翹、劉綺程、薛雅齊及曾悅澄歷史性贏得女子佩劍團體賽銅牌。眾將昨返抵香港，指這次在埃及贏得隊史首面世盃女佩團體獎牌雖算驚喜，但強調一直相信團隊有能力觸及此高度，「我們值得這面獎牌」。",
-      "url": "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20261118/s00015/1794931585688/%e5%a5%b3%e4%bd%a9%e6%b8%af%e9%9a%8a%e6%94%9c%e4%b8%96%e7%9b%83%e9%96%8b%e7%be%85%e7%ab%99%e9%8a%85%e7%89%8c%e6%a6%ae%e6%ad%b8-%e5%8a%89%e7%b6%ba%e7%a8%8b%e8%aa%8d%e9%a9%9a%e5%96%9c%e6%83%9f%e8%87%aa%e4%bf%a1%e5%9c%98%e9%9a%8a%e5%85%b7%e5%af%a6%e5%8a%9b-%e8%96%9b%e9%9b%85%e9%bd%8a%e7%82%ba%e7%b7%a0%e6%ad%b7%e5%8f%b2%e8%87%aa%e8%b1%aa",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00085/ac1fc629a2dc4e5eba320090a745b526.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "體育",
-        "游泳"
-      ]
-    },
-    {
-      "id": "rbad4b0337fc42d07",
-      "sourceId": "s25",
-      "sourceName": "明報 · 體育",
-      "title": "艾卡拉斯挫堤亞科 10連勝強勢衝年終首冠",
-      "summary": "【明報專訊】23歲西班牙籍「世三」卡路士艾卡拉斯前晚在意大利都靈迎來今年ATP年終賽首擊，在分組賽面對美籍好手堤亞科以直落兩盤取勝，為生涯首奪年終賽錦標注入強心針。",
-      "url": "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20261118/s00015/1794931585953/%e8%89%be%e5%8d%a1%e6%8b%89%e6%96%af%e6%8c%ab%e5%a0%a4%e4%ba%9e%e7%a7%91-10%e9%80%a3%e5%8b%9d%e5%bc%b7%e5%8b%a2%e8%a1%9d%e5%b9%b4%e7%b5%82%e9%a6%96%e5%86%a0",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00085/04d6e6dddb6142f49c26dbea1ab018df.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "體育",
-        "游泳"
-      ]
-    },
-    {
-      "id": "rd7784f3569030823",
-      "sourceId": "s25",
-      "sourceName": "明報 · 體育",
-      "title": "港隊保齡球亞洲賽報捷 黃鈞源麥卓賢男雙摘金",
-      "summary": "【明報專訊】中國香港保齡球代表隊正於卡塔爾多哈出戰保齡球亞洲賽，其中黃鈞源（左）與麥卓賢（右）前日於男子雙打賽由第一局起一直領先，最終完成6局後以總分2839分奪冠，拋離亞軍的阿聯酋隊組合44分。連同麥卓賢日前在男子單打賽得第3，港隊暫獲1金1銅。另一港隊組合林諾謙與袁焯軒則在男雙以總分2782分得第4名無緣頒獎台。",
-      "url": "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20261118/s00015/1794931586284/%e6%b8%af%e9%9a%8a%e4%bf%9d%e9%bd%a1%e7%90%83%e4%ba%9e%e6%b4%b2%e8%b3%bd%e5%a0%b1%e6%8d%b7-%e9%bb%83%e9%88%9e%e6%ba%90%e9%ba%a5%e5%8d%93%e8%b3%a2%e7%94%b7%e9%9b%99%e6%91%98%e9%87%91",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00085/a8b3398261974b45af0a48cfea692cf5.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "體育",
-        "游泳"
-      ]
-    },
-    {
-      "id": "r5620f8661da15b23",
-      "sourceId": "s25",
-      "sourceName": "明報 · 體育",
-      "title": "教大嘉許名古屋亞運港將 李卡度趙顯臻分享雙軌並行心得",
-      "summary": "【明報專訊】香港教育大學有47名學生運動員及校友代表港隊出戰名古屋亞運，在15個項目共奪2金3銀10銅。教大昨於大埔校園舉行嘉許禮，頒發精英運動員獎學金及嘉許狀，當中有19名運動員出席，包括兩位金牌得主、男子七欖代表李卡度（左二）和男子輕量級單人雙槳艇代表趙顯臻（右二），他們均正修讀教大進修運動教練及管理社會科學碩士課程，於台上分享如何平衡訓練與學業心得。",
-      "url": "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20261118/s00015/1794931586556/%e6%95%99%e5%a4%a7%e5%98%89%e8%a8%b1%e5%90%8d%e5%8f%a4%e5%b1%8b%e4%ba%9e%e9%81%8b%e6%b8%af%e5%b0%87-%e6%9d%8e%e5%8d%a1%e5%ba%a6%e8%b6%99%e9%a1%af%e8%87%bb%e5%88%86%e4%ba%ab%e9%9b%99%e8%bb%8c%e4%b8%a6%e8%a1%8c%e5%bf%83%e5%be%97",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00085/7d6e2c3572ac4695b47c1376aef76582.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "體育",
-        "游泳"
-      ]
-    },
-    {
-      "id": "r87eafa7730c1a66e",
-      "sourceId": "s25",
-      "sourceName": "明報 · 體育",
-      "title": "體壇快訊：王楚欽訪港戰WTT總決",
-      "summary": "【明報專訊】26歲國家隊乒乓球星將王楚欽，昨落實成為WTT香港總決賽第12名男單球手，將於今年12月9至13日訪港，與日本隊「世一」松島輝空及「世二」張本智和在啟德體藝館獻技。世界排名第4的王楚欽生涯至今曾五度參加WTT總決賽，並三度成為男單冠軍。",
-      "url": "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20261118/s00015/1794931586760/%e9%ab%94%e5%a3%87%e5%bf%ab%e8%a8%8a-%e7%8e%8b%e6%a5%9a%e6%ac%bd%e8%a8%aa%e6%b8%af%e6%88%b0wtt%e7%b8%bd%e6%b1%ba",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "體育",
-        "游泳"
-      ]
-    },
-    {
-      "id": "r5e77a4a957fedc2a",
-      "sourceId": "s25",
-      "sourceName": "明報 · 體育",
-      "title": "電視精選",
-      "summary": "【明報專訊】（請看附圖）",
-      "url": "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20261118/s00015/1794931586978/%e9%9b%bb%e8%a6%96%e7%b2%be%e9%81%b8",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00085/7fe07b299ee6452fbf92c7467364563c.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "體育",
-        "游泳"
-      ]
-    },
-    {
-      "id": "r4a4f85a6ebfc482d",
-      "sourceId": "s25",
-      "sourceName": "明報 · 體育",
-      "title": "森保一日本告別戰敗興 友賽1：2負巴拉圭 8載藍武士領軍落幕",
-      "summary": "【明報專訊】迎來主帥森保一時代終結的日本隊，昨晚在新加坡中立場與南美球隊巴拉圭上演友賽，惟「藍武士」未能在森保一執教的最後一戰完美謝幕，力戰下以1：2不敵對手而回，連續5場國際賽不敗紀錄亦告作結。",
-      "url": "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20261118/s00015/1794931587338/%e6%a3%ae%e4%bf%9d%e4%b8%80%e6%97%a5%e6%9c%ac%e5%91%8a%e5%88%a5%e6%88%b0%e6%95%97%e8%88%88-%e5%8f%8b%e8%b3%bd1-2%e8%b2%a0%e5%b7%b4%e6%8b%89%e5%9c%ad-8%e8%bc%89%e8%97%8d%e6%ad%a6%e5%a3%ab%e9%a0%98%e8%bb%8d%e8%90%bd%e5%b9%95",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00085/0e0b1a945d55420c8df1d26dd9a3f0ad.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "體育",
-        "游泳"
-      ]
-    },
-    {
-      "id": "rd3d78ddd6c3103b1",
-      "sourceId": "s25",
-      "sourceName": "明報 · 體育",
-      "title": "德國歐國聯首名闖8強 5：0勝荷蘭 高普贈沙維首敗",
-      "summary": "【明報專訊】德國隊昨在主帥高普領軍下，於歐國聯A2組分組賽末輪主場迎戰荷蘭隊，藉鋒將域斯梅開二度以5：0大勝，並贈同於美加墨世界盃後上任的「橙軍」主帥沙維領軍以來首場敗仗；德國隊賽後因較佳得失球差，壓過荷蘭以小組首名出線8強。",
-      "url": "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20261118/s00015/1794931587699/%e5%be%b7%e5%9c%8b%e6%ad%90%e5%9c%8b%e8%81%af%e9%a6%96%e5%90%8d%e9%97%968%e5%bc%b7-5-0%e5%8b%9d%e8%8d%b7%e8%98%ad-%e9%ab%98%e6%99%ae%e8%b4%88%e6%b2%99%e7%b6%ad%e9%a6%96%e6%95%97",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00085/f53e54fb70da4ef4a98fe3bc02bafcda.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "體育",
-        "游泳"
-      ]
-    },
-    {
-      "id": "r596403a1ecf88498",
-      "sourceId": "s26",
-      "sourceName": "明報 · 教育",
-      "title": "研資局撥款自資校155項目新高 年增23個共9000萬元 主席唐偉章：樂見重視科研",
-      "summary": "【明報專訊】大學教育資助委員會轄下研究資助局上周公布自資院校四大資助計劃的申請結果，今年度155個項目獲資助創歷屆新高，按年增加23個，資助額較去年度多1000元，錄得約9000萬元。研資局主席唐偉章稱樂見自資院校重視科研，隨着近年申請及獲批項目數量錄得增幅，在政府經費未來數年維持不變下，當局正思考如何尋求更多資源，並將之善用。",
-      "url": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20261118/s00011/1794933434925/%e7%a0%94%e8%b3%87%e5%b1%80%e6%92%a5%e6%ac%be%e8%87%aa%e8%b3%87%e6%a0%a1155%e9%a0%85%e7%9b%ae%e6%96%b0%e9%ab%98-%e5%b9%b4%e5%a2%9e23%e5%80%8b%e5%85%b19000%e8%90%ac%e5%85%83-%e4%b8%bb%e5%b8%ad%e5%94%90%e5%81%89%e7%ab%a0-%e6%a8%82%e8%a6%8b%e9%87%8d%e8%a6%96%e7%a7%91%e7%a0%94",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00050/a7bfe37228c745b0bd812d5101f7296d.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "教育",
-        "SEN"
-      ]
-    },
-    {
-      "id": "re1397e28267704f3",
-      "sourceId": "s26",
-      "sourceName": "明報 · 教育",
-      "title": "研究案例：家長常問是與否 幼兒詞彙較少",
-      "summary": "【明報專訊】不少家長會向子女說故事，盼藉此訓練其語言能力。研資局上周海報展覽展出30個獲撥款的「教員發展計劃」研究成果，當中東華學院學者獲撥款約80萬元，研究家長「語言輸入質素」與幼兒能力發展的關係，發現家長向幼童講故事並非「講得愈多愈好」，關鍵在於能否利用句子變化與內容層次引導幼童思考。",
-      "url": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20261118/s00011/1794933435403/%e7%a0%94%e7%a9%b6%e6%a1%88%e4%be%8b-%e5%ae%b6%e9%95%b7%e5%b8%b8%e5%95%8f%e6%98%af%e8%88%87%e5%90%a6-%e5%b9%bc%e5%85%92%e8%a9%9e%e5%bd%99%e8%bc%83%e5%b0%91",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00050/0543ef729274465a9c1998e88d27cb41.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "教育",
-        "SEN"
-      ]
-    },
-    {
-      "id": "r857015c6728e6bd7",
-      "sourceId": "s26",
-      "sourceName": "明報 · 教育",
-      "title": "新書試閱：喵！為你加油",
-      "summary": "【明報專訊】生活壓力大，養貓或許能療癒心情，但如不想當「貓奴」，書中不止有黃金屋，亦有貓耳語。",
-      "url": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20261118/s00011/1794931579956/%e6%96%b0%e6%9b%b8%e8%a9%a6%e9%96%b1-%e5%96%b5-%e7%82%ba%e4%bd%a0%e5%8a%a0%e6%b2%b9",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00050/8d74c387afba4354be5008bbafc6458f.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "教育",
-        "SEN"
-      ]
-    },
-    {
-      "id": "ra5daf17ea287e2be",
-      "sourceId": "s26",
-      "sourceName": "明報 · 教育",
-      "title": "新書試閱：畫貓咪治癒你的每一天",
-      "summary": "【明報專訊】貓咪肖像畫和星座運程風馬牛不相及，Steven River過去從未想過能把兩者湊在一起。他起初畫貓只為減輕工作壓力，但貓肖像對於網友、貓主人或有另一種意義。多年後，他把這些貓肖像和因工作而學到的星座知識結合成書，希望能為正在面對生活壓力的讀者帶來指引。",
-      "url": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20261118/s00011/1794931581072/%e6%96%b0%e6%9b%b8%e8%a9%a6%e9%96%b1-%e7%95%ab%e8%b2%93%e5%92%aa%e6%b2%bb%e7%99%92%e4%bd%a0%e7%9a%84%e6%af%8f%e4%b8%80%e5%a4%a9",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00050/6e1f874ce82f4cb29c65ad09b9828706.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "教育",
-        "SEN"
-      ]
-    },
-    {
-      "id": "rea64dc6199bb61d5",
-      "sourceId": "s26",
-      "sourceName": "明報 · 教育",
-      "title": "寫乜東東古文版：七字清唱出桃源夢",
-      "summary": "【明報專訊】由出生那刻開始學習——小時候，筆者的爸爸會在家門上用粉筆作畫，一幅幅山水畫不知不覺便印入了我的腦海；後來爸爸愛上唱歌和書法，假日不是與我分享不同歌曲，就是練習書法，更以「空靈飄渺隨念轉……」創作了一首詩，在雪白牆壁上大筆揮毫，被媽媽嘮叨了好幾個月。第一次接觸戲劇，是媽媽帶我到福建老家看歌仔戲，內容早已忘得一乾二淨，只記得有種說不出的震撼感，從此讓我對舞台表演、唱歌有了興趣。到我成為教師，便帶領一班中二學生學習「七字清」，讓她們體會何謂「勤有功，戲有益」。",
-      "url": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20261118/s00011/1794931582318/%e5%af%ab%e4%b9%9c%e6%9d%b1%e6%9d%b1%e5%8f%a4%e6%96%87%e7%89%88-%e4%b8%83%e5%ad%97%e6%b8%85%e5%94%b1%e5%87%ba%e6%a1%83%e6%ba%90%e5%a4%a2",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00050/fee9773b94784bcaae907ff9fd500350.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "教育",
-        "SEN"
-      ]
-    },
-    {
-      "id": "rce17ab8ef8ff2817",
-      "sourceId": "s26",
-      "sourceName": "明報 · 教育",
-      "title": "文言卜卜齋：古人有口福",
-      "summary": "【明報專訊】俗語有云「民以食為天」，意指人們把糧食視為生存最根本、最重要的東西。古人對吃相當講究，今期就帶大家穿越古代，飽餐一頓！",
-      "url": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20261118/s00011/1794931582802/%e6%96%87%e8%a8%80%e5%8d%9c%e5%8d%9c%e9%bd%8b-%e5%8f%a4%e4%ba%ba%e6%9c%89%e5%8f%a3%e7%a6%8f",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "教育",
-        "SEN"
-      ]
-    },
-    {
-      "id": "r934309edd1c621b0",
-      "sourceId": "s26",
-      "sourceName": "明報 · 教育",
-      "title": "時事中文：工傷補償",
-      "summary": "【明報專訊】隨着科技發展，法例也需與時並進，近月有外賣員駕駛時因收到平台「搶單」通知，望向電話後撞車致癱瘓，引發各界討論平台工作者工傷補償制度。古時沒有外賣員，但為僱員補償工傷則早有法規記載。",
-      "url": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20261118/s00011/1794931583007/%e6%99%82%e4%ba%8b%e4%b8%ad%e6%96%87-%e5%b7%a5%e5%82%b7%e8%a3%9c%e5%84%9f",
-      "imageUrl": "https://fs.mingpao.com/pns/20261118/s00050/7c65c6a967574099b9f27f6f6f9b656d.jpg",
-      "publishedAt": "2026-11-17T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "教育",
-        "SEN"
-      ]
-    },
-    {
       "id": "r1c3b9272a59ed35c",
       "sourceId": "s2",
       "sourceName": "香港電台 · 國際",
@@ -2116,22 +1782,6 @@
         "科技",
         "創業",
         "AI"
-      ]
-    },
-    {
-      "id": "rf7773acd162b5994",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "伊朗指美軍襲擊格什姆島部分地點 美軍未有回應",
-      "summary": "伊朗傳媒星期二報道，南部格什姆島傳出爆炸聲並冒出濃煙。 霍爾木茲甘省副省長其後證實，美軍襲擊格什姆島部分地點，但當地情況受控，居民區、商業和基礎設施沒有受損，救援、服務和行政部門處於全面戒備狀態；美軍暫時未有回應。 編輯：盧曉珊",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878204-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T19:11:54.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
       ]
     },
     {
@@ -2292,13 +1942,13 @@
       ]
     },
     {
-      "id": "re96790dce60a2b44",
+      "id": "rb434bb7bd51b113d",
       "sourceId": "s4",
       "sourceName": "香港政府新聞網",
-      "title": "四款慳電膽禁止在港供應",
-      "summary": "機電工程署今日公布，陽光牌四款慳電膽的能源效益、功能特性表現未達標，已將之從《能源效益（產品標籤）條例》訂明的表列型號紀錄冊剔除，即日起不得在本港供應。 四款慳電膽由商麗影有限公司進口，型號為S-24A 23W B22 2700K、S-24A 23W E27 2700K、S-16A 12W E14 6400K、S-16A 12W E27 6400K。 署方已向進口商發出通知書，進口商會於報章刊登通告，通知巿民有關產品停止在港供應。",
-      "url": "https://www.news.gov.hk/chi/2026/11/20261118/20261118_112520_814.html",
-      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261118/20261118_112520_814/images/20261118121125582.jpg",
+      "title": "香港優勢獨特 建設全球航運之都",
+      "summary": "在國家十五五規劃和香港特區第一個五年規劃引領下，香港正全力推動航運業升級轉型，並全方位建設全球航運之都。運輸及物流局局長陳美寶指，香港作為國家南大門，擁有獨特優勢，會繼續成為內地和全球市場的重要樞紐。 她表示，香港未來的發展方向，是要從「噸位大港」升級轉型為「價值港」，當中包括雙核心的策略和措施，即維持港口競爭力，同時進一步強化和優化高端海運服務生態圈。 她續指︰「透過增強港口的競爭力，構建更多的夥伴港口，我們可以錯位互補、增強航線的韌力。」 提升香港港口競爭力的重要措施之一是航運業綠色轉型。陳美寶指香港具備發展成為綠色船用燃料加注和貿易中心的條件。以加",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261117/20261117_220912_742.html",
+      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261117/20261117_220912_742/images/20261117223141550.jpeg",
       "publishedAt": "2026-11-17T16:00:00.000Z",
       "category": "hk",
       "language": "zh-Hant",
@@ -2308,13 +1958,13 @@
       ]
     },
     {
-      "id": "rb434bb7bd51b113d",
+      "id": "re96790dce60a2b44",
       "sourceId": "s4",
       "sourceName": "香港政府新聞網",
-      "title": "香港優勢獨特 建設全球航運之都",
-      "summary": "在國家十五五規劃和香港特區第一個五年規劃引領下，香港正全力推動航運業升級轉型，並全方位建設全球航運之都。運輸及物流局局長陳美寶指，香港作為國家南大門，擁有獨特優勢，會繼續成為內地和全球市場的重要樞紐。 她表示，香港未來的發展方向，是要從「噸位大港」升級轉型為「價值港」，當中包括雙核心的策略和措施，即維持港口競爭力，同時進一步強化和優化高端海運服務生態圈。 她續指︰「透過增強港口的競爭力，構建更多的夥伴港口，我們可以錯位互補、增強航線的韌力。」 提升香港港口競爭力的重要措施之一是航運業綠色轉型。陳美寶指香港具備發展成為綠色船用燃料加注和貿易中心的條件。以加",
-      "url": "https://www.news.gov.hk/chi/2026/11/20261117/20261117_220912_742.html",
-      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261117/20261117_220912_742/images/20261117223141550.jpeg",
+      "title": "四款慳電膽禁止在港供應",
+      "summary": "機電工程署今日公布，陽光牌四款慳電膽的能源效益、功能特性表現未達標，已將之從《能源效益（產品標籤）條例》訂明的表列型號紀錄冊剔除，即日起不得在本港供應。 四款慳電膽由商麗影有限公司進口，型號為S-24A 23W B22 2700K、S-24A 23W E27 2700K、S-16A 12W E14 6400K、S-16A 12W E27 6400K。 署方已向進口商發出通知書，進口商會於報章刊登通告，通知巿民有關產品停止在港供應。",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261118/20261118_112520_814.html",
+      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261118/20261118_112520_814/images/20261118121125582.jpg",
       "publishedAt": "2026-11-17T16:00:00.000Z",
       "category": "hk",
       "language": "zh-Hant",
@@ -2386,22 +2036,6 @@
       ]
     },
     {
-      "id": "r3abb1e1d4e2e1653",
-      "sourceId": "s5",
-      "sourceName": "明報 · 要聞",
-      "title": "本地船隻涉違法用蛇籠捕魚 船長偕5名內地漁工被控",
-      "summary": "漁農自然護理署今日（17日）控告一名本地船長及5名內地過港漁工，涉嫌在沙洲附近水域一艘本地船隻上使用蛇籠捕魚，各人將於明日（18日）在屯門裁判法院提堂。",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261117/s00001/1794924350415/%e6%9c%ac%e5%9c%b0%e8%88%b9%e9%9a%bb%e6%b6%89%e9%81%95%e6%b3%95%e7%94%a8%e8%9b%87%e7%b1%a0%e6%8d%95%e9%ad%9a-%e8%88%b9%e9%95%b7%e5%81%955%e5%90%8d%e5%85%a7%e5%9c%b0%e6%bc%81%e5%b7%a5%e8%a2%ab%e6%8e%a7",
-      "imageUrl": "https://fs.mingpao.com/ins/20261117/s00001/a16b08f9480f4631bd102ad4eb13d792.jpg",
-      "publishedAt": "2026-11-17T14:05:43.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "新聞"
-      ]
-    },
-    {
       "id": "r4de8588df20e457c",
       "sourceId": "s19",
       "sourceName": "Bloomberg Markets",
@@ -2432,54 +2066,6 @@
         "科技",
         "AI",
         "學習"
-      ]
-    },
-    {
-      "id": "raf19520e773a8a81",
-      "sourceId": "s5",
-      "sourceName": "明報 · 要聞",
-      "title": "葵涌葵福路疑爆水管 兩輛的士一度被困",
-      "summary": "【22：27更新】今晚（17日）6時許，警方接報葵涌葵福路近中華傳道會李賢堯紀念中學懷疑有地下水管爆裂，有水及石塊噴出，影響來回合4條行車線。網上流傳的相片所見，事件懷疑導致地下凹陷，兩輛的士路經時，車胎被卡著，附近地下亦有大小石塊。事後有警員到場處理，並有拖車拖走兩輛的士。",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261117/s00001/1794918839318/%e8%91%b5%e6%b6%8c%e8%91%b5%e7%a6%8f%e8%b7%af%e7%96%91%e7%88%86%e6%b0%b4%e7%ae%a1-%e5%85%a9%e8%bc%9b%e7%9a%84%e5%a3%ab%e4%b8%80%e5%ba%a6%e8%a2%ab%e5%9b%b0",
-      "imageUrl": "https://fs.mingpao.com/ins/20261117/s00001/1ef92e49d5f91fc711467dda409259da.jpg",
-      "publishedAt": "2026-11-17T12:35:17.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "新聞"
-      ]
-    },
-    {
-      "id": "r4509b57266a635c6",
-      "sourceId": "s5",
-      "sourceName": "明報 · 要聞",
-      "title": "李家超出席亞洲物流航運及空運會議 見證運物局、機管局各簽備忘錄",
-      "summary": "特首李家超昨早出席第16屆「亞洲物流航運及空運會議」，他在特別致辭環節致辭，並與運物局局長陳美寶一同見證三項合作備忘錄簽署和一項合作落實，分別涉及推動本地可持續航空燃料混合設施建設、深化綠色船用燃料和相關認證標準方面的合作、擴大香港伙伴港口網絡，以及構建「越桂港物流陸空超級通道」。",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261117/s00001/1794917724764/%e6%9d%8e%e5%ae%b6%e8%b6%85%e5%87%ba%e5%b8%ad%e4%ba%9e%e6%b4%b2%e7%89%a9%e6%b5%81%e8%88%aa%e9%81%8b%e5%8f%8a%e7%a9%ba%e9%81%8b%e6%9c%83%e8%ad%b0-%e8%a6%8b%e8%ad%89%e9%81%8b%e7%89%a9%e5%b1%80-%e6%a9%9f%e7%ae%a1%e5%b1%80%e5%90%84%e7%b0%bd%e5%82%99%e5%bf%98%e9%8c%84",
-      "imageUrl": "https://fs.mingpao.com/ins/20261117/s00001/7f50f35713a943379ea7fcad5c0b08d3.jpg",
-      "publishedAt": "2026-11-17T12:15:21.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "新聞"
-      ]
-    },
-    {
-      "id": "r114e1708076f8780",
-      "sourceId": "s5",
-      "sourceName": "明報 · 要聞",
-      "title": "網上流傳海邊猥褻影片 17歲男生被捕 女事主疑未滿16歲",
-      "summary": "近日網上流傳一段影片，見到一名穿便服男生與一名懷疑穿校服女生於海邊作出不雅行為，男生疑露出陽具。警方回覆查詢指，九龍城警區刑事支援隊經深入調查後，今日（17日）拘捕一名17歲男童，涉嫌「向年齡在16歲以下的兒童作出猥褻行為」，被捕人現正被扣留調查。",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261117/s00001/1794917103199/%e7%b6%b2%e4%b8%8a%e6%b5%81%e5%82%b3%e6%b5%b7%e9%82%8a%e7%8c%a5%e8%a4%bb%e5%bd%b1%e7%89%87-17%e6%ad%b2%e7%94%b7%e7%94%9f%e8%a2%ab%e6%8d%95-%e5%a5%b3%e4%ba%8b%e4%b8%bb%e7%96%91%e6%9c%aa%e6%bb%bf16%e6%ad%b2",
-      "imageUrl": "https://fs.mingpao.com/ins/20261117/s00001/1df1ecf9b8de66ac8cb73f22b6bd6956.jpg",
-      "publishedAt": "2026-11-17T12:10:17.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "新聞"
       ]
     },
     {
@@ -2711,22 +2297,6 @@
       ]
     },
     {
-      "id": "r1ecfd31d8b0a5657",
-      "sourceId": "s5",
-      "sourceName": "明報 · 要聞",
-      "title": "名牌寄賣店「樂星」金鐘店及「Vootic」突結業 警接43人報案料損失逾1600萬元",
-      "summary": "名牌寄賣店「樂星」的金鐘分店及「Vootic」的銅鑼灣店突然結業。警方指，截至下午三時，警方接獲37名市民報案，指灣仔羅素街一店舖懷疑拖欠寄賣款項，涉案金額約1400萬元；另外，警方共接獲六名市民報案，指夏愨道一店舖懷疑拖欠寄賣款項，涉案金額約260萬元。",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261117/s00001/1794914986126/%e5%90%8d%e7%89%8c%e5%af%84%e8%b3%a3%e5%ba%97%e3%80%8c%e6%a8%82%e6%98%9f%e3%80%8d%e9%87%91%e9%90%98%e5%ba%97%e5%8f%8a%e3%80%8cvootic%e3%80%8d%e7%aa%81%e7%b5%90%e6%a5%ad-%e8%ad%a6%e6%8e%a543%e4%ba%ba%e5%a0%b1%e6%a1%88%e6%96%99%e6%90%8d%e5%a4%b1%e9%80%be1600%e8%90%ac%e5%85%83",
-      "imageUrl": "https://fs.mingpao.com/ins/20261117/s00001/88f9d92338bb486ab715f4b4090c78ff.jpg",
-      "publishedAt": "2026-11-17T11:30:01.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "新聞"
-      ]
-    },
-    {
       "id": "r59f7e52c0e523065",
       "sourceId": "s18",
       "sourceName": "BBC Technology",
@@ -2914,134 +2484,6 @@
       ]
     },
     {
-      "id": "r117e2386970e1725",
-      "sourceId": "s25",
-      "sourceName": "明報 · 體育",
-      "title": "英軍終結西班牙43場不敗 以寡敵眾奪歐國聯首名 杜曹：上下一心制勝",
-      "summary": "【明報專訊】歐國聯A3組雙雄英格蘭隊及應屆世界盃冠軍西班牙隊，昨在最後一場分組賽合演扣人心弦的榜首大戰。作客的「三獅」一度領先3球，最後半小時卻陷以寡敵眾劣勢下，仍能以3：2擊敗「鬥牛軍」而歸。英軍此役不單報回首循環一敗之辱並搶回小組榜首，更打破西班牙史上最長的連續43場不敗紀錄。",
-      "url": "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20261117/s00015/1794844863462/%e8%8b%b1%e8%bb%8d%e7%b5%82%e7%b5%90%e8%a5%bf%e7%8f%ad%e7%89%9943%e5%a0%b4%e4%b8%8d%e6%95%97-%e4%bb%a5%e5%af%a1%e6%95%b5%e7%9c%be%e5%a5%aa%e6%ad%90%e5%9c%8b%e8%81%af%e9%a6%96%e5%90%8d-%e6%9d%9c%e6%9b%b9-%e4%b8%8a%e4%b8%8b%e4%b8%80%e5%bf%83%e5%88%b6%e5%8b%9d",
-      "imageUrl": "https://fs.mingpao.com/pns/20261117/s00085/3ec508c769bf4fda8882dea38834b602.jpg",
-      "publishedAt": "2026-11-16T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "體育",
-        "游泳"
-      ]
-    },
-    {
-      "id": "r86b48ba1850b8abc",
-      "sourceId": "s25",
-      "sourceName": "明報 · 體育",
-      "title": "森保一迎日本終戰 星洲撼巴拉圭 爭連挫南美雙雄",
-      "summary": "【明報專訊】日本隊今晚將在新加坡國家體育場友賽巴拉圭隊，力爭本月國際賽期從南美洲球隊身上取得兩連勝。確定完成此戰後離任的「藍武士」主帥森保一，形容此戰對他而言或許是終點，但對日本足球而言帶有連結過去到未來的意義，期望麾下在中立場爭勝，用表現證明正朝向成為世界列強的目標。",
-      "url": "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20261117/s00015/1794844863909/%e6%a3%ae%e4%bf%9d%e4%b8%80%e8%bf%8e%e6%97%a5%e6%9c%ac%e7%b5%82%e6%88%b0-%e6%98%9f%e6%b4%b2%e6%92%bc%e5%b7%b4%e6%8b%89%e5%9c%ad-%e7%88%ad%e9%80%a3%e6%8c%ab%e5%8d%97%e7%be%8e%e9%9b%99%e9%9b%84",
-      "imageUrl": "https://fs.mingpao.com/pns/20261117/s00085/2583678c92f04913bfc856919a482c88.jpg",
-      "publishedAt": "2026-11-16T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "體育",
-        "游泳"
-      ]
-    },
-    {
-      "id": "r93ab6c61520d618a",
-      "sourceId": "s25",
-      "sourceName": "明報 · 體育",
-      "title": "19歲安祖娃年終賽一盤不失封后 近22年最年輕盟主",
-      "summary": "【明報專訊】19歲俄將米拉安祖娃昨在美國印第安韋爾斯舉行的WTA年終賽女單決賽，繼分組賽首戰勝出後再直落兩盤力克32歲烏克蘭好手絲慧杜蓮娜，成為自2004年另一俄籍名將舒拉寶娃以來最年輕盟主，亦是史上第3名首次參賽便以一盤不失姿態封后的球手。安祖娃賽後升上世界排名第2，與哈薩克籍「世一」雷芭堅娜的積分僅相差293分。",
-      "url": "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20261117/s00015/1794844864254/19%e6%ad%b2%e5%ae%89%e7%a5%96%e5%a8%83%e5%b9%b4%e7%b5%82%e8%b3%bd%e4%b8%80%e7%9b%a4%e4%b8%8d%e5%a4%b1%e5%b0%81%e5%90%8e-%e8%bf%9122%e5%b9%b4%e6%9c%80%e5%b9%b4%e8%bc%95%e7%9b%9f%e4%b8%bb",
-      "imageUrl": "https://fs.mingpao.com/pns/20261117/s00085/e09eb8b96efb4fd8bc73bb42244c6e2c.jpg",
-      "publishedAt": "2026-11-16T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "體育",
-        "游泳"
-      ]
-    },
-    {
-      "id": "r9055fac0f30ca872",
-      "sourceId": "s26",
-      "sourceName": "明報 · 教育",
-      "title": "呂大樂任方大署理副校 冀強化「應科大」定位",
-      "summary": "【明報專訊】今年8月加盟自資院校聖方濟各大學的呂大樂，昨起擢升為署理副校長（研究及發展）。校長張仁良稱呂大樂將進一步助方大提升教研實力，並推動應用研究。呂大樂期望與團隊強化方大的「應用科學大學」定位，以及促進知識轉移。",
-      "url": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20261117/s00011/1794847806056/%e5%91%82%e5%a4%a7%e6%a8%82%e4%bb%bb%e6%96%b9%e5%a4%a7%e7%bd%b2%e7%90%86%e5%89%af%e6%a0%a1-%e5%86%80%e5%bc%b7%e5%8c%96%e3%80%8c%e6%87%89%e7%a7%91%e5%a4%a7%e3%80%8d%e5%ae%9a%e4%bd%8d",
-      "imageUrl": "https://fs.mingpao.com/pns/20261117/s00050/0dcea6e761dc4bbda3ac6248a285e5c5.jpg",
-      "publishedAt": "2026-11-16T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "教育",
-        "SEN"
-      ]
-    },
-    {
-      "id": "r453ba22aedeb1f5a",
-      "sourceId": "s26",
-      "sourceName": "明報 · 教育",
-      "title": "浸大頒授前校長陳新滋錢大康榮譽博士",
-      "summary": "【明報專訊】浸會大學月初宣布頒授榮譽博士予5人，昨舉行典禮，包括向2010至2015年掌管浸大的前校長陳新滋頒授榮譽理學博士，亦向2015至2020年的浸大校長錢大康頒授榮譽工程學博士。",
-      "url": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20261117/s00011/1794847806346/%e6%b5%b8%e5%a4%a7%e9%a0%92%e6%8e%88%e5%89%8d%e6%a0%a1%e9%95%b7%e9%99%b3%e6%96%b0%e6%bb%8b%e9%8c%a2%e5%a4%a7%e5%ba%b7%e6%a6%ae%e8%ad%bd%e5%8d%9a%e5%a3%ab",
-      "imageUrl": "https://fs.mingpao.com/pns/20261117/s00050/2dbf596300394ca6a89eb4a1586f5553.jpg",
-      "publishedAt": "2026-11-16T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "教育",
-        "SEN"
-      ]
-    },
-    {
-      "id": "rfb22fbc8832376a6",
-      "sourceId": "s26",
-      "sourceName": "明報 · 教育",
-      "title": "免聯招試收DSE生內地高校 增至169間",
-      "summary": "【明報專訊】國家教育部昨宣布，169間內地高校下學年（2027/28）參與「內地高校招收香港中學文憑考試（DSE）學生計劃」，涵蓋內地21個省或直轄市，以及兩個自治區，較今學年多4間，包括浙江財經大學、麗水學院，廣州新華學院及福建福耀科技大學。教育局歡迎安排，指計劃可免去本地生參與內地聯招考試，盼港生把握機會赴內地升學及認識國家。",
-      "url": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20261117/s00011/1794847806578/%e5%85%8d%e8%81%af%e6%8b%9b%e8%a9%a6%e6%94%b6dse%e7%94%9f%e5%85%a7%e5%9c%b0%e9%ab%98%e6%a0%a1-%e5%a2%9e%e8%87%b3169%e9%96%93",
-      "imageUrl": "",
-      "publishedAt": "2026-11-16T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "教育",
-        "SEN"
-      ]
-    },
-    {
-      "id": "rce6f89761efe6433",
-      "sourceId": "s26",
-      "sourceName": "明報 · 教育",
-      "title": "中大穗建聯合實驗室 鍾南山：冀粵港優勢互補",
-      "summary": "【明報專訊】「廣州實驗室——香港中文大學聯合實驗室」揭牌儀式在上周日（8日）舉行，中國工程院院士、廣州實驗室主任鍾南山指出，粵港藥械標準尚未完全統一、前沿產品缺乏互認評價體系，形容是「堵點」，希望雙方優勢互補，聚焦「共性技術」和標準互認，深化人才、平台、資料開放協同，貫通科研、監管與產業，致力創造一批「經得起監管檢驗、產業核對和國際同行檢驗」的成果。",
-      "url": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20261117/s00011/1794847806703/%e4%b8%ad%e5%a4%a7%e7%a9%97%e5%bb%ba%e8%81%af%e5%90%88%e5%af%a6%e9%a9%97%e5%ae%a4-%e9%8d%be%e5%8d%97%e5%b1%b1-%e5%86%80%e7%b2%b5%e6%b8%af%e5%84%aa%e5%8b%a2%e4%ba%92%e8%a3%9c",
-      "imageUrl": "",
-      "publishedAt": "2026-11-16T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "教育",
-        "SEN"
-      ]
-    },
-    {
-      "id": "radb78f227cdfd78d",
-      "sourceId": "s26",
-      "sourceName": "明報 · 教育",
-      "title": "急救卷二：在城市縫隙中看見生命光芒 AI寫作大綱比較",
-      "summary": "【明報專訊】2026年DSE寫作題目「在城市中，我看到了大自然的生命光芒」是一道開放而有方向的題目。",
-      "url": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20261117/s00011/1794844853629/%e6%80%a5%e6%95%91%e5%8d%b7%e4%ba%8c-%e5%9c%a8%e5%9f%8e%e5%b8%82%e7%b8%ab%e9%9a%99%e4%b8%ad%e7%9c%8b%e8%a6%8b%e7%94%9f%e5%91%bd%e5%85%89%e8%8a%92-ai%e5%af%ab%e4%bd%9c%e5%a4%a7%e7%b6%b1%e6%af%94%e8%bc%83",
-      "imageUrl": "https://fs.mingpao.com/pns/20261117/s00050/57522df2f0a14774a61868efa42c5487.jpg",
-      "publishedAt": "2026-11-16T20:30:00.000Z",
-      "category": "other",
-      "language": "zh-Hant",
-      "tags": [
-        "教育",
-        "SEN"
-      ]
-    },
-    {
       "id": "raf9a497d85c751da",
       "sourceId": "s15",
       "sourceName": "MIT Technology Review",
@@ -3050,6 +2492,23 @@
       "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back",
       "imageUrl": "",
       "publishedAt": "2026-11-16T18:38:47.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI",
+        "學習"
+      ]
+    },
+    {
+      "id": "r009b5c1970fa2fb6",
+      "sourceId": "s15",
+      "sourceName": "MIT Technology Review",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it h",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
+      "imageUrl": "",
+      "publishedAt": "2026-11-16T16:04:28.000Z",
       "category": "tech",
       "language": "en",
       "tags": [
@@ -3168,6 +2627,40 @@
       "tags": [
         "香港",
         "政府"
+      ]
+    },
+    {
+      "id": "rb15eec7152fe0d07",
+      "sourceId": "s15",
+      "sourceName": "MIT Technology Review",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Imposs",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest",
+      "imageUrl": "",
+      "publishedAt": "2026-11-16T13:10:00.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI",
+        "學習"
+      ]
+    },
+    {
+      "id": "rf410e932efe84221",
+      "sourceId": "s15",
+      "sourceName": "MIT Technology Review",
+      "title": "Building AI that can work across the enterprise",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows ",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise",
+      "imageUrl": "",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI",
+        "學習"
       ]
     },
     {
