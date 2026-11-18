@@ -1,29 +1,31 @@
 {
-  "generatedAt": "2026-11-18T05:02:59.827Z",
-  "count": 168,
+  "generatedAt": "2026-11-18T06:43:13.950Z",
+  "count": 167,
   "target": 200,
   "categories": {
+    "world": 35,
+    "biz": 20,
     "tech": 76,
-    "world": 36,
-    "hk": 33,
-    "biz": 21,
+    "hk": 34,
     "other": 2
   },
   "sourcesTotal": 26,
-  "sourcesOk": 26,
-  "sourcesFail": 0,
-  "fallbackUsed": 3,
-  "errors": [],
-  "warnings": [
-    "明報 · 要聞: Google 新聞 0 則（解不出原文 100）",
-    "明報 · 體育: Google 新聞 0 則（解不出原文 100）",
-    "明報 · 教育: Google 新聞 0 則（解不出原文 100）",
-    "信報財經新聞: Google 新聞 0 則（解不出原文 100）",
-    "Yahoo 新聞 · 科技: Google 新聞 0 則（解不出原文 100）",
-    "Google 新聞 · 香港: Google 新聞 0 則（解不出原文 30）",
-    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 82）",
-    "Google 新聞 · 門球: Google 新聞 0 則（解不出原文 8）",
-    "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 35）",
-    "Google 新聞 · SEN 游泳: Google 新聞 0 則（解不出原文 1）"
-  ]
+  "sourcesEnabled": 26,
+  "sourcesDisabled": 0,
+  "sourcesOk": 16,
+  "sourcesFail": 10,
+  "fallbackUsed": 0,
+  "errors": [
+    "明報 · 要聞: https://news.mingpao.com/rss/ins/s00001.xml: HTTP 403 | https://news.google.com/rss/search?q=site:mingpao.com+when:2d&hl=zh-HK&gl=HK&ceid=HK:zh-Hant: HTTP 503",
+    "明報 · 體育: https://news.mingpao.com/rss/pns/s00015.xml: HTTP 403 | https://news.google.com/rss/search?q=site:mingpao.com+(%E9%AB%94%E8%82%B2+OR+%E6%B8%B8%E6%B3%B3)+when:7d&hl=zh-HK&gl=HK&ceid=HK:zh-Hant: HTTP 503",
+    "明報 · 教育: https://news.mingpao.com/rss/pns/s00011.xml: HTTP 403 | https://news.google.com/rss/search?q=site:mingpao.com+(%E6%95%99%E8%82%B2+OR+SEN)+when:7d&hl=zh-HK&gl=HK&ceid=HK:zh-Hant: HTTP 503",
+    "信報財經新聞: https://news.google.com/rss/search?q=site:hkej.com+when:2d&hl=zh-HK&gl=HK&ceid=HK:zh-Hant: HTTP 503",
+    "Yahoo 新聞 · 科技: https://news.google.com/rss/search?q=(%E7%A7%91%E6%8A%80%20OR%20AI%20OR%20%E6%89%8B%E6%A9%9F)+when:1d&hl=zh-HK&gl=HK&ceid=HK:zh-Hant: HTTP 503",
+    "Google 新聞 · 香港: https://news.google.com/rss?hl=zh-HK&gl=HK&ceid=HK:zh-Hant: HTTP 503",
+    "Google 新聞 · 游泳: https://news.google.com/rss/search?q=%E6%B8%B8%E6%B3%B3+when:30d&hl=zh-HK&gl=HK&ceid=HK:zh-Hant: HTTP 503",
+    "Google 新聞 · 門球: https://news.google.com/rss/search?q=%E9%96%80%E7%90%83+OR+gateball+%E9%A6%99%E6%B8%AF&hl=zh-HK&gl=HK&ceid=HK:zh-Hant: HTTP 503",
+    "Google 新聞 · SEN／特殊教育: https://news.google.com/rss/search?q=SEN+OR+%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E9%9C%80%E8%A6%81+OR+%E7%89%B9%E6%95%99+%E9%A6%99%E6%B8%AF&hl=zh-HK&gl=HK&ceid=HK:zh-Hant: HTTP 503",
+    "Google 新聞 · SEN 游泳: https://news.google.com/rss/search?q=SEN+%E6%B8%B8%E6%B3%B3+OR+%E7%89%B9%E6%AE%8A%E9%9C%80%E8%A6%81%E6%B3%B3+OR+Splash+Foundation+%E6%B8%B8&hl=zh-HK&gl=HK&ceid=HK:zh-Hant: HTTP 503"
+  ],
+  "warnings": []
 }
