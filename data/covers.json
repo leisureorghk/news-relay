@@ -1,19 +1,56 @@
 {
-  "generatedAt": "2026-11-18T05:54:20.610Z",
+  "generatedAt": "2026-11-18T15:57:38.220Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 0,
-  "items": {},
+  "count": 4,
+  "items": {
+    "r724b86ce4760dcf3": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r724b86ce4760dcf3.jpg",
+      "path": "data/covers/r724b86ce4760dcf3.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-18/delevska-need-a-strong-leader-to-run-nvidia-video",
+      "title": "Delevska: Need a Strong Leader to Run Nvidia",
+      "createdAt": "2026-11-18T15:55:33.166Z",
+      "model": "image-01",
+      "bytes": 286552
+    },
+    "rf661df36e145023c": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf661df36e145023c.jpg",
+      "path": "data/covers/rf661df36e145023c.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878289-20261118.htm",
+      "title": "特朗普：美菲擴大防務合作 不擔心南海局勢",
+      "createdAt": "2026-11-18T15:56:09.650Z",
+      "model": "image-01",
+      "bytes": 347607
+    },
+    "r377c00c7fdfec322": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r377c00c7fdfec322.jpg",
+      "path": "data/covers/r377c00c7fdfec322.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878288-20261118.htm",
+      "title": "有議員倡小型工程納入強制呈報要求 孫玉菡稱勞工處亦會加強巡查",
+      "createdAt": "2026-11-18T15:56:39.852Z",
+      "model": "image-01",
+      "bytes": 358785
+    },
+    "re5284f676a50689a": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/re5284f676a50689a.jpg",
+      "path": "data/covers/re5284f676a50689a.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-18/us-strikes-iranian-missile-site-after-bahrain-attacks-video",
+      "title": "US Strikes Iranian Missile Site after Bahrain Attacks",
+      "createdAt": "2026-11-18T15:57:37.719Z",
+      "model": "image-01",
+      "bytes": 271973
+    }
+  },
   "lastRun": {
-    "ok": 0,
-    "fail": 1,
-    "need": 34,
-    "tried": 2,
-    "quotaHit": true,
+    "ok": 4,
+    "fail": 0,
+    "need": 30,
+    "tried": 4,
+    "quotaHit": false,
     "pool": 40,
-    "dailyCount": 0,
+    "dailyCount": 4,
     "dailyMax": 16,
     "dailyKey": "2026-11-18"
   },
   "dailyKey": "2026-11-18",
-  "dailyCount": 0
+  "dailyCount": 4
 }
