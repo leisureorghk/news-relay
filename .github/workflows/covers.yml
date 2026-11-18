@@ -1,0 +1,59 @@
+name: Generate AI covers
+
+on:
+  schedule:
+    # 每 3 小時、比 refresh 晚約 30 分鐘
+    - cron: "30 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      max:
+        description: "本輪最多生幾張（1–24）"
+        required: false
+        default: "8"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-relay-covers
+  cancel-in-progress: true
+
+jobs:
+  covers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate covers
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_BASE_URL: ${{ secrets.MINIMAX_BASE_URL }}
+          MINIMAX_REGION: ${{ secrets.MINIMAX_REGION }}
+          MINIMAX_IMAGE_MODEL: ${{ secrets.MINIMAX_IMAGE_MODEL }}
+          COVER_MAX: ${{ github.event.inputs.max || '8' }}
+        run: |
+          if [ -z "$MINIMAX_API_KEY" ]; then
+            echo "MINIMAX_API_KEY secret 未設定，略過"
+            exit 0
+          fi
+          node src/generate-covers.mjs
+
+      - name: Commit covers / feed if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p data/covers
+          git add data/covers.json data/covers data/feed.json
+          if git diff --staged --quiet; then
+            echo "covers unchanged"
+            exit 0
+          fi
+          git commit -m "chore: generate relay covers ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push

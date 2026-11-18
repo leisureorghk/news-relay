@@ -28,7 +28,29 @@ NAS 讀取位址（勿用 jsDelivr，以免 CDN 快取拖過 3 小時）：
 ```text
 https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/feed.json
 https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/status.json
+https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers.json
 ```
+
+## AI 封面（GitHub）
+
+Actions：`Generate AI covers`（每 3 小時 :30，亦可手動）。  
+為 `feed.json` 中**無圖**項目生圖 → `data/covers/{id}.jpg`，並把 raw URL 寫回 `imageUrl`。
+
+GitHub repo **Secrets**（Settings → Secrets and variables → Actions）：
+
+```text
+MINIMAX_API_KEY=（必填，與 NAS 同一把即可）
+MINIMAX_BASE_URL=https://api.minimaxi.com   # 可選
+MINIMAX_REGION=cn                            # 可選
+```
+
+```bash
+# 本機（需已設 MINIMAX_API_KEY）
+npm run covers
+# COVER_MAX=4 npm run covers
+```
+
+NAS 同步會先套用 GitHub 封面（`RELAY_COVERS_URL`，可省略用預設），本機 MiniMax 只作備援。
 
 ## 本機手動更新
 
