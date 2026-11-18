@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T04:44:33.169Z",
+  "generatedAt": "2026-11-18T04:48:21.307Z",
   "count": 200,
   "target": 200,
   "categories": {
-    "biz": 21,
-    "hk": 45,
     "world": 36,
     "tech": 72,
+    "biz": 21,
+    "hk": 45,
     "other": 26
   },
   "errors": [],
@@ -21,6 +21,70 @@
   ],
   "items": [
     {
+      "id": "r66468f24994f1bd0",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Huawei calls US prosecution’s case ‘fictionalised portrait’ in closing arguments",
+      "summary": "A US federal court in New York spent another long day on Tuesday hearing closing arguments from Chinese tech giant Huawei Technologies in the final stage of a high-profile trial that once inflamed tensions between Washington and Beijing. The case has dragged on for nearly eight y",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3374835/huawei-calls-us-prosecutions-case-fictionalised-portrait-closing-arguments",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/e84c73b2-00fb-4d04-9327-5db7022907f8_ebe0acf5.jpg?itok=TvzrUwD9&v=1794976409",
+      "publishedAt": "2026-11-18T04:44:22.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r6ff93b79ceb48666",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "Google 防禦 AI 優先供日本政府 銀行及重要基建可率先使用",
+      "summary": "Google Cloud 11 月 17 日宣布與日本政府合作加強網絡安全，將優先向國家網絡統括室（NCO）、 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/18/google-cyber-ai-japan-government-early-access/tech-secure",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T04:39:17.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "r7df7eb4e639d9525",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "韓國全國發緊急警報防考生作弊 手機無法靜音響足 10.5 秒 考試期間突擊發送",
+      "summary": "韓國政府宣布，11 月 19 日舉行全國大學修學能力試驗（CSAT，俗稱韓國高考）當日，將向全國手機發送最高級 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/18/korea-csat-emergency-alert-ai-cheating/ai",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T04:38:26.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "r845e8a995d899da9",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "NVIDIA 主席表明無意讓黃仁勳回任 季度營收 1,158 億美元勝預期",
+      "summary": "NVIDIA 於美國時間 11 月 17 日公布黃仁勳辭任後首份季度業績，2027 財政年度第三季營收達 1, [&#8230;]",
+      "url": "https://unwire.hk/2026/11/18/nvidia-harvey-jones-jensen-huang-ceo-return-q3-earnings/fun-tech",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T04:37:10.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
       "id": "r44741ab3cc6f362f",
       "sourceId": "s19",
       "sourceName": "Bloomberg Markets",
@@ -34,6 +98,54 @@
       "tags": [
         "財經",
         "商業"
+      ]
+    },
+    {
+      "id": "redcd8cbd5cb0b02f",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "Apple 雲端服務大規模故障 iCloud、App Store 及 Apple Pay 受影響 內部更新出錯",
+      "summary": "Apple 多項網上服務於香港時間 11 月 18 日凌晨出現故障，iCloud 帳戶登入、App Store [&#8230;]",
+      "url": "https://unwire.hk/2026/11/18/apple-icloud-app-store-apple-pay-outage-internal-update/software",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T04:33:54.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "r2956c9ed0f9e305e",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "菲爾茲獎物理學家科大演講開 Claude 遇地區限制 香港不在支援名單",
+      "summary": "1990 年菲爾茲獎得主、美國理論物理學家 Edward Witten 於 11 月 17 日在香港科技大學主 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/18/edward-witten-hkust-claude-region-block/ai",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T04:32:37.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "re1be38677a88363c",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "黃仁勳辭職後首次公開發聲 認私人生活犯錯願重任 NVIDIA CEO",
+      "summary": "NVIDIA 創辦人黃仁勳（Jensen Huang）11 月 17 日在社交平台 X 發表辭去行政總裁職務後 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/18/jensen-huang-x-statement-nvidia-ceo-return/ai",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T04:29:46.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
       ]
     },
     {
@@ -293,6 +405,22 @@
       ]
     },
     {
+      "id": "r166a08b841133e92",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "【報價】小米 18 Pro Max 正式開賣 同場加映 18 Pro + 多件 AIoT 新品",
+      "summary": "小米早前就預告最新旗艦手機 18 Pro 及 18 Pro Max 在香港發佈，今日小米就正式宣佈在香港推出這 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/18/xiaomi-18pro-18promax-hk-price/mobile-phone",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T04:03:23.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
       "id": "r7fd73fb82151fd70",
       "sourceId": "s19",
       "sourceName": "Bloomberg Markets",
@@ -373,6 +501,22 @@
       ]
     },
     {
+      "id": "r0dce25e327eea78c",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "How Warp Speed Works (2023)",
+      "summary": "Article URL: https://science.howstuffworks.com/warp-speed.htm Comments URL: https://news.ycombinator.com/item?id=50541665 Points: 4 # Comments: 0",
+      "url": "https://science.howstuffworks.com/warp-speed.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T03:54:17.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
       "id": "r99fecb5139ccf3b8",
       "sourceId": "s7",
       "sourceName": "SCMP",
@@ -386,22 +530,6 @@
       "tags": [
         "香港",
         "國際"
-      ]
-    },
-    {
-      "id": "r7cf07dfc21b7e332",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Climate change is making some African deserts greener",
-      "summary": "Article URL: https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener Comments URL: https://news.ycombinator.com/item?id=50541613 Points: 8 # Comments: 1",
-      "url": "https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T03:47:04.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
       ]
     },
     {
@@ -473,7 +601,7 @@
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "H-1B Executive Actions in 2026 [pdf]",
-      "summary": "Article URL: https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf Comments URL: https://news.ycombinator.com/item?id=50541550 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf Comments URL: https://news.ycombinator.com/item?id=50541550 Points: 8 # Comments: 2",
       "url": "https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf",
       "imageUrl": "",
       "publishedAt": "2026-11-18T03:37:35.000Z",
@@ -489,7 +617,7 @@
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "Engineering Vitals in the Age of AI",
-      "summary": "Article URL: https://octopus.com/blog/engineering-vitals-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50541542 Points: 7 # Comments: 0",
+      "summary": "Article URL: https://octopus.com/blog/engineering-vitals-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50541542 Points: 9 # Comments: 1",
       "url": "https://octopus.com/blog/engineering-vitals-in-the-age-of-ai",
       "imageUrl": "",
       "publishedAt": "2026-11-18T03:36:12.000Z",
@@ -578,6 +706,22 @@
       "tags": [
         "香港",
         "本地"
+      ]
+    },
+    {
+      "id": "r13ff9cf136b5bb4f",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "iPad、HomePod 漸易修 Apple HomeView 拆機反扯斷喇叭",
+      "summary": "維修網站 iFixit 近日拆解 Apple HomeView 智能家居中樞，發現螢幕及喇叭的黏膠非常牢固，拆 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/18/apple-homeview-ifixit-teardown-repair/life-tech",
+      "imageUrl": "https://www.youtube.com/embed/rr7m9nBqDdo",
+      "publishedAt": "2026-11-18T03:15:00.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
       ]
     },
     {
@@ -1028,43 +1172,11 @@
       ]
     },
     {
-      "id": "rb4e4dc6ba514b529",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "分不出 AI 代做 加州理工數學教授只看有否交功課",
-      "summary": "加州理工學院數學教授倪毅（Yi Ni）表示，由於學生可輕易用 AI 完成功課，他已不再按答案對錯評分，只看學生 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/18/caltech-maths-professor-ai-homework-grading/ai",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T01:03:00.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
-      "id": "rde3a52a46d29062e",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Chinese scientists’ magic comb restores hair growth by nearly 100% in mice study",
-      "summary": "For the more than 1.5 billion people worldwide who suffer from androgenetic alopecia, combing their hair before the mirror each morning is a routine that is often accompanied by quiet anxiety. However, this most ordinary everyday tool may hold the key to reversing hair loss, acco",
-      "url": "https://www.scmp.com/news/china/science/article/3374723/chinese-scientists-magic-comb-restores-hair-growth-nearly-100-mice-study",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/eedbe2e7-fc7e-4a5a-9d5e-f0eb4e07e846_4dd0dc34.jpg?itok=94CXeiYA&v=1794905335",
-      "publishedAt": "2026-11-18T01:00:07.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
       "id": "r5bf291986eef0ee8",
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "Cerebras Disaggregated Inference",
-      "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 45 # Comments: 13",
+      "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 49 # Comments: 13",
       "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
       "imageUrl": "",
       "publishedAt": "2026-11-18T00:56:23.000Z",
@@ -1080,7 +1192,7 @@
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "ID.me terms required for IRS sign-in",
-      "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 200 # Comments: 78",
+      "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 210 # Comments: 89",
       "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
       "imageUrl": "",
       "publishedAt": "2026-11-18T00:51:45.000Z",
@@ -1143,7 +1255,7 @@
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 183 # Comments: 130",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 201 # Comments: 135",
       "url": "https://revscope.co/blog/search-seo-geo-2026",
       "imageUrl": "",
       "publishedAt": "2026-11-18T00:17:58.000Z",
@@ -1257,7 +1369,7 @@
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-      "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 120 # Comments: 47",
+      "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 127 # Comments: 48",
       "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
       "imageUrl": "",
       "publishedAt": "2026-11-17T23:32:58.000Z",
@@ -1273,7 +1385,7 @@
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 192 # Comments: 43",
+      "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 200 # Comments: 48",
       "url": "https://github.com/microsoft/onnxruntime",
       "imageUrl": "",
       "publishedAt": "2026-11-17T23:18:49.000Z",
@@ -1497,7 +1609,7 @@
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "Latent Lattice Language Models",
-      "summary": "Article URL: https://shivamduggal4.github.io/latent-lattice-language-models/ Comments URL: https://news.ycombinator.com/item?id=50539039 Points: 34 # Comments: 4",
+      "summary": "Article URL: https://shivamduggal4.github.io/latent-lattice-language-models/ Comments URL: https://news.ycombinator.com/item?id=50539039 Points: 36 # Comments: 4",
       "url": "https://shivamduggal4.github.io/latent-lattice-language-models",
       "imageUrl": "",
       "publishedAt": "2026-11-17T22:17:18.000Z",
@@ -1529,7 +1641,7 @@
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 367 # Comments: 118",
+      "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 377 # Comments: 118",
       "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france",
       "imageUrl": "",
       "publishedAt": "2026-11-17T22:13:34.000Z",
@@ -1627,7 +1739,7 @@
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 93 # Comments: 153",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 103 # Comments: 156",
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
       "imageUrl": "",
       "publishedAt": "2026-11-17T21:16:12.000Z",
@@ -2371,22 +2483,6 @@
       ]
     },
     {
-      "id": "r2dcb7464f30606eb",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "Microsoft 365 故障原因曝光 7 月更新錯誤早埋藏殺機 逾 80% 閘道伺服器失回應",
-      "summary": "Microsoft 公布 11 月 12 日 Microsoft 365 全球大規模故障的初步調查結果，確認 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/17/microsoft-365-outage-july-bug-gateway-cascade/software",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T12:02:54.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
       "id": "r6cf3f72afcde6cf2",
       "sourceId": "s18",
       "sourceName": "BBC Technology",
@@ -2568,22 +2664,6 @@
       ]
     },
     {
-      "id": "r73c1573c44809f42",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "KKday 營運數據被發現全公開 商品毛利率與銷量資料 竟直接寫在網頁程式碼",
-      "summary": "旅遊預訂平台 KKday 近日被網民發現，旗下供聯盟行銷合作夥伴使用的「KKpartners 夥伴百科」，疑似 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/17/kkday-partners-margin-data-source/fun-tech",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T11:54:20.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
       "id": "r7ca012ec920de23e",
       "sourceId": "s18",
       "sourceName": "BBC Technology",
@@ -2659,54 +2739,6 @@
       "language": "en",
       "tags": [
         "科技"
-      ]
-    },
-    {
-      "id": "ra2a1f1e24ee81810",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "好奇老公買香口糖竟送 PS5 遊戲機 網民集體幫口：買零食都有送 RTX 5070 Ti",
-      "summary": "一名人妻近日在社交平台分享丈夫購物的奇怪經歷。她請丈夫幫忙買香口糖，對方卻花了大半天才回家，還帶回一部 Pla [&#8230;]",
-      "url": "https://unwire.hk/2026/11/17/ps5-chewing-gum-rtx5070ti-joke/hottopic/spotlight",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T10:37:31.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
-      "id": "ra0719e955d0ef2c1",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "美國堵中國遠程租用 AI 算力漏洞 新加坡等 5 國晶片出口須申請許可",
-      "summary": "美國商務部工業與安全局（BIS）11 月 16 日公布出口管制新規，限制中國等受美國出口管制地區的企業透過海外 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/17/us-ai-chips-remote-access-data-centers-rules/ai",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T10:18:06.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
-      "id": "rb1cacc2ed9ec54d3",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "Sony 申請送風頸帶專利 VR 恐怖遊戲可感覺敵人從背後靠近",
-      "summary": "Sony Interactive Entertainment 申請一項可配合遊戲情節送風的頸帶專利，讓玩家戴上 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/17/sony-vr-neckband-airflow-patent-horror-game/vr-mr-ar",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T10:03:43.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
       ]
     },
     {
@@ -2802,38 +2834,6 @@
       "tags": [
         "國際",
         "繁中"
-      ]
-    },
-    {
-      "id": "rebf7c5a8f75d6ba1",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "NVIDIA 4 部 DGX Spark 直連成 AI 叢集 512GB 記憶體可部署 700B 模型",
-      "summary": "NVIDIA 於 11 月 16 日在美國芝加哥舉行的 SC26 超級電腦會議發表 DGX Spark HPC [&#8230;]",
-      "url": "https://unwire.hk/2026/11/17/nvidia-dgx-spark-hpc-developer-kit-four-node-700b/ai",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T07:09:49.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
-      "id": "r3b63603d4c5324bd",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "港男涉樟宜機場偷 $2,100 耳機 警方憑閉路電視追查 3 個月入新加坡轉機即拘捕",
-      "summary": "一名 38 歲香港男子涉嫌於 8 月 2 日在新加坡樟宜機場第一客運大樓轉機區，取走一盒價值 S$347.71 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/17/hong-kong-man-changi-airport-earbuds-theft-arrest/hottopic/spotlight",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T07:05:00.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
       ]
     },
     {
