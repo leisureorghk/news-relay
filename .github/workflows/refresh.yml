@@ -2,6 +2,7 @@ name: Refresh news relay
 
 on:
   schedule:
+    # 每 3 小時；免費 runner 可能延遲 15–60 分鐘
     - cron: "0 */3 * * *"
   workflow_dispatch:
 
@@ -23,18 +24,18 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Fetch and filter feeds
         run: node src/refresh.mjs
 
-      - name: Commit feed.json if changed
+      - name: Commit feed.json / status.json if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/feed.json
+          git add data/feed.json data/status.json
           if git diff --staged --quiet; then
-            echo "feed.json unchanged"
+            echo "feed/status unchanged"
             exit 0
           fi
           git commit -m "chore: refresh relay feed ($(date -u +%Y-%m-%dT%H:%MZ))"

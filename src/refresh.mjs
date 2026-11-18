@@ -1,5 +1,5 @@
 /**
- * GitHub Actions 新聞中轉：抓 RSS → 去重／配額過濾 → data/feed.json
+ * GitHub Actions 新聞中轉：抓 RSS → 去重／配額過濾 → data/feed.json + status.json
  * 僅輸出標題、連結、短摘要與來源；不含全文與金鑰。
  */
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
@@ -11,17 +11,21 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const SOURCES_PATH = join(ROOT, 'sources.json');
 const OUT_PATH = join(ROOT, 'data', 'feed.json');
+const STATUS_PATH = join(ROOT, 'data', 'status.json');
 
 const CONCURRENCY = 8;
+const SOFT_CONCURRENCY = 2;
+const GNEWS_CONCURRENCY = 2;
 const PER_SOURCE_TIMEOUT_MS = 12_000;
 const PER_SOURCE_MAX = 12;
 const HARD_AGE_HOURS = 48;
 const TARGET_TOTAL = 200;
 const SUMMARY_MAX = 280;
 const QUOTAS = { hk: 70, world: 40, biz: 40, tech: 30, other: 20 };
+const QUOTA_ORDER = ['hk', 'world', 'biz', 'tech', 'other'];
 
 const UA =
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 NewsRelay/1.0';
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36';
 
 function clip(text, max = SUMMARY_MAX) {
   const s = String(text || '')
@@ -62,7 +66,6 @@ function normalizeUrl(url) {
   try {
     const parsed = new URL(u);
     parsed.hash = '';
-    // 去掉常見追蹤參數
     for (const key of [...parsed.searchParams.keys()]) {
       if (/^(utm_|fbclid|gclid|mc_)/i.test(key)) parsed.searchParams.delete(key);
     }
@@ -170,7 +173,11 @@ function parseRssItem(chunk) {
   }
   if (!imageUrl) {
     const media = chunk.match(/<(?:media:content|media:thumbnail)[^>]*>/i);
-    if (media) imageUrl = httpsUrl(tagAttr(media[0], 'media:content', 'url') || tagAttr(media[0], 'media:thumbnail', 'url'));
+    if (media) {
+      imageUrl = httpsUrl(
+        tagAttr(media[0], 'media:content', 'url') || tagAttr(media[0], 'media:thumbnail', 'url'),
+      );
+    }
   }
   if (!imageUrl) {
     const img = descRaw.match(/<img[^>]+src=["']([^"']+)["']/i);
@@ -188,6 +195,27 @@ async function sleep(ms) {
   await new Promise((r) => setTimeout(r, ms));
 }
 
+function requestHeaders(url) {
+  let referer = 'https://www.google.com/';
+  try {
+    const u = new URL(url);
+    referer = `${u.protocol}//${u.host}/`;
+  } catch {
+    /* keep default */
+  }
+  return {
+    'User-Agent': UA,
+    Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml, text/html;q=0.8, */*;q=0.5',
+    'Accept-Language': 'zh-HK,zh-TW;q=0.9,zh;q=0.8,en-US;q=0.7,en;q=0.6',
+    'Cache-Control': 'no-cache',
+    Pragma: 'no-cache',
+    Referer: referer,
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'cross-site',
+  };
+}
+
 async function fetchText(url, timeoutMs = PER_SOURCE_TIMEOUT_MS, retries = 2) {
   let lastErr = null;
   for (let attempt = 0; attempt <= retries; attempt++) {
@@ -197,23 +225,19 @@ async function fetchText(url, timeoutMs = PER_SOURCE_TIMEOUT_MS, retries = 2) {
       const res = await fetch(url, {
         signal: ctrl.signal,
         redirect: 'follow',
-        headers: {
-          'User-Agent': UA,
-          Accept: 'application/rss+xml, application/xml, text/xml, text/html, */*',
-          'Accept-Language': 'zh-HK,zh-TW;q=0.9,zh;q=0.8,en;q=0.7',
-        },
+        headers: requestHeaders(url),
       });
-      if (res.status === 429 || res.status === 503) {
+      if (res.status === 403 || res.status === 429 || res.status === 503) {
         lastErr = new Error(`HTTP ${res.status}`);
-        await sleep(800 * (attempt + 1) + Math.floor(Math.random() * 400));
+        await sleep(900 * (attempt + 1) + Math.floor(Math.random() * 500));
         continue;
       }
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return await res.text();
     } catch (e) {
       lastErr = e;
-      if (attempt < retries && /aborted|HTTP 429|HTTP 503/i.test(String(e?.message || e))) {
-        await sleep(600 * (attempt + 1));
+      if (attempt < retries && /aborted|HTTP 403|HTTP 429|HTTP 503/i.test(String(e?.message || e))) {
+        await sleep(700 * (attempt + 1));
         continue;
       }
       throw e;
@@ -233,7 +257,7 @@ async function mapPool(items, limit, fn) {
       out[idx] = await fn(items[idx], idx);
     }
   }
-  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, () => worker()));
+  await Promise.all(Array.from({ length: Math.min(limit, items.length || 1) }, () => worker()));
   return out;
 }
 
@@ -261,54 +285,117 @@ function makeId(sourceId, url) {
   return `r${h}`;
 }
 
+function candidateUrls(source) {
+  const urls = [];
+  const primary = String(source.url || '').trim();
+  if (primary) urls.push(primary);
+  const fallbacks = [];
+  if (source.fallbackUrl) fallbacks.push(String(source.fallbackUrl).trim());
+  if (Array.isArray(source.fallbackUrls)) {
+    for (const u of source.fallbackUrls) fallbacks.push(String(u || '').trim());
+  }
+  for (const u of fallbacks) {
+    if (u && !urls.includes(u)) urls.push(u);
+  }
+  return urls;
+}
+
+function parseItemsFromXml(source, xml) {
+  const chunks = extractItems(xml);
+  const items = [];
+  const cutoff = Date.now() - HARD_AGE_HOURS * 3600 * 1000;
+  let skippedGoogle = 0;
+  for (const chunk of chunks) {
+    if (items.length >= PER_SOURCE_MAX) break;
+    const raw = parseRssItem(chunk);
+    if (!raw.title) continue;
+    let url = normalizeUrl(raw.link);
+    if (/news\.google\./i.test(url || raw.link || '')) {
+      url = unwrapGoogleNews(raw.link, raw.descRaw);
+      if (!url) {
+        skippedGoogle++;
+        continue;
+      }
+    }
+    if (!url || !/^https?:\/\//i.test(url)) continue;
+    let publishedAt = raw.publishedAt;
+    let ts = publishedAt ? Date.parse(publishedAt) : NaN;
+    if (!Number.isFinite(ts)) {
+      publishedAt = new Date().toISOString();
+      ts = Date.now();
+    }
+    if (ts < cutoff) continue;
+    items.push({
+      id: makeId(source.id, url),
+      sourceId: source.id,
+      sourceName: source.name,
+      title: raw.title,
+      summary: raw.summary,
+      url,
+      imageUrl: raw.imageUrl || '',
+      publishedAt,
+      category: categoryOf(source),
+      language: source.language || 'zh-Hant',
+      trustScore: Number(source.trustScore) || 0.7,
+      tags: Array.isArray(source.tags) ? source.tags : [],
+      _ts: ts,
+    });
+  }
+  return { items, skippedGoogle };
+}
+
 async function ingestSource(source) {
   const label = source.name || source.url;
-  try {
-    const xml = await fetchText(source.url);
-    const chunks = extractItems(xml);
-    const items = [];
-    const cutoff = Date.now() - HARD_AGE_HOURS * 3600 * 1000;
-    for (const chunk of chunks) {
-      if (items.length >= PER_SOURCE_MAX) break;
-      const raw = parseRssItem(chunk);
-      if (!raw.title) continue;
-      let url = normalizeUrl(raw.link);
-      if (/news\.google\./i.test(url || raw.link || '')) {
-        url = unwrapGoogleNews(raw.link, raw.descRaw);
-        if (!url) continue; // 解不出原文就捨棄
+  const urls = candidateUrls(source);
+  const errors = [];
+  let usedUrl = '';
+  let usedFallback = false;
+
+  for (let i = 0; i < urls.length; i++) {
+    const url = urls[i];
+    try {
+      if (i > 0) await sleep(400 + Math.floor(Math.random() * 400));
+      const xml = await fetchText(url);
+      const { items, skippedGoogle } = parseItemsFromXml(source, xml);
+      usedUrl = url;
+      usedFallback = i > 0;
+      if (items.length === 0 && /news\.google\./i.test(url)) {
+        return {
+          ok: true,
+          label,
+          items: [],
+          error: null,
+          warning: skippedGoogle > 0 ? `Google 新聞 0 則（解不出原文 ${skippedGoogle}）` : 'Google 新聞 0 則',
+          usedUrl,
+          usedFallback,
+        };
       }
-      if (!url || !/^https?:\/\//i.test(url)) continue;
-      let publishedAt = raw.publishedAt;
-      let ts = publishedAt ? Date.parse(publishedAt) : NaN;
-      if (!Number.isFinite(ts)) {
-        publishedAt = new Date().toISOString();
-        ts = Date.now();
-      }
-      if (ts < cutoff) continue;
-      items.push({
-        id: makeId(source.id, url),
-        sourceId: source.id,
-        sourceName: source.name,
-        title: raw.title,
-        summary: raw.summary,
-        url,
-        imageUrl: raw.imageUrl || '',
-        publishedAt,
-        category: categoryOf(source),
-        language: source.language || 'zh-Hant',
-        trustScore: Number(source.trustScore) || 0.7,
-        tags: Array.isArray(source.tags) ? source.tags : [],
-        _ts: ts,
-      });
+      return {
+        ok: true,
+        label,
+        items,
+        error: null,
+        warning: usedFallback ? `改用備援源` : null,
+        usedUrl,
+        usedFallback,
+      };
+    } catch (e) {
+      errors.push(`${url}: ${e?.message || String(e)}`);
     }
-    return { ok: true, label, items, error: null };
-  } catch (e) {
-    return { ok: false, label, items: [], error: e?.message || String(e) };
   }
+
+  return {
+    ok: false,
+    label,
+    items: [],
+    error: errors.join(' | ') || '抓取失敗',
+    warning: null,
+    usedUrl: '',
+    usedFallback: false,
+  };
 }
 
 function filterToQuota(all) {
-  // URL／標題去重（保留較新）
   all.sort((a, b) => b._ts - a._ts);
   const seenUrl = new Set();
   const seenTitle = new Set();
@@ -323,7 +410,6 @@ function filterToQuota(all) {
     unique.push(it);
   }
 
-  // 每源最多 PER_SOURCE_MAX（已在抓取時限制，再保險一次）
   const perSource = new Map();
   const capped = [];
   for (const it of unique) {
@@ -341,29 +427,67 @@ function filterToQuota(all) {
 
   const picked = [];
   const used = new Set();
-  for (const [cat, quota] of Object.entries(QUOTAS)) {
-    let take = 0;
+  const takenByCat = { hk: 0, world: 0, biz: 0, tech: 0, other: 0 };
+
+  for (const cat of QUOTA_ORDER) {
+    const quota = QUOTAS[cat];
     for (const it of byCat[cat] || []) {
-      if (take >= quota) break;
+      if (takenByCat[cat] >= quota) break;
       if (used.has(it.id)) continue;
       picked.push(it);
       used.add(it.id);
-      take++;
+      takenByCat[cat]++;
     }
   }
 
-  // 名額不足時用其餘較新稿補滿
-  if (picked.length < TARGET_TOTAL) {
+  // 名額不足：優先補「仍低於配額」的分類，避免 tech 長期超標
+  while (picked.length < TARGET_TOTAL) {
+    let added = false;
+    const shortfall = QUOTA_ORDER
+      .map((cat) => ({ cat, need: QUOTAS[cat] - takenByCat[cat] }))
+      .filter((x) => x.need > 0)
+      .sort((a, b) => b.need - a.need);
+
+    for (const { cat } of shortfall) {
+      for (const it of byCat[cat] || []) {
+        if (picked.length >= TARGET_TOTAL) break;
+        if (used.has(it.id)) continue;
+        picked.push(it);
+        used.add(it.id);
+        takenByCat[cat]++;
+        added = true;
+        break;
+      }
+      if (added) break;
+    }
+    if (added) continue;
+
+    // 各類已達配額或無稿：才用其餘較新稿補滿
+    let filled = false;
     for (const it of capped) {
       if (picked.length >= TARGET_TOTAL) break;
       if (used.has(it.id)) continue;
       picked.push(it);
       used.add(it.id);
+      takenByCat[it.category] = (takenByCat[it.category] || 0) + 1;
+      filled = true;
+      break;
     }
+    if (!filled) break;
   }
 
   picked.sort((a, b) => b._ts - a._ts);
   return picked.slice(0, TARGET_TOTAL).map(({ _ts, trustScore, ...rest }) => rest);
+}
+
+function isGoogleSource(source) {
+  // 只看主網址；fallbackUrl 常是 Google，不可把明報等算進 Google 佇列
+  return /news\.google\./i.test(String(source.url || ''));
+}
+
+function isSoftBlocked(source) {
+  if (source.softBlock) return true;
+  return /mingpao\.com|hket\.com|hkej\.com/i.test(String(source.url || ''));
 }
 
 async function main() {
@@ -372,45 +496,79 @@ async function main() {
     throw new Error('sources.json 空白或格式錯誤');
   }
 
-  // Google 新聞易 429：其餘來源先並發，Google 源稍後以較低並發補抓
-  const gSources = sources.filter((s) => /news\.google\./i.test(s.url || ''));
-  const otherSources = sources.filter((s) => !/news\.google\./i.test(s.url || ''));
+  const gSources = sources.filter((s) => isGoogleSource(s));
+  const softSources = sources.filter((s) => !isGoogleSource(s) && isSoftBlocked(s));
+  const otherSources = sources.filter((s) => !isGoogleSource(s) && !isSoftBlocked(s));
+
   console.log(`抓取 ${otherSources.length} 個一般來源（並發 ${CONCURRENCY}）…`);
   const otherResults = await mapPool(otherSources, CONCURRENCY, (src) => ingestSource(src));
-  console.log(`抓取 ${gSources.length} 個 Google 新聞來源（並發 2）…`);
+
+  console.log(`抓取 ${softSources.length} 個易擋來源（並發 ${SOFT_CONCURRENCY}）…`);
+  await sleep(400);
+  const softResults = await mapPool(softSources, SOFT_CONCURRENCY, (src) => ingestSource(src));
+
+  console.log(`抓取 ${gSources.length} 個 Google 新聞來源（並發 ${GNEWS_CONCURRENCY}）…`);
   await sleep(500);
-  const gResults = await mapPool(gSources, 2, (src) => ingestSource(src));
-  const results = [...otherResults, ...gResults];
+  const gResults = await mapPool(gSources, GNEWS_CONCURRENCY, (src) => ingestSource(src));
+  const results = [...otherResults, ...softResults, ...gResults];
 
   const errors = [];
+  const warnings = [];
   const all = [];
+  let okSources = 0;
+  let failSources = 0;
+  let fallbackUsed = 0;
+
   for (const r of results) {
     if (!r.ok) {
+      failSources++;
       errors.push(`${r.label}: ${r.error}`);
       console.warn('FAIL', r.label, r.error);
-    } else {
-      console.log('OK', r.label, r.items.length);
-      all.push(...r.items);
+      continue;
     }
+    okSources++;
+    if (r.usedFallback) fallbackUsed++;
+    if (r.warning) {
+      warnings.push(`${r.label}: ${r.warning}`);
+      console.warn('WARN', r.label, r.warning);
+    }
+    console.log('OK', r.label, r.items.length, r.usedFallback ? '(fallback)' : '');
+    all.push(...r.items);
   }
 
   const items = filterToQuota(all);
   const byCat = {};
   for (const it of items) byCat[it.category] = (byCat[it.category] || 0) + 1;
+  const generatedAt = new Date().toISOString();
 
   const payload = {
-    generatedAt: new Date().toISOString(),
+    generatedAt,
     count: items.length,
     target: TARGET_TOTAL,
     categories: byCat,
     errors: errors.slice(0, 20),
+    warnings: warnings.slice(0, 20),
     items,
   };
 
+  const status = {
+    generatedAt,
+    count: items.length,
+    target: TARGET_TOTAL,
+    categories: byCat,
+    sourcesTotal: sources.length,
+    sourcesOk: okSources,
+    sourcesFail: failSources,
+    fallbackUsed,
+    errors: errors.slice(0, 30),
+    warnings: warnings.slice(0, 30),
+  };
+
   await mkdir(dirname(OUT_PATH), { recursive: true });
-  const text = JSON.stringify(payload, null, 2) + '\n';
-  await writeFile(OUT_PATH, text, 'utf8');
+  await writeFile(OUT_PATH, JSON.stringify(payload, null, 2) + '\n', 'utf8');
+  await writeFile(STATUS_PATH, JSON.stringify(status, null, 2) + '\n', 'utf8');
   console.log(`寫入 ${OUT_PATH}：${items.length} 則`, byCat);
+  console.log(`寫入 ${STATUS_PATH}：ok=${okSources} fail=${failSources} fallback=${fallbackUsed}`);
   if (errors.length) console.warn(`來源失敗 ${errors.length} 個`);
 }
 
