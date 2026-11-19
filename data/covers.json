@@ -1,26 +1,8 @@
 {
-  "generatedAt": "2026-11-19T12:02:17.132Z",
+  "generatedAt": "2026-11-19T20:56:13.015Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
   "count": 5,
   "items": {
-    "rf54701a50e57d940": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf54701a50e57d940.jpg",
-      "path": "data/covers/rf54701a50e57d940.jpg",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
-      "title": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
-      "createdAt": "2026-11-19T00:41:31.625Z",
-      "model": "image-01",
-      "bytes": 348516
-    },
-    "r44e13257854b8664": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r44e13257854b8664.jpg",
-      "path": "data/covers/r44e13257854b8664.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-11-19/anthropic-ipo-has-stock-bulls-dreaming-of-a-year-end-rally",
-      "title": "Anthropic IPO Has Stock Bulls Dreaming of a Year-End Rally",
-      "createdAt": "2026-11-19T12:00:48.206Z",
-      "model": "image-01",
-      "bytes": 294990
-    },
     "r2d5d41f9c261623c": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2d5d41f9c261623c.jpg",
       "path": "data/covers/r2d5d41f9c261623c.jpg",
@@ -30,36 +12,54 @@
       "model": "image-01",
       "bytes": 289800
     },
-    "r92735e86a72b44f1": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r92735e86a72b44f1.jpg",
-      "path": "data/covers/r92735e86a72b44f1.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-19/trump-xi-and-putin-hold-unprecedented-trilateral-talks-video",
-      "title": "Trump, Xi and Putin Hold Unprecedented Trilateral Meeting",
-      "createdAt": "2026-11-19T12:01:51.281Z",
+    "ra886a1f88af96487": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra886a1f88af96487.jpg",
+      "path": "data/covers/ra886a1f88af96487.jpg",
+      "sourceUrl": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "title": "Google is putting AI chats right on the homepage",
+      "createdAt": "2026-11-19T20:54:54.051Z",
       "model": "image-01",
-      "bytes": 315826
+      "bytes": 272346
     },
-    "r3ae567881c24eb2d": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r3ae567881c24eb2d.jpg",
-      "path": "data/covers/r3ae567881c24eb2d.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-19/koenigsegg-stake-sale-values-hyper-car-maker-at-1-3-billion",
-      "title": "Koenigsegg Stake Sale Values Hyper-car Maker at €1.3 Billion",
-      "createdAt": "2026-11-19T12:02:16.630Z",
+    "raebbe00c864d931e": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/raebbe00c864d931e.jpg",
+      "path": "data/covers/raebbe00c864d931e.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-green-new-york-2026-highlights-video",
+      "title": "Bloomberg Green New York 2026 Highlights",
+      "createdAt": "2026-11-19T20:55:23.607Z",
       "model": "image-01",
-      "bytes": 343576
+      "bytes": 321163
+    },
+    "rbcf07a2484472319": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rbcf07a2484472319.jpg",
+      "path": "data/covers/rbcf07a2484472319.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-19/australia-s-leader-to-navigate-trade-security-in-talks-with-xi",
+      "title": "Australia’s Leader to Navigate Trade, Security in Talks With Xi",
+      "createdAt": "2026-11-19T20:55:45.997Z",
+      "model": "image-01",
+      "bytes": 331993
+    },
+    "re0f6b7e4284ffbf8": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/re0f6b7e4284ffbf8.jpg",
+      "path": "data/covers/re0f6b7e4284ffbf8.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-19/fed-s-barr-says-inflation-calls-for-policy-adjustment-video",
+      "title": "Fed's Barr Says Inflation Calls for Further Policy Adjustment",
+      "createdAt": "2026-11-19T20:56:12.513Z",
+      "model": "image-01",
+      "bytes": 314563
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 25,
+    "need": 30,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 8,
+    "dailyCount": 4,
     "dailyMax": 16,
-    "dailyKey": "2026-11-19"
+    "dailyKey": "2026-11-20"
   },
-  "dailyKey": "2026-11-19",
-  "dailyCount": 8
+  "dailyKey": "2026-11-20",
+  "dailyCount": 4
 }
