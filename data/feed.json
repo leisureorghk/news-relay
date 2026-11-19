@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-19T00:03:14.544Z",
-  "count": 164,
+  "generatedAt": "2026-11-19T11:19:45.316Z",
+  "count": 160,
   "target": 200,
   "categories": {
-    "world": 35,
-    "tech": 75,
-    "biz": 22,
-    "hk": 30,
-    "other": 2
+    "biz": 15,
+    "tech": 76,
+    "world": 32,
+    "hk": 36,
+    "other": 1
   },
   "errors": [],
   "warnings": [
@@ -17,21 +17,52 @@
     "信報財經新聞: Google 新聞 0 則（解不出原文 100）",
     "Yahoo 新聞 · 科技: Google 新聞 0 則（解不出原文 100）",
     "Google 新聞 · 香港: Google 新聞 0 則（解不出原文 30）",
-    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 58）",
+    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 63）",
     "Google 新聞 · 門球: Google 新聞 0 則（解不出原文 8）",
     "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 36）",
     "Google 新聞 · SEN 游泳: Google 新聞 0 則（解不出原文 2）"
   ],
   "items": [
     {
-      "id": "r9c06e3f74469c14b",
+      "id": "r44e13257854b8664",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Anthropic IPO Has Stock Bulls Dreaming of a Year-End Rally",
+      "summary": "The IPO might be moment dip buyers have been waiting for.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/anthropic-ipo-has-stock-bulls-dreaming-of-a-year-end-rally",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T11:13:40.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r88852971c44ee916",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "How to tell a cyberattack from a plain old outage",
+      "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098-1152x648.jpg",
+      "publishedAt": "2026-11-19T11:13:01.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "rf5696ac40ec5f7e1",
       "sourceId": "s7",
       "sourceName": "SCMP",
-      "title": "‘Bride catalogues’ and fake weddings: inside Indonesia’s China marriage trade",
-      "summary": "The practice of trafficking Indonesian women to China for marriage remains alive and well despite repeated crackdowns by authorities, analysts say, fuelled by economic desperation and a cultural reliance on matchmakers. The persistence of the trade was highlighted last week when ",
-      "url": "https://www.scmp.com/week-asia/people/article/3374952/bride-catalogues-and-fake-weddings-inside-indonesias-china-marriage-trade",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/f03ac049-455f-4fc1-b78a-83d0c82d771d_3567c2ba.jpg?itok=lBgLtXmw&v=1795011704",
-      "publishedAt": "2026-11-19T00:00:11.000Z",
+      "title": "Indonesia’s forest protection plan praised by Leonardo DiCaprio. Will it work?",
+      "summary": "Indonesia’s pledge to halt forest clearing for food production and repurpose degraded land instead has drawn praise from actor Leonardo DiCaprio, who called it “historic”, but green experts argue the plan is vague and may even weaken vulnerable ecosystems. Speaking at the COP31 c",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3375097/indonesias-forest-protection-plan-praised-leonardo-dicaprio-will-it-work",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/41b96d46-2443-4332-8a4f-487560193d72_417224cd.jpg?itok=r_FHTpvr&v=1795086405",
+      "publishedAt": "2026-11-19T11:06:47.000Z",
       "category": "world",
       "language": "en",
       "tags": [
@@ -40,14 +71,1069 @@
       ]
     },
     {
-      "id": "rf54701a50e57d940",
+      "id": "r2d5d41f9c261623c",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "深圳APEC｜習近平：中俄美元首會晤種子必將生根發芽開花結果",
+      "summary": "中俄美元首歷史性在深圳舉行三方會談。國家主席習近平總結說，會晤播下的種子，必將生根發芽、開花結果，三國要落實好會晤共識，繼續加強溝通，以對話聚共識，以擔當迎挑戰，以合作促和平，共同推動建設更美好的世界。 習近平說，會晤是積極和建設性，亦富有成果，三國在維護世界和平上看法一致，都記得二戰並肩作戰的歷史，強調要珍惜來之不易的和平，都同意大國應該重視各國合理安全關切，都主張對話談判是化解分歧的正確選擇。只要對話不停止、大門不關上，和平就有希望，三人都認為合作是應對挑戰的必由之路，要基於共同利益加強合作，以合作促和平、謀共贏。 美國總統特朗普在結束三方會談後，乘",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878484-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T11:06:04.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r618eaf1fc406f532",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "India ‘missed the bus’ on manufacturing in the 1980s. Can it now catch up with China?",
+      "summary": "Indian External Affairs Minister Subrahmanyam Jaishankar’s recent statement that his country “missed the bus” on building up its manufacturing and industrial base in the 1980s, when China was forging ahead, has reignited debate over how India can catch up with its neighbour. Anal",
+      "url": "https://www.scmp.com/week-asia/economics/article/3375096/india-missed-bus-manufacturing-1980s-can-it-now-catch-china",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/d0122469-a35f-427f-8dba-e4a1241d748b_627059d1.jpg?itok=LVJNx8HM&v=1795086343",
+      "publishedAt": "2026-11-19T11:05:45.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rb888372d945545f4",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Danish lawmakers approve US-Greenland security deal",
+      "summary": "Denmark’s parliament on Thursday approved a hard-wrought agreement with Greenland and the United States to strengthen security in the Arctic and North Atlantic. The vote follows months of pressure by US President Donald Trump seeking to control Greenland, a semi-autonomous territ",
+      "url": "https://www.scmp.com/news/world/europe/article/3375094/danish-lawmakers-approve-us-greenland-security-deal",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/a10ef78b-0bd9-4982-96f3-8cedbfefe35e_5f169a06.jpg?itok=0vivbAun&v=1795086114",
+      "publishedAt": "2026-11-19T11:01:56.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r92735e86a72b44f1",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Trump, Xi and Putin Hold Unprecedented Trilateral Meeting",
+      "summary": "President Donald Trump held an unprecedented trilateral meeting with his counterparts Xi Jinping and Vladimir Putin. The talks took place amid ongoing attempts to stabilize US-China ties and continued hostilities between Russia and Ukraine. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/trump-xi-and-putin-hold-unprecedented-trilateral-talks-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T11:01:45.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r96aa5a16e81312a9",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Alibaba’s AI bet paying off as cloud services drive 10% revenue jump",
+      "summary": "Alibaba Group Holding’s external recurring revenue tied to AI cloud and computing surged 67 per cent during the quarter ended September 30, lifting total revenue 10 per cent to a better-than-expected 271.5 billion yuan (US$40.5 billion) as the company doubles down on full-stack A",
+      "url": "https://www.scmp.com/tech/big-tech/article/3375093/alibabas-ai-bet-paying-cloud-services-drive-10-revenue-jump",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/37c9cc17-7798-480e-8f92-8904b0a2f031_ccd954c8.jpg?itok=-bY2ETfJ&v=1795086020",
+      "publishedAt": "2026-11-19T11:00:22.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r3ae567881c24eb2d",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Koenigsegg Stake Sale Values Hyper-car Maker at €1.3 Billion",
+      "summary": "Koenigsegg Automotive AB, the Swedish maker of multimillion-dollar track-focused cars, has sold a minority stake to a private equity firm owned by Temasek Holdings Pte, valuing the manufacturer at about €1.3 billion ($1.4 billion) as it weighs going public.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/koenigsegg-stake-sale-values-hyper-car-maker-at-1-3-billion",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T11:00:00.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "rf7044d0b7ed65b5e",
+      "sourceId": "s15",
+      "sourceName": "MIT Technology Review",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to sma",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T11:00:00.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI",
+        "學習"
+      ]
+    },
+    {
+      "id": "r133560184b189c6b",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "深圳APEC｜學者指中國真金白銀資助務實合作體現擔當",
+      "summary": "國家主席習近平主持亞太經合組織領導人非正式會議並發表講話，宣布將提供2000萬美元，資助開展亞太經合組織務實合作，在深圳設立亞太共同體研究中心。 中國人民大學國際事務研究所所長王義桅認為，中國作為APEC東道主，不僅提出方案倡議，也投入真金白銀，體現中國擔當，推動亞太地區加強合作。他說，深圳是中國改革開放的象徵，也是創新的城市，認為未來設立的研究中心可以在數字綠色轉型和人工智能方面，共同研究開放的生態體系。 浸會大學會計、經濟及金融學系副教授麥萃才表示，亞太地區經濟活動漸見頻繁，但各經濟體有不同流程和法規，研究中心可採取智庫模式提供建議策略，促進不同經濟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878483-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T10:59:53.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "rc56cee6fc9514c9a",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "深圳APEC｜習近平就大國如何為世界和平托底提出四點看法",
+      "summary": "國家主席習近平下午在深圳，與俄羅斯總統普京及美國總統特朗普舉行中俄美元首會晤。習近平就大國如何正確相處、共同為世界和平托底提出四點看法，包括堅持相互尊重、和平共處、合作共贏和對話協商。 習近平提到，中俄美國情不同，誰也改變不了誰，正確態度是彼此尊重、求同存異、共同發展，在涉及對方的重大敏感問題上，提前溝通、換位思考、謹慎行事，不能觸碰對方底線。 習近平又說，中俄美要做夥伴和朋友，不衝突、不對抗，守住和平共處底線，應全面禁止並徹底銷毀核武，最終建立無核武世界。核戰爭打不贏亦打不得，要盡一切努力防止核戰爭。 習近平提到，三國應該摒棄冷戰思維，加強經貿合作，實",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878482-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T10:56:39.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rd960862defccd2bb",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "深圳APEC｜中俄美元首和平宣言 三國將會就防止核擴散對話",
+      "summary": "中俄美元首歷史性在深圳舉行三方會談，發表和平宣言，重申核戰爭打不贏亦打不得，三國將會就減少核風險、防止核擴散舉行對話。 宣言提到，中俄美作為聯合國安理會常任理事國，致力於推動聯合國改革，使之更有效應對全球挑戰，並履行維護國際和平與安全的基本使命。三國計劃增加精煉石油產品的生產和供應，造福世界各國，重申能源穩定流動的重要性。 另外，三國元首認可國家同意原則和尊重國家官員享有豁免至關重要，一致認為國際刑事法院及其他類似機構不得濫用管轄權。 編輯：許敬軒",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878481-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T10:55:19.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r38cf39f4336db4ed",
+      "sourceId": "s18",
+      "sourceName": "BBC Technology",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
+      "publishedAt": "2026-11-19T10:48:04.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r14e21646537e2530",
+      "sourceId": "s3",
+      "sourceName": "香港電台 · 財經",
+      "title": "在岸人民幣兌美元再創逾半個月新高",
+      "summary": "在岸人民幣收市報6.6651兌1美元，微升2點子，再創逾半個月新高，日內波幅有限。中間價較市場預測偏弱約440點子。 市場人士指出，美國聯儲局鷹派立場支持美元高位反覆，但市場看好人民幣情緒較強，年底客盤結匯偏多，預期人民幣保持穩健走勢。 編輯：宋家樑",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878479-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T10:42:58.000Z",
+      "category": "biz",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "財經"
+      ]
+    },
+    {
+      "id": "rb8d84226d7b813b6",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Absolute Batman can save DC Studios",
+      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature ",
+      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T10:31:05.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "ra43fb118f2966917",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Man guilty of murdering yoga instructor ex-girlfriend at luxury Hong Kong hotel",
+      "summary": "A former legal assistant has been found guilty of murdering his yoga instructor ex-girlfriend and leaving her body in a blood-filled bathtub in a luxury Hong Kong hotel room, with the presiding judge questioning whether he felt remorse after not submitting mitigation. A High Cour",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375077/man-guilty-murdering-yoga-instructor-ex-girlfriend-luxury-hong-kong-hotel",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/e9276f61-ce68-4e32-be08-48d5a2c1e155_ec1fb777.jpg?itok=2xP68m58&v=1795084219",
+      "publishedAt": "2026-11-19T10:30:30.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r62bff0379e345845",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "UBS Plans to Shift Hundreds of Roles to India in Offshoring Push",
+      "summary": "UBS Group AG is set to shift hundreds of roles across its group functions from Europe to India, as it seeks to rationalize its operations and reduce costs.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/ubs-plans-to-shift-hundreds-of-roles-to-india-in-offshoring-push",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T10:28:44.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r274acf3e75b98eab",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "信置及鷹君財團近27億元投得市建局土瓜灣道/榮光街項目",
+      "summary": "市建局公布，土瓜灣道/榮光街發展項目，由信置及鷹君組成的財團投得，中標價26.88億元，折合每平方呎樓面地價約5072元。 項目上周三截標，合共收到3份標書。綜合市場估值約39億至48億元，折合每平方呎樓面地價約7400至9000元。 信置表示，今次是第2度投得土瓜灣小區發展項目，亦是集團一年內投得的第5塊土地，包括北部都會區洪水橋/厦村片區開發項目，彰顯對香港長遠發展的承諾。 市建局發言人表示，幾間主要發展商均有參與投標，入標數量與出價均在預期之內，最終中標價亦相當貼近市價。 項目涵蓋土瓜灣道、馬頭圍道、鴻福街、啟明街及玉成街，地盤面積近5.9萬平方呎",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878473-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T10:23:39.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "r9940ebe6b837c9c2",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Apec sartorial diplomacy: first ladies Peng Liyuan, Ngo Phuong Ly and Kim Hea Kyung shine",
+      "summary": "When Vietnam’s first lady Ngo Phuong Ly shook hands with China’s Peng Liyuan in the receiving line at Wednesday night’s Apec welcome banquet in Shenzhen, Peng seemed impressed by her guest’s outfit. After posing for photographs, the two appeared to exchange a few words about the ",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375087/apec-sartorial-diplomacy-first-ladies-peng-liyuan-ngo-phuong-ly-and-kim-hea-kyung-shine",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/12857940-a86d-4d4c-b503-0fe3387b6081_736e478a.jpg?itok=3LXiZgyE&v=1795083133",
+      "publishedAt": "2026-11-19T10:22:40.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rd82890131822d772",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Former Brexit Negotiator Barnier Welcomes UK-EU Cooperation",
+      "summary": "\"I'm very happy that the new prime minister of the UK, Andy Burnham, wants to build a new cooperation with the EU,\" says Michel Barnier, the European Union's former Brexit negotiator and former French prime minister. Speaking on Bloomberg Television, he also comments on the Frenc",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/former-brexit-negotiator-welcomes-uk-eu-cooperation-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T10:21:26.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r8e818e7909217c1c",
+      "sourceId": "s8",
+      "sourceName": "BBC 中文",
+      "title": "從領導人合照到場邊會談：高市早苗的APEC外交觀察",
+      "summary": "高市早苗在歡迎晚宴前與中國國家主席習近平握手，兩人短暫互動。不過，高市抵達深圳時的接待安排相對低調。",
+      "url": "https://www.bbc.com/zhongwen/articles/ck782e5dxeygo/trad?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/328a/live/c294b870-e402-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-19T10:20:44.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "國際",
+        "繁中"
+      ]
+    },
+    {
+      "id": "raaf8f17220538668",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "深圳APEC｜中俄美元首會晤結束 歷時約一個半小時",
+      "summary": "中俄美元首深圳會晤結束，央視新聞報道，會晤歷時約一個半小時，美國總統特朗普離開會晤現場。 編輯：許敬軒",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878478-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T10:14:22.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "reca17f1014ad12a9",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "South Korea court orders retrial of ex-PM Han in 2024 martial law case",
+      "summary": "South Korea’s top court overturned former prime minister Han Duck-soo’s 15-year sentence on Thursday for aiding a martial law declaration that briefly suspended civilian rule, sending the case back to a lower court. The 2024 decree issued by the president at the time, Yoon Suk-ye",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3375086/south-korea-court-orders-retrial-ex-pm-han-2024-martial-law-case",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/e466dfee-3d83-456f-8e3a-416fe8837665_44fc9f45.jpg?itok=gWWU_JPI&v=1795083114",
+      "publishedAt": "2026-11-19T10:11:58.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r25b9a974a2489538",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "衞生署轄下醫療器械諮詢委員會舉行首次會議",
+      "summary": "衞生署轄下的醫療器械諮詢委員會今日舉行首次會議，就政府正積極籌備建立的醫療器械法定規管體系提供意見，以期從安全、質量及性能方面完善規管在香港供應的醫療器械，從而保障公眾健康，促進醫療器械業界有序及持續發展，助力香港成為國際醫療創新樞紐。 委員會由趙偉仁出任主席，成員包括醫學界、工程界和創新科技界代表。會上衞生署代表介紹現行自願參與的「醫療器械行政管理制度」在過去20多年來的運作成果，以及政府有關規管本港醫療器械的立法建議。 委員會全力支持政府秉持六項重要原則，推展相關立法工作，包括保障公眾安全和健康；促進創新發展；與國際監管標準接軌；承接本港行政制度經驗",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878477-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T10:11:42.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "ra732d5f4f24ec740",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "防止虐待兒童會接逾千宗舉報及諮詢 逾七成懷疑施虐者為家庭成員",
+      "summary": "防止虐待兒童會在2025/26年度，共接到1136宗熱線舉報及諮詢服務，當中216宗為懷疑虐兒個案，涉及241名兒童，其中65人介乎3至5歲，是最高危的組別，其次是6至8歲兒童。 機構表示，在懷疑虐兒個案中，共涉及265名懷疑施虐者，當中超過七成懷疑施虐者是家庭成員。有約50%懷疑虐兒個案屬身體虐待，比率最高；其次為疏忽照顧，佔22%；而心理虐待佔13%；性侵犯亦有8%，其餘為多種虐待個案。 防止虐待兒童會指出，疏忽照顧、性侵犯及心理虐待數據上看似較低，但相信是因為較難辯識或察覺，而沒有被舉報。機構又關注，近年侵犯者透過智能電話及互聯網誘識兒童，與兒童建",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878476-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T10:11:08.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "r15b1846af4169824",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "深圳APEC｜中俄美元首會晤 習近平稱應合作應對全球挑戰",
+      "summary": "中俄美元首在深圳歷史性舉行三方會談。 主持會晤的國家主席習近平說，作為世界主要大國和聯合國安理會常任理事國，中俄美應該合作應對全球挑戰，共同維護世界和平穩定。 習近平就大國如何正確相處、共同為世界和平托底，提出四點看法，包括堅持相互尊重、和平共處、合作共贏和對話協商。 俄羅斯總統普京說，若果三國能夠有建設性合作，將有助強化全球穩定。 美國總統特朗普就說，作為全球三個大國的領導人，他們負有維持建設性對話的特殊責任。 編輯：羅宇光",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878474-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T10:02:09.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "r9e1921bb861e37df",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Presidents of Mexico, Peru enchanted by Chinese tech advances in musical instruments",
+      "summary": "Two Latin American presidents have shown their appreciation for tech advancements in musical instruments on display during the Apec summit in Shenzhen. Mexican President Claudia Sheinbaum was captured playing a traditional Chinese folk song, “Jasmine Flower”, using a stringless g",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375081/presidents-mexico-peru-enchanted-chinese-tech-advances-musical-instruments",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/4004a5fd-b926-4cec-971d-5980c5dada32_ac7668ce.jpg?itok=eEZnyhqH&v=1795082481",
+      "publishedAt": "2026-11-19T10:01:54.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r7416facd2b7101a3",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Star pianist criticised for 17-minute China concert delay to find ‘right feeling’ at piano",
+      "summary": "Internationally renowned Beijing-born American pianist Yuja Wang sparked a backlash on Chinese social media after arriving 17 minutes late for a performance and reportedly explaining that she “had not found the right feeling at the piano”. The concert, featuring Wang and the Mahl",
+      "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3375062/star-pianist-criticised-17-minute-china-concert-delay-find-right-feeling-piano",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/521423f7-6eb1-4f19-add2-7e7fc6bab330_e0d9aef9.jpg?itok=lTfRZQ7t&v=1795078315",
+      "publishedAt": "2026-11-19T10:00:18.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rb9d02adcc276fa6d",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "藍田啟田道有中學外置充電器起火 一名男學生手部受傷送院",
+      "summary": "聖公會基孝中學有學生被外置充電器燒傷。 警方3時許接報，指啟田道5號聖公會基孝中學有外置充電器起火，一名男學生手部受傷，送往聯合醫院治理。 編輯：鍾慧儀",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878472-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:56:53.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "r3d182d6fa6792bfd",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Brasília em Off",
+      "summary": "Martha Beck fala sobre o impacto do plano fiscal na escolha do comando da Fazenda. Edição de Patricia Xavier. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/brasilia-em-off-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:38:06.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "rd5a15dc13f373165",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "知識產權學院啓動 有系統培育各知識產權密集行業所需人才",
+      "summary": "香港知識產權學院今日正式啓動，為各行各業提供更有系統和認受性的知識產權在職培訓，學院首個基礎課程亦於今明兩日在亞洲知識產權營商論壇期間舉行。 署理商務及經濟發展局局長陳百里在學院開幕典禮致辭時表示，國家《十五五規劃綱要》明確支持香港深化區域知識產權貿易中心建設。《香港第一個五年規劃》亦提出，透過成立知識產權學院，有系統地培育各知識產權密集行業所需的人才，讓他們掌握知識產權創造、保護、管理、融資、運用及商品化等方面的知識和技能，進一步推動香港知識產權生態圈發展。今日學院正式啓動，正是落實這項工作的重要一步。 學院由知識產權署與職訓局合作成立。政府在2026",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878471-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:32:27.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "r5d82843ead9dbeb7",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "DeepMind Employees Are Unionising",
+      "summary": "Article URL: https://www.gdmunion.co.uk Comments URL: https://news.ycombinator.com/item?id=50557885 Points: 17 # Comments: 7",
+      "url": "https://www.gdmunion.co.uk",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:28:56.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r99d55f8443223456",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "What's New in PHP 8.6",
+      "summary": "Article URL: https://www.php.net/releases/8.6/en.php Comments URL: https://news.ycombinator.com/item?id=50557870 Points: 54 # Comments: 30",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:27:15.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r82a0f13c8280e810",
+      "sourceId": "s3",
+      "sourceName": "香港電台 · 財經",
+      "title": "聯想集團：不認為AI資本開支2028年或之後放緩",
+      "summary": "市場關注AI相關資本開支或於2028年起放緩。聯想集團執行副總裁兼基礎設施方案業務集團總裁Ashley Gorakhpurwalla指出，未見雲端服務供應商、企業及「新型雲端」（neocloud）短期或長期需求出現任何重大轉變，指出客戶需求依然強勁，不認為AI資本開支會在2028年或之後放緩。 聯想的智能設備業務上季收入按年增長15%至174億美元。執行副總裁兼智能設備業務總裁Luca Rossi指出，受惠於產品平均售價上升、「AI PC」滲透率提升及產品組合改善等，但預計未來兩三季個人電腦市場可能收縮，需求量或出現雙位數回落，部分會被高均價及較理想的產",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878470-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:23:50.000Z",
+      "category": "biz",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "財經"
+      ]
+    },
+    {
+      "id": "r1800a2c6f2fbb14f",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Xi-Trump-Putin trilateral breaks historic ground",
+      "summary": "President Xi Jinping highlighted the “pioneering significance” of the first trilateral meeting between the leaders of China, the United States and Russia, as Donald Trump pushed for talks on nuclear weapons. “When major countries live in harmony, the world enjoys peace,” Xi said ",
+      "url": "https://www.scmp.com/plus/economy/china-economy/article/3375070/xi-trump-putin-trilateral-breaks-historic-ground",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/4d4ffd0b-bdf2-4a7b-9034-d441d4f898b2_4b63c507.jpg?itok=KAiG6lQB&v=1795080133",
+      "publishedAt": "2026-11-19T09:22:16.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r5ca808fbe9bd1cdc",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "Porsche Raceborn 75 周年展覽 回顧品牌賽車史兼挑戰模擬賽車",
+      "summary": "Porsche Raceborn 賽車運動 75 周年展覽來到香港，於 2026 年 11 月 6 日至 30 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/19/porsche-raceborn-hong-kong-motorsport-exhibition/hottopic/walk",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:21:11.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "rcc1dc9a891598837",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Who’s who in Shenzhen: the priorities revealed by Xi-Trump-Putin summit rosters",
+      "summary": "In high-stakes summitry, seating charts and delegation rosters often speak louder than boilerplate communiques. And, as the unprecedented China-US-Russia trilateral meeting unfolds in Shenzhen, the strategic agendas of the three powers can be discerned by the security and economi",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375069/whos-who-shenzhen-priorities-revealed-xi-trump-putin-summit-rosters",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/2b55df5c-07bc-49d1-91e8-c6d5f80e829f_d45e635a.jpg?itok=HZ_EN6S2&v=1795080912",
+      "publishedAt": "2026-11-19T09:21:05.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "re65f687cdd5165e3",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "深圳APEC｜普京稱合作助強化穩定 特朗普指拒接觸不可能和平",
+      "summary": "國家主席習近平主持中俄美元首會晤。他指出，三國最高領導人有史以來首次聚首，具有開創性意義。 俄羅斯總統普京發言時說，俄中美是二戰的戰勝國，對於維護國際和平負有共同責任，若果三國能夠有建設性合作，將有助強化全球穩定。 美國總統特朗普就說，作為全球三個大國的領導人，他們負有維持建設性對話的特殊責任，過去的領導人往往會迴避與意見不合的國家對話，但三人看法不同，若果拒絕接觸與對話，絕不可能締造和平。 編輯：羅宇光",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878469-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:19:28.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rf0abc1a2cdb4a3aa",
+      "sourceId": "s8",
+      "sourceName": "BBC 中文",
+      "title": "AI是做精神導師，發佈教法裁決？穆斯林對此意見不一",
+      "summary": "穆斯林社群因伊斯蘭AI助手Qaf能否頒布教法裁決爆發爭議。開發者強調僅供學習，學者則警告不可取代專業裁決，反映AI與傳統宗教的張力。",
+      "url": "https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/420f/live/c60929f0-d6b5-11f1-aacc-5b5f23abff4b.jpg",
+      "publishedAt": "2026-11-19T09:16:44.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "國際",
+        "繁中"
+      ]
+    },
+    {
+      "id": "rec5006322f967a90",
+      "sourceId": "s3",
+      "sourceName": "香港電台 · 財經",
+      "title": "聯想集團有信心本年度提前實現年收入1000億美元目標",
+      "summary": "聯想集團截至9月底止，第2季及中期收入都創新高，上半年收入571.8億美元，按年升46%。主席兼行政總裁楊元慶提到，集團原先定下兩年內年收入達1000億美元的目標，考慮到首兩季業績表現理想，有信心本年度提前實現甚至超越目標，並按計劃短期內實現5%以上淨利潤率目標。 楊元慶在業績發布會上指，隨著人工智能（AI）由訓練轉向推論（inferencing），公用轉向私人，加上編程、聊天機械人及設計等應用場景快速擴張，都帶動token消耗及AI基建需求持續上升。他提到，上季雲基礎設施業務收入按年增長近1.7倍，企業基礎設施業務收入更增長2倍，認為受惠於早年透過收購",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878467-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:09:15.000Z",
+      "category": "biz",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "財經"
+      ]
+    },
+    {
+      "id": "r0a1c1916f753b545",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "鄺港智否認因物業利益致蔡天鳳死亡 指蔡天鳳與鄺球關係不佳",
+      "summary": "蔡天鳯案在高等法院續審，第三被告、蔡天鳯的前夫鄺港智作供。鄺港智否認鄺家是為了加多利山物業的利益而導致蔡天鳯死亡，說是「根本不可能」。 鄺港智供稱，自己與蔡天鳯和譚方駿之間並無敵意，形容蔡天鳯性格較為剛烈火爆，有如卡通人物「angry bird」，自己則性格柔和。直至事發當日，自己與蔡天鳯並無疏離。 鄺港智說，支持出售加多利山物業，以方便子女轉到屯門的學校讀書。他表示，蔡天鳯尊重他的意見，他亦有為家庭付出。對於被指急於賣樓，他說「要有人買先至急，無人買點急。」 辯方大律師主問時提到有一次小朋友發燒，造成蔡天鳯及鄺球爭吵的事件。鄺港智供稱當時女兒不適，母親",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878466-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:05:56.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "rdc34991262363fb5",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "SSD prices will start going down the second half of next year",
+      "summary": "Article URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html Comments URL: https://news.ycombinator.com/item?id=50557716 Points: 83 # Comments: 53",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:05:34.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "rcf7f69aa6a20a9b4",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "From glasses to buttons, South Korea’s anti-cheating exam checks raise eyebrows",
+      "summary": "Students in South Korea worry about wearing thick-rimmed glasses, while others have had buttons on their clothes checked, as the country staged its annual college entrance examination on Thursday under unprecedented security measures to curb cheating through hidden cameras. The c",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3375067/glasses-buttons-south-koreas-anti-cheating-exam-checks-raise-eyebrows",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/37fff9cb-c359-478d-a386-df1a19248406_824a3935.jpg?itok=y6UwEm6B&v=1795079007",
+      "publishedAt": "2026-11-19T09:03:28.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rf2459ccbc71fe97d",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "深圳APEC｜李家超晤黃循財 感謝新加坡支持香港加入RCEP",
+      "summary": "在深圳出席亞太經合組織會議的行政長官李家超與新加坡總理黃循財會面。 李家超在社交網頁表示，今次是自3月黃循財訪港以來的第二次會面，新加坡明年將接任東盟輪值主席國，李家超感謝新加坡繼續支持並推動香港早日加入RCEP。 李家超向黃循財介紹《香港第一個五年規劃》及北部都會區帶來的機遇，並歡迎新加坡公私營界別，包括新加坡政府投資公司、科技企業等，發掘河套香港園區的潛在商機，在人工智能、生物科技等領域深化合作。 他表示，香港與新加坡有不少相似之處，同屬外向型經濟體，在金融、貿易及航運領域各有亮眼表現，在携手應對區域挑戰中持續發展，商貿聯繫緊密，提到香港一直是新加坡",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878464-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:02:39.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "r82e1f425876d421d",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Do not buy RAM, compress",
+      "summary": "Article URL: https://curiousbits.nl/blog/do-not-buy-ram-compress/ Comments URL: https://news.ycombinator.com/item?id=50557661 Points: 32 # Comments: 12",
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T08:56:47.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r61cd24cf3fcccfde",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "深圳APEC｜李家超晤秘魯總統 稱兩地貿易錄雙位數增長",
+      "summary": "行政長官李家超在深圳出席亞太經合組織會議期間，與秘魯總統藤森慶子舉行雙邊會談。他向對方表示，兩年前與秘魯簽署的《自由貿易協定》，兩地貿易在一年內錄得雙位數的大幅增長，形容是一個非常好的消息。 李家超說，香港已將秘魯視為非常緊密的貿易夥伴，秘魯現已成為香港在拉丁美洲的第六大貿易夥伴，雙邊貿易額達到6億美元，但他認為還有很大的進步空間。他又對藤森慶子在今年7月當選總統表示祝賀，並邀請對方到訪香港。 藤森慶子表示，非常高興能與香港簽署《自由貿易協定》，指協定有助於創造就業機會，提升秘魯人民的生活質素。她又說，秘魯與香港在經濟開放和自由的理念上是一致。 她說，很",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878462-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T08:56:30.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "r1eff8005a2710a5e",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "港股低收453點 騰訊績後急挫近7%",
+      "summary": "港股連跌第3日。恒生指數最多曾跌逾520點，收市報22841點，跌453點，跌幅近2%。主板成交額約2295億元。 科技指數跌穿3700點關口，收報3649點，跌87點，跌幅2.33%。聯想集團上季業績盈轉虧，股價最多曾跌逾13%，收市跌幅收窄至近6%。騰訊績後急挫近7%，收市後公布業績的阿里巴巴跌近6%，連跌10個交易。美團及小米跌近4%。 晶片股個別發展，中芯及華虹分別升近3%和約8%，天數智芯大跌逾17%，是表現最差科指成份股。 金融股受壓，重磅股滙控及友邦跌近2%，中人壽跌逾3%。地產股大多向下。 編輯：羅煒皓",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878456-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T08:52:46.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "r6f01cf9dabfdb362",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "深圳APEC｜習近平稱大國良性互動不是選擇題而是必答題",
+      "summary": "國家主席習近平在深圳，與俄羅斯總統普京、美國總統特朗普舉行中俄美元首會晤。 央視報道，習近平指出當今世界早已不是彼此隔絕的孤島，人類生活在同一地球村，大家一榮俱榮、一損俱損，是一個命運共同體。在地球村裡，大國肩負著特殊責任，大國良性互動不是選擇題，而是必答題。 習近平說，近年來中國推進中俄新時代全面戰略協作夥伴關係，積極構建中美建設性戰略穩定關係，推動形成和平共處、總體穩定、均衡發展的大國關係格局，既惠及彼此，又造福世界。 他說當前世界百年變局加速演進，天下並不太平，風雨見擔當，作為世界主要大國和聯合國安理會常任理事國，中俄美應該當好表率，合作應對全球性",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878461-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T08:52:21.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r4d0e11706f71c1d1",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "深圳APEC｜習近平稱大國鬥則世界亂 要以史為鑒開創未來",
+      "summary": "國家主席習近平主持中俄美元首會晤。新華社報道，習近平在深圳與俄羅斯總統普京、美國總統特朗普舉行三國元首會晤。習近平指出，三國最高領導人有史以來首次聚首，具有開創性意義。 央視新聞報道，習近平指出，和平是人類社會的永恆期盼，這個星球曾爆發過1萬多次戰爭，兩次世界大戰更是給人類社會造成空前浩劫，當下世界上仍有60多場地區衝突，延宕不止，歷史告訴大家「大國和，則世界安；大國鬥，則世界亂」。 習近平說80多年前，作為世界反法西斯的中堅力量，中俄美三國並肩奮戰，取得偉大勝利，為世界贏得和平和安寧，歷史是最好的教科書，要銘記歷史，以史為鑒，開創未來。 編輯：羅宇光",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878460-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T08:44:36.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r7b686272985a896f",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "深圳APEC｜會議宣言就亞太共同體建設提出「深圳展望」",
+      "summary": "國家主席習近平早上在深圳主持亞太經合組織第三十三次領導人非正式會議，會議一致通過2026年亞太經合組織領導人宣言，就亞太共同體建設提出「深圳展望」，以及貿易、聯通、創新領域三項成果文件。 習近平聽取各方發言後作總結發言，就高品質推進亞太合作提出三點主張，包括堅定信心，努力將建設亞太共同體的共識轉化為行動，把願景變為現實；第二是把准方向，始終錨定建設亞太共同體的大方向不動搖，以強烈的使命感推進各領域合作；第三是實幹篤行，抓住發展這個最大公約數，尊重規律、真抓實幹、善作善成，不斷取得可感可及的亞太合作成果。 會議最後進行東道主交接，2027年亞太經合組織東道",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878458-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T08:42:54.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rfc07da253e57dd53",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "summary": "Article URL: https://zerodha.tech/blog/high-performance-distributed-blob-storage/ Comments URL: https://news.ycombinator.com/item?id=50557537 Points: 56 # Comments: 6",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T08:39:45.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "rd60790356d20f2d4",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Modi Calls on Indian Companies to Expand Global Ambitions",
+      "summary": "Prime Minister Narendra Modi urged Indian companies to look beyond the domestic market and focus on global demand, telling business leaders Thursday that they should prepare to compete globally.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/modi-calls-on-indian-companies-to-expand-global-ambitions",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T08:27:46.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "rc1c83c6e076d5703",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "深圳APEC｜習近平主持中俄美元首會晤",
+      "summary": "國家主席習近平主持中俄美元首會晤。 新華社報道，習近平在深圳與俄羅斯總統普京、美國總統特朗普，舉行三國元首會晤。習近平指出，三國最高領導人有史以來首次聚首，具有開創性意義。 特朗普較早時在亞太經合組織會議上說，期待與習近平與普京會晤。俄方認為，三方會談樹立起對話溝通的典範。中方昨日表示，三國元首將就事關全球和平的重要問題，深入交換意見。 編輯：羅宇光",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878455-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T08:27:09.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rccd6be7ec5854750",
+      "sourceId": "s8",
+      "sourceName": "BBC 中文",
+      "title": "APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾",
+      "summary": "在每一年的亞太經合組織峰會上，人們除了關心哪個國的領導人出席、他們之間的互動和談話，還有他們大合照時穿了什麼。",
+      "url": "https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fefc/live/96bdd5d0-e3e7-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-19T07:05:39.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "國際",
+        "繁中"
+      ]
+    },
+    {
+      "id": "r6324bb9ebd03cf16",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "Elon Musk 隨特朗普抵深圳 問修昔底德陷阱能否避免",
+      "summary": "Tesla 暨 SpaceX 行政總裁 Elon Musk 隨美國總統特朗普（Donald Trump）抵達深 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/19/elon-musk-shenzhen-thucydides-trap/hottopic/spotlight",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T07:02:08.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "r97872419878a164c",
+      "sourceId": "s8",
+      "sourceName": "BBC 中文",
+      "title": "Anthropic上市：七位即將成為億萬富翁的創辦人",
+      "summary": "開發AI聊天機器人Claude的Anthropic在美國上市，這將使其創辦人身價暴增。",
+      "url": "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-19T06:43:09.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "國際",
+        "繁中"
+      ]
+    },
+    {
+      "id": "r850637b643d5cde9",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "GTA 6 推出香港警方借遊戲宣傳守法 「現實冇得消星、冇得 Load Save」",
+      "summary": "Rockstar Games 開發的《Grand Theft Auto VI》（GTA 6）於 11 月 19 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/19/gta-6-hong-kong-police-wanted-stars-campaign/game-channel",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T06:41:19.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "rfadc775715dcb208",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "NVIDIA 遭勒索組織暗網點名 倒數 10 日威脅公開資料 官方稱系統未受影響",
+      "summary": "勒索軟件組織 The Gentlemen 11 月 18 日將 NVIDIA 列入暗網資料外洩網站，聲稱取得公 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/19/nvidia-gentlemen-ransomware-dark-web-leak/tech-secure",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T06:01:30.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "rb1e5a54b7b61eedd",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "NVIDIA 尋黃仁勳繼任人 傳獵頭接觸曾效力 7 年 Arm CEO",
+      "summary": "NVIDIA 行政總裁黃仁勳（Jensen Huang）辭職後，董事會委任的獵頭公司據報已接觸 Arm 行政總 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/19/nvidia-arm-rene-haas-ceo-search/fun-tech",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T05:59:56.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "rd75a1fc9ee460da7",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "summary": "Article URL: https://kapteko.com/15-million-webservers/ Comments URL: https://news.ycombinator.com/item?id=50556533 Points: 168 # Comments: 21",
+      "url": "https://kapteko.com/15-million-webservers",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T05:56:36.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r64b4ae713ab96f0f",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "French Risks Have Traders Betting Euro Fall Is Far From Over",
+      "summary": "The euro’s tumble to an 18-month low against the dollar shows few signs of easing, as expectations mount that next year’s election in a politically divided and fiscally stressed France will continue to weigh on the common currency.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T05:15:00.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "rf05796f421e02b52",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "summary": "Article URL: https://verialabs.com/ruby2shell/ Comments URL: https://news.ycombinator.com/item?id=50556287 Points: 150 # Comments: 51",
+      "url": "https://verialabs.com/ruby2shell",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T05:09:11.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r111662d20a6c830b",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Anthropic Gray Markets Indicate First-Day Pop After Record IPO",
+      "summary": "Anthropic PBC shares are indicated to open higher in gray market trading after the artificial intelligence lab’s upsized $107.3 billion initial public offering and private placement broke SpaceX’s record.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-shares-indicated-more-than-20-higher-on-gray-markets",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T05:00:00.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "rf6ffaac0b74ede78",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "《GTA 6》暗藏《GTA 7》趣味彩蛋 遊戲內社交平台自嘲開發漫長",
+      "summary": "《GTA 6》歷經多年開發終於正式推出。遊戲內藏有趣味彩蛋，既自嘲 Rockstar 開發本作歷時多年，亦暗指 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/19/gta-6-easter-egg-teases-gta-7-race-and-chase/game-channel",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T03:00:48.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "r7dac25824e4d6e7a",
+      "sourceId": "s18",
+      "sourceName": "BBC Technology",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
+      "publishedAt": "2026-11-19T02:59:06.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "rceb2faff7ed191b2",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "最常用密碼 123456 第 7 次登頂 「starwars」「pokemon」上榜數秒可破",
+      "summary": "密碼管理工具 NordPass 發表第八版年度最常用密碼榜，「123456」在 8 年內第 7 次登上榜首。N [&#8230;]",
+      "url": "https://unwire.hk/2026/11/19/nordpass-minecraft-pop-culture-passwords/tech-secure",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T02:00:00.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "r263ca2147fbe62b1",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+      "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBook Summit on Wednesday as he t",
+      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T01:39:45.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "r65abb4f6387044c4",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "AMD 預告 CES「下一個計算時代」 「A」圖案惹 RDNA 5、Zen 6 猜測",
+      "summary": "AMD 確認將於 2027 年 1 月 5 日在拉斯維加斯舉行 CES 2027 活動，計算與圖形業務主管 J [&#8230;]",
+      "url": "https://unwire.hk/2026/11/19/amd-ces-2027-rdna-5-zen-6/fun-tech",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T01:03:00.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "re82885dd43a0508b",
       "sourceId": "s14",
       "sourceName": "TechCrunch",
-      "title": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
-      "imageUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf54701a50e57d940.jpg",
-      "publishedAt": "2026-11-18T23:45:00.000Z",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T00:42:56.000Z",
       "category": "tech",
       "language": "en",
       "tags": [
@@ -57,34 +1143,101 @@
       ]
     },
     {
-      "id": "r38cf39f4336db4ed",
-      "sourceId": "s18",
-      "sourceName": "BBC Technology",
-      "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
-      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-      "publishedAt": "2026-11-18T23:44:27.000Z",
+      "id": "r92986b2bf0c0b49b",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Elon Musk says: &#8216;I&#8217;m not MAGA&#8217;",
+      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T00:40:49.000Z",
       "category": "tech",
       "language": "en",
       "tags": [
-        "科技"
+        "科技",
+        "創業",
+        "AI"
       ]
     },
     {
-      "id": "rae550010e46a4ca5",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0",
-      "summary": "A former Google software engineer accused of making an illegal bet on Polymarket about company search data may face additional charges that he also traded on the release date of its Gemini 3.0 artificial-intelligence model.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0",
-      "imageUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rae550010e46a4ca5.jpg",
-      "publishedAt": "2026-11-18T23:44:22.000Z",
-      "category": "biz",
+      "id": "rdfff189c6c005074",
+      "sourceId": "s8",
+      "sourceName": "BBC 中文",
+      "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
+      "summary": "「他們能坐下來，就說明這個世界還沒有到第一次或第二次世界大戰那個狀況。」香港科技大學榮休教授丁學良對BBC說。",
+      "url": "https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ace6/live/728fbf50-e353-11f1-acd4-25eaaa5def63.jpg",
+      "publishedAt": "2026-11-19T00:11:57.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "國際",
+        "繁中"
+      ]
+    },
+    {
+      "id": "r8356598ac4144263",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "We need smart people who give a shit",
+      "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 633 # Comments: 315",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:53:49.000Z",
+      "category": "tech",
       "language": "en",
       "tags": [
-        "財經",
-        "商業"
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "rf34563efea75b207",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 278 # Comments: 93",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:52:50.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "rca22bbf63dcfab07",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+      "summary": "Article URL: https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open Comments URL: https://news.ycombinator.com/item?id=50554009 Points: 64 # Comments: 20",
+      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:49:13.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "rf54701a50e57d940",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:45:00.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
       ]
     },
     {
@@ -103,51 +1256,19 @@
       ]
     },
     {
-      "id": "r9dcf6d3a6b61571c",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "中國、英國、日本9月持有美債規模均下跌",
-      "summary": "美國財政部數據顯示，9月外國持有美國國債規模再度轉跌，回落至9.241萬億美元，按月減少約760億美元。3大債權國日本、英國、中國減有美債規模都跌。 日本連續5個月減持美債，持有規模降至1.063萬億美元，創2024年底以來最低，按月減持0.5%，較2021年11月高位累計減持約20%。 中國持有美債規模降至5639億美元，按月跌4.5%，連續4個月下降，持倉量創逾18年新低，中國是美債第3大持有國家。 至於英國持倉量亦減至9850億美元，按月跌約1%。 數據又顯示，美國9月整體資本淨流入2610億美元，期內，股票淨流入668億美元，幅度按月收窄55%；",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878377-20261119.htm",
-      "imageUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r9dcf6d3a6b61571c.jpg",
-      "publishedAt": "2026-11-18T23:36:00.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rf98c9a873313ffbb",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "聯儲局會議紀錄：憂通脹加劇 或要加大力度應對",
-      "summary": "聯儲局10月會議紀錄顯示，委員對通脹憂慮加劇，認為或需要加大力度應對通脹上升風險。 會議紀錄指出，近乎所有委員都認為，如果經濟發展趨勢符合預期，就需要進一步加息。少數委員指，通脹可能比預期更為頑固，需要採取更具限制性的政策立場。其中兩人表示，如果數據顯示通脹形勢不利，聯儲局可能需要加息0.5厘。 10月會議維持聯邦基金利率目標區間於3.75厘至4厘不變，只有理事庫克、克利夫蘭聯邦儲備銀行總裁哈瑪克投反對票，兩人都支持加息0.25厘。 另外，會議紀錄又顯示，當局對金融穩定風險進行廣泛評估，關注人工智能巨額投資可能引發問題，為金融體系及經濟帶來風險。不過，聯",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878372-20261119.htm",
-      "imageUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf98c9a873313ffbb.jpg",
-      "publishedAt": "2026-11-18T23:33:51.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
-      "id": "rde0a55499a15f295",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Jane Fraser on IPO Pipeline, AI, & Interest Rate Outlook",
-      "summary": "Jane Fraser, Citi's Chair and CEO, says NVIDIA’s better-than-expected earnings and increased guidance were not the only issues investors were weighing; they were also focused on whether AI-related financing would continue and who would lead the company next. She speaks with Lisa ",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/jane-fraser-on-ipo-pipeline-ai-interest-rate-outlook-video",
+      "id": "r9b54d9e3393d35c8",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Anthropic prices initial public offering",
+      "summary": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 246 # Comments: 420",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "imageUrl": "",
-      "publishedAt": "2026-11-18T23:31:48.000Z",
-      "category": "biz",
+      "publishedAt": "2026-11-18T23:30:09.000Z",
+      "category": "tech",
       "language": "en",
       "tags": [
-        "財經",
-        "商業"
+        "科技",
+        "工程"
       ]
     },
     {
@@ -186,8 +1307,8 @@
       "id": "r29e7a9ed9e20d747",
       "sourceId": "s19",
       "sourceName": "Bloomberg Markets",
-      "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
-      "summary": "Gold steadied near a 14-month low after hawkish comments from Federal Reserve officials reinforced expectations for interest-rate hikes stretching into next year.",
+      "title": "Gold Wavers Near 14-Month Low as Market Tracks Hawkish Fed",
+      "summary": "Gold wavered near a 14-month low after Federal Reserve officials signaled that interest-rate hikes are likely to stretch into next year.",
       "url": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
       "imageUrl": "",
       "publishedAt": "2026-11-18T23:24:06.000Z",
@@ -232,22 +1353,6 @@
       ]
     },
     {
-      "id": "rcc53b62c445a362b",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Xi-Trump ties tested as calls grow in Washington for tougher China policy",
-      "summary": "The personal rapport between US President Donald Trump and Chinese leader Xi Jinping is being put to its sternest test yet amid growing congressional pressure over AI chip curbs and broader calls in Washington for a more assertive policy on China, according to experts. The two le",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374969/xi-trump-ties-tested-calls-grow-washington-tougher-china-policy",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/8fb91728-0be5-488b-b447-49024e1854f6_3c6d2ba5.jpg?itok=wM2vPVlu&v=1795043432",
-      "publishedAt": "2026-11-18T23:10:44.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
       "id": "rd938bcea1a8b1edd",
       "sourceId": "s17",
       "sourceName": "Ars Technica",
@@ -260,54 +1365,6 @@
       "language": "en",
       "tags": [
         "科技"
-      ]
-    },
-    {
-      "id": "r3a4ef04903c5c078",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "US court convicts Florida pastor over plot to assassinate Haiti’s president",
-      "summary": "⁠Christian Emmanuel Sanon, a ⁠US-Haitian pastor accused of conspiring ⁠to assassinate and usurp the Caribbean nation’s last sitting president, has been convicted of all charges linked to the murder by a judge in Miami, the Miami Herald reported on Wednesday. Sanon, 68, could face",
-      "url": "https://www.scmp.com/news/world/americas/article/3374968/us-court-convicts-florida-pastor-over-plot-assassinate-haitis-president",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/74a8f886-877e-44ed-80ec-05a3324eef32_28eed995.jpg?itok=qQVudR04&v=1795043093",
-      "publishedAt": "2026-11-18T23:05:08.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r02b3ca0f6a18a310",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Latest Oil Market News and Analysis for Nov. 19",
-      "summary": "Oil steadied after slumping on Wednesday, as traders assessed the outlook for the next phase of the US-Iran conflict.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T23:03:35.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "r688db5182b5a3fed",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Bain Pushes Back LNG Glut Outlook to 2030 as War Tightens Market",
-      "summary": "A looming global glut of liquefied natural gas has been pushed back by more than a year as the conflict in the Middle East disrupts supplies and delays projects, according to Bain & Co., extending a period of tightness that’s delivering higher profits for traders.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/bain-pushes-back-lng-glut-outlook-to-2030-as-war-tightens-market",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T23:02:30.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
       ]
     },
     {
@@ -328,123 +1385,11 @@
       ]
     },
     {
-      "id": "r1d43854cad4bdfcd",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Former SEC Chair Gary Gensler Warns Anthropic’s Cash Flow Poses Big Risk To AI Economy",
-      "summary": "Gary Gensler, former SEC Chair and Professor of the Practice of Global Economics and Management and Finance at MIT Sloan School of Management, joined Bloomberg’s Romaine Bostick about Anthropic and OpenAI’s corporate governance structure, the evolving role of the SEC, and risk fa",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/fmr-sec-chair-gary-gensler-nvidia-misled-the-public-video",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T22:53:04.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "r339ca761af0fe491",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Skydance Skips FIFA World Cup Bid as Netflix, Fox Eye $4 Billion Deal",
-      "summary": "Skydance Corp. is opting out of bidding for the US media rights for the next FIFA Men’s World Cup tournaments in what could be one of the costliest and competitive auctions in the global soccer event’s history, according to people familiar with the matter.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/skydance-skips-fifa-world-cup-bid-as-netflix-fox-eye-4-billion-deal",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T22:52:49.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "r67fda1d4f27a47d1",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Eddie Best on Expectations for Anthropic’s IPO",
-      "summary": "Edward Best, co-chair of Wilkie Farr & Gallagher’s capital markets practice, discusses Bloomberg’s report that Anthropic may price its IPO at $83 per share, up from an initial marketing price of $70. He speaks with Romaine Bostick on \"The Close\". (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/eddie-best-on-expectations-for-anthropic-s-ipo-video",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T22:47:54.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "rf9a6fc45cfc57dc5",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Why educational system is broken",
-      "summary": "Article URL: https://keycybermonk.com/edu Comments URL: https://news.ycombinator.com/item?id=50553402 Points: 11 # Comments: 8",
-      "url": "https://keycybermonk.com/edu",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T22:42:53.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r12cc080c30ae73da",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "美元指數逼近104 再創逾1年半新高",
-      "summary": "美元指數連升7個交易日，逼近104關口，高見103.91，升約0.3%，再創逾1年半新高。 美國長債孳息率持續下跌，10年期債息低見5.052厘，跌逾5個基點；30年期債息低見5.4厘。兩年期債息則回升，高見4.836厘，升近5個基點。 其他貨幣較早時表現，英鎊兌美元跌至1.315，歐元兌美元處於1.097以上，澳元兌美元報0.6715，新西蘭元兌美元在0.55以下，美元兌日圓徘徊159.3以上。 編輯：方嘉莉",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878369-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T22:32:15.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
-      "id": "r6619e89daf52e3c2",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "金價急跌逾3% 創近14個月新低",
-      "summary": "金價創近14個月新低，聯儲局議息會議紀錄及委員公開言論都發出鷹派訊號，推高加息預期，帶動美元造好，不利金價表現。 現貨金一度跌穿每盎司3720美元，跌約3.4%，其後徘徊3725美元。 紐約期金12月合約收報3741.9美元，跌約3.2%。 編輯：方嘉莉",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878368-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T22:31:04.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
-      "id": "rba222ba7eda0a9ed",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "憂慮供應過剩 紐約期油曾挫近5% 創近3個月新低",
-      "summary": "油價再度轉跌，數據顯示美國原油及燃料庫存增幅超出預期，加劇市場對供應過剩的擔憂。另外，中東地區針對船舶的襲擊個案有上升趨勢，亦觸發市場憂慮。 布蘭特期油1月合約最多跌3%，每桶低見90.34美元，收報91.95美元，跌約1.3%。 紐約期油12月合約一度急挫約4.7%，跌穿82美元一桶，創近3個月新低，收報83.26美元，跌幅收窄至約3.2%。 美國能源信息署（EIA）數據顯示，受到強勁煉油活動推動，美國上星期燃料庫存上升，汽油庫存增加約520萬桶，蒸餾油庫存增加約160萬桶，兩者都超出預期；原油庫存亦增加約340萬桶，遠多於預期。 編輯：方嘉莉",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878367-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T22:30:08.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
       "id": "r4cddb93e97605bd5",
       "sourceId": "s16",
       "sourceName": "Hacker News",
-      "title": "LLM Assisted Reverse Engineering",
-      "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 9 # Comments: 0",
+      "title": "LLM assisted reverse engineering",
+      "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 223 # Comments: 56",
       "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
       "imageUrl": "",
       "publishedAt": "2026-11-18T22:29:13.000Z",
@@ -453,54 +1398,6 @@
       "tags": [
         "科技",
         "工程"
-      ]
-    },
-    {
-      "id": "rb8d84226d7b813b6",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Absolute Batman can save DC Studios",
-      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature ",
-      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T22:27:32.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "r1e54ea37fc0d118c",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "GTA6-like as a 942Kb UEFI bootable image",
-      "summary": "Article URL: https://github.com/eklavya-raj/gta6-uefi Comments URL: https://news.ycombinator.com/item?id=50553192 Points: 17 # Comments: 16",
-      "url": "https://github.com/eklavya-raj/gta6-uefi",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T22:26:48.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r5c12ba27fbf8cbb3",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Brookfield-Backed Lotto Firm Logs Earnings Hit, Buys Back Bonds",
-      "summary": "Earnings at Brookfield-backed lottery business Scientific Games Holdings LP fell in the last quarter, hurt by one-time costs related to delayed contract completions, according to people with knowledge of the matter.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/brookfield-backed-lotto-firm-logs-earnings-hit-buys-back-bonds",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T22:22:20.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
       ]
     },
     {
@@ -536,42 +1433,10 @@
       ]
     },
     {
-      "id": "r55973e91bd3199ca",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "港股ADR大多捱沽 騰訊、阿里巴巴跌約3%",
-      "summary": "港股美國預託證券（ADR）大多跌幅顯著。 騰訊業績後股價捱沽，阿里巴巴業績公布前亦受壓，兩者ADR都比本港昨日收市價跌約3%，以港元計，騰訊ADR折合報361.3元，阿里巴巴ADR折合報82.7元。 滙控ADR跌逾2%，折合報132.8元。 中行、港交所、平保、美團、小米ADR跌逾1%至約2%。工行、友邦ADR跌近1%。 建行及京東集團ADR則升，但升幅有限。 編輯：方嘉莉",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878366-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T22:12:32.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
-      "id": "rd375d957784134b5",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "歐洲股市低收近1%或以上 富時100指數創約6周新低",
-      "summary": "歐洲主要股市持續受壓，跌近1%或以上收市。 英法股市都連跌3日，英國富時100指數收報10551點，跌138點，跌幅1.3%，創約6星期收市低位。 法國CAC指數收報8146點，跌69點，跌幅0.85%，創近兩星期新低。 德國DAX指數收報25736點，跌309點，跌幅近1.2%，連跌4日，創3星期新低。 編輯：方嘉莉",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878365-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T22:11:59.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
       "id": "re625210dfed16c96",
       "sourceId": "s14",
       "sourceName": "TechCrunch",
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
       "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
       "imageUrl": "",
@@ -603,8 +1468,8 @@
       "id": "r7b226d525dcdc54d",
       "sourceId": "s19",
       "sourceName": "Bloomberg Markets",
-      "title": "Nasdaq Futures Rise After Anthropic IPO Pricing: Markets Wrap",
-      "summary": "US equity-index futures advanced after Anthropic PBC priced its initial public offering above the marketed range, putting investor appetite for the technology sector to a fresh test following recent losses. Copper declined.",
+      "title": "US Futures Rally as Anthropic Fuels AI Enthusiasm: Markets Wrap",
+      "summary": "US stock futures rallied after Anthropic PBC priced a record-breaking initial public offering while investors bet on a blockbuster debut, rekindling enthusiasm for the artificial intelligence trade.",
       "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
       "imageUrl": "",
       "publishedAt": "2026-11-18T22:07:41.000Z",
@@ -666,38 +1531,6 @@
       ]
     },
     {
-      "id": "re2ee5832a64a981e",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "道指低收561點 納指反彈逾0.4% Nvidia未止跌",
-      "summary": "美股3大指數個別發展，聯儲局會議紀錄顯示，在數據顯示通脹升溫前，委員已傾向加息，甚至認為需要加息0.5厘。另一方面，市場正等待Anthropic首次公開發售（IPO）定價，彭博引述消息指，股份定價83美元，高於原先預期的70至78美元。 道瓊斯指數下試5萬點關口，最多跌730點，低見50029點，收報50198點，跌561點，跌幅1.1%，連跌3日，創逾5個月新低。 標普500指數五連跌，收報7323點，跌16點，跌幅逾0.2%，創近4個月低位。 納斯達克指數反彈，收報24429點，升101點，升幅逾0.4%。 Nvidia股價低收近3%，連跌5個交易日",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878364-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T21:51:33.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
-      "id": "r910cf7a4a9b27aaa",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "深圳APEC｜中俄美元首今日舉行三方會談",
-      "summary": "國家主席習近平、俄羅斯總統普京及美國總統特朗普，今日將在深圳舉行三方會談。外交部說，三國元首將就事關全球和平的重要問題，深入交換意見。 俄羅斯克里姆林宫發言人佩斯科夫表示，全球最重要三個國家的領導人將聚在一起，在探討最棘手問題方面，樹立起對話溝通的典範。他預計，三方會晤持續時間不會超過一個小時。 俄羅斯總統助理烏沙科夫就表示，三國領導人將自行決定討論持續多久，強調如果三人討論得非常投入，恐怕沒有人能打斷他們。 編輯︰張萬燕",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878362-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T21:46:45.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
       "id": "r6d1819b0b982fd50",
       "sourceId": "s13",
       "sourceName": "The Verge",
@@ -728,22 +1561,6 @@
         "科技",
         "創業",
         "AI"
-      ]
-    },
-    {
-      "id": "red72d6c44c0d2769",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Gemini 4 Neon",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 329 # Comments: 314",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T21:34:07.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
       ]
     },
     {
@@ -779,35 +1596,18 @@
       ]
     },
     {
-      "id": "r4b44aa1db890fc2f",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "深圳APEC｜普京和特朗普預計將於峰會期間舉行雙邊會談",
-      "summary": "美國和俄羅斯官員表示，美國總統特朗普今日在深圳舉行的APEC峰會期間，預料會與俄羅斯總統普京舉行雙邊會談，隨後還將與中國國家主席習近平舉行三方會晤。 俄羅斯傳媒引述克里姆林宮發言人佩斯科夫表示，特朗普和普京將舉行雙邊會談，但不會安排全面雙邊談判。美國一名官員亦證實這項會晤計劃，但未透露更多細節。 俄羅斯總統助理烏沙科夫表示，普京與特朗普的會晤將在APEC全體會議結束後舉行，俄美代表團數名成員預計將出席。 編輯︰張萬燕",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878361-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T21:17:42.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rcf237d3913ff3661",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Huawei case enters jury deliberations after 2-month battle in US courtroom",
-      "summary": "Jurors began deliberating on Wednesday in the US government’s criminal case against Huawei Technologies, following a two-month trial that has been one of the most high-profile prosecutions of a Chinese technology giant in recent years. Huawei, a Shenzhen-based company, is the wor",
-      "url": "https://www.scmp.com/news/us/article/3374967/huawei-case-enters-jury-deliberations-after-2-month-battle-us-courtroom",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/8c3a2877-f7a8-4027-9b53-c329afc54e9f_10b616d4.jpg?itok=rqwZ7wFM&v=1795035716",
-      "publishedAt": "2026-11-18T21:02:10.000Z",
-      "category": "world",
+      "id": "r320fa3665bb40aab",
+      "sourceId": "s18",
+      "sourceName": "BBC Technology",
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-18T21:28:08.000Z",
+      "category": "tech",
       "language": "en",
       "tags": [
-        "香港",
-        "國際"
+        "科技"
       ]
     },
     {
@@ -823,38 +1623,6 @@
       "language": "en",
       "tags": [
         "科技"
-      ]
-    },
-    {
-      "id": "r3c9b7adaa599ed74",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "深圳APEC｜加拿大稱特朗普與卡尼會晤討論貿易問題",
-      "summary": "加拿大總理辦公室表示，美國總統特朗普與加拿大總理卡尼，星期三在中國舉行的亞太經濟合作組織APEC會議期間舉行會晤，就兩國在貿易協議方面開展的工作進行討論。 加拿大方面在聲明表示，兩國領導人討論了為達成互惠貿易協議正在開展的工作，相關協議將創造優質就業崗位、提高消費可負擔性，並充分尊重加拿大的語言、文化和主權。雙方同意繼續推進相關工作，並保持密切聯繫。 編輯︰張萬燕",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878359-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T20:24:33.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r17a3201348489d86",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Horizon Labs Report",
-      "summary": "Article URL: https://horizon-labs.ai/ Comments URL: https://news.ycombinator.com/item?id=50551509 Points: 19 # Comments: 4",
-      "url": "https://horizon-labs.ai",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T20:12:34.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
       ]
     },
     {
@@ -875,68 +1643,19 @@
       ]
     },
     {
-      "id": "r2de58a3ceee10d07",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
-      "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 48 # Comments: 31",
-      "url": "https://searchbrowser.app",
+      "id": "r3a4e32d37adfb8c6",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Anthropic Leveraged ETF Race Heats Up Even Before Stock’s Debut",
+      "summary": "A slew of leveraged ETFs tied to SpaceX launched soon after its public debut, but only one managed to attract meaningful assets. That experience has raised the stakes for Anthropic: Issuers are racing to get out front in hopes that their fund becomes the one that captures the bul",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-leveraged-etf-race-heats-up-even-before-stock-s-debut",
       "imageUrl": "",
-      "publishedAt": "2026-11-18T20:04:31.000Z",
-      "category": "tech",
+      "publishedAt": "2026-11-18T19:49:06.000Z",
+      "category": "biz",
       "language": "en",
       "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r3fec895c170b82e1",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Sexp Matrix",
-      "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 28 # Comments: 10",
-      "url": "https://lisper.cc/ideas/entangle.html",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T20:01:50.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "rc426dffb8ffd709a",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T19:56:39.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "reea42e9251c7d716",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
-      "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 110 # Comments: 28",
-      "url": "https://www.radixark.com/blog/daisyrose-27b",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T19:39:16.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
+        "財經",
+        "商業"
       ]
     },
     {
@@ -955,23 +1674,6 @@
       ]
     },
     {
-      "id": "r20e42934f8c107ae",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-      "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T19:29:41.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
       "id": "r7799c54c2aacf467",
       "sourceId": "s13",
       "sourceName": "The Verge",
@@ -985,22 +1687,6 @@
       "tags": [
         "科技",
         "AI"
-      ]
-    },
-    {
-      "id": "rf0403bcfce3fd3ab",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "巴基斯坦成功試射「法塔赫－3」超音速巡航導彈",
-      "summary": "巴基斯坦陸軍成功試射「法塔赫－3」超音速巡航導彈。 巴基斯坦三軍新聞局發表聲明說，「法塔赫－3」超音速巡航導彈配備先進的導航和推進系統，能對遠距離目標實施高精度、高殺傷力打擊，將顯著提升巴陸軍火箭部隊的作戰靈活性和打擊範圍。 聲明又說，巴基斯坦總統扎爾達里、總理夏巴茲、陸軍參謀長穆尼爾祝賀導彈成功試射。 編輯︰張萬燕",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878358-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T19:22:43.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
       ]
     },
     {
@@ -1035,22 +1721,6 @@
       ]
     },
     {
-      "id": "r9ac5a4a0896f8ee0",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "US and Venezuela sign deal to re-establish military ties during Hegseth visit",
-      "summary": "The United States and Venezuela have signed a deal to re-establish military ties, from training to intelligence sharing, US Defence Secretary Pete Hegseth said Wednesday on a visit with the South American nation’s interim leaders. Hegseth said that following the January capture o",
-      "url": "https://www.scmp.com/news/world/americas/article/3374965/us-and-venezuela-sign-deal-re-establish-military-ties-during-hegseth-visit",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fae98942-4ea0-425d-94b7-4d5663b30c32_8b9ad221.jpg?itok=TiAzUym6&v=1795028454",
-      "publishedAt": "2026-11-18T19:01:08.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
       "id": "r10acb1f7b5570e21",
       "sourceId": "s13",
       "sourceName": "The Verge",
@@ -1059,54 +1729,6 @@
       "url": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
       "imageUrl": "",
       "publishedAt": "2026-11-18T19:00:42.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "r92a50ef55bdffcc9",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "美國民主黨提名傑弗里斯為眾議院議長",
-      "summary": "美國民主黨提名現任眾議院民主黨領袖傑弗里斯為眾議院議長，他有望成為美國歷史上首位非洲裔眾議院議長。 眾議院民主黨黨團星期三舉行閉門投票通過有關提名，但傑弗里斯仍需在明年1月新一屆眾議院全體會議投票中獲得過半數支持，才可正式出任議長。 美國民主黨在月初的中期選舉奪回國會參眾兩院控制權，新一屆國會任期將在明年1月3日開始。 編輯︰張萬燕",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878357-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T18:52:17.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r433165b29d777a00",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Genie 4 is now available",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 169 # Comments: 139",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T18:49:51.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "rb0c77095759ef241",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "The best early Black Friday deals you can already shop",
-      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T18:46:46.000Z",
       "category": "tech",
       "language": "en",
       "tags": [
@@ -1130,22 +1752,6 @@
       ]
     },
     {
-      "id": "r13ab13abe6fc5577",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "El Salvador’s Bukele says his troops destroyed gang leader’s mansion in Haiti",
-      "summary": "El Salvador’s President Nayib Bukele said on Wednesday that his troops had demolished the lavish home of a prominent gang leader in Haiti known as Jeff. It was not immediately clear if he was killed. Bukele posted a video on social media that begins with old footage of Jeff posin",
-      "url": "https://www.scmp.com/news/world/americas/article/3374964/el-salvadors-bukele-says-his-troops-destroyed-gang-leaders-mansion-haiti",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/572f6b0d-53d8-4aaf-95a5-8b4f4a10fda6_f6254c5e.jpg?itok=CBLRdX8v&v=1795026872",
-      "publishedAt": "2026-11-18T18:34:47.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
       "id": "rc00b733361230e5f",
       "sourceId": "s17",
       "sourceName": "Ars Technica",
@@ -1158,22 +1764,6 @@
       "language": "en",
       "tags": [
         "科技"
-      ]
-    },
-    {
-      "id": "r0d8539c536c834b6",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "The Magic of Partial Evaluation",
-      "summary": "Article URL: https://jimmyhmiller.com/magic-of-partial-evaluation Comments URL: https://news.ycombinator.com/item?id=50550096 Points: 85 # Comments: 22",
-      "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T18:29:03.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
       ]
     },
     {
@@ -1192,54 +1782,6 @@
       ]
     },
     {
-      "id": "rfd24cad05c8da656",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "商務部：中韓自貿協定第二階段談判實質性完成",
-      "summary": "商務部表示，中韓雙方以兩國元首重要共識為指引，推進中韓自貿協定第二階段談判，歷經8年多時間，在近日實質性完成，達成互利共贏的高水平談判成果。 商務部國際司負責人表示，中韓自貿協定第二階段對原中韓自貿協定投資、服務貿易、金融服務和經濟合作章及有關附件進行升級，進一步提升了雙方投資和服務自由化、便利化規則水平，並採用負面清單模式針對投資、跨境服務貿易、金融服務等領域作出開放承諾，為後續雙向投資和服務貿易往來建立了透明、穩定、可預期的准入規則。另外，雙方又制定了經濟合作領域具體實施安排，涵蓋傳統醫學服務合作、文化合作和網路服務合作等內容，並細化雙方溝通交流的相",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878355-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T18:07:30.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r878123945af022b7",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork",
-      "summary": "Trinidad Navarro knows how to hunt down wrongdoing.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/probe-of-mark-walter-s-insurers-spotlights-gaps-in-regulatory-patchwork",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T18:04:19.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "re9314f100d1188f4",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Chinese executive convicted in case linked to Bangkok tower collapse",
-      "summary": "A court in Thailand on Wednesday found a Chinese executive and Thai shareholders of a Thai subsidiary of a Chinese state-owned construction company guilty of illegally operating a business in Thailand in a case related to the collapse of a Bangkok office building last year. At le",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374963/chinese-executive-convicted-case-linked-bangkok-tower-collapse",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/d90af21c-0ae6-402d-9deb-8a278986d3e6_8879edfc.jpg?itok=ul16P3tB&v=1795025016",
-      "publishedAt": "2026-11-18T18:03:50.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
       "id": "r28f8b7b297e597d1",
       "sourceId": "s17",
       "sourceName": "Ars Technica",
@@ -1252,22 +1794,6 @@
       "language": "en",
       "tags": [
         "科技"
-      ]
-    },
-    {
-      "id": "r03fb548959c49b3b",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/ Comments URL: https://news.ycombinator.com/item?id=50549493 Points: 145 # Comments: 84",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T17:45:47.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
       ]
     },
     {
@@ -1286,226 +1812,130 @@
       ]
     },
     {
-      "id": "r179d69a2fe410e63",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "深圳APEC｜渣打：將發揮網絡優勢 促進區域合作及共同繁榮",
-      "summary": "渣打香港兼大中華及北亞區行政總裁、亞太經合組織（APEC）商貿諮詢理事會中國香港代表禤惠儀表示，渣打的網絡已覆蓋APEC約3分之2的經濟體，並連接亞洲、非洲及中東的重要市場。 禤惠儀在深圳出席APEC工商領導人峰會時表示，在全球經濟和貿易格局持續演變的背景下，渣打深知開放、自由及互惠的多邊合作，對促進跨境貿易和投資的重要性，致力發揮橋樑作用，促進跨境資金、貿易和投資流動，協助企業把握區域發展機遇。 她表示，渣打將發揮網絡優勢，促進區域合作及共同繁榮。 編輯：羅煒皓",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878354-20261119.htm",
+      "id": "r4f90d234b90b22b2",
+      "sourceId": "s9",
+      "sourceName": "Yahoo 新聞 · 香港",
+      "title": "尖沙咀時鐘酒店外撞爛雕像 短裙女跪地拜天拜地「謝罪」",
+      "summary": "網上瘋傳一段女子深夜跪地「拜神」的詭異影片。據報現場在尖沙咀金巴利道80號一時鐘酒店門外，一名身穿白色上衣及短裙的女子，她脫下高踭鞋，雙手合十朝天朝地跪拜近分半鐘。另一張相片見女子前方有一個損毀的雕像。片主笑問網民：「揸夜更見到呢啲要點做？」，有網友發問，「會唔會係佢打爛，所以佢好驚，即刻拜住講對唔住」、「白貞子」，亦有人指，「佢係咪出緊忍術，但係手勢錯左」。",
+      "url": "https://hk.news.yahoo.com/%E5%B0%96%E6%B2%99%E5%92%80%E6%99%82%E9%90%98%E9%85%92%E5%BA%97%E5%A4%96%E6%92%9E%E7%88%9B%E9%9B%95%E5%83%8F-%E7%9F%AD%E8%A3%99%E5%A5%B3%E8%B7%AA%E5%9C%B0%E6%8B%9C%E5%A4%A9%E6%8B%9C%E5%9C%B0%E3%80%8C%E8%AC%9D%E7%BD%AA%E3%80%8D-010607867.html",
       "imageUrl": "",
-      "publishedAt": "2026-11-18T17:17:22.000Z",
+      "publishedAt": "2026-11-18T17:06:07.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港"
+      ]
+    },
+    {
+      "id": "r6f8d92c5acdec236",
+      "sourceId": "s4",
+      "sourceName": "香港政府新聞網",
+      "title": "特首出席APEC領導人非正式會議",
+      "summary": "行政長官李家超今日在深圳出席亞太區經濟合作組織（APEC）第33次領導人非正式會議，與其他經濟體領導人就深化區域合作、拓展多元市場交流。 李家超在會議發言時指出，亞太地區是當今經濟增長的引擎，貢獻全球三分之二的增長。香港作為國際金融、貿易和創科中心，在國家支持下，會充分發揮超級聯繫人和超級增值人的重要角色，繼續維持自由開放的市場，堅定支持以規則為本的多邊貿易體制，擴大與亞太經合組織的合作，持續為促進亞太地區的繁榮作出貢獻。 李家超表示，粵港澳大灣區是區域開放合作、引領高質量發展的重要平台。這次亞太經合組織領導人非正式會議在深圳舉行，財政部長會上月首次在香",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261119/20261119_165142_423.html",
+      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261119/20261119_165142_423/images/20261119181548135.jpg",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
       "category": "hk",
       "language": "zh-Hant",
       "tags": [
         "香港",
-        "本地"
+        "政府"
       ]
     },
     {
-      "id": "r54c12fb0be146ed8",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "CrossPoint Reader",
-      "summary": "Article URL: https://crosspointreader.com Comments URL: https://news.ycombinator.com/item?id=50548991 Points: 91 # Comments: 47",
-      "url": "https://crosspointreader.com",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T17:14:31.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r454d09473361e107",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
-      "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
-      "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
-      "publishedAt": "2026-11-18T16:58:32.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "r514b541efdb9a971",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "斐濟持續乾旱進入災難狀態 政府撥專項資金救災",
-      "summary": "南太平洋島國斐濟遭遇罕見持續乾旱，當地星期三宣布全國進入災難狀態，全力應對嚴峻缺水危機。 斐濟總理蘭布卡表示，災難狀態啟動後，政府將有權統一調配應急隊伍、救災物資及各類公共資源，當局已撥出專項救災資金，用於應急供水保障、受災社區幫扶、農業養殖救濟及乾旱衍生災害處置等工作。 斐濟屬熱帶海洋性氣候，降雨充足。今年以來，強厄爾尼諾現象打破當地水文常態，引發罕見持續乾旱，令這個水資源豐裕的島國陷入嚴重缺水危機。斐濟當局警告，當地11月底警戒級缺水水源佔比將攀升至75%，到明年1月這個比例可能將突破82%，屆時全國超過八成供水水源將面臨枯竭危機。 編輯︰張萬燕",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878351-20261119.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:41:19.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rfd032c4d79587b19",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Democrats nominate Jeffries to be first black US House speaker",
-      "summary": "Hakeem Jeffries is on the cusp of becoming the first black speaker of the US House of Representatives after Democrats elected him their leader on Wednesday following a sweeping midterm election triumph. The 56-year-old New Yorker secured 251 votes in a closed-door, secret ballot,",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374962/democrats-nominate-jeffries-be-first-black-us-house-speaker",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/5ea0496a-75ff-4a89-bded-3b30dcc03d4f_83580998.jpg?itok=fS4wuBrS&v=1795019974",
-      "publishedAt": "2026-11-18T16:39:48.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rc6e7a9fe30e93c74",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Chicago’s Third CFO This Year Saw Red Flags Before Exit",
-      "summary": "The sudden departure of Chicago’s third chief financial officer in a year came after she repeatedly raised concerns about budgeting practices, including inconsistent deficit calculations.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/chicago-s-third-cfo-this-year-saw-budget-red-flags-before-exit",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:27:42.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "r2dbc570ce39d441e",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Japan’s Takaichi meets Putin in rare talks amid strained ties with Russia",
-      "summary": "Japanese Prime Minister Sanae Takaichi met Russian President Vladimir Putin on Wednesday, marking a rare high-level contact at a time of deeply strained relations over Moscow’s war in Ukraine and the recent arrest of a Japanese journalist on espionage allegations. The talks, held",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374961/japans-takaichi-meets-putin-rare-talks-amid-strained-ties-russia",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/575253bc-9d2d-4c58-b273-6d64b965a86c_793e6ba2.jpg?itok=xx2VxAEg&v=1795019051",
-      "publishedAt": "2026-11-18T16:24:15.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r6b285a5a76729a1a",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Islam projected to surpass Christianity as world’s largest religion by 2035",
-      "summary": "Islam is expected to surpass Christianity as the world’s largest religion by 2035, according to detailed projections released on Wednesday by the Pew Research Centre. Pew, which has been issuing authoritative reports on religious demography for 25 years, said both Islam and Chris",
-      "url": "https://www.scmp.com/news/world/article/3374959/islam-projected-surpass-christianity-worlds-largest-religion-2035",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/eece4462-ea8e-4113-a86b-30b19f619263_97b408df.jpg?itok=t0iF9xpQ&v=1795021732",
-      "publishedAt": "2026-11-18T16:01:07.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "re8e3654749539118",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "美國10月二手樓臨時買賣合約指數跌4.7% 跌幅超預期",
-      "summary": "全美不動產協會（NAR）數據顯示，美國10月二手樓臨時買賣合約指數下跌4.7%，降至63，再創新低，跌幅多過市場估計的2%。 按年比較，指數大跌16.7%。 編輯：羅煒皓",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878349-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T15:17:13.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
-      "id": "rc8af854c20d0bdf9",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "特首辦：辦公室車輛灣仔遇途人衝出馬路 途人拒送院",
-      "summary": "行政長官辦公室回覆查詢時表示，一輛特首辦車輛下午約5時48分，在灣仔告士打道慢駛左轉入分域街時，遇到一名途人，在沒有行人過路設施的路段突然衝出馬路，司機及時煞停車輛，並即場報警備案。 特首辦表示，警察到場後確認涉事途人屬違規橫過馬路，而該途人拒絕到醫院接受進一步檢查。事件作備案處理。 編輯：鍾慧儀",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878350-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T15:14:28.000Z",
+      "id": "rf0ddfd4f6fcf0488",
+      "sourceId": "s4",
+      "sourceName": "香港政府新聞網",
+      "title": "李家超：出席APEC會議達五成果",
+      "summary": "行政長官李家超表示，出席亞太區經濟合作組織（APEC）會議達致五個成果，包括貢獻香港力量，積極參與和支持國家成功舉辦APEC會議、深化與APEC成員經濟體的交流，以及進一步拓展新興市場等。 李家超今日在深圳出席APEC第33次領導人非正式會議。他會見傳媒時說，出席APEC會議的第一項成果，為積極參與和支持國家成功舉辦APEC會議。他說，香港特區在APEC中國年有雙重身分，既是APEC成員經濟體，也作為中國的一個特別行政區，全面助力國家辦好APEC。 上月，APEC財政部長會以國家財政部主辦、香港特區政府承辦的方式，首次在香港圓滿舉行，聚焦宏觀經濟金融形勢",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261119/20261119_135949_275.html",
+      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261119/20261119_135949_275/images/20261119153458611.jpg",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
       "category": "hk",
       "language": "zh-Hant",
       "tags": [
         "香港",
-        "本地"
+        "政府"
       ]
     },
     {
-      "id": "r3acfde222c40518b",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "聯儲局沃勒：12月應考慮加息半厘 或明確表達明年將加快加息",
-      "summary": "美國聯儲局理事沃勒表示，通脹仍在朝錯誤的方向發展，而且正在蔓延，聯儲局應採取更進取的措施應對，包括考慮在12月加息半厘，或者明確表達明年將加快加息步伐。 沃勒接受外電訪問時表示，近期的年化通脹率已超過3%，並可能正在加速，而且價格升勢主要受服務業影響，認為與高油價及其他短暫性因素影響有限，憂慮企業管理層會視之為常態，並轉嫁予消費者，到時要壓抑通脹就會變得困難。 他又說，市場對當前價格水平的接受程度超出預期，有需要讓市場意識到3%的通脹率並非當局的目標水平，並推翻市場對於聯儲局只會加息1次、加幅只有0.25厘的預期。 他說，雖然聯儲局主席沃什傾向避免向市場",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878347-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T15:08:11.000Z",
-      "category": "biz",
+      "id": "r6109f6f990a23565",
+      "sourceId": "s4",
+      "sourceName": "香港政府新聞網",
+      "title": "選委會界別分組選舉星期日舉行",
+      "summary": "2026年選舉委員會界別分組一般選舉 星期日舉行，共856名候選人競逐31個界別分組的723個席位。選舉事務處提醒投票人或獲授權代表依照投票通知卡指示，當日上午9時至下午6時帶同有效的香港身份證正本到獲編配的投票站 投票 。 選舉事務處表示，全港共設五個一般投票站和兩個專用投票站，只有載列在2026年選委會界別分組正式投票人登記冊上屬於31個須競逐界別分組的已登記投票人或獲授權代表才可於投票日投票。 有關人士可透過「智方便」或選民登記 網站 登入選民資料網上查閱系統查閱獲編配的投票站名稱和地址、位置圖、投票時間，以及候選人簡介等投票資訊。 查詢可致電選舉",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261119/20261119_160933_148.html",
+      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261119/20261119_160933_148/images/20261119164349784.jpg",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
+      "category": "hk",
       "language": "zh-Hant",
       "tags": [
         "香港",
-        "財經"
+        "政府"
       ]
     },
     {
-      "id": "r31906fd5fb142290",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "美股初段個別發展 道指跌近1%",
-      "summary": "美股初段個別發展。 道瓊斯指數較早時報50318點，跌440點，跌幅0.87%。 標普500指數報7339點，跌1點，跌幅0.02%。 納斯達克指數報24414點，升85點，升幅0.35%。 編輯：羅煒皓",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878348-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T15:06:38.000Z",
-      "category": "biz",
+      "id": "rddb771ab8a2899db",
+      "sourceId": "s4",
+      "sourceName": "香港政府新聞網",
+      "title": "同慶海運周 貨櫃說故事",
+      "summary": "為慶祝香港海運周十周年，香港海運港口發展局本月15日至25日，在中環海濱的香港海事博物館賽馬會海事廣場舉辦藝術貨櫃啟航展覽暨嘉年華。四個色彩繽紛的藝術貨櫃登陸海旁，讓市民在維港景致下細味香港海運故事，加上互動遊戲、舞台表演等，讓公眾認識航運文化和行業發展。 藝術貨櫃將「一個貨櫃 一個故事」繪畫比賽小學組、中學組及公開組的冠軍作品立體呈現於觀眾眼前。其中，公開組冠軍作品以維多利亞港夜景為背景，巧妙融入多種香港地道文化；小學組冠軍作品則描繪巨型貨輪從維港水域的貨櫃碼頭啟航，貨櫃上刻畫着各式本土元素，寓意香港精神隨海運走向世界。 公開組冠軍得主陳姵彤分享創作理",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261118/20261118_152742_203.html",
+      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261118/20261118_152742_203/images/20261118153203222.jpg",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
+      "category": "hk",
       "language": "zh-Hant",
       "tags": [
         "香港",
-        "財經"
+        "政府"
       ]
     },
     {
-      "id": "r99ed4abd7fd23865",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Rare hug and roaring flyover set stage for historic firsts at Apec in Shenzhen",
-      "summary": "It was a day of firsts in Shenzhen on Wednesday when Chinese President Xi Jinping personally greeted his American counterpart Donald Trump at the city airport, setting up a historic start to the Apec summit. It was the first time in nearly seven decades that China’s top leader ha",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374955/rare-hug-and-roaring-flyover-set-stage-historic-firsts-apec-shenzhen",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/fce5a360-324c-42ec-aa8a-96bdfe4bf657_2c4234ea.jpg?itok=QW9ax4ha&v=1795017121",
-      "publishedAt": "2026-11-18T15:03:11.000Z",
-      "category": "world",
-      "language": "en",
+      "id": "rd2c7333030b24418",
+      "sourceId": "s4",
+      "sourceName": "香港政府新聞網",
+      "title": "香港知識產權學院啟動",
+      "summary": "第16屆亞洲知識產權營商論壇今日和明日在會議展覽中心舉行，論壇見證香港知識產權學院正式啟動，而學院首個基礎課程也一連兩日在論壇期間舉行。 財政司司長陳茂波出席論壇並致辭。他說，國家十五五規劃支持香港深化區域知識產權貿易中心建設，而知識產權爭議可在本港的雙語普通法制度下透過仲裁或調解解決。 政府去年12月與金融管理局聯合推出知識產權融資沙盒，至今已批出首批七宗貸款，陳茂波說，當前的任務是推動沙盒走向規模化發展。 香港知識產權學院由知識產權署與職業訓練局合作成立。政府在財政預算案預留5,200萬元支持學院的籌建和首兩年運作，預計在兩年先導期內為約2,000名",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261119/20261119_170257_927.html",
+      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261119/20261119_170257_927/images/20261119184422594.jpg",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
       "tags": [
         "香港",
-        "國際"
+        "政府"
       ]
     },
     {
-      "id": "r9b97b201ff2a8b1b",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Israel’s parliament moves to roll back Netanyahu’s divisive legacy",
-      "summary": "Israel’s parliament met under a new speaker from the anti-Benjamin Netanyahu bloc on Wednesday, as opponents of the caretaker prime minister began a legislative offensive to roll back his divisive legacy. In the vote for parliament speaker late on Tuesday, 66 lawmakers out of 120",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3374954/israels-parliament-moves-roll-back-netanyahus-divisive-legacy",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/0ff48089-d8ae-4326-adc1-563526de71b4_0c58c70e.jpg?itok=41wfghBu&v=1795014046",
-      "publishedAt": "2026-11-18T15:00:58.000Z",
-      "category": "world",
-      "language": "en",
+      "id": "r880fb0464d009436",
+      "sourceId": "s4",
+      "sourceName": "香港政府新聞網",
+      "title": "9月批16份建築圖則",
+      "summary": "屋宇署9月批出16份建築圖則，港島三份、新界13份，包括四項住宅及商住發展、三項商業發展、七項工廠及工業發展，以及兩項社區服務發展。 獲准動工的建築工程項目四個，完成後將提供住宅樓面面積133,494平方米，涉及單位2,516個，非住宅用途面積達159,085平方米。另外，該署也接獲五個建築項目的上蓋工程動工通知。 月內發出21份入伙紙，港島五份、九龍八份、新界八份，涉及住宅樓面面積30,470平方米，共655個單位；而非住宅用途的建築樓面面積則為100,899平方米。 屋宇署9月接獲3,540宗有關僭建物舉報，發出771張僭建物清拆令。",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261119/20261119_150347_169.html",
+      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261119/20261119_150347_169/images/20261119153255250.jpg",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
       "tags": [
         "香港",
-        "國際"
+        "政府"
+      ]
+    },
+    {
+      "id": "r128addc8f41b969e",
+      "sourceId": "s4",
+      "sourceName": "香港政府新聞網",
+      "title": "下學年逾二千自資副學位獲資助",
+      "summary": "教育局公布， 指定專業/界別課程資助計劃 下學年將資助五所專上院校35個副學位課程共 2,196個學額 。 該35個指定副學位課程屬於七個對人才需求殷切的範疇，分別為建築及工程、電腦科學、創意工業、護理、運動及康樂、檢測及認證、旅遊及款待。 2027至28學年，實驗室為本課程與非實驗室為本課程的年度資助金額將分別為40,730元和23,390元，適用於符合資格的新生和舊生。資助會在課程的正常修業期內發放，獲資助的學生只須支付扣除資助後的學費。 有需要的學生仍可就實際應繳的學費向在職家庭及學生資助事務處轄下的學生資助處申請學生資助。",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261119/20261119_150237_399.html",
+      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261119/20261119_150237_399/images/20261119153914871.jpg",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "政府"
       ]
     },
     {
@@ -1523,54 +1953,6 @@
         "科技",
         "AI",
         "學習"
-      ]
-    },
-    {
-      "id": "r774b5c47a1c49bd8",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "大埔詹屋村單位疑電器短路引致火警 女子吸濃煙不適送院",
-      "summary": "大埔船灣詹屋村一個單位傍晚發生一級火警。一名女子吸入濃煙不適，經救護員初步治理後，清醒送院。 消防處發言人表示，在下午5時59分接報，4分鐘後到達現場，動用一條喉和一隊煙帽隊灌救，火勢於晚上6時18分大致被救熄。 期間約20名居民自行疏散，消防員在起火單位救出兩隻狗及一隻貓，將牠們帶到安全地方。 經調查後，處方相信火警起因沒有可疑。起火位置為涉事單位的客廳，懷疑因電器短路引致。 編輯：鍾慧儀",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878345-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T14:31:56.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "本地"
-      ]
-    },
-    {
-      "id": "r518faad618673a0f",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "北角電燈中心低壓設備異常 一名員工受傷送院",
-      "summary": "港燈表示，下午約5時接報，位於北角電燈中心地下的一台低壓設備出現異常。消防員接報到場後迅速將火救熄。一名港燈員工受傷，清醒送院接受治療。 港燈十分關注員工的情況，正密切跟進並提供適切支援；同時配合有關部門調查事件起因，會進一步檢查相關設備。 北角電燈中心部分樓層的供電受事故影響，客戶的電力供應則維持正常。 編輯：鍾慧儀",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878344-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T13:45:22.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "本地"
-      ]
-    },
-    {
-      "id": "rd1c0e2e67026e164",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "深圳APEC｜學者分析習近平與特朗普已建立不俗關係",
-      "summary": "美國總統特朗普乘坐專機抵達深圳，明日出席亞太經合組織第三十三次領導人非正式會議及元首會晤。國家主席習近平親自到機場迎接，兩人握手擁抱。 中文大學香港亞太研究所副研究員紀緯紋分析，兩人肢體動作表現親近，反映經過今年5月和9月的兩度會談，兩人從個人層面已建立不俗的關係，相信有助在中俄美元首會晤營造良好氣氛，預料會面主要圍繞自由貿易、促進國際合作等議題，不排除在經貿合作方面可達至較具體和明確的共識。 習近平在工商領導人峰會開幕式發表主旨演講時提到，中方支持成立世界灣區經濟合作聯盟。紀緯紋認為，香港作為大灣區城市之一，可以發揮超級協調員角色，向其他APEC經濟體",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878343-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T13:44:33.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
       ]
     },
     {
@@ -1605,22 +1987,6 @@
       ]
     },
     {
-      "id": "r4bb6d0a65a6cd585",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "深圳APEC｜馬來西亞前交通部長：深圳可以引領整個亞太地區",
-      "summary": "亞太「一帶一路」共策會會長、馬來西亞前交通部長翁詩杰說，今次在深圳舉行亞太經合組織會議有重要意義。 他又認為，深圳能夠引領整個亞太地區，成為未來科創領域新浪潮中的領頭羊。 編輯：王濱南",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878323-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T13:15:13.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
       "id": "r532b7b7003db0168",
       "sourceId": "s15",
       "sourceName": "MIT Technology Review",
@@ -1635,38 +2001,6 @@
         "科技",
         "AI",
         "學習"
-      ]
-    },
-    {
-      "id": "rf54130a699e36557",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "張德康承認錯誤切除病人兩邊卵巢犯很低級錯誤 深感抱歉",
-      "summary": "一名45歲女病人在中大醫院接受腹腔鏡子宮及雙側輸卵管切除手術期間，兩邊卵巢被錯誤切除。中大醫院顧問醫生、婦科腫瘤科專科醫生張德康接受本台訪問時承認，他是當日施手術的醫生，他說當時很專注於手術，不希望有不必要創傷、流血等，很專注在一事上時，忽略了另一方面。他形容，事故是不應該發生，亦是很低級、不應該犯的錯誤，深感抱歉。 張德康表示，當晚已立即與病人及家人說明情況，翌日再次在會面上承認錯誤並道歉，承諾會盡量照顧病人，若病人不想繼續留在中大醫院，可安排轉院接受日後的治療，又或留中大醫院但轉其他醫生，最後病人選擇繼續由他跟進及照顧。 張德康說，病人接受了他的道歉",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878336-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T12:30:52.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "本地"
-      ]
-    },
-    {
-      "id": "rae803d8ae27afc08",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "最後幻彩詠香江匯演加入煙火 大批市民遊客見證告別演出",
-      "summary": "有22年歷史的「幻彩詠香江」，今晚8時上演最後一場，維多利亞港兩岸超過40棟大廈配合音樂亮起燈光，包括中環廣場、會展、兩座國際金融中心等，部分大廈更特別發放煙火，匯演歷時約10分鐘。 在匯演開始前、晚上約7時，尖沙咀星光大道已人頭湧湧，不少市民及遊客帶相機到場記錄。 有奧地利旅客表示，從社交媒體得知今晚是最後一場「幻彩詠香江」，首次來觀看，對此很期待。 有市民表示，得悉是最後一場幻彩詠香江，傍晚6時已經到場，準備見證結束一刻。他又說，知道今場會加入煙火元素，期待共同上演的效果。 同樣提早到場的內地旅客表示，專程來看匯演，對此感到期待，過往未曾看過，相信整",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878337-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T12:23:28.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "本地"
       ]
     },
     {
@@ -1686,115 +2020,78 @@
       ]
     },
     {
-      "id": "r3d074f797881251d",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "深圳APEC｜習近平稱領導人會議將討論拓展各領域務實合作機遇",
-      "summary": "國家主席習近平與夫人彭麗媛，在深圳國際交流中心舉行宴會，歡迎出席亞太經合組織領導人非正式會議的來賓。習近平致祝酒辭時說，謹代表中國政府及中國人民，對各位嘉賓的到來表示熱烈歡迎。 習近平說深圳是一個有大故事的地方，1978年他第一次到深圳，看到的還是小漁村，彈指之間40多年過去，如今深圳高樓林立、車水馬龍，變化之大可謂滄海桑田。他說開放是深圳與生俱來的基因、創新是深圳的活力所在、合作是深圳的力量之源。深圳的故事是中國改革開放的縮影，也是亞太合作的成功範例。 習近平又說，亞太經合組織成立以來，開放、創新、合作一直是鮮明標識，始終把握時代脈搏、引領亞太經濟一體",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878335-20261118.htm",
+      "id": "rb097d5e421ea95eb",
+      "sourceId": "s9",
+      "sourceName": "Yahoo 新聞 · 香港",
+      "title": "港千萬富翁平均每13人有1個 多元投資13年或累積千萬身家",
+      "summary": "千萬富翁總有一個喺左右！？花旗香港昨公布《香港千萬富翁調查報告2026》，推算截至今年中，港千萬富翁數目約41.2萬人，按年升4%，即平均每13名港人便有1個。調查亦揭示，多元化投資組合有助加快財富累積，當有第一桶金後約13年有機會成千萬富翁，較集中買股票或做定期快3至7年；而富裕人士亦積極利用人工智能(AI)融入財富管理應用。但花旗強調，財富管理團隊專業判斷與客戶信任仍是核心價值，現階段AI難以完全取代。「千萬富翁」定義指擁有超過1,000萬港元總資產淨值，及至少100萬港元流動資產的人士。花旗於去年12月至今年1月，以及今年8至10月期間，透過街訪及",
+      "url": "https://hk.news.yahoo.com/%E6%B8%AF%E5%8D%83%E8%90%AC%E5%AF%8C%E7%BF%81%E5%B9%B3%E5%9D%87%E6%AF%8F13%E4%BA%BA%E6%9C%891%E5%80%8B-%E5%A4%9A%E5%85%83%E6%8A%95%E8%B3%8713%E5%B9%B4%E6%88%96%E7%B4%AF%E7%A9%8D%E5%8D%83%E8%90%AC%E8%BA%AB%E5%AE%B6-200000271.html",
       "imageUrl": "",
-      "publishedAt": "2026-11-18T12:10:56.000Z",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
       "category": "hk",
       "language": "zh-Hant",
       "tags": [
-        "香港",
-        "本地"
+        "香港"
       ]
     },
     {
-      "id": "re1ea6970e0ae35e3",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "深圳APEC｜習近平：中俄關係「風雨不動安如山」",
-      "summary": "國家主席習近平在深圳，會見出席亞太經合組織領導人非正式會議的俄羅斯總統普京，形容中俄關係「風雨不動安如山」，為變亂交織的世界提供更多穩定性和確定性。 他又說，要深化兩國全方位合作，引領和推動世界多極化和國際關係民主化。 編輯：王濱南",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878333-20261118.htm",
+      "id": "rd87ff8b2f217ec71",
+      "sourceId": "s9",
+      "sourceName": "Yahoo 新聞 · 香港",
+      "title": "誤切病人卵巢 中大醫院致歉 張德康：犯低級錯誤 願承擔責任",
+      "summary": "中大醫院一名45歲女病人9月接受腹腔鏡子宮及雙側輸卵管切除手術期間，被錯誤切除雙側卵巢。中大醫院行政總裁鍾健禮昨就事件致歉，強調事件不涉及道德或技術問題，涉事醫生事後仍獲安排繼續手術。對於院方日前發稿以「短暫認知盲點」解釋出錯原因，鍾否認是「語言藝術」，解釋意即「失神」或「走神」。中大醫院因私隱無公開涉事醫生身份，中大醫院顧問醫生兼婦科腫瘤科專科醫生張德康昨開腔承認錯誤，形容是犯了低級錯誤，表示會承擔責任並作出檢討和反省。他稱當日手術較為複雜，手術開始後腦海中已沒有再想起術前確認資訊，形容事件是自己的失誤，強調會認錯及負責。",
+      "url": "https://hk.news.yahoo.com/%E8%AA%A4%E5%88%87%E7%97%85%E4%BA%BA%E5%8D%B5%E5%B7%A2-%E4%B8%AD%E5%A4%A7%E9%86%AB%E9%99%A2%E8%87%B4%E6%AD%89-%E5%BC%B5%E5%BE%B7%E5%BA%B7-%E7%8A%AF%E4%BD%8E%E7%B4%9A%E9%8C%AF%E8%AA%A4-%E9%A1%98%E6%89%BF%E6%93%94%E8%B2%AC%E4%BB%BB-200000666.html",
       "imageUrl": "",
-      "publishedAt": "2026-11-18T12:07:15.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r5a0cd868675d0975",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "多座中環性標誌建築物外牆今晚至明年1月初呈現光影表演",
-      "summary": "旅發局年度旗艦節慶盛事「香港繽紛冬日巡禮」今日揭幕，文化體育及旅遊局局長羅淑佩在「香港冬日小鎮．中環」啓動禮致辭時表示，今晚至明年1月初，多座中環標誌性建築物外牆將呈現光影表演，而冬日小鎮亦會擴展至尖沙咀及銅鑼灣，帶來雙重的冬日光影體驗，與中環互相輝映，讓市民及旅客感受香港的濃厚節日氣氛。 羅淑佩表示，有22年歷史、曾列入健力士世界紀錄的「幻彩詠香江」亦將於今晚最後一次上演，將加入煙火元素，為經典的匯演劃上圓滿句號。 她又指，旅發局舉辦多項活動，包括國際中秋綵燈匯、大坑舞火龍、香港美酒佳餚巡禮等，深受市民及旅客歡迎，提升夜間的熱鬧氛圍、亦帶旺零售及餐業，",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878332-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T11:46:28.000Z",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
       "category": "hk",
       "language": "zh-Hant",
       "tags": [
-        "香港",
-        "本地"
+        "香港"
       ]
     },
     {
-      "id": "r3e7bdbfd8cde5b2e",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "深圳APEC｜李家超對習近平演講感振奮和鼓舞",
-      "summary": "在深圳出席亞太經合組織會議的行政長官李家超表示，對國家主席習近平在工商領導人峰會開幕式發表的主旨演講，感到十分振奮和鼓舞。 李家超又分別和多個亞太經合組織經濟體領袖雙邊會談，包括越南國家主席蘇林、泰國總理阿努廷和文萊蘇丹哈桑納爾等。 編輯：王濱南",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878329-20261118.htm",
+      "id": "re6e41262dd27340c",
+      "sourceId": "s9",
+      "sourceName": "Yahoo 新聞 · 香港",
+      "title": "造價3千萬鯉魚門嶺南新村公廁獲選最佳公廁 協會︰猶如「六星級公廁」",
+      "summary": "今日是世界廁所日。香港廁所協會昨公布「2026香港最佳公廁選舉」結果，位於鯉魚門海傍道的鯉魚門(嶺南新村)公廁獲頒金獎，並形容猶如「六星級公廁」。惟該公廁造價約3千萬元，協會指，該公廁配備智慧公廁系統，加上地下渠道較為複雜，或致建築成本較高，但亦關注到造價中包含顧問費達500萬元。另外，協會選出3個「香港急待改善廁所」，主要涉及衛生、設施保養及環境管理等問題。香港廁所協會評議逾300個公廁，昨公布「2026香港最佳公廁選舉」結果，鯉魚門(嶺南新村)公廁獲金獎。該公廁於今年完成重建啟用，造價逾3千萬元，協會主席熊志權稱，該公廁整體設計簡約時尚，採光充足，配",
+      "url": "https://hk.news.yahoo.com/%E9%80%A0%E5%83%B93%E5%8D%83%E8%90%AC%E9%AF%89%E9%AD%9A%E9%96%80%E5%B6%BA%E5%8D%97%E6%96%B0%E6%9D%91%E5%85%AC%E5%BB%81%E7%8D%B2%E9%81%B8%E6%9C%80%E4%BD%B3%E5%85%AC%E5%BB%81-%E5%8D%94%E6%9C%83-%E7%8C%B6%E5%A6%82-%E5%85%AD%E6%98%9F%E7%B4%9A%E5%85%AC%E5%BB%81-200000927.html",
       "imageUrl": "",
-      "publishedAt": "2026-11-18T11:45:05.000Z",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
       "category": "hk",
       "language": "zh-Hant",
       "tags": [
-        "香港",
-        "本地"
+        "香港"
       ]
     },
     {
-      "id": "r3951b724c1b3840b",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "【重溫】2026年11月18日新聞天地",
-      "summary": "詳盡報道本地時事、大中華消息、國際局勢等新聞，緊貼最新熱話。",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878317-20261118.htm",
+      "id": "r8b8e675f2ef85174",
+      "sourceId": "s9",
+      "sourceName": "Yahoo 新聞 · 香港",
+      "title": "蔡天鳳案｜稱分屍因要維護兩仔 鄺球認肢解蔡天鳳負全責",
+      "summary": "蔡天鳳碎屍案續審，鄺球供稱，發現蔡天鳳已死亡後沒有報警，是因為想保護幼子鄺港智，並承認由他負責肢解蔡天鳳屍體，但多次以「唔記得」回應處理過程及細節，稱當時精神狀態接近崩潰。他又指分屍是為「維護兩個仔」，惟否認殺人及早有預謀。鄺港智一方提出，鄺港傑及鄺港智曾下車，數分鐘後返回車輛時發現蔡天鳳失去知覺及大量出血，並質疑是鄺球襲擊蔡天鳳所致，又指鄺球與鄺港傑的關係較與鄺港智親密；鄺球否認，並指對兩名兒子「一視同仁」。",
+      "url": "https://hk.news.yahoo.com/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E7%A8%B1%E5%88%86%E5%B1%8D%E5%9B%A0%E8%A6%81%E7%B6%AD%E8%AD%B7%E5%85%A9%E4%BB%94-%E9%84%BA%E7%90%83%E8%AA%8D%E8%82%A2%E8%A7%A3%E8%94%A1%E5%A4%A9%E9%B3%B3%E8%B2%A0%E5%85%A8%E8%B2%AC-200000232.html",
       "imageUrl": "",
-      "publishedAt": "2026-11-18T11:42:27.000Z",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
       "category": "hk",
       "language": "zh-Hant",
       "tags": [
-        "香港",
-        "本地"
+        "香港"
       ]
     },
     {
-      "id": "rcc1b83ed9e0ef818",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "深圳APEC｜香港智利工作假期協議雙方每年各百名額",
-      "summary": "香港與智利簽署協議，設立讓兩地青年參與的雙邊工作假期計劃。協議在行政長官李家超與智利總統卡斯特共同見證下，由勞工及福利局局長孫玉菡與智利外交部部長弗朗西斯科·佩雷斯·麥肯納於深圳舉行的亞太區經濟合作組織第三十三次領導人非正式會議期間簽署。 孫玉菡歡迎計劃，說智利是香港在拉丁美洲的首個工作假期計劃合作夥伴，將為香港和智利的青年提供開拓視野的機會，讓他們親身體驗在不同文化中生活和工作。 弗朗西斯科·佩雷斯·麥肯納表示，香港東西方文化的獨特融合、國際化的視野和充滿活力的經濟，將為智利青年帶來豐富的體驗；也期待香港青年來智利探索當地的豐富文化、熱情好客的民風和秀",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878328-20261118.htm",
+      "id": "r8b2efc4b64022154",
+      "sourceId": "s9",
+      "sourceName": "Yahoo 新聞 · 香港",
+      "title": "22年幻彩詠香江謝幕 市民爆滿送別 旅發局冬日巡禮吸客",
+      "summary": "陪伴市民及旅客22年的「幻彩詠香江」昨晚正式落幕。這項自2004年起每晚照亮維港、曾獲《健力士世界紀錄》認證為全球最大型燈光音樂匯演的標誌性旅遊節目，以加設煙花效果的特別版演出作結，為歷史任務畫上句號。至於原定取代幻彩詠香江的「山頂光影匯」早前已擱置。消息指，由於籌劃大型旅遊項目需時，加上年底尚有多項大型活動需統籌，料最快明年才推新替代方案。臨別之夜，不少觀光船告別航班提早爆滿，尖沙咀星光大道亦聚滿市民及旅客，專程欣賞最後一場演出。市民黃先生特意與太太到場「見證歷史」。他認為匯演多年來吸引力已有所下降，支持退役，並建議未來新項目加入更多科技元素，如無人機",
+      "url": "https://hk.news.yahoo.com/22%E5%B9%B4%E5%B9%BB%E5%BD%A9%E8%A9%A0%E9%A6%99%E6%B1%9F%E8%AC%9D%E5%B9%95-%E5%B8%82%E6%B0%91%E7%88%86%E6%BB%BF%E9%80%81%E5%88%A5-%E6%97%85%E7%99%BC%E5%B1%80%E5%86%AC%E6%97%A5%E5%B7%A1%E7%A6%AE%E5%90%B8%E5%AE%A2-200000374.html",
       "imageUrl": "",
-      "publishedAt": "2026-11-18T11:01:47.000Z",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
       "category": "hk",
       "language": "zh-Hant",
       "tags": [
-        "香港",
-        "本地"
-      ]
-    },
-    {
-      "id": "rdb4e552a763fe9fe",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "深圳APEC｜李家超與智利總統見證簽署雙邊工作假期協議",
-      "summary": "正在深圳的行政長官李家超與多個亞太經合組織經濟體領導人會面和舉行雙邊會談，其中與智利總統卡斯特會面，共同見證簽署設立雙邊工作假期計劃的協議。李家超形容，協議標誌兩地交流由商貿合作進一步延伸至人文和青年層面，不但有助促進民心相通，亦為雙邊關係注入新動力。 李家超表示，智利是香港在拉丁美洲的第三大貿易夥伴，也是香港在拉丁美洲首個工作假期計劃的合作夥伴，相信協議將為兩地青年提供更多工作和文化交流的機會，助他們拓闊國際視野。 李家超亦與馬來西亞總理安華會面。他感謝馬來西亞政府支持香港在當地設立經貿辦，期望兩地在經貿和人文交流有更深更廣的合作。他又說，香港正建設成",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878327-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T10:42:07.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "本地"
+        "香港"
       ]
     },
     {
@@ -1877,22 +2174,6 @@
       ]
     },
     {
-      "id": "r25cb9f14b0ce6313",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "新皇崗口岸開通一個月 367.9 萬人次 離境大堂增 e-道登記處",
-      "summary": "新皇崗口岸由 10 月 12 日開通至 11 月 15 日，累計錄得 3,679,399 旅客人次。11 月 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/18/huanggang-port-e-channel-wait-times/life-tech/travel",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T08:25:00.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
       "id": "re099425c288ca787",
       "sourceId": "s8",
       "sourceName": "BBC 中文",
@@ -1906,22 +2187,6 @@
       "tags": [
         "國際",
         "繁中"
-      ]
-    },
-    {
-      "id": "re88e9e7efa950d33",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "呈祥道修路現「淘寶款」限速牌 路政署證承建商用不合規標誌",
-      "summary": "九龍呈祥道東行在 11 月 13 日晚上至 15 日晚上進行路面維修期間，出現印有「限速」及「km/h」字樣的 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/18/ching-cheung-road-taobao-speed-limit-sign/hottopic/spotlight",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T08:08:00.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
       ]
     },
     {
@@ -1941,38 +2206,6 @@
       ]
     },
     {
-      "id": "rb3cd2dbeb5747780",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "日本 Suica 企鵝明年退休 紫兔奪 86 萬票接棒 網民叫「毒兔子」",
-      "summary": "日本 JR 東日本 11 月 18 日公布交通 IC 卡 Suica 新吉祥物，由一隻紫色兔子接替服務了 25 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/18/suica-penguin-purple-rabbit-mascot-2027/life-tech/epayment",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T07:12:10.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
-      "id": "r209ac798a93d88c2",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "滙豐總行現2,000億元月結單 兩男女涉用假文件開戶被捕",
-      "summary": "中環滙豐銀行總行 11 月 17 日發生懷疑行使虛假文書案。一名 52 歲男子及一名 53 歲女子到銀行申請開 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/18/hsbc-200-billion-statement-false-document-arrest/hottopic/spotlight",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T06:56:29.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
       "id": "r7b36505258143bc1",
       "sourceId": "s18",
       "sourceName": "BBC Technology",
@@ -1988,22 +2221,6 @@
       ]
     },
     {
-      "id": "rd8c4746cc1e55a06",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "APEC 禁飛區首日兩男被捕 南生圍及天水圍涉違規放無人機",
-      "summary": "香港警方 11 月 17 日先後在元朗南生圍及天水圍拘捕兩名男子，涉嫌未經許可在為配合深圳亞太經合組織（APE [&#8230;]",
-      "url": "https://unwire.hk/2026/11/18/apec-hong-kong-drone-restricted-zone-two-arrests/life-tech/drone",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T05:13:05.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
       "id": "r8b19cac3273642ff",
       "sourceId": "s18",
       "sourceName": "BBC Technology",
@@ -2016,54 +2233,6 @@
       "language": "en",
       "tags": [
         "科技"
-      ]
-    },
-    {
-      "id": "r559248a737a4b13c",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "Google Play 香港年度榜單揭曉 19 款得獎 App 及遊戲一覽",
-      "summary": "Google 公布 Google Play 香港 2026 年度最佳排行榜，《威力導演 &#8211; 影片剪 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/18/google-play-hong-kong-2026-best-apps-games/software/android-app",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T04:45:43.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
-      "id": "r6ff93b79ceb48666",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "Google 防禦 AI 優先供日本政府 銀行及重要基建可率先使用",
-      "summary": "Google Cloud 11 月 17 日宣布與日本政府合作加強網絡安全，將優先向國家網絡統括室（NCO）、 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/18/google-cyber-ai-japan-government-early-access/tech-secure",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T04:39:17.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
-      "id": "r7df7eb4e639d9525",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "韓國全國發緊急警報防考生作弊 手機無法靜音響足 10.5 秒 考試期間突擊發送",
-      "summary": "韓國政府宣布，11 月 19 日舉行全國大學修學能力試驗（CSAT，俗稱韓國高考）當日，將向全國手機發送最高級 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/18/korea-csat-emergency-alert-ai-cheating/ai",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T04:38:26.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
       ]
     },
     {
@@ -2112,18 +2281,19 @@
       ]
     },
     {
-      "id": "r06808ad29ffc76ac",
-      "sourceId": "s18",
-      "sourceName": "BBC Technology",
-      "title": "Europe plans to catch the next computer chip wave",
-      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-18T00:00:24.000Z",
-      "category": "tech",
-      "language": "en",
+      "id": "r033f7fffc742a942",
+      "sourceId": "s8",
+      "sourceName": "BBC 中文",
+      "title": "身體最常受傷、卻很少人會刻意鍛鍊的部位：腳踝",
+      "summary": "運動物理治療師珍妮薇芙·陶亞（Genevieve Tawiah）分享了她護理關節的秘訣；關節問題佔急診就診量的 5%。",
+      "url": "https://www.bbc.com/zhongwen/articles/cwj05r347d0lo/trad?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14f3/live/2e24a220-e0f8-11f1-97b9-9110abfffc70.jpg",
+      "publishedAt": "2026-11-18T00:29:38.000Z",
+      "category": "world",
+      "language": "zh-Hant",
       "tags": [
-        "科技"
+        "國際",
+        "繁中"
       ]
     },
     {
@@ -2302,22 +2472,6 @@
       ]
     },
     {
-      "id": "re96790dce60a2b44",
-      "sourceId": "s4",
-      "sourceName": "香港政府新聞網",
-      "title": "四款慳電膽禁止在港供應",
-      "summary": "機電工程署今日公布，陽光牌四款慳電膽的能源效益、功能特性表現未達標，已將之從《能源效益（產品標籤）條例》訂明的表列型號紀錄冊剔除，即日起不得在本港供應。 四款慳電膽由商麗影有限公司進口，型號為S-24A 23W B22 2700K、S-24A 23W E27 2700K、S-16A 12W E14 6400K、S-16A 12W E27 6400K。 署方已向進口商發出通知書，進口商會於報章刊登通告，通知巿民有關產品停止在港供應。",
-      "url": "https://www.news.gov.hk/chi/2026/11/20261118/20261118_112520_814.html",
-      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261118/20261118_112520_814/images/20261118121125582.jpg",
-      "publishedAt": "2026-11-17T16:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "政府"
-      ]
-    },
-    {
       "id": "r1172114aeef066a8",
       "sourceId": "s15",
       "sourceName": "MIT Technology Review",
@@ -2332,21 +2486,6 @@
         "科技",
         "AI",
         "學習"
-      ]
-    },
-    {
-      "id": "r85e62787a33ddab2",
-      "sourceId": "s18",
-      "sourceName": "BBC Technology",
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
-      "publishedAt": "2026-11-17T14:25:45.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
       ]
     },
     {
@@ -2397,96 +2536,6 @@
       ]
     },
     {
-      "id": "re446ad45dd2321c7",
-      "sourceId": "s9",
-      "sourceName": "Yahoo 新聞 · 香港",
-      "title": "餐飲服務活動業失業明顯改善 跌0.3個百分 失業率回落至3.8%",
-      "summary": "政府公布最新失業率，下跌0.1個百分點，回落至3.8%；就業不足率則維持2%不變。勞工及福利局長孫玉菡表示，近月勞工市場大致平穩，展望未來，本地經濟持續擴張、消費氣氛穩健，加上訪港旅遊業繼續增長，預料會為整體勞工市場提供支持。政府公布8至10月經季節性調整的失業率由7月至9月的3.9%回落至3.8%。政府指，與上一個3個月期間比較，多個主要經濟行業的失業率均見下跌，其中餐飲服務活動業跌幅相對較明顯。各行業的就業不足率則變動不一，但幅度普遍不大。期內總就業人數由365.5萬人微跌至365.38萬人，減少約1,200人；總勞動人口則由381萬人減至380.4",
-      "url": "https://hk.news.yahoo.com/%E9%A4%90%E9%A3%B2%E6%9C%8D%E5%8B%99%E6%B4%BB%E5%8B%95%E6%A5%AD%E5%A4%B1%E6%A5%AD%E6%98%8E%E9%A1%AF%E6%94%B9%E5%96%84-%E8%B7%8C0-3%E5%80%8B%E7%99%BE%E5%88%86-%E5%A4%B1%E6%A5%AD%E7%8E%87%E5%9B%9E%E8%90%BD%E8%87%B33-8-200000679.html",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T12:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港"
-      ]
-    },
-    {
-      "id": "rea63341cac45ee41",
-      "sourceId": "s9",
-      "sourceName": "Yahoo 新聞 · 香港",
-      "title": "中大醫院：醫生有短暫「認知盲點」45歲病人雙側卵巢遭誤切",
-      "summary": "香港中文大學醫院為一名女病人進行腹腔鏡子宮及雙側輸卵管切除手術期間，錯誤切除其雙側卵巢。院方指，調查結果顯示涉事醫生在手術期間高度專注處理臨床步驟，出現短暫的「認知盲點」，正嚴肅跟進該醫生的個人責任及會作出處分。另外，港怡醫院一名病人被輸入錯誤劑量的濃縮電解質，院方稱該護士已離職。衛生署9月收到兩宗醫療風險警示事件，其中一宗涉及一名45歲女病人，在私家醫院接受腹腔鏡子宮及雙側輸卵管切除手術期間，其雙側卵巢被錯誤切除，病人情況穩定。涉事的中大醫院表示，手術同意書和原定手術計劃均列明保留雙側卵巢，團隊在手術前亦已完成相關核對，惟護士在核對手術標本時發現問題，",
-      "url": "https://hk.news.yahoo.com/%E4%B8%AD%E5%A4%A7%E9%86%AB%E9%99%A2-%E9%86%AB%E7%94%9F%E6%9C%89%E7%9F%AD%E6%9A%AB-%E8%AA%8D%E7%9F%A5%E7%9B%B2%E9%BB%9E-45%E6%AD%B2%E7%97%85%E4%BA%BA%E9%9B%99%E5%81%B4%E5%8D%B5%E5%B7%A2%E9%81%AD%E8%AA%A4%E5%88%87-200000609.html",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T12:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港"
-      ]
-    },
-    {
-      "id": "r9a6c22fd76e127b2",
-      "sourceId": "s9",
-      "sourceName": "Yahoo 新聞 · 香港",
-      "title": "本地船疑沙洲附近違法用蛇籠捕魚 6人被控明提堂",
-      "summary": "漁護署前晚約8時在沙洲附近水域截停一艘本地漁船，懷疑有人使用蛇籠捕魚，並在船上檢獲一批絞轆。經調查後，一名本地船長及5名內地過港漁工涉嫌違反《漁業保護條例》，昨被落案起訴，案件今日在屯門裁判法院提堂。漁護署表示，任何人在本港水域利用船隻捕魚，船隻必須按《漁業保護條例》登記，並按照本地漁船登記證明書列明的捕魚方法作業。根據相關登記條件，浸籠不得以任何方式互相連接，亦設有尺寸限制，因此使用蛇籠捕魚均屬違法。",
-      "url": "https://hk.news.yahoo.com/%E6%9C%AC%E5%9C%B0%E8%88%B9%E7%96%91%E6%B2%99%E6%B4%B2%E9%99%84%E8%BF%91%E9%81%95%E6%B3%95%E7%94%A8%E8%9B%87%E7%B1%A0%E6%8D%95%E9%AD%9A-6%E4%BA%BA%E8%A2%AB%E6%8E%A7%E6%98%8E%E6%8F%90%E5%A0%82-200000719.html",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T12:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港"
-      ]
-    },
-    {
-      "id": "r55ec9c2413cdba15",
-      "sourceId": "s9",
-      "sourceName": "Yahoo 新聞 · 香港",
-      "title": "兩店涉拖欠寄賣名牌款項 40人報警涉1600萬",
-      "summary": "兩間分別位於金鐘及銅鑼灣的二手名牌寄賣店門市沒有營業，有寄賣名牌手袋的客人發現支票無法兌現，擔心店舖結業及「走數」。警方指截至下午3時，共接到37人報案，指銅鑼灣羅素街一間店舖懷疑拖欠寄賣款項，涉款約1,400萬元。6人報案指金鐘夏愨道一間店舖懷疑拖欠寄賣款項，涉款約260萬元。案件暫列作欺詐處理，案件仍在調查中，並交由灣仔警區重案組及中區警區重案組跟進。有大量網民在社交平台發文，聲稱在金鐘一寄賣店舖寄賣手袋後無法聯絡負責人，到門市想取回寄賣的手袋發現未有營業，有人聲稱損失350萬元。亦有市民稱，收到店舖寄出賣出手袋後的支票，但全部彈票，擔心遭走數。",
-      "url": "https://hk.news.yahoo.com/%E5%85%A9%E5%BA%97%E6%B6%89%E6%8B%96%E6%AC%A0%E5%AF%84%E8%B3%A3%E5%90%8D%E7%89%8C%E6%AC%BE%E9%A0%85-40%E4%BA%BA%E5%A0%B1%E8%AD%A6%E6%B6%891600%E8%90%AC-200000506.html",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T12:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港"
-      ]
-    },
-    {
-      "id": "r6db2511eb113df3f",
-      "sourceId": "s9",
-      "sourceName": "Yahoo 新聞 · 香港",
-      "title": "蔡天鳳案｜買大湯煲做花盆 大笊籬「打邊爐用」 鄺球︰曾匯3000萬予蔡天鳳置業",
-      "summary": "蔡天鳳案續審，蔡前家翁鄺球昨午開始在高等法院作供，就加多利山物業安排、龍尾村單位租住原因，以及警方在單位檢獲的多項物品作出解釋。他供稱，曾透過內地錢莊匯款約3,000萬元予蔡天鳳保管作置業用途，又稱因有健康問題，租住龍尾村是為了養生及方便往返內地。就大湯煲原打算「用嚟做種植躝藤植物花盆」，大笊籬是「打邊爐用」。鄺球供稱，2001年任職警員期間，已於珠海經營地產公司生意，其後因生意上軌道於2005年離開警隊，地產公司共賺取逾500萬元，另購入3個總值400萬元物業；在2009年起在廣州經營餐廳約10年，先後開設3間，每月平均合共獲利24至28萬元，另有從事",
-      "url": "https://hk.news.yahoo.com/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%B2%B7%E5%A4%A7%E6%B9%AF%E7%85%B2%E5%81%9A%E8%8A%B1%E7%9B%86-%E5%A4%A7%E7%AC%8A%E7%B1%AC-%E6%89%93%E9%82%8A%E7%88%90%E7%94%A8-%E9%84%BA%E7%90%83-200000961.html",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T12:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港"
-      ]
-    },
-    {
-      "id": "rf361a5d028cebe9a",
-      "sourceId": "s9",
-      "sourceName": "Yahoo 新聞 · 香港",
-      "title": "尖沙咀聖誕燈飾璀璨揭幕 海港城復刻立體火車站大堂 「閃爍尖東」首推AI光影匯演",
-      "summary": "距離聖誕節尚餘一個多月，維港兩岸已率先換上璀璨節日新裝，為市面增添濃厚佳節氣氛。由東尖沙咀地產發展商聯會主辦的「閃爍尖東耀香江」活動，昨晚舉行亮燈儀式，尖東及海濱長廊多幢大廈外牆燈飾同時亮起，除了有可愛聖誕小鹿、警方人氣防騙吉祥物「提子」燈飾外，更展出全新「Party with DJ Santa」AI光影匯演。海港城亦於同日舉行聖誕布置亮燈儀式，以繽紛悅目的聖誕燈飾照耀維港。",
-      "url": "https://hk.news.yahoo.com/%E5%B0%96%E6%B2%99%E5%92%80%E8%81%96%E8%AA%95%E7%87%88%E9%A3%BE%E7%92%80%E7%92%A8%E6%8F%AD%E5%B9%95-%E6%B5%B7%E6%B8%AF%E5%9F%8E%E5%BE%A9%E5%88%BB%E7%AB%8B%E9%AB%94%E7%81%AB%E8%BB%8A%E7%AB%99%E5%A4%A7%E5%A0%82-%E9%96%83%E7%88%8D%E5%B0%96%E6%9D%B1-%E9%A6%96%E6%8E%A8ai%E5%85%89%E5%BD%B1%E5%8C%AF%E6%BC%94-200000249.html",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T12:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港"
-      ]
-    },
-    {
       "id": "r90d5e50caa3e88de",
       "sourceId": "s20",
       "sourceName": "Smashing Magazine",
@@ -2511,118 +2560,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c637/live/5938bed0-e1b4-11f1-9a3f-99aca912798e.jpg",
       "publishedAt": "2026-11-17T11:44:02.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "國際",
-        "繁中"
-      ]
-    },
-    {
-      "id": "rd5d5d770e5766f90",
-      "sourceId": "s8",
-      "sourceName": "BBC 中文",
-      "title": "特朗普訪華之際 美國封堵中國公司在東南亞租用AI算力的「後門」",
-      "summary": "在美國限制最先進英偉達芯片直接銷往中國的背景下，中國大型互聯網公司和AI實驗室逐漸轉向「只租算力、不買硬件」的模式。芯片部署在第三國數據中心，中國企業再通過互聯網遠程調用算力訓練模型，而無須把相關硬件運入中國。",
-      "url": "https://www.bbc.com/zhongwen/articles/cmpdwn010nyvo/trad?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f965/live/d542c590-e275-11f1-b639-73d1df360b76.jpg",
-      "publishedAt": "2026-11-17T11:37:12.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "國際",
-        "繁中"
-      ]
-    },
-    {
-      "id": "r87b597b28ac77515",
-      "sourceId": "s8",
-      "sourceName": "BBC 中文",
-      "title": "「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？",
-      "summary": "新竹市是民眾黨此前唯一贏得執政權的縣市，現任市長高虹安尋求連任，她這次雖已退出民眾黨、改以無黨籍身分參選，但學者指出其選情不僅將影響雙方未來合作模式能否延續，也可能牽動2028年全國大選的政治布局。",
-      "url": "https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b97f/live/e9e2d1d0-e260-11f1-900c-895604014268.jpg",
-      "publishedAt": "2026-11-17T09:49:49.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "國際",
-        "繁中"
-      ]
-    },
-    {
-      "id": "r54cd7d16c58309b6",
-      "sourceId": "s8",
-      "sourceName": "BBC 中文",
-      "title": "APEC深圳峰會：賴清德派施振榮出席 台灣參會空間再成焦點",
-      "summary": "台灣試圖以企業家身分與科技優勢擴大能見度，中國則以原則框架維持主導權。APEC作為平台，或許能讓雙方同時在場，但仍難以消弭兩岸在全球外交參與的既有分歧。",
-      "url": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e760/live/fbdccce0-e262-11f1-900c-895604014268.jpg",
-      "publishedAt": "2026-11-17T08:44:40.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "國際",
-        "繁中"
-      ]
-    },
-    {
-      "id": "rbf0ee350086542b5",
-      "sourceId": "s20",
-      "sourceName": "Smashing Magazine",
-      "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
-      "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human j",
-      "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up",
-      "imageUrl": "https://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
-      "publishedAt": "2026-11-17T08:00:00.000Z",
-      "category": "other",
-      "language": "en",
-      "tags": [
-        "設計",
-        "學習"
-      ]
-    },
-    {
-      "id": "rf98776fb91c9c3a9",
-      "sourceId": "s8",
-      "sourceName": "BBC 中文",
-      "title": "歐盟峰會前夕 貝安德稱英國脫歐「得不償失」",
-      "summary": "英國首相在倫敦金融城市長晚宴上向與會人士表示，「我們得到的脫歐結果並沒有奏效」。",
-      "url": "https://www.bbc.com/zhongwen/articles/c68x0j2r8lkyo/trad?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b29e/live/e82f8ae0-e210-11f1-a541-6d0c391a4254.jpg",
-      "publishedAt": "2026-11-17T07:52:53.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "國際",
-        "繁中"
-      ]
-    },
-    {
-      "id": "rce6fac0c4f192b1b",
-      "sourceId": "s8",
-      "sourceName": "BBC 中文",
-      "title": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
-      "summary": "當世界領導人本週齊聚深圳，他們將看到一座代表中國未來的科技之城：機器人、AI、摩天大樓，處處展現蓬勃的創新活力。但這很可能只是故事的一半：因為峰會停工的建築工人、為生計奔波的零工群體，對未來有著不同的想像。",
-      "url": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a64b/live/ec420ab0-e1b4-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-17T02:09:22.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "國際",
-        "繁中"
-      ]
-    },
-    {
-      "id": "r072b770c9826bdba",
-      "sourceId": "s8",
-      "sourceName": "BBC 中文",
-      "title": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
-      "summary": "一些俄羅斯富豪渴望回到90年代的寡頭政治體制，當時商人掌握著權力。",
-      "url": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-17T00:34:50.000Z",
       "category": "world",
       "language": "zh-Hant",
       "tags": [
