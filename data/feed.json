@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T17:53:37.008Z",
-  "count": 163,
+  "generatedAt": "2026-11-19T00:03:14.544Z",
+  "count": 164,
   "target": 200,
   "categories": {
-    "tech": 76,
+    "world": 35,
+    "tech": 75,
     "biz": 22,
     "hk": 30,
-    "world": 33,
     "other": 2
   },
   "errors": [],
@@ -17,12 +17,1259 @@
     "信報財經新聞: Google 新聞 0 則（解不出原文 100）",
     "Yahoo 新聞 · 科技: Google 新聞 0 則（解不出原文 100）",
     "Google 新聞 · 香港: Google 新聞 0 則（解不出原文 30）",
-    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 68）",
+    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 58）",
     "Google 新聞 · 門球: Google 新聞 0 則（解不出原文 8）",
     "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 36）",
-    "Google 新聞 · SEN 游泳: Google 新聞 0 則（解不出原文 1）"
+    "Google 新聞 · SEN 游泳: Google 新聞 0 則（解不出原文 2）"
   ],
   "items": [
+    {
+      "id": "r9c06e3f74469c14b",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "‘Bride catalogues’ and fake weddings: inside Indonesia’s China marriage trade",
+      "summary": "The practice of trafficking Indonesian women to China for marriage remains alive and well despite repeated crackdowns by authorities, analysts say, fuelled by economic desperation and a cultural reliance on matchmakers. The persistence of the trade was highlighted last week when ",
+      "url": "https://www.scmp.com/week-asia/people/article/3374952/bride-catalogues-and-fake-weddings-inside-indonesias-china-marriage-trade",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/f03ac049-455f-4fc1-b78a-83d0c82d771d_3567c2ba.jpg?itok=lBgLtXmw&v=1795011704",
+      "publishedAt": "2026-11-19T00:00:11.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rf54701a50e57d940",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:45:00.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "r38cf39f4336db4ed",
+      "sourceId": "s18",
+      "sourceName": "BBC Technology",
+      "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
+      "publishedAt": "2026-11-18T23:44:27.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "rae550010e46a4ca5",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0",
+      "summary": "A former Google software engineer accused of making an illegal bet on Polymarket about company search data may face additional charges that he also traded on the release date of its Gemini 3.0 artificial-intelligence model.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:44:22.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r379b25c8156931b1",
+      "sourceId": "s18",
+      "sourceName": "BBC Technology",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T23:42:07.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r9dcf6d3a6b61571c",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "中國、英國、日本9月持有美債規模均下跌",
+      "summary": "美國財政部數據顯示，9月外國持有美國國債規模再度轉跌，回落至9.241萬億美元，按月減少約760億美元。3大債權國日本、英國、中國減有美債規模都跌。 日本連續5個月減持美債，持有規模降至1.063萬億美元，創2024年底以來最低，按月減持0.5%，較2021年11月高位累計減持約20%。 中國持有美債規模降至5639億美元，按月跌4.5%，連續4個月下降，持倉量創逾18年新低，中國是美債第3大持有國家。 至於英國持倉量亦減至9850億美元，按月跌約1%。 數據又顯示，美國9月整體資本淨流入2610億美元，期內，股票淨流入668億美元，幅度按月收窄55%；",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878377-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:36:00.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rf98c9a873313ffbb",
+      "sourceId": "s3",
+      "sourceName": "香港電台 · 財經",
+      "title": "聯儲局會議紀錄：憂通脹加劇 或要加大力度應對",
+      "summary": "聯儲局10月會議紀錄顯示，委員對通脹憂慮加劇，認為或需要加大力度應對通脹上升風險。 會議紀錄指出，近乎所有委員都認為，如果經濟發展趨勢符合預期，就需要進一步加息。少數委員指，通脹可能比預期更為頑固，需要採取更具限制性的政策立場。其中兩人表示，如果數據顯示通脹形勢不利，聯儲局可能需要加息0.5厘。 10月會議維持聯邦基金利率目標區間於3.75厘至4厘不變，只有理事庫克、克利夫蘭聯邦儲備銀行總裁哈瑪克投反對票，兩人都支持加息0.25厘。 另外，會議紀錄又顯示，當局對金融穩定風險進行廣泛評估，關注人工智能巨額投資可能引發問題，為金融體系及經濟帶來風險。不過，聯",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878372-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:33:51.000Z",
+      "category": "biz",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "財經"
+      ]
+    },
+    {
+      "id": "rde0a55499a15f295",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Jane Fraser on IPO Pipeline, AI, & Interest Rate Outlook",
+      "summary": "Jane Fraser, Citi's Chair and CEO, says NVIDIA’s better-than-expected earnings and increased guidance were not the only issues investors were weighing; they were also focused on whether AI-related financing would continue and who would lead the company next. She speaks with Lisa ",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/jane-fraser-on-ipo-pipeline-ai-interest-rate-outlook-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:31:48.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r630af0343de7dee2",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off your team&#8217;",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:25:17.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "r9205a7c666634962",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-1152x648-1738093202.jpg",
+      "publishedAt": "2026-11-18T23:25:04.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r29e7a9ed9e20d747",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
+      "summary": "Gold steadied near a 14-month low after hawkish comments from Federal Reserve officials reinforced expectations for interest-rate hikes stretching into next year.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:24:06.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "re9606aa67960a6c5",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powere",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:18:35.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "r9f4cba9e9420698b",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:17:28.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "rcc53b62c445a362b",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Xi-Trump ties tested as calls grow in Washington for tougher China policy",
+      "summary": "The personal rapport between US President Donald Trump and Chinese leader Xi Jinping is being put to its sternest test yet amid growing congressional pressure over AI chip curbs and broader calls in Washington for a more assertive policy on China, according to experts. The two le",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374969/xi-trump-ties-tested-calls-grow-washington-tougher-china-policy",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/8fb91728-0be5-488b-b447-49024e1854f6_3c6d2ba5.jpg?itok=wM2vPVlu&v=1795043432",
+      "publishedAt": "2026-11-18T23:10:44.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rd938bcea1a8b1edd",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-1152x648.jpg",
+      "publishedAt": "2026-11-18T23:10:39.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r3a4ef04903c5c078",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "US court convicts Florida pastor over plot to assassinate Haiti’s president",
+      "summary": "⁠Christian Emmanuel Sanon, a ⁠US-Haitian pastor accused of conspiring ⁠to assassinate and usurp the Caribbean nation’s last sitting president, has been convicted of all charges linked to the murder by a judge in Miami, the Miami Herald reported on Wednesday. Sanon, 68, could face",
+      "url": "https://www.scmp.com/news/world/americas/article/3374968/us-court-convicts-florida-pastor-over-plot-assassinate-haitis-president",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/74a8f886-877e-44ed-80ec-05a3324eef32_28eed995.jpg?itok=qQVudR04&v=1795043093",
+      "publishedAt": "2026-11-18T23:05:08.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r02b3ca0f6a18a310",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 19",
+      "summary": "Oil steadied after slumping on Wednesday, as traders assessed the outlook for the next phase of the US-Iran conflict.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:03:35.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r688db5182b5a3fed",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Bain Pushes Back LNG Glut Outlook to 2030 as War Tightens Market",
+      "summary": "A looming global glut of liquefied natural gas has been pushed back by more than a year as the conflict in the Middle East disrupts supplies and delays projects, according to Bain & Co., extending a period of tightness that’s delivering higher profits for traders.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/bain-pushes-back-lng-glut-outlook-to-2030-as-war-tightens-market",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T23:02:30.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r8dfcd653e88b0168",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:58:11.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "r1d43854cad4bdfcd",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Former SEC Chair Gary Gensler Warns Anthropic’s Cash Flow Poses Big Risk To AI Economy",
+      "summary": "Gary Gensler, former SEC Chair and Professor of the Practice of Global Economics and Management and Finance at MIT Sloan School of Management, joined Bloomberg’s Romaine Bostick about Anthropic and OpenAI’s corporate governance structure, the evolving role of the SEC, and risk fa",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/fmr-sec-chair-gary-gensler-nvidia-misled-the-public-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:53:04.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r339ca761af0fe491",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Skydance Skips FIFA World Cup Bid as Netflix, Fox Eye $4 Billion Deal",
+      "summary": "Skydance Corp. is opting out of bidding for the US media rights for the next FIFA Men’s World Cup tournaments in what could be one of the costliest and competitive auctions in the global soccer event’s history, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/skydance-skips-fifa-world-cup-bid-as-netflix-fox-eye-4-billion-deal",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:52:49.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r67fda1d4f27a47d1",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Eddie Best on Expectations for Anthropic’s IPO",
+      "summary": "Edward Best, co-chair of Wilkie Farr & Gallagher’s capital markets practice, discusses Bloomberg’s report that Anthropic may price its IPO at $83 per share, up from an initial marketing price of $70. He speaks with Romaine Bostick on \"The Close\". (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/eddie-best-on-expectations-for-anthropic-s-ipo-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:47:54.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "rf9a6fc45cfc57dc5",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Why educational system is broken",
+      "summary": "Article URL: https://keycybermonk.com/edu Comments URL: https://news.ycombinator.com/item?id=50553402 Points: 11 # Comments: 8",
+      "url": "https://keycybermonk.com/edu",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:42:53.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r12cc080c30ae73da",
+      "sourceId": "s3",
+      "sourceName": "香港電台 · 財經",
+      "title": "美元指數逼近104 再創逾1年半新高",
+      "summary": "美元指數連升7個交易日，逼近104關口，高見103.91，升約0.3%，再創逾1年半新高。 美國長債孳息率持續下跌，10年期債息低見5.052厘，跌逾5個基點；30年期債息低見5.4厘。兩年期債息則回升，高見4.836厘，升近5個基點。 其他貨幣較早時表現，英鎊兌美元跌至1.315，歐元兌美元處於1.097以上，澳元兌美元報0.6715，新西蘭元兌美元在0.55以下，美元兌日圓徘徊159.3以上。 編輯：方嘉莉",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878369-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:32:15.000Z",
+      "category": "biz",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "財經"
+      ]
+    },
+    {
+      "id": "r6619e89daf52e3c2",
+      "sourceId": "s3",
+      "sourceName": "香港電台 · 財經",
+      "title": "金價急跌逾3% 創近14個月新低",
+      "summary": "金價創近14個月新低，聯儲局議息會議紀錄及委員公開言論都發出鷹派訊號，推高加息預期，帶動美元造好，不利金價表現。 現貨金一度跌穿每盎司3720美元，跌約3.4%，其後徘徊3725美元。 紐約期金12月合約收報3741.9美元，跌約3.2%。 編輯：方嘉莉",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878368-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:31:04.000Z",
+      "category": "biz",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "財經"
+      ]
+    },
+    {
+      "id": "rba222ba7eda0a9ed",
+      "sourceId": "s3",
+      "sourceName": "香港電台 · 財經",
+      "title": "憂慮供應過剩 紐約期油曾挫近5% 創近3個月新低",
+      "summary": "油價再度轉跌，數據顯示美國原油及燃料庫存增幅超出預期，加劇市場對供應過剩的擔憂。另外，中東地區針對船舶的襲擊個案有上升趨勢，亦觸發市場憂慮。 布蘭特期油1月合約最多跌3%，每桶低見90.34美元，收報91.95美元，跌約1.3%。 紐約期油12月合約一度急挫約4.7%，跌穿82美元一桶，創近3個月新低，收報83.26美元，跌幅收窄至約3.2%。 美國能源信息署（EIA）數據顯示，受到強勁煉油活動推動，美國上星期燃料庫存上升，汽油庫存增加約520萬桶，蒸餾油庫存增加約160萬桶，兩者都超出預期；原油庫存亦增加約340萬桶，遠多於預期。 編輯：方嘉莉",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878367-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:30:08.000Z",
+      "category": "biz",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "財經"
+      ]
+    },
+    {
+      "id": "r4cddb93e97605bd5",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "LLM Assisted Reverse Engineering",
+      "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 9 # Comments: 0",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:29:13.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "rb8d84226d7b813b6",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Absolute Batman can save DC Studios",
+      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature ",
+      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:27:32.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "r1e54ea37fc0d118c",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "GTA6-like as a 942Kb UEFI bootable image",
+      "summary": "Article URL: https://github.com/eklavya-raj/gta6-uefi Comments URL: https://news.ycombinator.com/item?id=50553192 Points: 17 # Comments: 16",
+      "url": "https://github.com/eklavya-raj/gta6-uefi",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:26:48.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r5c12ba27fbf8cbb3",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Brookfield-Backed Lotto Firm Logs Earnings Hit, Buys Back Bonds",
+      "summary": "Earnings at Brookfield-backed lottery business Scientific Games Holdings LP fell in the last quarter, hurt by one-time costs related to delayed contract completions, according to people with knowledge of the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/brookfield-backed-lotto-firm-logs-earnings-hit-buys-back-bonds",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:22:20.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r33e65f89b37d91f0",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Nvidia’s rise, visualized",
+      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary found",
+      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:18:53.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "rccc485cdc84d60bd",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
+      "summary": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors. A decent one can easily cost $1,000 if not $2,000 now. But it looks like Lenovo might be about ",
+      "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:12:45.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "r55973e91bd3199ca",
+      "sourceId": "s3",
+      "sourceName": "香港電台 · 財經",
+      "title": "港股ADR大多捱沽 騰訊、阿里巴巴跌約3%",
+      "summary": "港股美國預託證券（ADR）大多跌幅顯著。 騰訊業績後股價捱沽，阿里巴巴業績公布前亦受壓，兩者ADR都比本港昨日收市價跌約3%，以港元計，騰訊ADR折合報361.3元，阿里巴巴ADR折合報82.7元。 滙控ADR跌逾2%，折合報132.8元。 中行、港交所、平保、美團、小米ADR跌逾1%至約2%。工行、友邦ADR跌近1%。 建行及京東集團ADR則升，但升幅有限。 編輯：方嘉莉",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878366-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:12:32.000Z",
+      "category": "biz",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "財經"
+      ]
+    },
+    {
+      "id": "rd375d957784134b5",
+      "sourceId": "s3",
+      "sourceName": "香港電台 · 財經",
+      "title": "歐洲股市低收近1%或以上 富時100指數創約6周新低",
+      "summary": "歐洲主要股市持續受壓，跌近1%或以上收市。 英法股市都連跌3日，英國富時100指數收報10551點，跌138點，跌幅1.3%，創約6星期收市低位。 法國CAC指數收報8146點，跌69點，跌幅0.85%，創近兩星期新低。 德國DAX指數收報25736點，跌309點，跌幅近1.2%，連跌4日，創3星期新低。 編輯：方嘉莉",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878365-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:11:59.000Z",
+      "category": "biz",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "財經"
+      ]
+    },
+    {
+      "id": "re625210dfed16c96",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:11:15.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "r920bc4c628c9f6f1",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+      "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-1024x648.jpg",
+      "publishedAt": "2026-11-18T22:08:57.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r7b226d525dcdc54d",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Nasdaq Futures Rise After Anthropic IPO Pricing: Markets Wrap",
+      "summary": "US equity-index futures advanced after Anthropic PBC priced its initial public offering above the marketed range, putting investor appetite for the technology sector to a fresh test following recent losses. Copper declined.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:07:41.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r8dd023e8a94a451c",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+      "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate Majority Leader Joh",
+      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:05:48.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "r1dabf310534233d7",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Palmer Luckey doesn&#8217;t deny that he&#8217;s a prepper",
+      "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T22:04:03.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "r24f224ea48f63912",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T21:57:40.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "re2ee5832a64a981e",
+      "sourceId": "s3",
+      "sourceName": "香港電台 · 財經",
+      "title": "道指低收561點 納指反彈逾0.4% Nvidia未止跌",
+      "summary": "美股3大指數個別發展，聯儲局會議紀錄顯示，在數據顯示通脹升溫前，委員已傾向加息，甚至認為需要加息0.5厘。另一方面，市場正等待Anthropic首次公開發售（IPO）定價，彭博引述消息指，股份定價83美元，高於原先預期的70至78美元。 道瓊斯指數下試5萬點關口，最多跌730點，低見50029點，收報50198點，跌561點，跌幅1.1%，連跌3日，創逾5個月新低。 標普500指數五連跌，收報7323點，跌16點，跌幅逾0.2%，創近4個月低位。 納斯達克指數反彈，收報24429點，升101點，升幅逾0.4%。 Nvidia股價低收近3%，連跌5個交易日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878364-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T21:51:33.000Z",
+      "category": "biz",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "財經"
+      ]
+    },
+    {
+      "id": "r910cf7a4a9b27aaa",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "深圳APEC｜中俄美元首今日舉行三方會談",
+      "summary": "國家主席習近平、俄羅斯總統普京及美國總統特朗普，今日將在深圳舉行三方會談。外交部說，三國元首將就事關全球和平的重要問題，深入交換意見。 俄羅斯克里姆林宫發言人佩斯科夫表示，全球最重要三個國家的領導人將聚在一起，在探討最棘手問題方面，樹立起對話溝通的典範。他預計，三方會晤持續時間不會超過一個小時。 俄羅斯總統助理烏沙科夫就表示，三國領導人將自行決定討論持續多久，強調如果三人討論得非常投入，恐怕沒有人能打斷他們。 編輯︰張萬燕",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878362-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T21:46:45.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r6d1819b0b982fd50",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump ral",
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T21:44:01.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "r9b446f22501bcf4c",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: &#8216;It&#8217;s time to start running&#8217;",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T21:34:13.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "red72d6c44c0d2769",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Gemini 4 Neon",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 329 # Comments: 314",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T21:34:07.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r314fa5ad7726743d",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Palmer Luckey thinks China is &#8216;thrilled to have Jensen out,&#8217; so he wants the ousted Nvidia CEO reinstated",
+      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T21:31:21.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "ra8d83f44c5652f66",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+      "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+      "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/squid1-1152x648.jpg",
+      "publishedAt": "2026-11-18T21:29:24.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r4b44aa1db890fc2f",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "深圳APEC｜普京和特朗普預計將於峰會期間舉行雙邊會談",
+      "summary": "美國和俄羅斯官員表示，美國總統特朗普今日在深圳舉行的APEC峰會期間，預料會與俄羅斯總統普京舉行雙邊會談，隨後還將與中國國家主席習近平舉行三方會晤。 俄羅斯傳媒引述克里姆林宮發言人佩斯科夫表示，特朗普和普京將舉行雙邊會談，但不會安排全面雙邊談判。美國一名官員亦證實這項會晤計劃，但未透露更多細節。 俄羅斯總統助理烏沙科夫表示，普京與特朗普的會晤將在APEC全體會議結束後舉行，俄美代表團數名成員預計將出席。 編輯︰張萬燕",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878361-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T21:17:42.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rcf237d3913ff3661",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Huawei case enters jury deliberations after 2-month battle in US courtroom",
+      "summary": "Jurors began deliberating on Wednesday in the US government’s criminal case against Huawei Technologies, following a two-month trial that has been one of the most high-profile prosecutions of a Chinese technology giant in recent years. Huawei, a Shenzhen-based company, is the wor",
+      "url": "https://www.scmp.com/news/us/article/3374967/huawei-case-enters-jury-deliberations-after-2-month-battle-us-courtroom",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/8c3a2877-f7a8-4027-9b53-c329afc54e9f_10b616d4.jpg?itok=rqwZ7wFM&v=1795035716",
+      "publishedAt": "2026-11-18T21:02:10.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r02704510e33530d4",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+      "publishedAt": "2026-11-18T20:41:12.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r3c9b7adaa599ed74",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "深圳APEC｜加拿大稱特朗普與卡尼會晤討論貿易問題",
+      "summary": "加拿大總理辦公室表示，美國總統特朗普與加拿大總理卡尼，星期三在中國舉行的亞太經濟合作組織APEC會議期間舉行會晤，就兩國在貿易協議方面開展的工作進行討論。 加拿大方面在聲明表示，兩國領導人討論了為達成互惠貿易協議正在開展的工作，相關協議將創造優質就業崗位、提高消費可負擔性，並充分尊重加拿大的語言、文化和主權。雙方同意繼續推進相關工作，並保持密切聯繫。 編輯︰張萬燕",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878359-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T20:24:33.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r17a3201348489d86",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Horizon Labs Report",
+      "summary": "Article URL: https://horizon-labs.ai/ Comments URL: https://news.ycombinator.com/item?id=50551509 Points: 19 # Comments: 4",
+      "url": "https://horizon-labs.ai",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T20:12:34.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r54830effdc9a1e75",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Sam Altman says his life is so weird that he&#8217;s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T20:07:01.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "r2de58a3ceee10d07",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
+      "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 48 # Comments: 31",
+      "url": "https://searchbrowser.app",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T20:04:31.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r3fec895c170b82e1",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Sexp Matrix",
+      "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 28 # Comments: 10",
+      "url": "https://lisper.cc/ideas/entangle.html",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T20:01:50.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "rc426dffb8ffd709a",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T19:56:39.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "reea42e9251c7d716",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+      "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 110 # Comments: 28",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T19:39:16.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r8e5523aace487ddf",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "Best Buy sells Blu-rays online and in-store again",
+      "summary": "Popular titles like The Odyssey are being “sold &#038; shipped by Best Buy.\"",
+      "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey16-1152x648.jpg",
+      "publishedAt": "2026-11-18T19:31:17.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r20e42934f8c107ae",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T19:29:41.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "r7799c54c2aacf467",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Instagram now lets you edit your stories after you post them",
+      "summary": "Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story, Instagram head Adam Mosseri has announced. Reverse engineer Alessand",
+      "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T19:29:10.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "rf0403bcfce3fd3ab",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "巴基斯坦成功試射「法塔赫－3」超音速巡航導彈",
+      "summary": "巴基斯坦陸軍成功試射「法塔赫－3」超音速巡航導彈。 巴基斯坦三軍新聞局發表聲明說，「法塔赫－3」超音速巡航導彈配備先進的導航和推進系統，能對遠距離目標實施高精度、高殺傷力打擊，將顯著提升巴陸軍火箭部隊的作戰靈活性和打擊範圍。 聲明又說，巴基斯坦總統扎爾達里、總理夏巴茲、陸軍參謀長穆尼爾祝賀導彈成功試射。 編輯︰張萬燕",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878358-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T19:22:43.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r4047224a6410b4d7",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg",
+      "publishedAt": "2026-11-18T19:19:33.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r0701c5a92d38b259",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a",
+      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T19:07:29.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "r9ac5a4a0896f8ee0",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "US and Venezuela sign deal to re-establish military ties during Hegseth visit",
+      "summary": "The United States and Venezuela have signed a deal to re-establish military ties, from training to intelligence sharing, US Defence Secretary Pete Hegseth said Wednesday on a visit with the South American nation’s interim leaders. Hegseth said that following the January capture o",
+      "url": "https://www.scmp.com/news/world/americas/article/3374965/us-and-venezuela-sign-deal-re-establish-military-ties-during-hegseth-visit",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fae98942-4ea0-425d-94b7-4d5663b30c32_8b9ad221.jpg?itok=TiAzUym6&v=1795028454",
+      "publishedAt": "2026-11-18T19:01:08.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r10acb1f7b5570e21",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
+      "summary": "Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED televisions. It’s currently discounted by $1,100 at various retailers, ",
+      "url": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T19:00:42.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "r92a50ef55bdffcc9",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "美國民主黨提名傑弗里斯為眾議院議長",
+      "summary": "美國民主黨提名現任眾議院民主黨領袖傑弗里斯為眾議院議長，他有望成為美國歷史上首位非洲裔眾議院議長。 眾議院民主黨黨團星期三舉行閉門投票通過有關提名，但傑弗里斯仍需在明年1月新一屆眾議院全體會議投票中獲得過半數支持，才可正式出任議長。 美國民主黨在月初的中期選舉奪回國會參眾兩院控制權，新一屆國會任期將在明年1月3日開始。 編輯︰張萬燕",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878357-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T18:52:17.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r433165b29d777a00",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Genie 4 is now available",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 169 # Comments: 139",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T18:49:51.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "rb0c77095759ef241",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "The best early Black Friday deals you can already shop",
+      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T18:46:46.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "rf3175d1ec641d6b8",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
+      "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-1152x648-1795023886.jpg",
+      "publishedAt": "2026-11-18T18:46:08.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r13ab13abe6fc5577",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "El Salvador’s Bukele says his troops destroyed gang leader’s mansion in Haiti",
+      "summary": "El Salvador’s President Nayib Bukele said on Wednesday that his troops had demolished the lavish home of a prominent gang leader in Haiti known as Jeff. It was not immediately clear if he was killed. Bukele posted a video on social media that begins with old footage of Jeff posin",
+      "url": "https://www.scmp.com/news/world/americas/article/3374964/el-salvadors-bukele-says-his-troops-destroyed-gang-leaders-mansion-haiti",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/572f6b0d-53d8-4aaf-95a5-8b4f4a10fda6_f6254c5e.jpg?itok=CBLRdX8v&v=1795026872",
+      "publishedAt": "2026-11-18T18:34:47.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rc00b733361230e5f",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "The &quot;shameful&quot; measles data that lost the US its elimination status",
+      "summary": "Measles became endemic in the US months ago—and it's only accelerating.",
+      "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-1152x648.jpg",
+      "publishedAt": "2026-11-18T18:30:23.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r0d8539c536c834b6",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "The Magic of Partial Evaluation",
+      "summary": "Article URL: https://jimmyhmiller.com/magic-of-partial-evaluation Comments URL: https://news.ycombinator.com/item?id=50550096 Points: 85 # Comments: 22",
+      "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T18:29:03.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r84977d51f2627cf2",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "Will Wright&#039;s next simulation will use AI to mine content from your memories",
+      "summary": "With MyMems , Wright says he wants to \"turn the simulation inward.\"",
+      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
+      "publishedAt": "2026-11-18T18:10:33.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "rfd24cad05c8da656",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "商務部：中韓自貿協定第二階段談判實質性完成",
+      "summary": "商務部表示，中韓雙方以兩國元首重要共識為指引，推進中韓自貿協定第二階段談判，歷經8年多時間，在近日實質性完成，達成互利共贏的高水平談判成果。 商務部國際司負責人表示，中韓自貿協定第二階段對原中韓自貿協定投資、服務貿易、金融服務和經濟合作章及有關附件進行升級，進一步提升了雙方投資和服務自由化、便利化規則水平，並採用負面清單模式針對投資、跨境服務貿易、金融服務等領域作出開放承諾，為後續雙向投資和服務貿易往來建立了透明、穩定、可預期的准入規則。另外，雙方又制定了經濟合作領域具體實施安排，涵蓋傳統醫學服務合作、文化合作和網路服務合作等內容，並細化雙方溝通交流的相",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878355-20261119.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T18:07:30.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r878123945af022b7",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork",
+      "summary": "Trinidad Navarro knows how to hunt down wrongdoing.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/probe-of-mark-walter-s-insurers-spotlights-gaps-in-regulatory-patchwork",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T18:04:19.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "re9314f100d1188f4",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Chinese executive convicted in case linked to Bangkok tower collapse",
+      "summary": "A court in Thailand on Wednesday found a Chinese executive and Thai shareholders of a Thai subsidiary of a Chinese state-owned construction company guilty of illegally operating a business in Thailand in a case related to the collapse of a Bangkok office building last year. At le",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374963/chinese-executive-convicted-case-linked-bangkok-tower-collapse",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/d90af21c-0ae6-402d-9deb-8a278986d3e6_8879edfc.jpg?itok=ul16P3tB&v=1795025016",
+      "publishedAt": "2026-11-18T18:03:50.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r28f8b7b297e597d1",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
+      "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
+      "url": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PXL_20261114_225616002-1152x648.jpg",
+      "publishedAt": "2026-11-18T17:53:59.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "r03fb548959c49b3b",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/ Comments URL: https://news.ycombinator.com/item?id=50549493 Points: 145 # Comments: 84",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "imageUrl": "",
+      "publishedAt": "2026-11-18T17:45:47.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
     {
       "id": "r78e0607ecf6f8fd1",
       "sourceId": "s18",
@@ -36,104 +1283,6 @@
       "language": "en",
       "tags": [
         "科技"
-      ]
-    },
-    {
-      "id": "r4aab2e3d59371433",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "More banks says customers using AI agents are on their own — even if they get hacked",
-      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T17:32:10.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "rc93b7a98ef1e3e94",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "David Ellison says HBO will air critical Elon Musk documentary despite $1B investment in Skydance",
-      "summary": "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.",
-      "url": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T17:30:56.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "r70a5aa80252b3959",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Credit Chiefs Warn of ‘Fear Factor’ With Debt Repricing",
-      "summary": "Credit chiefs warned that a sharp repricing across fixed-income markets is likely to continue as interest rates remain elevated, putting greater pressure on weaker borrowers. Speaking at Bloomberg’s Global Credit Forum in London, investors point to growing fear in credit markets,",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/credit-chiefs-warn-of-fear-factor-with-debt-repricing-video",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T17:30:05.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "r3b7e2cf80c8da278",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
-      "summary": "A Bank of Canada official says policymakers are publishing scenario analyses more frequently to guide market participants along the potential path for interest rates amid more frequent shocks.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/bank-of-canada-says-april-scenario-analysis-telegraphed-hike",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T17:30:00.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "r59dfc349ecef6a27",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Launch HN: Maritime (YC F26) – The managed cloud for production AI agents",
-      "summary": "Hi HN, we're Ary and Maria, co-founders of Maritime ( https://maritime.sh ). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents. Demo: https://www.youtube.com/watch?v=lCWMdBQ96rY There’s been an explosion of",
-      "url": "https://news.ycombinator.com/item?id=50549188",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T17:26:28.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "rf32909ef155a740e",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Blackstone's Chant Says Structured Deals Are Fit for Insurance Money",
-      "summary": "Victoria Chant, senior managing director and global head of capital markets and bank relations at Blackstone Credit and Insurance, says structured deals in private investment-grade can help quality-conscious insurers and pension funds increase returns. She speaks at Bloomberg’s G",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/structured-deals-fit-for-insurance-money-blackstone-md-video",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T17:20:28.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
       ]
     },
     {
@@ -153,52 +1302,19 @@
       ]
     },
     {
-      "id": "r92f50607556d9e84",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Stocks Fall as Nvidia’s Earnings Rally Sputters",
-      "summary": "Wall Street saw renewed volatility as Nvidia Corp.’s post-earnings rally fizzled out, a sign that investors are looking for more evidence about the durability of the artificial-intelligence trade. John Mowrey, CIO at NFJ Investment Group, brings us into the market open and talks ",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/stocks-fall-as-nvidia-s-earnings-rally-sputters-video",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T17:16:40.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "rccd6ca4b2c33a347",
+      "id": "r54c12fb0be146ed8",
       "sourceId": "s16",
       "sourceName": "Hacker News",
-      "title": "Stop Deploying to ECS Just to See If Your Code Works",
-      "summary": "Article URL: https://metalbear.com/blog/stop-deploying-to-ecs/ Comments URL: https://news.ycombinator.com/item?id=50548828 Points: 23 # Comments: 2",
-      "url": "https://metalbear.com/blog/stop-deploying-to-ecs",
+      "title": "CrossPoint Reader",
+      "summary": "Article URL: https://crosspointreader.com Comments URL: https://news.ycombinator.com/item?id=50548991 Points: 91 # Comments: 47",
+      "url": "https://crosspointreader.com",
       "imageUrl": "",
-      "publishedAt": "2026-11-18T17:05:13.000Z",
+      "publishedAt": "2026-11-18T17:14:31.000Z",
       "category": "tech",
       "language": "en",
       "tags": [
         "科技",
         "工程"
-      ]
-    },
-    {
-      "id": "r267e52aab54660c5",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-      "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:59:00.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
       ]
     },
     {
@@ -214,70 +1330,6 @@
       "language": "en",
       "tags": [
         "科技"
-      ]
-    },
-    {
-      "id": "rad68f655db542b35",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
-      "summary": "After releasing a $28 leak sensor earlier this year that conveniently runs off a battery for two years, Shelly is announcing an accompanying smart valve you can install on your home's main water line to automatically turn off the flow when one of those sensors detects a problem. ",
-      "url": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:58:29.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "r7bbd629674d7c7d9",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Newsmax Sues to Block Fox From Integrating With Roku",
-      "summary": "Conservative news channel Newsmax Inc. sued Fox Corp. Wednesday seeking to block the company’s integration of its $22 billion merger with Roku Inc.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/newsmax-sues-to-block-fox-from-integrating-with-roku",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:58:20.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "r6b20311218a935c1",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Interest-Rates are 'Normal for Longer,' Not Higher, Says Ed Yardeni",
-      "summary": "Fed officials left rates steady last month after raising their benchmark rate in September for the first time in three years. Since the last meeting, officials have signaled broad agreement over additional hikes, but offered differing views on the appropriate pace. Ed Yardeni, Fo",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/rates-are-normal-for-longer-not-higher-says-yardeni-video",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:44:08.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "re04c8e3138c350f6",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 P",
-      "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:41:22.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
       ]
     },
     {
@@ -297,22 +1349,6 @@
       ]
     },
     {
-      "id": "r2833f9ea24b01877",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
-      "summary": "Meta's initiative to make Instagram safer for schools stemmed from efforts to increase user \"acquisition,\" \"friending,\" and \"invites,\" according to a report from NPR. Internal documents revealed as part of a group of child safety lawsuits against Meta reference a \"Project Gryffin",
-      "url": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:40:44.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
       "id": "rfd032c4d79587b19",
       "sourceId": "s7",
       "sourceName": "SCMP",
@@ -329,26 +1365,10 @@
       ]
     },
     {
-      "id": "rf9dba962731e71c5",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Warsh Is Closer to Waller on Fed Policy, Gopinath Says",
-      "summary": "Gita Gopinath, former IMF deputy managing director, says Fed Chair Kevin Warsh has to \"walk the talk\" when it comes to bringing inflation down to its target of 2%. She says Warsh is closer to Fed Governor Christopher Waller on monetary policy. Waller is calling for a half-point h",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/warsh-is-closer-to-waller-on-fed-policy-gopinath-says-video",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:33:05.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
       "id": "rc6e7a9fe30e93c74",
       "sourceId": "s19",
       "sourceName": "Bloomberg Markets",
-      "title": "Chicago’s Third CFO This Year Saw Budget Red Flags Before Exit",
+      "title": "Chicago’s Third CFO This Year Saw Red Flags Before Exit",
       "summary": "The sudden departure of Chicago’s third chief financial officer in a year came after she repeatedly raised concerns about budgeting practices, including inconsistent deficit calculations.",
       "url": "https://www.bloomberg.com/news/articles/2026-11-18/chicago-s-third-cfo-this-year-saw-budget-red-flags-before-exit",
       "imageUrl": "",
@@ -358,69 +1378,6 @@
       "tags": [
         "財經",
         "商業"
-      ]
-    },
-    {
-      "id": "ra0a43cc3fab59abb",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Will Wright’s next game uses AI to map your memories",
-      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explo",
-      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:27:13.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "r3ee981d11ca9f45f",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Software Factory builds 30 complex open source libraries in a month",
-      "summary": "Article URL: https://recursiveai.org/blog/what-my-software-factory-built/ Comments URL: https://news.ycombinator.com/item?id=50548281 Points: 11 # Comments: 24",
-      "url": "https://recursiveai.org/blog/what-my-software-factory-built",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:26:42.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r692880e307b202ea",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Remember the frontier AI pause? Chip companies don’t either",
-      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slow",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:25:30.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "r7e0fc9e1e260e474",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
-      "summary": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
-      "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg",
-      "publishedAt": "2026-11-18T16:24:34.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
       ]
     },
     {
@@ -440,151 +1397,6 @@
       ]
     },
     {
-      "id": "ra9fc54a8756f55e6",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "RFC 2675: IPv6 Jumbograms",
-      "summary": "Article URL: https://www.rfc-editor.org/info/rfc2675/ Comments URL: https://news.ycombinator.com/item?id=50548214 Points: 10 # Comments: 3",
-      "url": "https://www.rfc-editor.org/info/rfc2675",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:22:23.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "ra87f43d1e7223b6b",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-      "summary": "Voyager 1 reached one light-day from Earth today. On the site you can: - see where both Voyagers are right now - open a nuclear battery to its 24 plutonium spheres - go into the data computer, down to a single memory chip - see how the Golden Record's cover explains how to play i",
-      "url": "https://rshekhar.com/voyager",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:18:51.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r255776671862062e",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "OpenAI CEO Sam Altman says it&#8217;s &#8216;hard to imagine the AI industry without Jensen&#8217;",
-      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:14:09.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "rfec55abdd38f1379",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "New York MTA’s Budget Risks $1 Billion Shortfall in 2030",
-      "summary": "New York City’s transit system is projecting a nearly $1 billion budget gap in 2030 as increasing healthcare and fuel costs outpace its revenue growth.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/new-york-mta-s-budget-risks-1-billion-shortfall-in-2030",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:10:40.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "r36172ae06c213c7f",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "SuperEMeans: Making e-means 3× faster",
-      "summary": "Article URL: https://www.lkuffo.com/superemeans/ Comments URL: https://news.ycombinator.com/item?id=50548038 Points: 14 # Comments: 0",
-      "url": "https://www.lkuffo.com/superemeans",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:09:50.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r71407a7c509258f0",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
-      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 112 # Comments: 72",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:08:24.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r370b8507c99e5cc9",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird",
-      "summary": "The 8BitDo 64 was a loose remake of the Nintendo 64's unusual triple-grip controller that did away with that gamepad's centered analog stick. But with its new GC Bluetooth Gamepad, 8BitDo has done a much better job at staying faithful to the design of the Nintendo GameCube's exce",
-      "url": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:08:15.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "r6bfa13b53da3174c",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
-      "summary": "Article URL: https://www.terra.security/blog/kvm-guest-to-host-escape Comments URL: https://news.ycombinator.com/item?id=50548004 Points: 68 # Comments: 29",
-      "url": "https://www.terra.security/blog/kvm-guest-to-host-escape",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:06:21.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "ra3554ddec594b7ad",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
-      "summary": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 31 # Comments: 1",
-      "url": "https://exitpath-ruddy.vercel.app",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:04:43.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
       "id": "r6b285a5a76729a1a",
       "sourceId": "s7",
       "sourceName": "SCMP",
@@ -598,55 +1410,6 @@
       "tags": [
         "香港",
         "國際"
-      ]
-    },
-    {
-      "id": "ree0fe4fffdc45283",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "Sony&#8217;s updated turntable is an easy entry into the world of vinyl",
-      "summary": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
-      "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T16:00:00.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "r0c5602239bef3f83",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Ratwires – The Graffiti Wall of the Internet",
-      "summary": "Article URL: https://ratwire.space/ Comments URL: https://news.ycombinator.com/item?id=50547813 Points: 5 # Comments: 0",
-      "url": "https://ratwire.space",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T15:52:01.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r516b392202c3830c",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 44 # Comments: 17",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T15:49:34.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
       ]
     },
     {
@@ -746,55 +1509,6 @@
       ]
     },
     {
-      "id": "reb376a87e7df2aee",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
-      "summary": "Also, the mobility startup that spun out of Rivian last year, has run into another speed bump. The company was already struggling to get its first e-bikes to customers due to a litany of supply chain headaches and the complexity of building a futuristic bike powered almost entire",
-      "url": "https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T14:56:43.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "r3c20e7ef431e77cb",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
-      "summary": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
-      "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T14:55:13.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "rb8f12a8ba7b9be29",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "North Korean enrichment facility extension ‘externally complete’: IAEA",
-      "summary": "A further extension of an enrichment facility in North Korea has been “externally complete” since last month, UN nuclear watchdog head Rafael Grossi has said. Inspectors of the International Atomic Energy Agency (IAEA) have not had access to North Korea since 2009, with the agenc",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3374948/north-korean-enrichment-facility-extension-externally-complete-iaea",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/7ca61de2-8aad-481d-9728-d53ec2d2ced8_b6a76729.jpg?itok=a39ttw72&v=1795010174",
-      "publishedAt": "2026-11-18T14:50:07.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
       "id": "r03c5f22ead5fdd0b",
       "sourceId": "s15",
       "sourceName": "MIT Technology Review",
@@ -812,54 +1526,6 @@
       ]
     },
     {
-      "id": "r85249f53845c6ab9",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "美國10月新屋動工按月轉升9.9% 多過市場預期",
-      "summary": "美國10月新屋動工按月轉升9.9%，以年率計有130.9萬間，多過市場預期124.5萬間，按年升2.8%。9月則按月下跌7%。 另外，10月建築許可減少7.4%，以年率計為129.5萬間，少過市場預期137.7萬間，按年跌8.7%。9月則按月下跌0.4%。 編輯：羅煒皓",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878342-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T14:42:32.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
-      "id": "r37b8910ae0a4dec9",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "港交所委任伍穎思及康逸飛為管理層",
-      "summary": "港交所公布，委任伍穎思為董事總經理及市場監察主管（候任），下周一履新，向營運主管陳頌詩匯報，並將於明年6月起接替即將退休的王秉厚。集團指，伍穎思在監察、合規及風險管理方面有豐富經驗，有助加強市場監督，維護市場誠信。 另外，康逸飛（Efe Cummings）獲委任為董事總經理及營運風險及韌性主管的新設職位，將於本月30日加入港交所，向集團首席風險總監房觀明匯報。 港交所表示，康逸飛將全面負責港交所的營運風險與韌性建設，職責覆蓋營運韌性；營運風險管理，包括風險與控制評估及獨立監督；第三方風險管理，包括引入第三方、盡職審查及持續監督，以及網絡安全風險及資訊科技",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878340-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T14:42:05.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
-      "id": "r2858e4e1f184959a",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "The Verge’s 2026 holiday gift guide for travelers",
-      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you l",
-      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T14:36:21.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
       "id": "r774b5c47a1c49bd8",
       "sourceId": "s1",
       "sourceName": "香港電台 · 本地",
@@ -873,148 +1539,6 @@
       "tags": [
         "香港",
         "本地"
-      ]
-    },
-    {
-      "id": "r7ea96e3df5725eda",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Nvidia isn’t selling any more AI chips to China",
-      "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the compan",
-      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T14:28:38.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "ra862898b7e3fdc01",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "NASA’s Voyager 1 probe is now 1 light-day away",
-      "summary": "After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: The spacecraft is now officially 1 light-day away from Earth, which is, as NASA put it, \"very, very far.\" The probe crossed the milepost on Wednesday at 5:16AM ET and is now 16.094 bi",
-      "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T14:15:21.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "rf56aad1c95d11b62",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "A tarmac hug with Xi and a handshake with Putin, how Trump began his China visit",
-      "summary": "Handshakes, warm welcomes and carefully staged photo opportunities defined US President Donald Trump’s first day in Shenzhen on Wednesday, as China showcased its diplomatic priorities ahead of a planned three-way summit with Russia. Here are the key moments from the day. Xi’s per",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374951/tarmac-hug-xi-and-handshake-putin-how-trump-began-his-china-visit",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/b4eb1a4d-ac48-4c49-aa61-bf65f66143d7_771a68f7.jpg?itok=W8qgkTzu&v=1795011075",
-      "publishedAt": "2026-11-18T14:12:20.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rb572d45e9cb82601",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Hong Kong’s ‘Symphony of Lights’ goes out with a bang: ‘end of an era’",
-      "summary": "Hong Kong’s “A Symphony of Lights” has taken its final bow over Victoria Harbour, closing a 22-year run with rooftop pyrotechnics as tourism authorities launch an expanded WinterFest. Thousands of tourists and Hong Kong residents flocked to the Tsim Sha Tsui harbourfront to watch",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374950/end-era-hong-kongs-symphony-lights-goes-out-bang",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/22655006-d306-4e73-a60a-ad85ded0d97c_ac148b6e.jpg?itok=Dj7E5OY7&v=1795010575",
-      "publishedAt": "2026-11-18T14:03:01.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "re5b802024111eae7",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
-      "summary": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
-      "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-1152x648.jpg",
-      "publishedAt": "2026-11-18T14:01:45.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "r8a034677cd21b801",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "How China’s ‘carrier nannies’ are powering the Liaoning’s long Pacific push",
-      "summary": "Chinese replenishment ships were seen repeatedly transiting two major waterways around Japan as the Liaoning aircraft carrier conducted an extended western Pacific Ocean deployment that could test its 40-day endurance record. According to Japanese defence ministry statements, the",
-      "url": "https://www.scmp.com/news/china/military/article/3374918/how-chinas-carrier-nannies-are-powering-liaonings-long-pacific-push",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/bcc399d9-1ba6-4db5-ac27-59fb710878d0_82d3b0df.jpg?itok=qg2fK554&v=1794999144",
-      "publishedAt": "2026-11-18T14:00:07.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r379b25c8156931b1",
-      "sourceId": "s18",
-      "sourceName": "BBC Technology",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
-      "publishedAt": "2026-11-18T13:55:14.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "r04387d94a6c029c8",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "China’s first lady Peng Liyuan again lets her English do the talking in welcoming Trump",
-      "summary": "Chinese first lady Peng Liyuan again let her English do the talking as she accompanied President Xi Jinping in welcoming his US counterpart Donald Trump and other leaders to Shenzhen for the Apec summit’s welcome dinner. On Wednesday night, leaders gathered at the Shenzhen Intern",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374946/chinas-first-lady-peng-liyuan-again-lets-her-english-do-talking-welcoming-trump",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/efe6dbb5-9479-42e4-8001-c1ade36601db_9f9dacf5.jpg?itok=20Qg8kpm&v=1795009831",
-      "publishedAt": "2026-11-18T13:50:33.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rf6170029ee7316b3",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Asean, Canada speed up trade pact over Trump, but can it curb US reliance?",
-      "summary": "Canada and Asean are closing in on a free-trade agreement after five years of negotiations – a potential breakthrough that could deepen their economic ties and give businesses more opportunities amid growing uncertainty over global trade. Its greatest value, though, might come fr",
-      "url": "https://www.scmp.com/week-asia/economics/article/3374945/asean-canada-speed-trade-pact-over-trump-can-it-curb-us-reliance",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/4fc17b7f-9d76-4228-82bc-eb68fe969185_b3bf50a4.jpg?itok=VEb5f6Z7&v=1795009694",
-      "publishedAt": "2026-11-18T13:48:29.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
       ]
     },
     {
@@ -1044,22 +1568,6 @@
       "publishedAt": "2026-11-18T13:44:33.000Z",
       "category": "world",
       "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r44c4dac00818a291",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers",
-      "summary": "Japanese Prime Minister Sanae Takaichi and Chinese President Xi Jinping had their first in-person interaction in Shenzhen since last autumn, when ties froze due to her controversial remarks on Taiwan. Takaichi shook hands with Xi and his wife, Peng Liyuan, as they posed for greet",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374944/xi-greets-takaichi-smile-no-words-china-japan-freeze-lingers",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/51f00c88-b9d6-4b27-8d29-05f482089adc_78844d1e.jpg?itok=n3lx4fT2&v=1795009021",
-      "publishedAt": "2026-11-18T13:37:03.000Z",
-      "category": "world",
-      "language": "en",
       "tags": [
         "香港",
         "國際"
@@ -1130,39 +1638,6 @@
       ]
     },
     {
-      "id": "rbd87732c8beabe2d",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "Nvidia clarifies when it will — and won&#8217;t — keep financing neoclouds",
-      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
-      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T13:00:00.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "r4457a441a03355d3",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Tech Stocks Decline as Worries Remain For Nvidia After Earnings",
-      "summary": "US technology stocks erased gains in the wake of Nvidia Corp.’s earnings, while traders looked to the mammoth market debut of Anthropic PBC as the next key test for the artificial intelligence trade.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T12:34:46.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
       "id": "rf54130a699e36557",
       "sourceId": "s1",
       "sourceName": "香港電台 · 本地",
@@ -1211,21 +1686,6 @@
       ]
     },
     {
-      "id": "r86d612fd84c81701",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "Voyager 1 at one light-day: Historian revisits Golden Record&#039;s forgotten details",
-      "summary": "\"They are pretty confident that it's going to last a long, long, long time...\"",
-      "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111826a-lg-1152x648.jpg",
-      "publishedAt": "2026-11-18T12:15:44.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
       "id": "r3d074f797881251d",
       "sourceId": "s1",
       "sourceName": "香港電台 · 本地",
@@ -1250,71 +1710,6 @@
       "url": "https://news.rthk.hk/rthk/ch/component/k2/1878333-20261118.htm",
       "imageUrl": "",
       "publishedAt": "2026-11-18T12:07:15.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r5bad1bb53e999c04",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "深圳APEC｜習近平：中方支持成立世界灣區經濟合作聯盟",
-      "summary": "國家主席習近平在深圳出席亞太經合組織工商領導人峰會開幕式，並發表主旨演講。 他表示，中方願同各方攜手建設亞太共同體，促進亞太共同繁榮，亦支持成立世界灣區經濟合作聯盟，探索亞太經濟合作新路徑。 編輯：王濱南",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878331-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T12:01:38.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rfc3b991f52f12da1",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "深圳APEC｜習近平親自到機場迎接特朗普",
-      "summary": "國家主席習近平下午到深圳機場，迎接出席亞太經合組織第三十三次領導人非正式會議的美國總統特朗普。 習近平、特朗普和俄羅斯總統普京，明天亦會舉行歷史性的三國元首會晤。 編輯：王濱南",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878330-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T12:00:43.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rf24db0d34d87f856",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T12:00:00.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "re666c77049e7dd42",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "深圳APEC｜習近平與夫人為出席來賓舉行歡迎宴會",
-      "summary": "國家主席習近平和彭麗媛，為出席亞太經合組織第三十三次領導人非正式會議的來賓，舉行歡迎宴會。 宴會開始前，習近平和彭麗媛分別與各經濟體的領導人、代表及配偶合照，包括俄羅斯總統普京及日本首相高市早苗等。 美國總統特朗普與習近平夫婦握手，三人短暫交談。在集體合照前，俄羅斯總統普京上前與特朗普握手。 行政長官李家超亦有與習近平和彭麗媛合照。 編輯：羅宇光",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878334-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T11:50:11.000Z",
       "category": "world",
       "language": "zh-Hant",
       "tags": [
@@ -1371,23 +1766,6 @@
       ]
     },
     {
-      "id": "re2525ef5610f7466",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T11:30:00.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
       "id": "rcc1b83ed9e0ef818",
       "sourceId": "s1",
       "sourceName": "香港電台 · 本地",
@@ -1401,38 +1779,6 @@
       "tags": [
         "香港",
         "本地"
-      ]
-    },
-    {
-      "id": "r955b7b13ca1e62c1",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "Grand Theft Auto VI: The Ars Technica review",
-      "summary": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
-      "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg",
-      "publishedAt": "2026-11-18T11:00:27.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "r6c348df18e6c25a7",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "China dominates battery graphite, but this startup could break the monopoly",
-      "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
-      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T11:00:00.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
       ]
     },
     {
@@ -1469,86 +1815,6 @@
       ]
     },
     {
-      "id": "r3fac770adbffdca0",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "騰訊上季經調整盈利按年跌6%遜預期 資本開支急升近5.3倍",
-      "summary": "騰訊第3季盈利636.1億元人民幣，按年增長0.8%，按季升14%；以非國際財務報告準則計，經調整盈利665.2億元，按年跌6%，按季則跌3%，差過市場預期的約671億元。上季收入2073.4億元，按年及按季分別升8%和1%，差過市場預期的約2108億元。 騰訊上季增值服務業務收入逾983億元，按年增長3%，按季基本保持穩定；國際市場遊戲收入189億元，按年跌9%，按季升1%；本土市場遊戲收入476億元，按年升11%，按季升1%。社交網絡收入318億元，按年及按季分別跌1%和2%。 上季營銷服務業務收入430億元，按年增長19%，按季跌1%。集團指，視頻",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878313-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T10:20:00.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
-      "id": "r8ff67285f30f0ae7",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "國泰航空與香港快運上月載客量按年升4%",
-      "summary": "國泰航空與香港快運10月合共接載超過340萬人次乘客，按年增加4%；國泰航空載客量272萬人次，按年升4.5%，載客率微跌至85.7%。首10個月載客量2672萬人次，按年升逾13%。 上月香港快運載客量近70.5萬人次，按年升逾3%，載客率維持76.5%。首10個月載客量升7%至694.6萬人次。 國泰貨運上月載貨量近16.3萬公噸，按年升逾7%，載貨率升至61.8%。首10個月載貨量升近9%至148.6萬公噸。 國泰表示，上月香港及鄰近地區有多個節日、大型活動及展覽，刺激旅遊需求，預期聖誕旅遊高峰需求持續；上月出口需求強勁，帶動貨運業務，相信半導體運",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878319-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T09:54:54.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
-      "id": "rb07cc3a3ec15e330",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "在岸人民幣收市微升 創逾半個月新高",
-      "summary": "在岸人民幣兌美元收市創逾半個月新高，收報6.6653兌1美元，微升2點子。中間價連升5個交易日，創近4年半新高，較市場預測偏弱約460點子。 市場人士認為，中美俄元首會晤在即，預計人民幣變動有限。滙豐認為，近期美元持續走強，加上內地經濟基本面偏弱，抑制人民幣升勢，預計人民幣年底可能維持在6.65兌1美元水平附近，明年有望繼續溫和升值。 編輯:羅煒皓",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878322-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T09:49:56.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
-      "id": "r347f55b4c2672446",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
-      "summary": "Bitcoin has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T09:45:09.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "r6937e0d8855f0796",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "按證公司為225億港元多幣種公募基準債券發行完成定價",
-      "summary": "按揭證券公司公布，成功為總值225億港元的多幣種公募基準債券發行完成定價。 今次發行的多幣種基準債券包括3個批次，包括80億港元3年期、50億元人民幣2年期及11億美元5年期債券，吸引來自本地、債券通「南向通」以及國際機構投資者踴躍認購，覆蓋中央銀行、保險公司、資產管理公司、商業銀行及私人銀行。今次交易在最高峰期的合計認購金額約550億港元等值，最終配售予約160家機構投資者。 按證公司執行董事兼總裁鮑克運表示，今次多幣種債券發行，充分展現香港將融資需求精準對接本地和國際資本的強大實力，為區內潛在發債機構樹立定價基準。此外，離岸人民幣債券發行亦豐富香港離",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878320-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T09:41:43.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
-      ]
-    },
-    {
       "id": "rbf521286bfd690fc",
       "sourceId": "s18",
       "sourceName": "BBC Technology",
@@ -1561,22 +1827,6 @@
       "language": "en",
       "tags": [
         "科技"
-      ]
-    },
-    {
-      "id": "ra231c5e4967fb89f",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "深圳APEC｜習近平與特朗普握手及相擁 兩人短暫交流",
-      "summary": "美國總統特朗普乘坐專機抵達深圳，將出席亞太經合組織第三十三次領導人非正式會議，國家主席習近平乘坐專車到停機坪迎接。 特朗普步出機艙後做出標誌性的揮拳動作，其後與習近平握手、相擁，在機場迎接的代表，不斷揮動手上的兩國旗幟，表示熱烈歡迎特朗普，有小朋友向他獻花，現場其後分別奏起美國和中國國歌，特朗普上車離開前，與習近平短暫交流。 今年9月習近平抵達美國展開國事訪問時，特朗普親自到機場迎接，是相隔超過60年來，再次有美國總統迎接除教宗之外的其他國家元首。 至於今天凌晨抵達深圳的俄羅斯總統普京，中方由中共中央政治局常委、中央書記處書記蔡奇到機場迎接。 中國、俄羅",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878318-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T09:25:58.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
       ]
     },
     {
@@ -1593,22 +1843,6 @@
       "tags": [
         "科技",
         "香港"
-      ]
-    },
-    {
-      "id": "rac2a218cc0293f97",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "深圳APEC｜習近平到深圳機場迎接特朗普",
-      "summary": "美國總統特朗普乘坐專機抵達深圳，將出席亞太經合組織第三十三次領導人非正式會議。 國家主席習近平乘坐專車，到停機坪迎接。 編輯：羅宇光",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878314-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T09:05:55.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
       ]
     },
     {
@@ -1640,22 +1874,6 @@
       "language": "en",
       "tags": [
         "科技"
-      ]
-    },
-    {
-      "id": "r011dcc19bd5d7215",
-      "sourceId": "s3",
-      "sourceName": "香港電台 · 財經",
-      "title": "港股低收213點 京東系績後受壓",
-      "summary": "港股連跌2日。恒生指數最多曾跌300點，收市報23294點，跌213點，跌幅0.91%，主板成交額近1772億元。 科技指數收報3736點，跌0.6%。ATMXJ全線向下，京東系部分股份公布業績後大幅下挫，京東集團低收逾7%，京東健康急跌逾15%，是表現最差兩隻恒指及科指成份股；京東物流跌逾2%，京東工業逆市升近6%。 科網、網上醫療平台、醫藥、資源股大多受壓。金融股亦向下，重磅股友邦及滙控跌近1%至近2%。 三桶油個別發展，中資電信股靠穩。汽車股大多造好，蔚來及小鵬升逾2%至逾3%。 聯想集團逆市升逾4%，是表現最好藍籌股。 編輯：宋家樑",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878307-20261118.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T08:45:01.000Z",
-      "category": "biz",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "財經"
       ]
     },
     {
@@ -1879,23 +2097,6 @@
       ]
     },
     {
-      "id": "r54bc81fe6f90b162",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T01:44:21.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
       "id": "rbe812c722724a9f1",
       "sourceId": "s18",
       "sourceName": "BBC Technology",
@@ -1908,54 +2109,6 @@
       "language": "en",
       "tags": [
         "科技"
-      ]
-    },
-    {
-      "id": "rf8aa325615c6a1c3",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "Copilot is &quot;the new OS for work,&quot; and now Office runs inside of it",
-      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
-      "publishedAt": "2026-11-18T00:27:29.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "rc5d829ab1b9f4acf",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "Nvidia promises that revenue will keep soaring",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T00:16:50.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "r457b97c025ba2e10",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "How The Verge is picking which Black Friday deals to share",
-      "summary": "For the past month, we’ve been inundated with Black Friday deals, signaling what’s to come on the biggest shopping day of the year in the US. We routinely get dozens of press releases a day, coming from brands big and small that hope that we’ll publicize these offers. Of course, ",
-      "url": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
-      "imageUrl": "",
-      "publishedAt": "2026-11-18T00:03:27.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
       ]
     },
     {
@@ -1974,67 +2127,6 @@
       ]
     },
     {
-      "id": "r16eb69b8e6cdd5b4",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "San Diego dumps both Flock cameras and smart streetlights",
-      "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
-      "publishedAt": "2026-11-17T23:09:09.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "rb6026b8a1a0c588e",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-      "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
-      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
-      "publishedAt": "2026-11-17T22:44:46.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "r643860ffcbd1d5ee",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
-      "publishedAt": "2026-11-17T22:32:16.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "rae39df31c07d5e2f",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Stocks Waver as Oil Slump Offsets Nvidia Selloff: Markets Wrap",
-      "summary": "Stocks fluctuated as a decline in oil prices tempered Wall Street’s concerns over the durability of the artificial-intelligence trade despite solid results from Nvidia Corp.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T22:07:08.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
       "id": "r15a80969a707a51d",
       "sourceId": "s9",
       "sourceName": "Yahoo 新聞 · 香港",
@@ -2047,36 +2139,6 @@
       "language": "zh-Hant",
       "tags": [
         "香港"
-      ]
-    },
-    {
-      "id": "r458a899f60ab546e",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
-      "publishedAt": "2026-11-17T20:32:55.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "r42dfccbe31197fec",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "Civilization studio Firaxis Games lays off a third of staff",
-      "summary": "Studio head Heather Hazen is among those departing.",
-      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/civ7-graphics-1-1152x648-1738360684.jpg",
-      "publishedAt": "2026-11-17T19:45:25.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
       ]
     },
     {
@@ -2094,21 +2156,6 @@
         "科技",
         "AI",
         "學習"
-      ]
-    },
-    {
-      "id": "r8e55dc8922788850",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
-      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
-      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/body2-1152x648-1794938366.jpg",
-      "publishedAt": "2026-11-17T18:26:26.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
       ]
     },
     {
@@ -2317,21 +2364,6 @@
         "科技",
         "AI",
         "學習"
-      ]
-    },
-    {
-      "id": "r6cf3f72afcde6cf2",
-      "sourceId": "s18",
-      "sourceName": "BBC Technology",
-      "title": "NHS data contract to stay with Palantir until 2029",
-      "summary": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/b2aca760-54fb-11f1-b682-cf91850925ea.jpg",
-      "publishedAt": "2026-11-17T12:00:12.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
       ]
     },
     {
@@ -2596,23 +2628,6 @@
       "tags": [
         "國際",
         "繁中"
-      ]
-    },
-    {
-      "id": "raf9a497d85c751da",
-      "sourceId": "s15",
-      "sourceName": "MIT Technology Review",
-      "title": "The open-source movement wants Jensen Huang back",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signa",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back",
-      "imageUrl": "",
-      "publishedAt": "2026-11-16T18:38:47.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI",
-        "學習"
       ]
     }
   ]
