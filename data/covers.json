@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T00:43:05.039Z",
+  "generatedAt": "2026-11-19T12:02:17.132Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 4,
+  "count": 5,
   "items": {
     "rf54701a50e57d940": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf54701a50e57d940.jpg",
@@ -12,45 +12,54 @@
       "model": "image-01",
       "bytes": 348516
     },
-    "rae550010e46a4ca5": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rae550010e46a4ca5.jpg",
-      "path": "data/covers/rae550010e46a4ca5.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0",
-      "title": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0",
-      "createdAt": "2026-11-19T00:41:56.427Z",
+    "r44e13257854b8664": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r44e13257854b8664.jpg",
+      "path": "data/covers/r44e13257854b8664.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-11-19/anthropic-ipo-has-stock-bulls-dreaming-of-a-year-end-rally",
+      "title": "Anthropic IPO Has Stock Bulls Dreaming of a Year-End Rally",
+      "createdAt": "2026-11-19T12:00:48.206Z",
       "model": "image-01",
-      "bytes": 248508
+      "bytes": 294990
     },
-    "r9dcf6d3a6b61571c": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r9dcf6d3a6b61571c.jpg",
-      "path": "data/covers/r9dcf6d3a6b61571c.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878377-20261119.htm",
-      "title": "中國、英國、日本9月持有美債規模均下跌",
-      "createdAt": "2026-11-19T00:42:33.393Z",
+    "r2d5d41f9c261623c": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2d5d41f9c261623c.jpg",
+      "path": "data/covers/r2d5d41f9c261623c.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878484-20261119.htm",
+      "title": "深圳APEC｜習近平：中俄美元首會晤種子必將生根發芽開花結果",
+      "createdAt": "2026-11-19T12:01:13.707Z",
       "model": "image-01",
-      "bytes": 293297
+      "bytes": 289800
     },
-    "rf98c9a873313ffbb": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf98c9a873313ffbb.jpg",
-      "path": "data/covers/rf98c9a873313ffbb.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878372-20261119.htm",
-      "title": "聯儲局會議紀錄：憂通脹加劇 或要加大力度應對",
-      "createdAt": "2026-11-19T00:43:04.538Z",
+    "r92735e86a72b44f1": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r92735e86a72b44f1.jpg",
+      "path": "data/covers/r92735e86a72b44f1.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-19/trump-xi-and-putin-hold-unprecedented-trilateral-talks-video",
+      "title": "Trump, Xi and Putin Hold Unprecedented Trilateral Meeting",
+      "createdAt": "2026-11-19T12:01:51.281Z",
       "model": "image-01",
-      "bytes": 322385
+      "bytes": 315826
+    },
+    "r3ae567881c24eb2d": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r3ae567881c24eb2d.jpg",
+      "path": "data/covers/r3ae567881c24eb2d.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-19/koenigsegg-stake-sale-values-hyper-car-maker-at-1-3-billion",
+      "title": "Koenigsegg Stake Sale Values Hyper-car Maker at €1.3 Billion",
+      "createdAt": "2026-11-19T12:02:16.630Z",
+      "model": "image-01",
+      "bytes": 343576
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 32,
+    "need": 25,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 4,
+    "dailyCount": 8,
     "dailyMax": 16,
     "dailyKey": "2026-11-19"
   },
   "dailyKey": "2026-11-19",
-  "dailyCount": 4
+  "dailyCount": 8
 }
