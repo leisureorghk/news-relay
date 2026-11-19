@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-11-18T15:57:38.220Z",
+  "generatedAt": "2026-11-19T00:43:05.039Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
   "count": 4,
   "items": {
-    "r724b86ce4760dcf3": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r724b86ce4760dcf3.jpg",
-      "path": "data/covers/r724b86ce4760dcf3.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-18/delevska-need-a-strong-leader-to-run-nvidia-video",
-      "title": "Delevska: Need a Strong Leader to Run Nvidia",
-      "createdAt": "2026-11-18T15:55:33.166Z",
+    "rf54701a50e57d940": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf54701a50e57d940.jpg",
+      "path": "data/covers/rf54701a50e57d940.jpg",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
+      "title": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
+      "createdAt": "2026-11-19T00:41:31.625Z",
       "model": "image-01",
-      "bytes": 286552
+      "bytes": 348516
     },
-    "rf661df36e145023c": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf661df36e145023c.jpg",
-      "path": "data/covers/rf661df36e145023c.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878289-20261118.htm",
-      "title": "特朗普：美菲擴大防務合作 不擔心南海局勢",
-      "createdAt": "2026-11-18T15:56:09.650Z",
+    "rae550010e46a4ca5": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rae550010e46a4ca5.jpg",
+      "path": "data/covers/rae550010e46a4ca5.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0",
+      "title": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0",
+      "createdAt": "2026-11-19T00:41:56.427Z",
       "model": "image-01",
-      "bytes": 347607
+      "bytes": 248508
     },
-    "r377c00c7fdfec322": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r377c00c7fdfec322.jpg",
-      "path": "data/covers/r377c00c7fdfec322.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878288-20261118.htm",
-      "title": "有議員倡小型工程納入強制呈報要求 孫玉菡稱勞工處亦會加強巡查",
-      "createdAt": "2026-11-18T15:56:39.852Z",
+    "r9dcf6d3a6b61571c": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r9dcf6d3a6b61571c.jpg",
+      "path": "data/covers/r9dcf6d3a6b61571c.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878377-20261119.htm",
+      "title": "中國、英國、日本9月持有美債規模均下跌",
+      "createdAt": "2026-11-19T00:42:33.393Z",
       "model": "image-01",
-      "bytes": 358785
+      "bytes": 293297
     },
-    "re5284f676a50689a": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/re5284f676a50689a.jpg",
-      "path": "data/covers/re5284f676a50689a.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-18/us-strikes-iranian-missile-site-after-bahrain-attacks-video",
-      "title": "US Strikes Iranian Missile Site after Bahrain Attacks",
-      "createdAt": "2026-11-18T15:57:37.719Z",
+    "rf98c9a873313ffbb": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf98c9a873313ffbb.jpg",
+      "path": "data/covers/rf98c9a873313ffbb.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878372-20261119.htm",
+      "title": "聯儲局會議紀錄：憂通脹加劇 或要加大力度應對",
+      "createdAt": "2026-11-19T00:43:04.538Z",
       "model": "image-01",
-      "bytes": 271973
+      "bytes": 322385
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 30,
+    "need": 32,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
     "dailyCount": 4,
     "dailyMax": 16,
-    "dailyKey": "2026-11-18"
+    "dailyKey": "2026-11-19"
   },
-  "dailyKey": "2026-11-18",
+  "dailyKey": "2026-11-19",
   "dailyCount": 4
 }
