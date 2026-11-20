@@ -1,17 +1,8 @@
 {
-  "generatedAt": "2026-11-20T12:03:49.815Z",
+  "generatedAt": "2026-11-20T20:40:36.057Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 5,
+  "count": 8,
   "items": {
-    "ra886a1f88af96487": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra886a1f88af96487.jpg",
-      "path": "data/covers/ra886a1f88af96487.jpg",
-      "sourceUrl": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "title": "Google is putting AI chats right on the homepage",
-      "createdAt": "2026-11-19T20:54:54.051Z",
-      "model": "image-01",
-      "bytes": 272346
-    },
     "ra9d43bf0a8d675c2": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra9d43bf0a8d675c2.jpg",
       "path": "data/covers/ra9d43bf0a8d675c2.jpg",
@@ -47,19 +38,55 @@
       "createdAt": "2026-11-20T12:03:49.314Z",
       "model": "image-01",
       "bytes": 333072
+    },
+    "r5fc4db4439869c09": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5fc4db4439869c09.jpg",
+      "path": "data/covers/r5fc4db4439869c09.jpg",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+      "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+      "createdAt": "2026-11-20T20:39:21.603Z",
+      "model": "image-01",
+      "bytes": 416822
+    },
+    "r82704eea2fdcba16": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r82704eea2fdcba16.jpg",
+      "path": "data/covers/r82704eea2fdcba16.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-high-conviction-through-novel-strategies-video",
+      "title": "ETFs: High Conviction Through Novel Strategies",
+      "createdAt": "2026-11-20T20:39:39.952Z",
+      "model": "image-01",
+      "bytes": 257288
+    },
+    "ra7c967cded3e36ee": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra7c967cded3e36ee.jpg",
+      "path": "data/covers/ra7c967cded3e36ee.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-20/kalshi-s-novel-treasury-perps-hit-delays-as-other-bets-expand",
+      "title": "Kalshi’s Novel Treasury Perps Hit Delays as Other Bets Expand",
+      "createdAt": "2026-11-20T20:40:15.651Z",
+      "model": "image-01",
+      "bytes": 297048
+    },
+    "rab929a9b733814a0": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rab929a9b733814a0.jpg",
+      "path": "data/covers/rab929a9b733814a0.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-across-the-ai-ecosystem-video",
+      "title": "ETFs Across the AI Ecosystem",
+      "createdAt": "2026-11-20T20:40:35.556Z",
+      "model": "image-01",
+      "bytes": 299139
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 27,
+    "need": 31,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 12,
+    "dailyCount": 4,
     "dailyMax": 16,
-    "dailyKey": "2026-11-20"
+    "dailyKey": "2026-11-21"
   },
-  "dailyKey": "2026-11-20",
-  "dailyCount": 12
+  "dailyKey": "2026-11-21",
+  "dailyCount": 4
 }
