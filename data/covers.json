@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T02:32:48.850Z",
+  "generatedAt": "2026-11-20T12:03:49.815Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
   "count": 5,
   "items": {
@@ -12,54 +12,54 @@
       "model": "image-01",
       "bytes": 272346
     },
-    "rab806b593371018e": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rab806b593371018e.jpg",
-      "path": "data/covers/rab806b593371018e.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878550-20261120.htm",
-      "title": "滬深股市初段跌逾1%至逾2%",
-      "createdAt": "2026-11-20T02:31:14.119Z",
+    "ra9d43bf0a8d675c2": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra9d43bf0a8d675c2.jpg",
+      "path": "data/covers/ra9d43bf0a8d675c2.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878629-20261120.htm",
+      "title": "鄺港智稱無襲擊蔡天鳳無觸碰涉案鎚 事發日鄺球上車與蔡天鳳交談",
+      "createdAt": "2026-11-20T12:02:21.718Z",
       "model": "image-01",
-      "bytes": 324581
+      "bytes": 375024
     },
-    "r68d2574dad039a61": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r68d2574dad039a61.jpg",
-      "path": "data/covers/r68d2574dad039a61.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878543-20261120.htm",
-      "title": "【重溫】2026年11月20日《社評摘要》",
-      "createdAt": "2026-11-20T02:31:49.402Z",
+    "rb237cbaf9b5b4c4b": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb237cbaf9b5b4c4b.jpg",
+      "path": "data/covers/rb237cbaf9b5b4c4b.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878623-20261120.htm",
+      "title": "首3季內地商業銀行盈利1.9萬億元人民幣 不良貸款率微升",
+      "createdAt": "2026-11-20T12:02:48.056Z",
       "model": "image-01",
-      "bytes": 348901
+      "bytes": 299067
     },
-    "r314beb0cdcd05030": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r314beb0cdcd05030.jpg",
-      "path": "data/covers/r314beb0cdcd05030.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878542-20261120.htm",
-      "title": "【重溫】2026年11月20日《報章摘要》",
-      "createdAt": "2026-11-20T02:32:19.702Z",
+    "rcc42432198c6af1b": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rcc42432198c6af1b.jpg",
+      "path": "data/covers/rcc42432198c6af1b.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878622-20261120.htm",
+      "title": "在岸人民幣兌美元低收84點子",
+      "createdAt": "2026-11-20T12:03:23.995Z",
       "model": "image-01",
-      "bytes": 336946
+      "bytes": 239119
     },
-    "rf1a36a5199364417": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf1a36a5199364417.jpg",
-      "path": "data/covers/rf1a36a5199364417.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878549-20261120.htm",
-      "title": "天文台預測今日日間氣溫續降至約13度",
-      "createdAt": "2026-11-20T02:32:48.348Z",
+    "r52924be1f271d670": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r52924be1f271d670.jpg",
+      "path": "data/covers/r52924be1f271d670.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878625-20261120.htm",
+      "title": "天文台錄得今日最低氣溫12.7度 是入秋以來最低紀錄",
+      "createdAt": "2026-11-20T12:03:49.314Z",
       "model": "image-01",
-      "bytes": 367573
+      "bytes": 333072
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 29,
+    "need": 27,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 8,
+    "dailyCount": 12,
     "dailyMax": 16,
     "dailyKey": "2026-11-20"
   },
   "dailyKey": "2026-11-20",
-  "dailyCount": 8
+  "dailyCount": 12
 }
