@@ -1,17 +1,8 @@
 {
-  "generatedAt": "2026-11-20T20:40:36.057Z",
+  "generatedAt": "2026-11-21T02:44:32.391Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 8,
+  "count": 7,
   "items": {
-    "ra9d43bf0a8d675c2": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra9d43bf0a8d675c2.jpg",
-      "path": "data/covers/ra9d43bf0a8d675c2.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878629-20261120.htm",
-      "title": "鄺港智稱無襲擊蔡天鳳無觸碰涉案鎚 事發日鄺球上車與蔡天鳳交談",
-      "createdAt": "2026-11-20T12:02:21.718Z",
-      "model": "image-01",
-      "bytes": 375024
-    },
     "rb237cbaf9b5b4c4b": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb237cbaf9b5b4c4b.jpg",
       "path": "data/covers/rb237cbaf9b5b4c4b.jpg",
@@ -30,15 +21,6 @@
       "model": "image-01",
       "bytes": 239119
     },
-    "r52924be1f271d670": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r52924be1f271d670.jpg",
-      "path": "data/covers/r52924be1f271d670.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878625-20261120.htm",
-      "title": "天文台錄得今日最低氣溫12.7度 是入秋以來最低紀錄",
-      "createdAt": "2026-11-20T12:03:49.314Z",
-      "model": "image-01",
-      "bytes": 333072
-    },
     "r5fc4db4439869c09": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5fc4db4439869c09.jpg",
       "path": "data/covers/r5fc4db4439869c09.jpg",
@@ -48,45 +30,54 @@
       "model": "image-01",
       "bytes": 416822
     },
-    "r82704eea2fdcba16": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r82704eea2fdcba16.jpg",
-      "path": "data/covers/r82704eea2fdcba16.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-high-conviction-through-novel-strategies-video",
-      "title": "ETFs: High Conviction Through Novel Strategies",
-      "createdAt": "2026-11-20T20:39:39.952Z",
+    "r032c2d561bc88069": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r032c2d561bc88069.jpg",
+      "path": "data/covers/r032c2d561bc88069.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878677-20261121.htm",
+      "title": "深圳APEC｜丘應樺：大灣區與日美灣區如何互聯互通非常重要",
+      "createdAt": "2026-11-21T02:42:37.536Z",
       "model": "image-01",
-      "bytes": 257288
+      "bytes": 320139
     },
-    "ra7c967cded3e36ee": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra7c967cded3e36ee.jpg",
-      "path": "data/covers/ra7c967cded3e36ee.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-20/kalshi-s-novel-treasury-perps-hit-delays-as-other-bets-expand",
-      "title": "Kalshi’s Novel Treasury Perps Hit Delays as Other Bets Expand",
-      "createdAt": "2026-11-20T20:40:15.651Z",
+    "r312004ce5a18e9c9": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r312004ce5a18e9c9.jpg",
+      "path": "data/covers/r312004ce5a18e9c9.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878676-20261121.htm",
+      "title": "深圳APEC｜鄧希煒：習近平冀展示大灣區比世界其他灣區不輸蝕",
+      "createdAt": "2026-11-21T02:43:13.164Z",
       "model": "image-01",
-      "bytes": 297048
+      "bytes": 265296
     },
-    "rab929a9b733814a0": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rab929a9b733814a0.jpg",
-      "path": "data/covers/rab929a9b733814a0.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-across-the-ai-ecosystem-video",
-      "title": "ETFs Across the AI Ecosystem",
-      "createdAt": "2026-11-20T20:40:35.556Z",
+    "r0a6704f3a2bbdaa7": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r0a6704f3a2bbdaa7.jpg",
+      "path": "data/covers/r0a6704f3a2bbdaa7.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878675-20261121.htm",
+      "title": "深圳APEC｜鄧希煒：香港應組織與亞太共同體中心配合智庫",
+      "createdAt": "2026-11-21T02:43:30.302Z",
       "model": "image-01",
-      "bytes": 299139
+      "bytes": 228580
+    },
+    "r640ce54201490e40": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r640ce54201490e40.jpg",
+      "path": "data/covers/r640ce54201490e40.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878674-20261121.htm",
+      "title": "秘魯6.7級地震 首都利馬震感強烈",
+      "createdAt": "2026-11-21T02:44:31.889Z",
+      "model": "image-01",
+      "bytes": 345666
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 31,
+    "need": 23,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 4,
+    "dailyCount": 8,
     "dailyMax": 16,
     "dailyKey": "2026-11-21"
   },
   "dailyKey": "2026-11-21",
-  "dailyCount": 4
+  "dailyCount": 8
 }
