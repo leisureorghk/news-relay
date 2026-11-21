@@ -1,26 +1,8 @@
 {
-  "generatedAt": "2026-11-21T02:44:32.391Z",
+  "generatedAt": "2026-11-21T11:38:25.205Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 7,
+  "count": 5,
   "items": {
-    "rb237cbaf9b5b4c4b": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb237cbaf9b5b4c4b.jpg",
-      "path": "data/covers/rb237cbaf9b5b4c4b.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878623-20261120.htm",
-      "title": "首3季內地商業銀行盈利1.9萬億元人民幣 不良貸款率微升",
-      "createdAt": "2026-11-20T12:02:48.056Z",
-      "model": "image-01",
-      "bytes": 299067
-    },
-    "rcc42432198c6af1b": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rcc42432198c6af1b.jpg",
-      "path": "data/covers/rcc42432198c6af1b.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878622-20261120.htm",
-      "title": "在岸人民幣兌美元低收84點子",
-      "createdAt": "2026-11-20T12:03:23.995Z",
-      "model": "image-01",
-      "bytes": 239119
-    },
     "r5fc4db4439869c09": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5fc4db4439869c09.jpg",
       "path": "data/covers/r5fc4db4439869c09.jpg",
@@ -30,54 +12,54 @@
       "model": "image-01",
       "bytes": 416822
     },
-    "r032c2d561bc88069": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r032c2d561bc88069.jpg",
-      "path": "data/covers/r032c2d561bc88069.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878677-20261121.htm",
-      "title": "深圳APEC｜丘應樺：大灣區與日美灣區如何互聯互通非常重要",
-      "createdAt": "2026-11-21T02:42:37.536Z",
+    "ree08d7a55df6f005": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ree08d7a55df6f005.jpg",
+      "path": "data/covers/ree08d7a55df6f005.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878717-20261121.htm",
+      "title": "亞投行將在港設辦公室 陳茂波稱彰顯香港匯聚國際資本獨特角色",
+      "createdAt": "2026-11-21T11:37:20.067Z",
       "model": "image-01",
-      "bytes": 320139
+      "bytes": 406365
     },
-    "r312004ce5a18e9c9": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r312004ce5a18e9c9.jpg",
-      "path": "data/covers/r312004ce5a18e9c9.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878676-20261121.htm",
-      "title": "深圳APEC｜鄧希煒：習近平冀展示大灣區比世界其他灣區不輸蝕",
-      "createdAt": "2026-11-21T02:43:13.164Z",
+    "r18e737fd3bc81dad": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r18e737fd3bc81dad.jpg",
+      "path": "data/covers/r18e737fd3bc81dad.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878716-20261121.htm",
+      "title": "李強晤黃循財 指願與新方加快推進中新自貿協定4.0版談判",
+      "createdAt": "2026-11-21T11:37:43.590Z",
       "model": "image-01",
-      "bytes": 265296
+      "bytes": 383224
     },
-    "r0a6704f3a2bbdaa7": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r0a6704f3a2bbdaa7.jpg",
-      "path": "data/covers/r0a6704f3a2bbdaa7.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878675-20261121.htm",
-      "title": "深圳APEC｜鄧希煒：香港應組織與亞太共同體中心配合智庫",
-      "createdAt": "2026-11-21T02:43:30.302Z",
+    "r85c7a033a0d37ddc": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r85c7a033a0d37ddc.jpg",
+      "path": "data/covers/r85c7a033a0d37ddc.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878714-20261121.htm",
+      "title": "72歲女子大埔失蹤 警方呼籲市民提供消息",
+      "createdAt": "2026-11-21T11:38:06.406Z",
       "model": "image-01",
-      "bytes": 228580
+      "bytes": 324450
     },
-    "r640ce54201490e40": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r640ce54201490e40.jpg",
-      "path": "data/covers/r640ce54201490e40.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878674-20261121.htm",
-      "title": "秘魯6.7級地震 首都利馬震感強烈",
-      "createdAt": "2026-11-21T02:44:31.889Z",
+    "r191e0cdbb528651f": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r191e0cdbb528651f.jpg",
+      "path": "data/covers/r191e0cdbb528651f.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
+      "title": "How AI Is Forcing China to Reshape Industrial Policy",
+      "createdAt": "2026-11-21T11:38:24.703Z",
       "model": "image-01",
-      "bytes": 345666
+      "bytes": 303162
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 23,
+    "need": 28,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 8,
+    "dailyCount": 12,
     "dailyMax": 16,
     "dailyKey": "2026-11-21"
   },
   "dailyKey": "2026-11-21",
-  "dailyCount": 8
+  "dailyCount": 12
 }
