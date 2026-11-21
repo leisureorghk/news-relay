@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T11:38:25.205Z",
+  "generatedAt": "2026-11-21T19:46:59.255Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 5,
+  "count": 8,
   "items": {
     "r5fc4db4439869c09": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5fc4db4439869c09.jpg",
@@ -39,27 +39,54 @@
       "model": "image-01",
       "bytes": 324450
     },
-    "r191e0cdbb528651f": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r191e0cdbb528651f.jpg",
-      "path": "data/covers/r191e0cdbb528651f.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
-      "title": "How AI Is Forcing China to Reshape Industrial Policy",
-      "createdAt": "2026-11-21T11:38:24.703Z",
+    "r3f28272ad773fedf": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r3f28272ad773fedf.jpg",
+      "path": "data/covers/r3f28272ad773fedf.jpg",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "createdAt": "2026-11-21T19:41:46.779Z",
       "model": "image-01",
-      "bytes": 303162
+      "bytes": 240365
+    },
+    "r800d50ec70c9e409": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r800d50ec70c9e409.jpg",
+      "path": "data/covers/r800d50ec70c9e409.jpg",
+      "sourceUrl": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "createdAt": "2026-11-21T19:43:35.137Z",
+      "model": "image-01",
+      "bytes": 346822
+    },
+    "r355930ef6bb13103": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r355930ef6bb13103.jpg",
+      "path": "data/covers/r355930ef6bb13103.jpg",
+      "sourceUrl": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+      "createdAt": "2026-11-21T19:45:18.939Z",
+      "model": "image-01",
+      "bytes": 272639
+    },
+    "r2a3976eeae8ec726": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2a3976eeae8ec726.jpg",
+      "path": "data/covers/r2a3976eeae8ec726.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878735-20261122.htm",
+      "title": "芬蘭國防部指監測到一艘俄羅斯貨船受損起火 疑遭無人機襲擊",
+      "createdAt": "2026-11-21T19:46:58.754Z",
+      "model": "image-01",
+      "bytes": 111677
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 28,
+    "need": 34,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 12,
+    "dailyCount": 4,
     "dailyMax": 16,
-    "dailyKey": "2026-11-21"
+    "dailyKey": "2026-11-22"
   },
-  "dailyKey": "2026-11-21",
-  "dailyCount": 12
+  "dailyKey": "2026-11-22",
+  "dailyCount": 4
 }
