@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T10:47:41.499Z",
-  "count": 162,
+  "generatedAt": "2026-11-21T18:54:02.784Z",
+  "count": 151,
   "target": 200,
   "categories": {
-    "world": 33,
-    "hk": 36,
-    "biz": 20,
-    "tech": 73
+    "tech": 68,
+    "world": 31,
+    "biz": 22,
+    "hk": 30
   },
   "errors": [],
   "warnings": [
@@ -16,21 +16,38 @@
     "信報財經新聞: Google 新聞 0 則（解不出原文 100）",
     "Yahoo 新聞 · 科技: Google 新聞 0 則（解不出原文 100）",
     "Google 新聞 · 香港: Google 新聞 0 則（解不出原文 30）",
-    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 52）",
+    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 100）",
     "Google 新聞 · 門球: Google 新聞 0 則（解不出原文 8）",
-    "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 34）",
+    "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 33）",
     "Google 新聞 · SEN 游泳: Google 新聞 0 則（解不出原文 2）"
   ],
   "items": [
     {
-      "id": "r6147e4b8e2af6713",
+      "id": "r3f28272ad773fedf",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T18:44:53.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "r59535edf43931fda",
       "sourceId": "s7",
       "sourceName": "SCMP",
-      "title": "Sun-dried yoghurt, floor dining: how migration, folding chairs reshaped Chinese food",
-      "summary": "With a history as long as China’s, some cultural traditions are bound to fade into antiquity. This is especially true of food, which can change dramatically within a single lifetime. Some changes are fundamental, making it almost impossible to imagine the culture without them; ot",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375324/sun-dried-yoghurt-floor-dining-how-migration-folding-chairs-reshaped-chinese-food",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/c4475104-c3b7-43c1-ba27-0e17c57970d3_a852a901.jpg?itok=y5dSlT1c&v=1795252740",
-      "publishedAt": "2026-11-21T10:00:11.000Z",
+      "title": "Former Italian police chief De Gennaro takes own life amid mafia probe",
+      "summary": "Former Italian police chief Gianni De Gennaro, under ⁠investigation for alleged efforts to obstruct a new probe into the 1992 killing of a top anti-mafia magistrate, has taken his own life, an official familiar with the matter said on Saturday. De Gennaro, 78, served as national ",
+      "url": "https://www.scmp.com/news/world/europe/article/3375349/former-italian-police-chief-de-gennaro-takes-own-life-amid-mafia-probe",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/601ac6be-c41e-4b13-98dc-3a2448eed96d_d862b30e.jpg?itok=50V1l9iX&v=1795285250",
+      "publishedAt": "2026-11-21T18:21:02.000Z",
       "category": "world",
       "language": "en",
       "tags": [
@@ -39,19 +56,933 @@
       ]
     },
     {
-      "id": "r62f2cd24d9774807",
+      "id": "r800d50ec70c9e409",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 15 # Comments: 1",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T18:02:19.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r355930ef6bb13103",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+      "summary": "Article URL: https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists Comments URL: https://news.ycombinator.com/item?id=50591835 Points: 41 # Comments: 18",
+      "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T17:59:59.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r2a3976eeae8ec726",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "芬蘭國防部指監測到一艘俄羅斯貨船受損起火 疑遭無人機襲擊",
+      "summary": "芬蘭國防部發公告指出，邊防軍在當地星期六上午於芬蘭灣東部國際水域，監測到一艘俄羅斯貨船船身受損並起火，懷疑遭受無人機襲擊。俄羅斯列寧格勒州州長隨後發文，證實一艘俄羅斯貨船在有關水域被無人機襲擊。 芬蘭國防部的公告說，受損船隻目前已從國際水域漂入芬蘭領海，芬蘭邊防軍正指揮海上搜救行動，並準備應對可能的海洋環境污染，目前芬蘭國防軍已在芬蘭灣東部實施臨時空域和海域限制措施，以保障人員安全，並為可能的無人機攔截行動作準備。 俄羅斯列寧格勒州州長德羅茲堅科在社交媒體上發文證實，一艘從該州駛往加里寧格勒州的俄羅斯貨船，在芬蘭灣國際水域被兩架無人機襲擊，船員被疏散，仍",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878735-20261122.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T17:56:25.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r371c0877f98daf06",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "The FBI and USDA were reportedly hacked",
+      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), w",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T17:51:21.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "r8fba2f37cb7dfccd",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "伊朗指卡塔爾代表團曾訪德黑蘭磋商",
+      "summary": "伊朗副外長加里巴巴迪表示，一個卡塔爾代表團於過去的星期五晚抵達伊朗首都德黑蘭，雙方進行兩小時磋商。 傳媒引述知情人士報道，美國總統特使威特科夫及總統特朗普的女婿庫什納，過去的星期四在柏林與卡塔爾高級官員會晤，討論斡旋美國與伊朗的工作。卡塔爾首相兼外交大臣穆罕默德，以及穆罕默德的特使出席。 作為美伊之間的關鍵斡旋方，卡塔爾在幾個星期以來一直致力於促成一項協議，旨在恢復停火、重啟核談判，並防止戰火重燃。 編輯：羅宇光",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878734-20261122.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T17:48:53.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "ra6d9ace7282bdac8",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "伊朗軍方指攔截F16戰機致受損逼降 美方稱於中東所有戰機安全",
+      "summary": "伊朗伊斯蘭共和國廣播電視台在當地星期六報道，伊朗軍方發聲明說，防空部隊在星期五晚於波斯灣上空，攔截一架F-16戰鬥機，導致戰機受損，被迫緊急降落。美軍中央司令部隨即否認。 伊方聲明說，部署在伊朗南部的防空部隊發現這架戰機後，啟動防空系統追蹤並發射導彈，導彈在戰機附近爆炸，導致戰機受損，並在距離該區最近的一處機場緊急降落。 美軍中央司令部的聲明就說，伊朗所稱在星期五攻擊一架F-16戰機導致受損、並迫使戰機緊急降落的說法不實，伊朗在星期五並未攻擊美國F-16戰鬥機，美軍在中東地區的所有戰機確認安全。 編輯：羅宇光",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878733-20261122.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T17:42:11.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r75f5e9d60ed54a82",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "特朗普稱將尋求與伊朗達成永久協議 不允德黑蘭出爾反爾",
+      "summary": "美國總統特朗普說，將尋求與伊朗達成一項永久性協議。 特朗普接受當地新聞頻道的節目訪問，內容在星期六播出。他說自己所做的是確保即使4年、15年或20年後，美國有一位不稱職的總統，但他達成的協議亦將是永久性，他不會讓某人允許伊朗擁有核武器，並對達成的協議出爾反爾。 特朗普又說，無考慮伊朗政權更迭，他從來不太在乎政權。 編輯：羅宇光",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878732-20261122.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T17:29:40.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "ra36df3f336096af5",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "PostgreSQL Extensions in Go",
+      "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 45 # Comments: 1",
+      "url": "https://jespino.github.io/gopgext",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T17:08:04.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r79bf9e097460e0ab",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman & Spike Mendelsohn, Seaport Research Part",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T17:01:32.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r06145def76d31c0f",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "rd58ef299c7e40078",
       "sourceId": "s7",
       "sourceName": "SCMP",
-      "title": "Hong Kong will not rule out whistle-blower immunity in bid-rigging law: minister",
-      "summary": "Hong Kong authorities will not rule out the inclusion of immunity provisions for whistle-blowers in proposed legal amendments to outlaw bid-rigging in building maintenance and renovation projects, the commerce chief has said. Officials vowed to amend the law after an independent ",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/9cf41807-c2fa-4d18-9e4f-07bdd3a9fee8_6a0dac6f.jpg?itok=DASm3mel&v=1795253940",
-      "publishedAt": "2026-11-21T09:52:12.000Z",
+      "title": "Hong Kong flight makes emergency landing in Philippines after engine fire alert",
+      "summary": "A flight from Hong Kong to Papua New Guinea carrying 146 passengers and crew made an emergency landing in the southern Philippines early on Saturday over a potential engine fire. Air Niugini’s flight PX19 to Port Moresby, the capital of Papua New Guinea, made the unscheduled stop",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3375347/hong-kong-flight-makes-emergency-landing-philippines-after-engine-fire-alert",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/6e938360-69ea-47e5-b3a2-1162e1c4835b_3dd120e2.jpg?itok=Xaz_-xea&v=1795278399",
+      "publishedAt": "2026-11-21T16:29:39.000Z",
       "category": "world",
       "language": "en",
       "tags": [
         "香港",
         "國際"
+      ]
+    },
+    {
+      "id": "r8614fa276b2364f6",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "選委會界別分組投票今日舉行 共31個界別需要競逐",
+      "summary": "選舉委員會界別分組一般選舉今日舉行，今屆共有31個界別分組需要競逐，有856名候選人爭奪723個席位，合資格投票人數目約有5700人。 今次要競逐的界別中，社會福利界最激烈，25人爭15席，平均1.66人競逐一個位。 經投票後勝出的700多名當選者，將聯同自動當選的259人、以及518名來自當然委員同經提名產生的選委，組成新一屆1500人的選舉委員會。 他們的職責包括提名行政長官選舉候選人，同選出行政長官等；提名立法會選舉候選人，以及負責選出立法會40名選舉委員會界別議員。 全港設有5個一般投票站，供合資格投票人投票，時間為早上9時至下午6時。投票結束後",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878731-20261122.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T16:10:27.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "rdd8a9266e2e36d84",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "r90b494f898da5bdd",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 20 # Comments: 1",
+      "url": "https://math.mit.edu/~drew/grh",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T15:54:34.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "re51544953fdff9e4",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
+      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (S",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T15:43:12.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r05263df2c91b31b4",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Show HN: Zero C#, Power of C# without any GC",
+      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 59 # Comments: 40",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T15:39:09.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r0f0fd40df60d9b4e",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly",
+      "summary": "Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T15:31:22.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "reca31ef02d75a57e",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Thanksgiving Dinner Is Moving to Restaurants",
+      "summary": "Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that more Americans are choosing restaurants for Thanksgiving as higher grocery costs, cooking stress and cleanup make dining out increasingly attractive. Speaking with hosts David Gura and Christina Ruffini,",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T15:28:00.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "rc44dc7acbe4fa9c0",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "The 1982 War Still Haunts the Middle East",
+      "summary": "Journalist and author Kim Ghattas tells Bloomberg This Weekend how the violence that engulfed Lebanon in 1982 helped set the US, Israel, Iran and the wider Middle East on a trajectory that continues to shape conflicts in the region today. Speaking with hosts David Gura and Christ",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T15:19:32.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "rb0791702e99debc5",
+      "sourceId": "s14",
+      "sourceName": "TechCrunch",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T15:18:29.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "創業",
+        "AI"
+      ]
+    },
+    {
+      "id": "r4ed73f31f42fcd56",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+      "summary": "Amazon only announced its first digital photo frame less than a month ago, but it&#8217;s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday gift for anyon",
+      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T15:13:56.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "ra48691111e7dd05e",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "AEON系統遭未經授權查閱 稱目前並無證據顯示資料被不當使用",
+      "summary": "AEON信貸財務（亞洲）有限公司在網站發出「重要告示」，指近日發現公司系統遭到未經授權查閱，現階段並無證據顯示任何相關資料已被不當使用。 公司表示，高度重視事件，將繼續密切監察情況，防止類似事件再發生；又指發現事件後已立即採取行動，以遏止事件影響，並加強系統保安。 公司指出，已委聘獨立第三方網絡安全及數碼鑑證專家，協助調查事件及評估潛在影響，並公司呼籲客戶保持警惕，而受影響客戶，將獲個別通知有關為保障利益而採取的措施。 編輯：黃佩珊",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878730-20261121.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T15:13:49.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "r462d323def44104f",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Is AI a Bubble? History Offers Some Clues",
+      "summary": "Bloomberg Opinion columnist Justin Fox tells Bloomberg This Weekend that history offers warning signs for financial bubbles, but little reliable guidance about exactly when they will burst, making debt and investor sentiment important risks to watch amid the AI boom. Speaking wit",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T15:09:32.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "rd11449b3ea5271f9",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Hong Kong pledges extra US$20m to AIIB special fund as bank sets up city office",
+      "summary": "Hong Kong will inject a further US$20 million into a special fund of the Asian Infrastructure Investment Bank (AIIB) following the signing of an agreement on Saturday allowing it to set up an office in Hong Kong. Financial Secretary Paul Chan Mo-po said at the signing ceremony th",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375343/hong-kong-pledges-extra-us20m-aiib-special-fund-bank-sets-city-office",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/c150cf39-4ff2-487b-b0e3-2405b140ba6d_b8b5d67d.jpg?itok=lIcgsBnY&v=1795273095",
+      "publishedAt": "2026-11-21T15:01:14.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rf90d2415111bf4a8",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black",
+      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T14:55:28.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "r501adb3a9178d498",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "消防承辦商中華發展工程董事涉發虛假證明書 明年一月提堂",
+      "summary": "消防處回覆查詢時表示，就宏福苑個案已檢控「中華發展工程有限公司」董事梁秉基兩項協助及教唆該公司發出在要項上屬虛假或具誤導性的證明書罪，涉嫌違反《消防規例》，案件明年1月21日在西九龍裁判法院提堂。 另外，消防處早前抽查發現，「宏泰消防工程有限公司」就金威工業大廈二期火警偵測系統周年檢查發出的證明書，涉嫌虛假或誤導，該公司及其董事鍾傑文昨日在屯門裁判法院承認控罪，被裁定罪名成立。消防處會考慮將有關定罪個案，轉介紀律委員會跟進。 消防處表示，由於針對「宏泰消防工程有限公司」及「中華發展工程有限公司」的紀律程序仍在進行，兩間承辦商現時仍名列於註冊紀錄冊。 消防",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878728-20261121.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T14:41:50.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "ra54e69621702f457",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 469 # Comments: 376",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T14:36:45.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r596ee89b86dc89ff",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "伊朗軍方宣稱攔截及擊中一架美軍F-16戰機",
+      "summary": "伊朗軍方宣稱在波斯灣上空攔截並擊中一架美軍F-16戰機，戰機受損並在機場緊急降落，美國方面暫時未證實消息。 伊朗軍隊表示，部署在南部、隸屬軍隊的防空系統，星期五晚在波斯灣上空成功探測到一架美軍F-16戰機，防空系統對戰機實施攔截，並發射了一枚導彈，導彈在戰機附近爆炸，導致戰機受損，機師被迫終止任務，並在附近區域一個機場緊急降落。 伊朗方面較早時有消息稱，一架美軍F-16戰機星期六凌晨從霍爾木茲海峽返航途中，在阿聯酋空域發出緊急代碼。 編輯：許敬軒",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878726-20261121.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T14:31:09.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r3c6653f80c35c69b",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Shenzhen Wants to Become a Cultural Capital",
+      "summary": "Bloomberg’s Tiffany Ap tells Bloomberg This Weekend how Shenzhen is spending billions on museums as the technology and manufacturing hub tries to establish itself as a cultural destination and attract talent and tourism. Speaking with hosts David Gura and Christina Ruffini, Ap di",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T14:24:08.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "rf54ac3d28b21082f",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Mexico captures drug kingpin on FBI’s most wanted list",
+      "summary": "Mexico’s military announced on Saturday that it had captured the leader of a drug-trafficking group who was among the 10 most-wanted fugitives sought by US law enforcement. Fausto Isidro Meza, alias “Chapo Isidro”, and two other leaders of his drug gang were captured during a spe",
+      "url": "https://www.scmp.com/news/world/americas/article/3375342/mexico-captures-drug-kingpin-fbis-most-wanted-list",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/110c3334-9b1b-4645-9e39-314378de9dd7_fe65b120.jpg?itok=KD9TJ_lh&v=1795269632",
+      "publishedAt": "2026-11-21T14:00:45.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r7434ff98db50b703",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "Signal 新功能阻止 AI 讀取對話 iOS 27 禁截圖、Mac 須手動設定",
+      "summary": "加密通訊 App Signal 11 月 20 日宣布加強畫面私隱保護，限制 Apple Siri AI、Google Gemini 等系統級 AI 代理透過截圖讀取及保存聊天內容。新措施在 iOS 27 限制 Signal 畫面截圖，Android 則視乎能否偵測 AI 助手讀屏而啟用保護，不過 Signal 承認現時仍無法在 macOS 提供同等防護。",
+      "url": "https://unwire.hk/2026/11/21/signal-block-siri-gemini-ai-screenshots/tech-secure",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T14:00:21.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "r598a94108709638a",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Why a slow-paced show about broken friendships is China’s antidote to AI fatigue",
+      "summary": "A slow-paced Chinese reality show about fractured friendships has proved an unexpected cultural phenomenon, sparking a nationwide reckoning over huorengan – the messy, unscripted sense of being alive – as AI companions and algorithm-driven microdramas flourish. The show’s emotion",
+      "url": "https://www.scmp.com/news/china/politics/article/3375328/why-slow-paced-show-about-broken-friendships-chinas-antidote-ai-fatigue",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/fa5a62ae-d2df-409d-a35c-d4f1d9e7b5f2_1dae85cf.jpg?itok=yyxXESke&v=1795254528",
+      "publishedAt": "2026-11-21T14:00:05.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r2d6187913d923271",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Trump’s Putin Outreach Tests Ukraine Talks",
+      "summary": "Bloomberg White House and National Security Editor Michelle Jamrisko tells Bloomberg This Weekend that President Donald Trump’s summit with Vladimir Putin and Xi Jinping reinforced his approach to diplomacy but left major questions unresolved over Ukraine and potential US securit",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-outreach-tests-ukraine-talks-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T13:56:40.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "rb2f3981824644d2b",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Indonesia, EU sign ‘ambitious’ trade deal",
+      "summary": "The EU and Indonesia officially signed a trade deal to open up their markets in Brussels on Saturday, paving the way for the accord to come into force early next year. EU chief Ursula von der Leyen and Indonesian Minister of Economic Affairs Airlangga Hartarto attended a signing ",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375341/indonesia-eu-sign-ambitious-trade-deal",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/a19afd8c-8876-4faf-9e3b-4dfc160e9ae0_6a2c5432.jpg?itok=9PZLccGM&v=1795268772",
+      "publishedAt": "2026-11-21T13:46:13.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r6a7ba02c1e190740",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Anthropic IPO Fails to Calm AI Jitters",
+      "summary": "Seaport Research Partners Chief Equity Strategist Jonathan Golub tells Bloomberg This Weekend the sharp AI-driven market selloff looks overdone, arguing that demand for computing power remains strong and semiconductor earnings expectations continue to rise. Speaking with hosts Da",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T13:43:18.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "raa281185f6825239",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Can Anthropic afford to put safety first?",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that impor",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T13:29:45.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
+      "id": "r845262101ab4fac9",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Detonating a pile of lead azide",
+      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 360 # Comments: 225",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T13:23:14.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r172fb1e89381262d",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Just Ice Tea Builds on Honest Tea’s Legacy",
+      "summary": "Just Ice Tea co-founders Seth Goldman and Spike Mendelsohn tell Bloomberg This Weekend how they built the organic tea brand after Coca-Cola discontinued Honest Tea and are expanding with Awaken, a cold-brew tea with 120 milligrams of caffeine. Speaking with host Lisa Mateo, they ",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/just-ice-tea-builds-on-honest-tea-s-legacy-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T13:19:50.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "rb19de4db7ceed75b",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+      "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 130 # Comments: 113",
+      "url": "https://simple-bench.com",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T13:16:12.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
+      ]
+    },
+    {
+      "id": "r10f3d570fb26cee4",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Putin Gains From Trump, Xi Summit Spotlight",
+      "summary": "Bloomberg News White House Correspondent Jeff Mason tells Bloomberg This Weekend that Vladimir Putin emerged as a key beneficiary of his historic meeting with President Donald Trump and Xi Jinping, returning to the global stage alongside the US and Chinese leaders despite Russia’",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/putin-gains-from-trump-xi-summit-spotlight-video",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T13:12:23.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r8a350c561e3d6d2b",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "WhatsApp 群組人數上限再提升 iPhone、Android 分批增至 1,500 人",
+      "summary": "WhatsApp 正把普通群組聊天的人數上限由 1,024 人提高至 1,500 人，可額外容納 476 名成員。據追蹤 WhatsApp 功能更新的網站 WABetaInfo 11 月 19 日報道，新上限已開始向部分 iPhone 及 Android 用戶分批開放，現有群組亦會自動獲得較高容量，毋須重新建立。",
+      "url": "https://unwire.hk/2026/11/21/whatsapp-groups-1500-members-rollout/life-tech/social-network",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T13:00:08.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "r7410f0edea12368f",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Asian Gaelic Games brings 2-day celebration of all things Irish to Hong Kong",
+      "summary": "More than 700 amateur athletes from Ireland and across the region descended on Hong Kong for the Asian Gaelic Games on Saturday, as the city played host to the annual sporting tournament’s 30th anniversary. Participants celebrated the atmosphere and camaraderie on display, praisi",
+      "url": "https://www.scmp.com/sport/other-sport/article/3375337/asian-gaelic-games-brings-2-day-celebration-all-things-irish-hong-kong",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/ca6d8ca1-e8cb-48d6-a8d6-31f8aff6b257_5d68aa8b.jpg?itok=z6b8RBIm&v=1795265536",
+      "publishedAt": "2026-11-21T12:52:29.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r6d8204b046a8be51",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "選管會主席陸啟康呼籲合資格投票人 明日選委會選舉踴躍投票",
+      "summary": "選舉委員會界別分組一般選舉明日舉行，選舉管理委員會主席陸啟康表示，選舉籌備工作已準備就緒，工作人員正最後準備及演練，確保選舉公開、誠實、公平進行，呼籲合資格投票人踴躍投票。 陸啟康說，將繼續使用電子選民登記冊系統，為投票或獲授權代表發出選票，讓發票程序高效進行。投票結束後，所有票箱會運送至會展中央點票站進行點票。 選舉日前夕，陸啟康在灣仔先後巡視港灣道體育館投票站及會展的中央點票站。選管會委員石丹理等亦有到設於車公廟體育館及調景嶺體育館的投票站巡視。 選管會表示，候選人、選舉代理人及監察點票代理人可進入中央點票站，在點票區指定範圍觀察點票過程，公眾及傳媒",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878725-20261121.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T12:47:40.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "recb8df74d00b7299",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "俄稱克里米亞大橋鐵路恢復通行 澤連斯基指烏方襲擊回應俄軍行動",
+      "summary": "俄羅斯副總理尼基京表示，克里米亞大橋鐵路段已全面恢復列車通行。 克里米亞大橋在連日烏軍襲擊下結構受損，交通受阻。烏克蘭總統澤連斯基星期六與英國國防大臣施卓添會晤時說，在烏方打擊克里米亞大橋前，俄軍已使用導彈和無人機，對烏克蘭境內橋樑發動過百次襲擊，烏方針對大橋的行動，是在俄軍多次襲擊烏克蘭橋樑後作出的回應。 澤連斯基認為，俄方持續襲擊烏克蘭基礎設施的行為，表明莫斯科沒有結束戰爭的意願，並尋找藉口升級戰事。 編輯：許敬軒",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878722-20261121.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T12:33:58.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rde682db166a0e9ae",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "How China showcased the ‘Shenzhen miracle’ in Apec cooperation push",
+      "summary": "The just-concluded Apec summit in Shenzhen showcased China’s role as a regional leader, state news agency Xinhua said on Saturday, casting the city’s rapid rise as a model for an “Asia-Pacific miracle” under Chinese guidance. In an article detailing Chinese President Xi Jinping’s",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375335/how-china-showcased-shenzhen-miracle-apec-cooperation-push",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/61675aad-28d7-44cd-8807-4a0dd5e37414_2a7be201.jpg?itok=mijIE3zf&v=1795263339",
+      "publishedAt": "2026-11-21T12:28:34.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rcb154cb38723fb5c",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "意大利成歐盟第 12 國放行 Tesla 輔助駕駛 德法西仍未批",
+      "summary": "意大利交通部宣布批准 Tesla 輔助駕駛（Tesla Assisted Driving），臨時許可有效至 2 [&#8230;]",
+      "url": "https://unwire.hk/2026/11/21/tesla-assisted-driving-italy-eu-approval/life-tech/auto",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T12:20:00.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "r6b05d31cb8f5c779",
+      "sourceId": "s17",
+      "sourceName": "Ars Technica",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg",
+      "publishedAt": "2026-11-21T12:01:13.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
+      ]
+    },
+    {
+      "id": "ra18b1416f273ed2b",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "Apple 招聘廣告揭自家 AI 代理計劃 可跨 App 操作及編寫程式",
+      "summary": "Apple 11 月 17 日刊登一份高級工程經理招聘廣告，披露公司正建立可操作電腦的 AI 代理（AI Agent）平台，目標包括瀏覽網頁、跨 App 執行任務、使用指令列及編寫程式。招聘資料是 Apple 官方公開的研發方向，但尚未公布相關產品名稱、正式功能及推出時間。",
+      "url": "https://unwire.hk/2026/11/21/apple-agentic-ai-job-computer-coding/ai",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T12:00:31.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "rca46525b38fa08a6",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "China unveils space mining road map with a big move on the moon within 4 years",
+      "summary": "China should test making water or oxygen on the moon no later than 2030, according to the chief designer of its lunar programme, as the country’s race with the US to settle there heats up. In a paper to be published in the Journal of Deep Space Exploration, physicist Wu Weiren an",
+      "url": "https://www.scmp.com/news/china/science/article/3375323/china-unveils-space-mining-road-map-big-move-moon-within-4-years",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/e887485c-1c11-4668-896e-926f9b703597_51c3e9e7.jpg?itok=F9E_qMDN&v=1795247985",
+      "publishedAt": "2026-11-21T12:00:06.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "re486e35982effcf6",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "俄羅斯貨船於芬蘭灣遭無人機攻擊 芬蘭稱貨船遇襲後進入領海",
+      "summary": "俄羅斯列寧格勒州州長德羅茲登科表示，一艘前往加里寧格勒的貨船，在芬蘭灣的公海遭到兩架無人機攻擊，船員正在撤離，受損程度亦正在評估中。 芬蘭國防部表示，軍方當地星期六上午偵測到一次針對俄羅斯貨船的無人機攻擊事件，地點位於波羅的海東部。芬蘭邊防衛隊指出，遇襲船隻起火，並從國際水域進入芬蘭領海，對其他海上交通未構成危險，當局正與境內及國際其他相關單位合作，準備可能採取的救援行動。 加里寧格勒州州長別斯普羅茲萬內赫表示，事件不會對當地物資供應造成威脅。 編輯：許敬軒",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878721-20261121.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T11:57:19.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "rc1078b431c3394a0",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "EU eyes tax on Big Tech to boost budget",
+      "summary": "The EU put forward plans to tax the world’s biggest digital companies to fund its next budget on Saturday, as it seeks to bridge divisions among member states over the bloc’s long-term funding. European Council President Antonio Costa unveiled a new spending proposal that slashes",
+      "url": "https://www.scmp.com/news/world/europe/article/3375333/eu-eyes-tax-big-tech-boost-budget",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/e7d570d4-cd5e-4b5f-8d5e-3dde0fc0de33_079e89c5.jpg?itok=bE6NWoGz&v=1795261870",
+      "publishedAt": "2026-11-21T11:51:18.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r6a4594d911402de3",
+      "sourceId": "s19",
+      "sourceName": "Bloomberg Markets",
+      "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
+      "summary": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T11:44:46.000Z",
+      "category": "biz",
+      "language": "en",
+      "tags": [
+        "財經",
+        "商業"
+      ]
+    },
+    {
+      "id": "r0024e4384794cdcb",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "In India, tainted alcohol leaves 11 dead, over 180 hospitalised",
+      "summary": "At least 11 people have died and more than 180 have been hospitalised after drinking suspected tainted alcohol in India’s northeastern state of Manipur. The victims fell ill after consuming the liquor, Chief Minister Yumnam Khemchand Singh said in a statement on Friday. “Over 180",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3375332/india-tainted-alcohol-leaves-11-dead-over-180-hospitalised",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/b6ae5070-152b-4031-8a59-d09022883f35_c6f4a798.jpg?itok=A5RI2Ynl&v=1795260989",
+      "publishedAt": "2026-11-21T11:36:40.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "r4c24803de1ba0b87",
+      "sourceId": "s1",
+      "sourceName": "香港電台 · 本地",
+      "title": "【重溫】2026年11月21日新聞天地",
+      "summary": "詳盡報道本地時事、大中華消息、國際局勢等新聞，緊貼最新熱話。",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878719-20261121.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T11:26:00.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "本地"
+      ]
+    },
+    {
+      "id": "rcaf01de3f5f80f2e",
+      "sourceId": "s7",
+      "sourceName": "SCMP",
+      "title": "Major regional sports law body to set up Hong Kong base by year end: minister",
+      "summary": "A major regional sports law organisation will establish its headquarters in Hong Kong by the end of the year, the city’s deputy justice minister has said, while a lawmaker has suggested more sports bodies will set up bases in the city “as part of a continuing wave”. Deputy Secret",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375331/major-regional-sports-law-body-set-hong-kong-base-year-end-minister",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/8aa304ea-4651-4ee6-94f4-541e14eaa98c_ec2d0620.jpg?itok=Lj3bAzL8&v=1795259915",
+      "publishedAt": "2026-11-21T11:18:40.000Z",
+      "category": "world",
+      "language": "en",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "re01eb8572c4e37b9",
+      "sourceId": "s12",
+      "sourceName": "unwire.hk",
+      "title": "Ubisoft 加拿大再裁 166 人 同時成立生成式 AI 子公司 Motherbrain",
+      "summary": "遊戲公司 Ubisoft 11 月 19 日確認，將在加拿大蒙特利爾及魁北克市的業務裁減合共 166 個職位，並在同日財務報告宣布成立生成式 AI 子公司 Motherbrain。新公司將研究具備記憶能力的遊戲角色及 AI 遊戲主持，不過 Ubisoft 未有表示今次裁員由 AI 取代人手所致。",
+      "url": "https://unwire.hk/2026/11/21/ubisoft-166-layoffs-motherbrain-ai/game-channel",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T11:00:24.000Z",
+      "category": "tech",
+      "language": "zh-Hant",
+      "tags": [
+        "科技",
+        "香港"
+      ]
+    },
+    {
+      "id": "rfbe9ad410c6a010a",
+      "sourceId": "s2",
+      "sourceName": "香港電台 · 國際",
+      "title": "希臘總理被指鼓勵未成年人購買限制級遊戲引發批評",
+      "summary": "希臘總理米佐塔基斯因為詢問年輕人是否想收到最新限制級電玩遊戲GTA 6，而遭到各界抨擊。 米佐塔基斯在社交媒體發布影片，宣傳政府發放400歐元退休金紅利的政策，期間問年輕人有誰會向祖父母要求GTA 6作為聖誕禮物，又指祖父母通常難以拒絕孫仔孫女的要求。 有關言論引起反對聲音，認為鼓勵未成年人購買限制級遊戲並不恰當。主要反對黨泛希臘社會運動黨批評，總理為了跟風，竟然推廣一款禁止未成年人玩的遊戲。有報章形容米佐塔基斯失言，亦有報章指出是悲劇性的錯誤。 報道說，諷刺的是米佐塔基斯政府目前正與其他國家採取一致立場，針對青少年使用社交媒體實施限制。 編輯：許敬軒",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878720-20261121.htm",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T10:47:02.000Z",
+      "category": "world",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "國際"
+      ]
+    },
+    {
+      "id": "ra581e2e459acc7d7",
+      "sourceId": "s16",
+      "sourceName": "Hacker News",
+      "title": "My monitor was cutting my download speed by 75%",
+      "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 299 # Comments: 154",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T10:36:32.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "工程"
       ]
     },
     {
@@ -61,7 +992,7 @@
       "title": "亞投行將在港設辦公室 陳茂波稱彰顯香港匯聚國際資本獨特角色",
       "summary": "國家與亞洲基礎設施投資銀行，今日在香港簽署《中華人民共和國政府與亞洲基礎設施投資銀行關於在香港特區設立辦公室的協定》，為亞投行在香港開設辦公室奠定基礎。財政司司長陳茂波和署理財經事務及庫務局局長陳浩濂出席簽署儀式。 國家與亞投行分別由國家財政部部長藍佛安和亞投行行長鄒加怡代表簽署協定，確定亞投行於香港設立辦公室，並為特權及豁免與其他有助成立辦公室的事宜，制定原則。 陳茂波說，亞投行選擇在香港設立辦公室，充分肯定香港作為國際金融中心的地位，亦彰顯香港在匯聚國際資本、支持亞洲基礎設施建設方面的獨特角色。特區政府會全力支持辦公室的設立和運作，期待與亞投行加強合",
       "url": "https://news.rthk.hk/rthk/ch/component/k2/1878717-20261121.htm",
-      "imageUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ree08d7a55df6f005.jpg",
+      "imageUrl": "",
       "publishedAt": "2026-11-21T09:34:17.000Z",
       "category": "hk",
       "language": "zh-Hant",
@@ -77,7 +1008,7 @@
       "title": "李強晤黃循財 指願與新方加快推進中新自貿協定4.0版談判",
       "summary": "國務院總理李強在北京釣魚台國賓館，與新加坡總理黃循財會談。 李強表示，中方願同新方加快推進中新自貿協定4.0版談判，促進更高水平雙向開放，進一步加強產業融合，推動兩國政府間重大項目提質升級，加強人工智能、清潔能源、互聯互通、金融等領域合作，推進陸海新通道建設，為兩國發展增添動能。 他又提到，中新應當密切在聯合國、亞太經合組織等協調配合，堅定促進區域經濟一體化，推動構建開放型世界經濟，維護多邊貿易體制，捍衛兩國共同利益。 中方引述黃循財說，在當前動蕩國際局勢下，新中更應該加強溝通合作，共同應對挑戰，維護兩國穩定繁榮。 編輯：許敬軒",
       "url": "https://news.rthk.hk/rthk/ch/component/k2/1878716-20261121.htm",
-      "imageUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r18e737fd3bc81dad.jpg",
+      "imageUrl": "",
       "publishedAt": "2026-11-21T09:18:28.000Z",
       "category": "world",
       "language": "zh-Hant",
@@ -93,29 +1024,13 @@
       "title": "72歲女子大埔失蹤 警方呼籲市民提供消息",
       "summary": "一名女子在大埔失蹤，警方呼籲市民提供消息。 72歲女子蘇秀珍昨日凌晨在完善路最後露面後失蹤，其家人同日向警方報案。 她身高約1.6米、體重約55公斤、中等身材、圓面型、黃皮膚及蓄短黑髮。她最後露面時身穿黑色外套、黑色長褲及黑白色波鞋。 警方表示，任何人如有該失蹤女子的消息或曾見過她，請致電3661 3113 或電郵至rmpu-ntn-1@police.gov.hk與新界北總區失蹤人口調查組，或與任何一間警署聯絡。 編輯：黃佩珊",
       "url": "https://news.rthk.hk/rthk/ch/component/k2/1878714-20261121.htm",
-      "imageUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r85c7a033a0d37ddc.jpg",
+      "imageUrl": "",
       "publishedAt": "2026-11-21T09:02:36.000Z",
       "category": "hk",
       "language": "zh-Hant",
       "tags": [
         "香港",
         "本地"
-      ]
-    },
-    {
-      "id": "r191e0cdbb528651f",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "How AI Is Forcing China to Reshape Industrial Policy",
-      "summary": "Kyle Chan on Beijing's plan to become technologically self-reliant.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
-      "imageUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r191e0cdbb528651f.jpg",
-      "publishedAt": "2026-11-21T09:00:13.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
       ]
     },
     {
@@ -132,38 +1047,6 @@
       "tags": [
         "科技",
         "香港"
-      ]
-    },
-    {
-      "id": "r77a9220f85ab92e4",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Europe’s Power Market Is Flashing a Warning to Its Economy",
-      "summary": "At a factory in Germany, there are increasingly hours when it is simply too expensive to produce steel.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T09:00:00.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "r325ae1a4dea81ed8",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Odd Lots: How AI Reshaped Chinese Industrial Policy (Podcast)",
-      "summary": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about ",
-      "url": "https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T09:00:00.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
       ]
     },
     {
@@ -231,46 +1114,14 @@
       ]
     },
     {
-      "id": "r4b22d13ea40e4f0f",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Italy’s Webuild Completes Takeover of Construction Group Trevi",
-      "summary": "Webuild SpA, Italy’s biggest construction company, completed its tender offer for smaller competitor Trevi, adding to a string of acquisitions.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T08:42:34.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
       "id": "rd3dce6543a54c24d",
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "RCE in Gnupg",
-      "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 6 # Comments: 0",
+      "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 176 # Comments: 57",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
       "imageUrl": "",
       "publishedAt": "2026-11-21T08:32:58.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r2abc90c87dcd8a8a",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize",
-      "summary": "Article URL: https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize Comments URL: https://news.ycombinator.com/item?id=50587205 Points: 3 # Comments: 0",
-      "url": "https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T08:32:34.000Z",
       "category": "tech",
       "language": "en",
       "tags": [
@@ -311,22 +1162,6 @@
       ]
     },
     {
-      "id": "r20d9f8e8ba73ebd6",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "China has real economic troubles, ‘Japanification’ not among them",
-      "summary": "If one manifestation of the economic difficulties Japan faced from the 1990s was falling inflation and bond yields, then China is falling into the same malaise. Starting with longer maturities, interest rates on government debt in China have been falling below equivalents in Japa",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3374957/china-has-real-economic-troubles-japanification-not-among-them",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/a88298aa-ea80-4eef-8e83-72ad2b8a4f44_d1367227.jpg?itok=dUBRTe7I&v=1795143777",
-      "publishedAt": "2026-11-21T08:30:06.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
       "id": "r55ee2026dc93c66b",
       "sourceId": "s2",
       "sourceName": "香港電台 · 國際",
@@ -337,38 +1172,6 @@
       "publishedAt": "2026-11-21T08:26:11.000Z",
       "category": "world",
       "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r7b19dd0fedbb97f3",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "印度東北部曼尼普爾邦有人懷疑飲用有問題酒後不適至少11死",
-      "summary": "印度東北部曼尼普爾邦有人懷疑在飲用有問題的酒後不適，至少11人死亡，超過180人送院。 當地首席部長表示，受害者是在飲酒後出現不適症狀，超過180人被送往兩間醫院接受治療，48小時內有11人死亡。他下令就事件展開調查，強調會追究責任。 外電報道，在印度，因為飲用有問題酒類而導致死亡的事件時有所聞，這類透過非正規渠道販賣的廉價酒類，有時會摻入高度毒性工業化學物質甲醇。 編輯：許敬軒",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878704-20261121.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T08:07:29.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "re9a4e1f15c598148",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "How railway training helps China’s ties with African partners stay on track",
-      "summary": "For a group of Guinean railway workers, the track to driving trains runs through China, where they are learning to operate locomotives for the massive Simandou iron ore project. Under the Simandou Academy programme, 62 Guinean workers are attending a four-month course in Baotou, ",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3375284/how-railway-training-helps-chinas-ties-african-partners-stay-track",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/b82f4adc-b23b-4e65-937d-0ac5b3d72f92_4483e448.jpg?itok=kJxTkpIO&v=1795183348",
-      "publishedAt": "2026-11-21T08:00:15.000Z",
-      "category": "world",
-      "language": "en",
       "tags": [
         "香港",
         "國際"
@@ -407,70 +1210,6 @@
       ]
     },
     {
-      "id": "ra5a434a66fca6567",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "香港飛巴布亞新幾內亞客機疑引擎起火 在菲律賓南部安全降落",
-      "summary": "新幾內亞航空一架由香港前往巴布亞新幾內亞的客機，因為懷疑引擎起火，在菲律賓南部安全降落。 事發在星期五深夜，涉事的波音767-383ER客機，載著137名乘客與9名機組人員從香港起飛，原定前往巴布亞新幾內亞，機師在飛行途中報告，儀表顯示右邊引擎可能起火，隨即執行安全程序，並在午夜過後請求在達沃國際機場降落，機上人員透過緊急逃生滑梯撤離，事件中無人受傷。 菲律賓民航局表示，目前未發現飛機受損，機場一度因為配合客機緊急降落而暫時關閉。 編輯：許敬軒",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878701-20261121.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T07:43:20.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "本地"
-      ]
-    },
-    {
-      "id": "rc343594b0e28908f",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Abby Choi murder trial: ex-in-laws blame each other as 2 accounts of killing emerge",
-      "summary": "Three of slain Hong Kong socialite Abby Choi Tin-fung’s former in-laws have pointed fingers at one another in court regarding who killed her, while unanimously portraying her death as the result of a violent quarrel. Choi’s ex-husband, Alex Kwong Kong-chi, his father, Kwong Kau, ",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375315/abby-choi-murder-trial-ex-laws-blame-each-other-2-accounts-killing-emerge",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/7f354dd1-533c-4959-a789-03c8e9b795fe_0bffa41e.jpg?itok=FtuPHBYN&v=1795240062",
-      "publishedAt": "2026-11-21T07:26:42.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rbb46461e9995fbad",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Xi, Trump agree military AI decisions must involve humans, Bessent says",
-      "summary": "Presidents Xi Jinping and Donald Trump agreed during talks at the Asia-Pacific Economic Cooperation summit that “humans should always be involved” in military decisions involving AI, according to US Treasury Secretary Scott Bessent. Speaking to US broadcaster CNBC on Friday, Bess",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3375321/xi-trump-agree-military-ai-decisions-must-involve-humans-bessent-says",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/973eaa80-8e2d-4542-8bbf-6119092c11f6_42ab9ebc.jpg?itok=xzwdoBFx&v=1795245425",
-      "publishedAt": "2026-11-21T07:17:15.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rd5d602ad156b7c27",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "回應特朗普稱呼普京為朋友 澤連斯基表明普京是殺人兇手",
-      "summary": "對於美國總統特朗普形容俄羅斯總統普京是朋友，烏克蘭總統澤連斯基表明普京是殺人兇手。 美俄元首日前在深圳會晤時，特朗普稱呼普京為朋友，指兩人多年來一直維持非常好的關係。澤連斯基接受美國傳媒訪問時認為，特朗普如何稱呼普京是對方的自由，但對於烏克蘭而言，普京是敵人和殺人兇手，日日夜夜都殺人，把普京形容為朋友，意味普京感受到的壓力未夠大。 特朗普星期五在白宮總結亞洲之旅時說，俄烏元首都想結束戰爭，自己與兩人都有交情，認為是好事。特朗普未有收回普京是朋友的稱呼，但表明無法斷言普京是否算是美國的朋友。 編輯：許敬軒",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878700-20261121.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T07:10:39.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
       "id": "rb39084785bddd074",
       "sourceId": "s12",
       "sourceName": "unwire.hk",
@@ -487,43 +1226,11 @@
       ]
     },
     {
-      "id": "rd6c605d7ea0ddf01",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "India wants the world’s pension billions. Will regulatory hurdles slow the bet?",
-      "summary": "Raghupati Mishra, a Mumbai-based management and financial consultant, is thrilled that the six-lane Shree Jagannath Expressway – backed and operated by a major Canadian pension fund between the Odisha state capital, Bhubaneswar, and Chandikhole – has smoothed his regular journeys",
-      "url": "https://www.scmp.com/week-asia/economics/article/3375263/india-wants-worlds-pension-billions-will-regulatory-hurdles-slow-bet",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/ddf20552-d5df-43cc-b296-c44d02b134ca_1e6c3735.jpg?itok=364st9iA&v=1795175318",
-      "publishedAt": "2026-11-21T07:00:07.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r5046d7f1d8b66a2f",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "French Senate approves police shootings law dubbed ‘licence to kill’ by critics",
-      "summary": "French senators gave final approval on Friday to a law presuming that police officers who use their weapons are acting lawfully, a proposal ‌that left-wing parliamentarians oppose and seek to challenge at the Constitutional Council. A long-standing demand of far-right politicians",
-      "url": "https://www.scmp.com/news/world/europe/article/3375320/french-senate-approves-police-shootings-law-dubbed-licence-kill-critics",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/20eb4ac2-3d3b-425c-b710-57ea452fbc1c_6e52431a.jpg?itok=Bxe5jPEQ&v=1795243476",
-      "publishedAt": "2026-11-21T06:44:44.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
       "id": "rc0d26f66c608d52d",
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "Surprisingly Adorable Insect Portraits",
-      "summary": "Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/ Comments URL: https://news.ycombinator.com/item?id=50586648 Points: 44 # Comments: 10",
+      "summary": "Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/ Comments URL: https://news.ycombinator.com/item?id=50586648 Points: 126 # Comments: 26",
       "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed",
       "imageUrl": "",
       "publishedAt": "2026-11-21T06:44:14.000Z",
@@ -535,35 +1242,18 @@
       ]
     },
     {
-      "id": "r4d5bc55323d80b2a",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Man, 61, arrested over fake Chanel, Dior perfumes sold in alleged scam run by his son",
-      "summary": "A 61-year-old Hong Kong man has been arrested on suspicion of selling fake luxury perfume in an online scam operation that made more than HK$6 million (US$765,500) in illicit profits over the past two years. Customs officials, who also accused the man of money laundering, said th",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375319/man-61-arrested-over-fake-chanel-dior-perfumes-sold-alleged-scam-run-his-son",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/75bf417d-88d8-44bd-80f4-667e5d6e9e9e_a643a8c0.jpg?itok=AIrywHTU&v=1795243071",
-      "publishedAt": "2026-11-21T06:37:59.000Z",
-      "category": "world",
-      "language": "en",
+      "id": "r0aa94d50edd848b6",
+      "sourceId": "s9",
+      "sourceName": "Yahoo 新聞 · 香港",
+      "title": "友愛邨百厭童亂丟毛公仔等雜物落樓 家人推車檢拾當場訓斥",
+      "summary": "有市民今日(21日)在社交平台上載一段長約14秒的影片，指屯門友愛邨「有人從十幾樓掉嘢落去」，而畫面亦顯示愛廉樓對開地面遍布毛公仔和杯等雜物，並且有紙張在半空飄飛。",
+      "url": "https://hk.news.yahoo.com/%E5%8F%8B%E6%84%9B%E9%82%A8%E7%99%BE%E5%8E%AD%E7%AB%A5%E4%BA%82%E4%B8%9F%E6%AF%9B%E5%85%AC%E4%BB%94%E7%AD%89%E9%9B%9C%E7%89%A9%E8%90%BD%E6%A8%93-%E5%AE%B6%E4%BA%BA%E6%8E%A8%E8%BB%8A%E6%AA%A2%E6%8B%BE%E7%95%B6%E5%A0%B4%E8%A8%93%E6%96%A5-143624969.html",
+      "imageUrl": "",
+      "publishedAt": "2026-11-21T06:36:24.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
       "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r1c031705cc337fce",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "UN talks pledge to draft ‘killer robot’ rules by 2028 after Russian pushback",
-      "summary": "UN talks on regulating weapons with little or no human oversight ended on Saturday with a pledge ‌for further discussions to develop new rules within two years, an outcome weakened by Russia’s opposition and disappointing human rights groups. Proponents had called for legally bin",
-      "url": "https://www.scmp.com/news/world/europe/article/3375318/un-talks-pledge-draft-killer-robot-rules-2028-after-russian-pushback",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/bdd22e51-e8d8-46a5-b3ff-cfd461ae7a4a_f0e004cf.jpg?itok=erb2FqqK&v=1795242718",
-      "publishedAt": "2026-11-21T06:32:12.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
+        "香港"
       ]
     },
     {
@@ -583,99 +1273,19 @@
       ]
     },
     {
-      "id": "r3e0a68896ed78dc5",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "Using IDs to check concert tickets, combat scalping could slow entry: tourism chief",
-      "summary": "Hong Kong’s tourism chief has warned that requiring fans to show identity cards that match the names on their concert tickets to combat scalping could slow entry at venues, saying arrangements would need to be discussed with organisers for each event. Secretary for Culture, Sport",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375317/using-ids-check-concert-tickets-combat-scalping-could-slow-entry-tourism-chief",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/6d944044-3368-495d-ab9f-76d5861b8e04_4d9d8753.jpg?itok=E036RHhr&v=1795241220",
-      "publishedAt": "2026-11-21T06:07:13.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rac9642c8bbfa70d3",
-      "sourceId": "s7",
-      "sourceName": "SCMP",
-      "title": "China’s EV adoption rate to top 70% as petrol cars take brunt of drop in overall sales",
-      "summary": "Seven out of 10 car buyers in mainland China this month will opt for electric vehicles (EVs), as petrol-guzzling options fall further out of favour in the world’s largest market, according to an industry consortium. The country’s carmakers were expected to deliver 1.15 million EV",
-      "url": "https://www.scmp.com/business/china-business/article/3375236/chinas-ev-adoption-rate-top-70-petrol-cars-take-brunt-drop-overall-sales",
-      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/7dc7432f-3c9e-425e-a82f-fd1f49c51bc8_e88e8484.jpg?itok=GvRqp3v4&v=1795167504",
-      "publishedAt": "2026-11-21T06:00:09.000Z",
-      "category": "world",
-      "language": "en",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rad86268cd6b95b4e",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "歐洲多國有民眾示威和罷工 公共服務等受影響",
-      "summary": "歐洲多國有民眾示威和罷工，要求增加公共服務開支和提高工資，減少國防支出，交通、醫療和教育等服務受影響。 德國多個城市在當地星期五爆發示威，反對恢復兵役制和削減教育經費，要求改善校舍、教育和住房負擔等。其中柏林警方說，約有4500人參加，警方出動約1600名警力維持秩序。 英國倫敦也舉行抗議活動。示威者聚集在議會廣場、特拉法加廣場等地，反對軍事擴張和生活成本上漲等。他們隨後在首相官邸附近集合，一度堵塞交通，並與立場不同的右翼示威者對峙，警方拘捕數人。 法國巴黎等地也有規模相對較小的遊行。示威者據報在周末舉行全國抗議，紀念「黃背心運動」8周年。法國政府計劃在",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878698-20261121.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T05:55:29.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "rb502ba6aed437cae",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
+      "id": "r66331f9b29d73458",
+      "sourceId": "s3",
+      "sourceName": "香港電台 · 財經",
       "title": "國家及特區政府與亞投行簽署協議 確立亞投行在港設辦事處",
       "summary": "國家及香港特區政府與亞洲基礎設施投資銀行簽署兩份協議，國家財政部部長藍佛安、亞投行副行長鄒加怡、中央政府駐港聯絡辦副主任張勇，出席協議簽署儀式。 財政司司長陳茂波表示，剛簽署的協議包括正式確立亞投行在香港設立辦事處，充分展現亞投行對香港作為國際金融中心的堅定信心，香港亦能夠直接在多方面為亞投行工作作出貢獻。 他強調，香港資產管理規模逾5萬億美元，融資渠道完善，可提供相關專業知識，認為香港金融市場能夠為各方提供進入龐大國際資金池的途徑。 此外，香港將再向亞投行「項目準備特別基金」再注資2000萬美元，連同2018年注資，總注資額達3000萬美元。陳茂波說，",
       "url": "https://news.rthk.hk/rthk/ch/component/k2/1878697-20261121.htm",
       "imageUrl": "",
       "publishedAt": "2026-11-21T05:48:54.000Z",
-      "category": "hk",
+      "category": "biz",
       "language": "zh-Hant",
       "tags": [
         "香港",
-        "本地"
-      ]
-    },
-    {
-      "id": "r9f6ebee3aade702e",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "立法會堅決反對美中經濟與安全審議委員會所謂「2026年報告」",
-      "summary": "立法會表示，強烈不滿和堅決反對美中經濟與安全審議委員會發表所謂「2026年報告」，對香港情況作出失實、偏頗的陳述，肆意詆毀「一國兩制」，又對香港的司法獨立和法治、依法維護國家安全工作、選舉制度，以及經濟發展等多方面無理抹黑。立法會發言人表示強烈譴責，並堅定支持特區政府就該報告發出的聲明，直斥其非，以正視聽，維護香港聲譽。 立法會發言人指出，美方所謂報告指責《香港國安法》及《基本法》第二十三條立法系統性侵蝕香港法治，卻隻字不提2019年香港發生的嚴重暴力動亂和社會撕裂，正是《香港國安法》的實施才能有效恢復社會秩序，保障了市民的生命財產安全。美方所謂報告將香",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878696-20261121.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T05:43:22.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "本地"
-      ]
-    },
-    {
-      "id": "r16b4998ecc9c2cfc",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "日本多處出現熊襲擊人事件 當局敦促民眾警惕",
-      "summary": "日本傳媒報道，日本近期多地發現有熊在市區遊蕩，已有多人遇襲受傷，涉事地區緊急採取停課等措施。 其中，群馬縣前橋市的居民近日經常目擊有兩隻熊在市區遊蕩，有居民拍攝到熊在市區河道游泳、在住宅圍牆行走。報道說，兩隻熊懷疑是母熊和幼熊，幼熊已被捕獲，警方正在尋找母熊下落。截至目前，已至少一名50歲男子遭熊襲擊受傷。當地公立幼稚園和中小學校停課。 另外，山口縣周南市本月初一名男子被熊襲擊受重傷，山口縣政府發佈熊出沒警報。 據報埼玉縣、愛知縣等地也發生熊襲擊人事件。由於黑熊即將進入冬眠，政府敦促民眾警惕熊為尋找食物而出現在人類生活圈的情況。 編輯：方潤南",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878695-20261121.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T05:41:04.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
+        "財經"
       ]
     },
     {
@@ -683,7 +1293,7 @@
       "sourceId": "s16",
       "sourceName": "Hacker News",
       "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 66 # Comments: 21",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 138 # Comments: 43",
       "url": "https://ricapar.net/ClawDOS",
       "imageUrl": "",
       "publishedAt": "2026-11-21T05:38:01.000Z",
@@ -695,51 +1305,19 @@
       ]
     },
     {
-      "id": "r160f852f8ac4d9fc",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "China’s Top Planner Seeks Faster Construction of State Projects",
-      "summary": "China’s top planning agency urged local authorities to speed up the construction of government investment projects and disbursement of funds in a bid to spur growth in the world’s second-largest economy.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-s-top-planner-seeks-faster-construction-of-state-projects",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T05:24:06.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "rd5e0c2f7cfef78cf",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
-      "title": "丘應樺：大廈維修工程圍標問題嚴重 需立即針對性提出修例",
-      "summary": "政府計劃將樓宇維修圍標行為刑事化，大律師公會早前指，有必要釐清《競爭條例》下寬待機制會否在作出刑事檢控時依然生效；以及現時「吹哨者」向競委會舉報可獲豁免的做法，會否涵蓋至刑事檢控。商務及經濟發展局局長丘應樺表示，不排除會加入相關考慮，但並非容易，需要視乎實際情況和律政司意見等不同因素。 丘應樺在一個電視節目說，現時刑事法例下，警方已有相關機制，調查過程亦可以透過其他方法搜集證據提出檢控，不一定要依靠「吹哨人」。 被問到會否將樓宇維修工程圍標刑事化擴大至其他圍標行為，丘應樺說，大廈維修工程圍標問題嚴重，需要立即針對性提出修例，如果實質上見到其他嚴重的問題存",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878694-20261121.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T05:21:14.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "本地"
-      ]
-    },
-    {
-      "id": "r56099ccc47f208b0",
-      "sourceId": "s1",
-      "sourceName": "香港電台 · 本地",
+      "id": "re771083eeadde0f0",
+      "sourceId": "s3",
+      "sourceName": "香港電台 · 財經",
       "title": "陳茂波率廿多人代表團 深夜啟程前往英國荷蘭訪問",
       "summary": "財政司司長陳茂波今日深夜啟程前往英國和荷蘭訪問。 他將會率領20多人代表團，成員包括政府部門、公營機構和行業組織代表，以及投資界和創科界領袖，期望增進商貿和創科交流，促成更多投資與合作。 代表團明日至本月25日訪問英國，期間會到訪劍橋大學，出席創新對話會，並到訪大學的創新成果商品化機構和生物醫藥企業的研發中心。其後會在倫敦出席香港－歐洲商務委員會全體會議、香港工商協會午餐會，以及由貿發局舉辦的「香港晚宴」。在倫敦期間，陳茂波會與當地工商金融界和智庫的領袖會面，出席金融界圓桌會議。 代表團會在本月25日至28日訪問荷蘭，包括到阿姆斯特丹和海牙等地，參觀多個",
       "url": "https://news.rthk.hk/rthk/ch/component/k2/1878693-20261121.htm",
       "imageUrl": "",
       "publishedAt": "2026-11-21T05:19:01.000Z",
-      "category": "hk",
+      "category": "biz",
       "language": "zh-Hant",
       "tags": [
         "香港",
-        "本地"
+        "財經"
       ]
     },
     {
@@ -759,38 +1337,6 @@
       ]
     },
     {
-      "id": "r17fca9be5dd3eb5b",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "貝森特：面臨伊朗安全威脅 目前仍居住軍事基地",
-      "summary": "美國財長貝森特說，他依然面臨伊朗的安全威脅，目前仍居住在軍事基地。 貝森特接受訪問時重申，自己不會被伊朗人嚇倒，美國已對伊朗實施兩個半月的經濟施壓，形容是史上對一個國家最嚴厲的經濟孤立。 貝森特認為如果伊朗人針對他，正表明他們正在承受壓力。美國將繼續對伊朗伊斯蘭革命衛隊施壓，直到他們準備好遵守協議。 他又指責美國《華爾街日報》一名不負責任的編輯，指對方發佈照片，洩露他住所的位置。 編輯：方潤南",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878692-20261121.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T05:04:55.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r0c2362d8c0ad734c",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "China Military Bars SF Express Over Procurement Misconduct",
-      "summary": "SF Express Co., a Chinese delivery and logistics company, has been suspended from participating in military-wide procurement of goods, engineering and services over alleged violations.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T05:00:48.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
       "id": "r0dd09707aa92c408",
       "sourceId": "s3",
       "sourceName": "香港電台 · 財經",
@@ -804,22 +1350,6 @@
       "tags": [
         "香港",
         "財經"
-      ]
-    },
-    {
-      "id": "rc41e081934631de6",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "「龍」飛船脫離國際太空站啟程返回地球",
-      "summary": "美國太空探索技術公司（SpaceX）的「龍」飛船脫離國際太空站，帶回大量科研樣本和設備等啟程返回地球。 美國太空總署預計「龍」飛船在香港時間明早在加州附近海域濺落。 太空總署說，「龍」飛船帶回包括3D生物打印的血管結構模型，以及在太空站經過處理，用於腫瘤研究的冷凍樣本等。這些樣本有助科研人員研究血管衰老和心血管疾病，以及探索改進癌症治療的新方法。 貨運「龍」飛船上月13日搭乘「獵鷹9」火箭，從佛羅里達州卡納維拉爾角基地發射升空，為國際太空站運送約2800公斤科研設備和補給物資。 編輯：方潤南",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878689-20261121.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T04:39:17.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
       ]
     },
     {
@@ -840,75 +1370,27 @@
       ]
     },
     {
-      "id": "r4a4fba262213d58d",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "中美鬥 AI 不影響共識 美財長稱特習同意軍事 AI 須人類參與",
-      "summary": "美國財政部長貝森特（Scott Bessent）接受美國財經電視台 CNBC 訪問時表示，美國總統特朗普與中國 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/21/trump-xi-military-ai-human-decisions/ai",
+      "id": "rf86ebbcec093528d",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "The game of the year is finally here",
+      "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been ",
+      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
       "imageUrl": "",
-      "publishedAt": "2026-11-21T02:48:21.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
-      "id": "r9b1e6d3051d12e90",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 99 # Comments: 31",
-      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T02:40:39.000Z",
+      "publishedAt": "2026-11-21T02:53:15.000Z",
       "category": "tech",
       "language": "en",
       "tags": [
         "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r82e6f14f115663dd",
-      "sourceId": "s2",
-      "sourceName": "香港電台 · 國際",
-      "title": "特朗普稱曾與習近平討論黃仁勳 稱三國共識絕不能讓核衝突發生",
-      "summary": "美國總統特朗普表示，早前在深圳同國家主席習近平討論過Nvidia前行政總裁黃仁勳，但未有透露細節。 另外，特朗普說，將禁止美國企業在海外興建人工智能數據中心，警告將向這些企業徵收極為沉重的稅項，聲稱數據中心會被中國搶走。 特朗普在白宮舉行記者會總結亞洲訪問，說深圳APEC會議是一場非常成功的經濟會議；美、中和俄三國領導人舉行首次三方會晤是史無前例，意義非常重大。三國已正式達成共識，絕不能讓核衝突發生。 另外，報道指黃仁勳同意在參議院的公開聽證會作證，但黃仁勳的代表拒絕置評。而黃仁勳早前已同意12月1日向三個眾議院委員會閉門作供。 編輯：方潤南",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878680-20261121.htm",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T02:11:50.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "國際"
-      ]
-    },
-    {
-      "id": "r9bb915d0cb150167",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "科大智能牙線唔使篤手指 潔齒 20 秒後 3 分鐘測血糖痛風",
-      "summary": "香港科技大學（科大）研究團隊研發「智能牙線」，用戶如常潔齒約 20 秒便可採樣，毋須抽血，3 分鐘內量度血糖、 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/21/hkust-smart-dental-floss-glucose/life-tech/health",
-      "imageUrl": "",
-      "publishedAt": "2026-11-21T02:00:00.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
+        "AI"
       ]
     },
     {
       "id": "rf88b22fa0d747772",
       "sourceId": "s9",
       "sourceName": "Yahoo 新聞 · 香港",
-      "title": "北角宏安道女子捱私家車撞 腳被壓疑一度失知覺送院",
-      "summary": "今日(21日)下午3時15分，警方接獲途人報案，指一輛私家車沿北角福蔭道轉入宏安道時撞倒一名女子。據報她的腳部被前輪壓住，疑一度失去知覺。消防接報後到場，合力將她救出。救護員即場為她初步包紥後，清醒由救護車送往東區醫院治理。從網上圖片可見，事主俯伏在涉私家車前方地上，雙腿在車底及右前輪位置。數名熱心途人安撫及協助照料事主，消防員及救護員在場為事主治理。",
+      "title": "北角宏安道女子捱私家車撞送院 司機涉危駕被捕 (更新)",
+      "summary": "今日(21日)下午3時15分，警方接獲途人報案，指一輛私家車沿北角福蔭道轉入宏安道時撞倒一名女子。據報她的腳部被前輪壓住，疑一度失去知覺。消防接報後到場，合力將該名72歲姓林女子救出。救護員即場為她初步包紥後，清醒由救護車送往東區醫院治理。經初步調查，該名50歲姓馬男司機涉嫌危險駕駛引致他人身體受嚴重傷害被捕，現正被扣留調查。從網上圖片可見，事主俯伏在涉私家車前方地上，雙腿在車底及右前輪位置。數名熱心途人安撫及協助照料事主，消防員及救護員在場為事主治理。",
       "url": "https://hk.news.yahoo.com/%E5%8C%97%E8%A7%92%E5%AE%8F%E5%AE%89%E9%81%93%E5%A5%B3%E5%AD%90%E6%8D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E-%E8%85%B3%E8%A2%AB%E5%A3%93%E7%96%91-%E5%BA%A6%E5%A4%B1%E7%9F%A5%E8%A6%BA%E9%80%81%E9%99%A2-090142225.html",
       "imageUrl": "",
       "publishedAt": "2026-11-21T01:01:42.000Z",
@@ -916,6 +1398,21 @@
       "language": "zh-Hant",
       "tags": [
         "香港"
+      ]
+    },
+    {
+      "id": "r91eee57edb60a97e",
+      "sourceId": "s18",
+      "sourceName": "BBC Technology",
+      "title": "Tech Now",
+      "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
+      "publishedAt": "2026-11-21T01:00:00.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技"
       ]
     },
     {
@@ -946,22 +1443,6 @@
       "language": "en",
       "tags": [
         "科技"
-      ]
-    },
-    {
-      "id": "r88f954557efba4ab",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Catching Crumbs from the Table [pdf]",
-      "summary": "Article URL: https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf Comments URL: https://news.ycombinator.com/item?id=50584082 Points: 13 # Comments: 1",
-      "url": "https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T23:52:54.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
       ]
     },
     {
@@ -997,74 +1478,10 @@
       ]
     },
     {
-      "id": "r6fbc31ecf5948e15",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Serious cyberattack thought backed by wealthy operators",
-      "summary": "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411 Comments URL: https://news.ycombinator.com/item?id=50583856 Points: 87 # Comments: 43",
-      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T23:29:30.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r535d63a82064ea96",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
-      "summary": "J&J Snack Foods CEO Dan Fachner said the company’s turnaround is on track after a strong year, citing Project Apollo’s more than $25 million in durable savings. A second phase, Apollo 2, is expected to generate another $5 million by 2027 through distribution and manufacturing imp",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T23:22:36.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "r722b75ee69cb6ea6",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Sir Brian May adds new dimension to Hera asteroid",
-      "summary": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 111 # Comments: 25",
-      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T23:19:44.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "rbfb1e256846f4348",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4",
-      "url": "https://news.ycombinator.com/item?id=50583761",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T23:18:32.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
       "id": "r2c75db931dd4a1bf",
       "sourceId": "s18",
       "sourceName": "BBC Technology",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
@@ -1134,38 +1551,6 @@
       "language": "zh-Hant",
       "tags": [
         "香港"
-      ]
-    },
-    {
-      "id": "r70b74bf5a14bf01a",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 264 # Comments: 66",
-      "url": "https://ninlive.com",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T22:30:47.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "rd92e13e9ab2e42dc",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "‘Always Remain Liquid’: Richards",
-      "summary": "Bruce Richards, managing partner and head of CVC Marathon, joins Scarlet Fu and Tom Keene on “Bloomberg Money.” They discuss Richards’ favorite investing advice he has received throughout his career. Richards warns about irrational markets and also says he’s not a fan of leverage",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T22:30:37.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
       ]
     },
     {
@@ -1244,22 +1629,6 @@
       "tags": [
         "香港",
         "財經"
-      ]
-    },
-    {
-      "id": "r88187d91fb21dd19",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Roc",
-      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T22:10:53.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
       ]
     },
     {
@@ -1430,38 +1799,6 @@
       ]
     },
     {
-      "id": "r7d130b3c83ee9792",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "Inkling 2 Mini",
-      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1009 # Comments: 191",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T20:12:19.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
-      "id": "r0cb2ef95df760ac4",
-      "sourceId": "s16",
-      "sourceName": "Hacker News",
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 219 # Comments: 68",
-      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T20:03:59.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "工程"
-      ]
-    },
-    {
       "id": "r74eb49b6ab4d87a7",
       "sourceId": "s14",
       "sourceName": "TechCrunch",
@@ -1509,13 +1846,29 @@
       ]
     },
     {
+      "id": "rd097ae289a67244a",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defens",
+      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "imageUrl": "",
+      "publishedAt": "2026-11-20T19:34:11.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
       "id": "r5fc4db4439869c09",
       "sourceId": "s14",
       "sourceName": "TechCrunch",
       "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
       "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
-      "imageUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5fc4db4439869c09.jpg",
+      "imageUrl": "",
       "publishedAt": "2026-11-20T19:32:08.000Z",
       "category": "tech",
       "language": "en",
@@ -1571,14 +1924,14 @@
       ]
     },
     {
-      "id": "r57942df08894849a",
+      "id": "r69a7edc8d1be65c0",
       "sourceId": "s13",
       "sourceName": "The Verge",
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+      "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was [&#8230;",
+      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
       "imageUrl": "",
-      "publishedAt": "2026-11-20T18:50:19.000Z",
+      "publishedAt": "2026-11-20T18:35:38.000Z",
       "category": "tech",
       "language": "en",
       "tags": [
@@ -1621,54 +1974,6 @@
       ]
     },
     {
-      "id": "r934268705bf1f9fa",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-      "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on January 25th, 2027, me",
-      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T18:06:41.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "r984e0662bf178477",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy&#8217;s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or dir",
-      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T17:50:06.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "r2b30d69c1778d5b1",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-      "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thank",
-      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T17:48:09.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
       "id": "r06e9fcd5e909fc79",
       "sourceId": "s14",
       "sourceName": "TechCrunch",
@@ -1682,54 +1987,6 @@
       "tags": [
         "科技",
         "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "r755c33982e275eaa",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
-      "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devices even more expensive. Fortunately, Bla",
-      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T17:33:59.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "r81c05d1114321531",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
-      "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company says the EP/BC-1 is the first",
-      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T17:10:15.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
-      "id": "rc10208b48b911d86",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "summary": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T16:57:47.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
         "AI"
       ]
     },
@@ -1749,29 +2006,13 @@
       ]
     },
     {
-      "id": "r219ed6f0dd891ae8",
-      "sourceId": "s13",
-      "sourceName": "The Verge",
-      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-      "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Reznor and Atticus Ross, but mos",
-      "url": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T16:22:15.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI"
-      ]
-    },
-    {
       "id": "r8d7068499721c04d",
       "sourceId": "s8",
       "sourceName": "BBC 中文",
       "title": "中美俄「三巨頭」會晤的台前幕後",
       "summary": "BBC記者從深圳帶你回顧這場中美俄「三巨頭」峰會的台前幕後。",
       "url": "https://www.bbc.com/zhongwen/articles/cmn0d4pnrj31o/trad?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/23d5/live/aabedd10-e4fd-11f1-a094-5fdc692f3e33.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/31c4/live/230c4ca0-e5a1-11f1-99b6-a35a62fa4264.jpg",
       "publishedAt": "2026-11-20T16:16:46.000Z",
       "category": "world",
       "language": "zh-Hant",
@@ -1836,6 +2077,38 @@
       "summary": "灣仔皇后大道東車水馬龍，高樓大廈林立，但鬧市一隅卻靜靜豎立着一座古廟。 洪聖古廟 建於1847年至1852年，至今已有近180年歷史，政府於2026年10月正式刊憲，將之列為法定古蹟。 滄海桑田 見證變遷 古廟主神洪聖是廣受漁民和海上商旅敬拜的南海之神，與海洋淵源深厚，廟宇坐落在內陸未免令人疑惑。 發展局古物古蹟辦事處館長（歷史建築）余慧明解開謎團：「洪聖古廟最初建於香港島的海岸線上，對面的大王東街和大王西街正是以古廟別名『大王』命名。」 隨着填海和城市發展，廟前碧海已化作高樓林立的繁華街道。古廟猶如一枚歷史座標，默默紀錄着灣仔的海岸線變遷。 嶺南風格 ",
       "url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_153418_657.html",
       "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_153418_657/images/20261120155641489.JPG",
+      "publishedAt": "2026-11-20T16:00:00.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "政府"
+      ]
+    },
+    {
+      "id": "re6be8f07221391a7",
+      "sourceId": "s4",
+      "sourceName": "香港政府新聞網",
+      "title": "亞投行簽署協定推進在港設辦事處",
+      "summary": "中華人民共和國政府與亞洲基礎設施投資銀行今日在香港簽署《中華人民共和國政府與亞洲基礎設施投資銀行關於在中華人民共和國香港特別行政區設立辦公室的協定》，為亞投行在香港開設辦公室奠定基礎。 協定分別由國家財政部部長藍佛安和亞投行行長鄒加怡代表簽署，確定亞投行於香港設立辦公室，並為特權及豁免與其他有助成立辦公室的事宜制定原則。 財政司司長陳茂波出席簽署儀式。他感謝國家財政部對香港特區的支持，以及亞投行對香港的信任。 陳茂波表示，亞投行選擇在香港設立辦公室，充分肯定香港作為國際金融中心的地位，也彰顯香港在匯聚國際資本、支持亞洲基礎設施建設方面的獨特角色。 他指出",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261121/20261121_171910_555.html",
+      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261121/20261121_171910_555/images/20261121184641666.jpg",
+      "publishedAt": "2026-11-20T16:00:00.000Z",
+      "category": "hk",
+      "language": "zh-Hant",
+      "tags": [
+        "香港",
+        "政府"
+      ]
+    },
+    {
+      "id": "r0d56c5758c5a0f3a",
+      "sourceId": "s4",
+      "sourceName": "香港政府新聞網",
+      "title": "陸啟康巡視選委會界別選舉投票站",
+      "summary": "2026年選舉委員會界別分組一般選舉明日舉行，選舉管理委員會主席陸啟康今日上午巡視設於港灣道體育館的投票站和設於香港會議展覽中心的中央點票站，並呼籲合資格投票人踴躍投票。 選管會及選舉事務處在各方面均已準備就緒，陸啟康表示，工作人員正進行最後的準備和演練，衷心感謝他們作出的努力，以確保明日的選舉可公開、誠實、公平地進行。 這次選舉共有856名候選人競逐31個界別分組共723個席位。五個一般投票站將由明日上午9時至下午6時開放予相關界別分組的投票人或獲授權代表投票。投票人或獲授權代表須帶備有效的香港身份證正本，到列明於投票通知卡上其獲編配的投票站投票。 陸",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261121/20261121_193502_573.html",
+      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261121/20261121_193502_573/images/20261121204938002.jpg",
       "publishedAt": "2026-11-20T16:00:00.000Z",
       "category": "hk",
       "language": "zh-Hant",
@@ -1926,6 +2199,22 @@
       ]
     },
     {
+      "id": "r9ecc210eef10ae5c",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just pa",
+      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "imageUrl": "",
+      "publishedAt": "2026-11-20T15:11:54.000Z",
+      "category": "tech",
+      "language": "en",
+      "tags": [
+        "科技",
+        "AI"
+      ]
+    },
+    {
       "id": "r023860f23aefc248",
       "sourceId": "s17",
       "sourceName": "Ars Technica",
@@ -1957,88 +2246,6 @@
       ]
     },
     {
-      "id": "r9d95a5ca8a322876",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Anthropic Slides 8.5% to Shrink IPO Gain as AI Trade Unravels",
-      "summary": "Anthropic PBC shares erased a portion of their first-day jump on Friday, testing investors’ faith after the AI lab delivered the biggest initial public offering in history.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T14:36:49.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "r17794f6e6fff1113",
-      "sourceId": "s17",
-      "sourceName": "Ars Technica",
-      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
-      "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
-      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
-      "publishedAt": "2026-11-20T14:15:21.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "r16f5c9bea4ec3d7e",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T14:00:00.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "ra5711d84848b2c5a",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
-      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T13:25:00.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "rfd99d38aa42c10be",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "California AG subpoenas Nvidia over worries about Huang&#8217;s ties with China",
-      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T13:21:11.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
       "id": "rd177e6bfcddb636f",
       "sourceId": "s15",
       "sourceName": "MIT Technology Review",
@@ -2053,38 +2260,6 @@
         "科技",
         "AI",
         "學習"
-      ]
-    },
-    {
-      "id": "r92990812b2d7c073",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "China Offshore Tax Clampdown Pushes Budget Into Rare Surplus",
-      "summary": "China’s budget swung into a rare surplus in October, as tighter scrutiny of offshore wealth produced a one-off bonanza of individual income tax receipts and offset a long-awaited increase in fiscal spending.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/china-s-offshore-tax-clampdown-pushes-budget-into-rare-surplus",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T11:33:21.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "rbda4f3306c1a610e",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "8GB 手提電腦有救？ Windows 11 26H2 開 30 多分頁兼播 4K 片",
-      "summary": "Windows 11 26H2 在 The Verge 實測中改善了 8GB 電腦的多工表現：一部 8GB S [&#8230;]",
-      "url": "https://unwire.hk/2026/11/20/windows-11-26h2-8gb-surface-laptop-test/software/windows-11",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T10:03:21.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
       ]
     },
     {
@@ -2104,55 +2279,6 @@
       ]
     },
     {
-      "id": "r45cc4be00be9780d",
-      "sourceId": "s14",
-      "sourceName": "TechCrunch",
-      "title": "The US national cyber director is stepping down",
-      "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
-      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T09:14:19.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "創業",
-        "AI"
-      ]
-    },
-    {
-      "id": "r5bb2f32097dfa177",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "Borslon 遊戲滑鼠戴在食指 郁手指控制游標 拇指按鍵當左鍵",
-      "summary": "Borslon 指戴式遊戲滑鼠正在 Kickstarter 眾籌，用家把它戴在右手食指上，移動手指便可控制游標 [&#8230;]",
-      "url": "https://unwire.hk/2026/11/20/borslon-finger-worn-gaming-mouse/parts",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T09:02:57.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
-      ]
-    },
-    {
-      "id": "r76039fe20992f50a",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Billionaire Raises $720 Million Private Credit for Megha Buyout",
-      "summary": "Indian billionaire P.V. Krishna Reddy has secured about 67 billion rupees ($720 million) from global private credit investors to buy out his uncle’s stake in Megha Engineering & Infrastructures Ltd., according to people familiar with the matter, in a layered transaction that is o",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T08:57:50.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
       "id": "r874493aca00814a7",
       "sourceId": "s8",
       "sourceName": "BBC 中文",
@@ -2166,22 +2292,6 @@
       "tags": [
         "國際",
         "繁中"
-      ]
-    },
-    {
-      "id": "r9e88e1875000df68",
-      "sourceId": "s12",
-      "sourceName": "unwire.hk",
-      "title": "Elon Musk 專程飛上海謝 Tesla 團隊 分享輔助駕駛及機械人進展",
-      "summary": "Elon Musk 在只有 24 小時的中國行程中，專程由深圳飛往上海向 Tesla 亞太及中國團隊致謝，Te [&#8230;]",
-      "url": "https://unwire.hk/2026/11/20/elon-musk-tesla-shanghai-factory-visit/life-tech/auto",
-      "imageUrl": "",
-      "publishedAt": "2026-11-20T08:02:50.000Z",
-      "category": "tech",
-      "language": "zh-Hant",
-      "tags": [
-        "科技",
-        "香港"
       ]
     },
     {
@@ -2293,306 +2403,19 @@
       ]
     },
     {
-      "id": "r093b27c18fa55e89",
-      "sourceId": "s19",
-      "sourceName": "Bloomberg Markets",
-      "title": "Nasdaq 100 Has Worst Week Since 2020 on AI Drama: Markets Wrap",
-      "summary": "Weeks of anxiety around the viability of the artificial-intelligence trade erupted into a full-blown selloff, pushing the S&P 500 to a technical correction while lifting bonds and haven currencies.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+      "id": "r5c4319137c429171",
+      "sourceId": "s13",
+      "sourceName": "The Verge",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. ",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T22:03:40.000Z",
-      "category": "biz",
-      "language": "en",
-      "tags": [
-        "財經",
-        "商業"
-      ]
-    },
-    {
-      "id": "rd4c64f440d6fd1ef",
-      "sourceId": "s8",
-      "sourceName": "BBC 中文",
-      "title": "中美俄元首歷史性會晤 普京獲得外交勝利嗎？",
-      "summary": "中國國家主席習近平、美國總統特朗普及俄羅斯總統普京在APEC深圳峰會期間舉行首次三方會談，聚焦烏克蘭危機與核軍控。",
-      "url": "https://www.bbc.com/zhongwen/articles/ck9q84jgpxpjo/trad?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7429/live/f1f7e890-e43d-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-19T17:24:59.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "國際",
-        "繁中"
-      ]
-    },
-    {
-      "id": "re5e0313f6e7ee9f0",
-      "sourceId": "s18",
-      "sourceName": "BBC Technology",
-      "title": "Dutch watchdog tells people not to buy AI smart glasses",
-      "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg",
-      "publishedAt": "2026-11-19T16:33:17.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "r13993e1192a69491",
-      "sourceId": "s4",
-      "sourceName": "香港政府新聞網",
-      "title": "公屋綜合輪候時間創十年新低",
-      "summary": "房屋局公布，最新公屋綜合輪候時間為4.4年，較今年6月大幅下降0.4年，創十年新低。 最新公屋綜合輪候時間是根據截至今年9月底，在過去12個月獲安排入住傳統公屋或簡約公屋的一般申請者，即家庭申請者及長者一人申請者的輪候時間平均數計算所得。 與本屆政府上任前的高位6.1年比較，公屋綜合輪候時間縮短1.7年，第一次低於4.5年，也是過去十年以來的新低。 今年第三季，約11,200宗一般申請獲安排入住傳統公屋或簡約公屋，包括約3,100個新落成的傳統公屋單位、約2,700個回收的傳統公屋單位、約5,450個簡約公屋單位。其中，獲編配入住簡約公屋的數目是上一季的",
-      "url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_150308_558.html",
-      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_150308_558/images/20261120162231609.jpg",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "政府"
-      ]
-    },
-    {
-      "id": "rfad7ee5b2e978a1b",
-      "sourceId": "s4",
-      "sourceName": "香港政府新聞網",
-      "title": "國際基建卓越周揭幕",
-      "summary": "由發展局牽頭主辦的國際基建卓越周2026今日揭幕，旨在構建建造業頂尖國際交流平台，以促進可持續發展、提升推展基建效能，以及加速創新科技落地，成為推動行業升級轉型的重要催化劑。 行政長官李家超在開幕典禮上致辭時表示，在地緣政治瞬息萬變、氣候挑戰迫在眉睫、科技迅速發展的世界中，必須憑藉創新、協作和清晰的戰略方向，將理念轉化為具長遠影響的項目。他指出，香港特區第一個五年規劃勾劃出香港未來的戰略藍圖，使企業、投資者和創新者深入了解城市發展和新機遇，並以北部都會區這個五年規劃的核心項目為例，闡述這些發展和機遇。 他表示，要建設北部都會區並實現其發展願景，香港必須以",
-      "url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_194010_745.html",
-      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_194010_745/images/20261120211347199.jpg",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "政府"
-      ]
-    },
-    {
-      "id": "r51c2f560d67d8087",
-      "sourceId": "s4",
-      "sourceName": "香港政府新聞網",
-      "title": "北角社區客廳開幕",
-      "summary": "北角社區客廳今日開幕，是今年第十間投入服務的社區客廳。政務司司長陳國基表示，北角社區客廳實用面積約2,400平方呎，預計可服務270個劏房戶，全年服務43,000人次。 以下是政務司司長陳國基11月20日出席北角社區客廳開幕典禮的致辭： Tim（太古地產行政總裁彭國邦）、Richard（太古集團慈善理事會主席邵瑞德）、Brian（聖雅各福群會執行委員會副主席李民斌）、各位嘉賓、各位街坊、各位朋友： 大家好！其實我每次來到社區客廳都開心，今日特別開心，能夠出席北角社區客廳開幕典禮，與大家共同見證今年第十間社區客廳投入服務。 每一間社區客廳都有其特點，而這一",
-      "url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_192625_378.html",
-      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_192625_378/images/20261120194304027.jpg",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "政府"
-      ]
-    },
-    {
-      "id": "raeeaa895a84ff155",
-      "sourceId": "s4",
-      "sourceName": "香港政府新聞網",
-      "title": "政府不妨礙市民進行合法悼念活動",
-      "summary": "大埔宏福苑火災發生接近一年，政務司司長陳國基向災民致以深切慰問。就有團體表示受到壓力、取消悼念活動，他澄清政府不會妨礙或阻止市民、災民進行合法悼念活動，但呼籲大眾小心選擇，切勿被別有用心人士利用進行違法行為。 陳國基今日出席活動後會見傳媒時重申，香港是法治之區，政府絕對容許合法悼念活動，相關部門也會在需要的情況下提供協助，讓市民或災民能安心、順利地進行悼念活動。 然而，當局在網上留意到，有個別別有用心人士企圖利用悼念活動做出破壞行為。陳國基提醒市民，參加悼念活動時必須小心選擇，切勿被一些別有用心人士利用進行一些破壞行為。警方一定依法處理所有違法行為。",
-      "url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_180340_743.html",
-      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_180340_743/images/20261120191115830.jpg",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "政府"
-      ]
-    },
-    {
-      "id": "re3f706627d45f3ae",
-      "sourceId": "s4",
-      "sourceName": "香港政府新聞網",
-      "title": "北部都會區發展條例刊憲",
-      "summary": "《北部都會區發展條例》今日刊憲。條例為多項便利措施提供法律基礎，涵蓋城市規劃、收地補償、建築工程審批、噪音管制和便利跨境流動，提速加快發展建設，助力企業落戶北都。 北都將以大學城、創科、產業和宜居宜業宜遊為發展布局，是香港深度參與粵港澳大灣區建設，以及主動融入和服務國家發展大局的主平台，也是推動香港經濟轉型和發展新質生產力的戰略引擎。 條例本月12日經立法會三讀通過，對香港主動對接國家十五五規劃及落實香港特區第一個五年規劃具有重要意義。 發展局和相關政策局正為落實條例相關便利措施敲定首批附屬法例，計劃明年1月提交立法會審議，目標於第一季生效。 根據條例已",
-      "url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_154940_106.html",
-      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_154940_106/images/20261120163708689.jpg",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "政府"
-      ]
-    },
-    {
-      "id": "r6bb9da9ecbc5b82b",
-      "sourceId": "s4",
-      "sourceName": "香港政府新聞網",
-      "title": "強烈譴責美方詆毀香港",
-      "summary": "特區政府強烈譴責美中經濟與安全審議委員會發表所謂「2026年報告」，以失實和偏頗的詆毀，污衊抹黑香港特區各方面的情況，強調必須嚴厲直斥其非。 特區政府 重申 ，香港特區是中華人民共和國不可分離的部分，在「一國兩制」下是一個享有高度自治權、直轄於中央人民政府的地方行政區域。「一國兩制」以《憲法》和《基本法》為法律依據實施，為基本權利和自由提供憲制上的保證，包括法律面前一律平等的權利保證，更在法治和獨立司法權之下得以鞏固。特區政府強烈不滿和堅決反對美中經濟與安全審議委員會肆意以政治凌駕法治，一再透過發表所謂報告干預香港特區事務。 特區政府表示，香港特區堅決維",
-      "url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_213819_578.html",
-      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_213819_578/images/20261120225148759.jpg",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "政府"
-      ]
-    },
-    {
-      "id": "r8958a88d4cd3181e",
-      "sourceId": "s4",
-      "sourceName": "香港政府新聞網",
-      "title": "香港加入國際醫藥協調權威機構",
-      "summary": "醫務衞生局今日宣布，中國香港正式加入國際人用藥品註冊技術協調會（ICH），成為監管機構成員，代表香港的藥物研發和監管水平獲國際認可，有助進一步推動創新藥第一層審批能力和機制的發展。 ICH是國際醫藥協調權威機構，宗旨是協調全球藥品註冊技術要求，制定各項涉及安全、效能和素質的國際最高標準指導原則，保障公眾健康。其監管機構成員包括中國國家藥品監督管理局，以及歐洲、瑞士、英國、美國等地的監管機構。 ICH本周二在捷克舉行的大會上通過中國香港成為其第20個監管機構成員。醫務衞生局表示，香港正式成為ICH成員，有助進一步推動創新藥第一層審批能力和機制的發展，並深度",
-      "url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_111704_622.html",
-      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_111704_622/images/20261120124153295.jpg",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "政府"
-      ]
-    },
-    {
-      "id": "r716fa24be589df25",
-      "sourceId": "s4",
-      "sourceName": "香港政府新聞網",
-      "title": "工作組開會統籌人工智能風險治理",
-      "summary": "政務司司長陳國基今日召開人工智能風險管治統籌工作組首次會議，全面推進人工智能（AI）風險治理策略的統籌協調工作。 陳國基表示，AI發展迅速，在推動產業升級、便利生活的同時，對社會各領域所帶來的影響，以及風險治理和應用安全同樣至關重要。工作組將督導和統籌各政策局及部門檢視AI發展風險、治理和安全等議題，強化風險意識，研究相應的管理和規範體系，務求在加快推進AI應用的同時，實現技術向善、安全可控。 會議上，工作組檢視和統籌AI風險治理策略七項具體行動的工作計劃和落實方案，包括打擊利用AI犯罪、加強保護未成年使用者、推動市場評估AI道德風險、推動各行業安全有序",
-      "url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_132136_249.html",
-      "imageUrl": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_132136_249/images/20261120135726565.jpg",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港",
-        "政府"
-      ]
-    },
-    {
-      "id": "r38cf39f4336db4ed",
-      "sourceId": "s18",
-      "sourceName": "BBC Technology",
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-      "publishedAt": "2026-11-19T15:58:58.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "r4a70409dc9e99e66",
-      "sourceId": "s15",
-      "sourceName": "MIT Technology Review",
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human li",
-      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:10:00.000Z",
+      "publishedAt": "2026-11-19T23:04:02.000Z",
       "category": "tech",
       "language": "en",
       "tags": [
         "科技",
-        "AI",
-        "學習"
-      ]
-    },
-    {
-      "id": "rd016a8d86d4e473a",
-      "sourceId": "s8",
-      "sourceName": "BBC 中文",
-      "title": "假裝在新西蘭、提前請假、搶購主機：粉絲為《GTA 6》做足準備",
-      "summary": "Sensor Tower估計，該遊戲透過PlayStation與Xbox平台的預購，已創造11.8億美元收入。",
-      "url": "https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-19T12:43:05.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "國際",
-        "繁中"
-      ]
-    },
-    {
-      "id": "re2457125f277bafd",
-      "sourceId": "s18",
-      "sourceName": "BBC Technology",
-      "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
-      "summary": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01c9/live/8b711120-e422-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-19T12:26:39.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技"
-      ]
-    },
-    {
-      "id": "rd51ecb7eba778062",
-      "sourceId": "s8",
-      "sourceName": "BBC 中文",
-      "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
-      "summary": "會後發表的中俄美元首和平宣言顯示，三國領導人承諾就「減少核風險、防止核擴散」展開對話，並就聯合國改革、能源穩定和國際刑事法院管轄權等議題達成四點共識。",
-      "url": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b0f/live/68aa4e30-e40f-11f1-b37c-b3a71d7200af.jpg",
-      "publishedAt": "2026-11-19T12:22:04.000Z",
-      "category": "world",
-      "language": "zh-Hant",
-      "tags": [
-        "國際",
-        "繁中"
-      ]
-    },
-    {
-      "id": "r374702288d3e8e19",
-      "sourceId": "s9",
-      "sourceName": "Yahoo 新聞 · 香港",
-      "title": "眾領袖戴「鯤鵬展翅」中式圍巾 習近平李家超同戴紅色圍巾",
-      "summary": "亞太經合組織(APEC)領導人非正式會議昨在深圳舉行，參與會議的各經濟體領袖在會前拍攝大合照，各分別戴上象徵深圳「鯤鵬展翅」標誌的紅色或藍色中式圍巾。APEC峰會第三度在中國舉行，由國家主席習近平主持會議。會議開始前，習近平和各與會經濟體領袖逐一握手問候。首位進場的是香港行政長官李家超，習近平看到李家超後，兩人握手，並主動與李打招呼，稱「早上好」；又看着自己佩戴的紅圍巾笑說：「你看，咱們戴的都一樣。」李家超回答稱：「都一樣。」而美國總統特朗普和俄羅斯總統普京均戴上藍色圍巾。",
-      "url": "https://hk.news.yahoo.com/%E7%9C%BE%E9%A0%98%E8%A2%96%E6%88%B4-%E9%AF%A4%E9%B5%AC%E5%B1%95%E7%BF%85-%E4%B8%AD%E5%BC%8F%E5%9C%8D%E5%B7%BE-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%90%8C%E6%88%B4%E7%B4%85%E8%89%B2%E5%9C%8D%E5%B7%BE-200000078.html",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T12:00:00.000Z",
-      "category": "hk",
-      "language": "zh-Hant",
-      "tags": [
-        "香港"
-      ]
-    },
-    {
-      "id": "rad7abf73c88963f4",
-      "sourceId": "s15",
-      "sourceName": "MIT Technology Review",
-      "title": "A human liver has been kept alive outside the body for a record seven weeks",
-      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by s",
-      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T12:00:00.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI",
-        "學習"
-      ]
-    },
-    {
-      "id": "rf7044d0b7ed65b5e",
-      "sourceId": "s15",
-      "sourceName": "MIT Technology Review",
-      "title": "What a billion-dollar deal says about the US battery market",
-      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to sma",
-      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T11:00:00.000Z",
-      "category": "tech",
-      "language": "en",
-      "tags": [
-        "科技",
-        "AI",
-        "學習"
+        "AI"
       ]
     }
   ]
