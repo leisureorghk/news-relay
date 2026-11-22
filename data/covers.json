@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T01:36:07.771Z",
+  "generatedAt": "2026-11-22T11:53:05.031Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 10,
+  "count": 9,
   "items": {
     "r5fc4db4439869c09": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5fc4db4439869c09.jpg",
@@ -12,24 +12,6 @@
       "model": "image-01",
       "bytes": 416822
     },
-    "ree08d7a55df6f005": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ree08d7a55df6f005.jpg",
-      "path": "data/covers/ree08d7a55df6f005.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878717-20261121.htm",
-      "title": "亞投行將在港設辦公室 陳茂波稱彰顯香港匯聚國際資本獨特角色",
-      "createdAt": "2026-11-21T11:37:20.067Z",
-      "model": "image-01",
-      "bytes": 406365
-    },
-    "r85c7a033a0d37ddc": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r85c7a033a0d37ddc.jpg",
-      "path": "data/covers/r85c7a033a0d37ddc.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878714-20261121.htm",
-      "title": "72歲女子大埔失蹤 警方呼籲市民提供消息",
-      "createdAt": "2026-11-21T11:38:06.406Z",
-      "model": "image-01",
-      "bytes": 324450
-    },
     "r3f28272ad773fedf": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r3f28272ad773fedf.jpg",
       "path": "data/covers/r3f28272ad773fedf.jpg",
@@ -38,15 +20,6 @@
       "createdAt": "2026-11-21T19:41:46.779Z",
       "model": "image-01",
       "bytes": 240365
-    },
-    "r800d50ec70c9e409": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r800d50ec70c9e409.jpg",
-      "path": "data/covers/r800d50ec70c9e409.jpg",
-      "sourceUrl": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "createdAt": "2026-11-21T19:43:35.137Z",
-      "model": "image-01",
-      "bytes": 346822
     },
     "r2a3976eeae8ec726": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2a3976eeae8ec726.jpg",
@@ -66,15 +39,6 @@
       "model": "image-01",
       "bytes": 276867
     },
-    "r0cdeed06c8a72c56": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r0cdeed06c8a72c56.jpg",
-      "path": "data/covers/r0cdeed06c8a72c56.jpg",
-      "sourceUrl": "https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417",
-      "title": "(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it",
-      "createdAt": "2026-11-22T01:32:33.840Z",
-      "model": "image-01",
-      "bytes": 263017
-    },
     "r27965964c07a89c8": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r27965964c07a89c8.jpg",
       "path": "data/covers/r27965964c07a89c8.jpg",
@@ -84,14 +48,41 @@
       "model": "image-01",
       "bytes": 244412
     },
-    "r2d8c8fae2fbb898f": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2d8c8fae2fbb898f.jpg",
-      "path": "data/covers/r2d8c8fae2fbb898f.jpg",
-      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "title": "International UN talks on controlling use of autonomous weapons collapse",
-      "createdAt": "2026-11-22T01:36:07.269Z",
+    "r69129640e7b33e56": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r69129640e7b33e56.jpg",
+      "path": "data/covers/r69129640e7b33e56.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878800-20261122.htm",
+      "title": "選委會界別分組選舉投票結束 票箱陸續運往中央點票站",
+      "createdAt": "2026-11-22T11:51:46.106Z",
       "model": "image-01",
-      "bytes": 296161
+      "bytes": 516431
+    },
+    "r53199eda0b26a35e": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r53199eda0b26a35e.jpg",
+      "path": "data/covers/r53199eda0b26a35e.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878799-20261122.htm",
+      "title": "選舉委員會界別分組一般選舉投票結束 有選民形容選舉氣氛熱鬧",
+      "createdAt": "2026-11-22T11:52:15.426Z",
+      "model": "image-01",
+      "bytes": 402193
+    },
+    "r6367b5608f194249": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6367b5608f194249.jpg",
+      "path": "data/covers/r6367b5608f194249.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878797-20261122.htm",
+      "title": "寶勒巷交通意外 警方將一男子押返現場調查",
+      "createdAt": "2026-11-22T11:52:38.305Z",
+      "model": "image-01",
+      "bytes": 374577
+    },
+    "rec788c9e51908621": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rec788c9e51908621.jpg",
+      "path": "data/covers/rec788c9e51908621.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878796-20261122.htm",
+      "title": "選委會界別分組選舉投票結束 截至傍晚6時投票率98.79%",
+      "createdAt": "2026-11-22T11:53:04.528Z",
+      "model": "image-01",
+      "bytes": 453852
     }
   },
   "lastRun": {
@@ -101,10 +92,10 @@
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 8,
+    "dailyCount": 12,
     "dailyMax": 16,
     "dailyKey": "2026-11-22"
   },
   "dailyKey": "2026-11-22",
-  "dailyCount": 8
+  "dailyCount": 12
 }
