@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T19:46:59.255Z",
+  "generatedAt": "2026-11-22T01:36:07.771Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 8,
+  "count": 10,
   "items": {
     "r5fc4db4439869c09": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5fc4db4439869c09.jpg",
@@ -20,15 +20,6 @@
       "createdAt": "2026-11-21T11:37:20.067Z",
       "model": "image-01",
       "bytes": 406365
-    },
-    "r18e737fd3bc81dad": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r18e737fd3bc81dad.jpg",
-      "path": "data/covers/r18e737fd3bc81dad.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878716-20261121.htm",
-      "title": "李強晤黃循財 指願與新方加快推進中新自貿協定4.0版談判",
-      "createdAt": "2026-11-21T11:37:43.590Z",
-      "model": "image-01",
-      "bytes": 383224
     },
     "r85c7a033a0d37ddc": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r85c7a033a0d37ddc.jpg",
@@ -57,15 +48,6 @@
       "model": "image-01",
       "bytes": 346822
     },
-    "r355930ef6bb13103": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r355930ef6bb13103.jpg",
-      "path": "data/covers/r355930ef6bb13103.jpg",
-      "sourceUrl": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
-      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
-      "createdAt": "2026-11-21T19:45:18.939Z",
-      "model": "image-01",
-      "bytes": 272639
-    },
     "r2a3976eeae8ec726": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2a3976eeae8ec726.jpg",
       "path": "data/covers/r2a3976eeae8ec726.jpg",
@@ -74,19 +56,55 @@
       "createdAt": "2026-11-21T19:46:58.754Z",
       "model": "image-01",
       "bytes": 111677
+    },
+    "r6aa02831efede6b5": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6aa02831efede6b5.jpg",
+      "path": "data/covers/r6aa02831efede6b5.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878742-20261122.htm",
+      "title": "兩日本人上海餐廳衝突 一人死亡另一人被捕",
+      "createdAt": "2026-11-22T01:31:00.711Z",
+      "model": "image-01",
+      "bytes": 276867
+    },
+    "r0cdeed06c8a72c56": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r0cdeed06c8a72c56.jpg",
+      "path": "data/covers/r0cdeed06c8a72c56.jpg",
+      "sourceUrl": "https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417",
+      "title": "(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it",
+      "createdAt": "2026-11-22T01:32:33.840Z",
+      "model": "image-01",
+      "bytes": 263017
+    },
+    "r27965964c07a89c8": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r27965964c07a89c8.jpg",
+      "path": "data/covers/r27965964c07a89c8.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+      "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+      "createdAt": "2026-11-22T01:34:23.988Z",
+      "model": "image-01",
+      "bytes": 244412
+    },
+    "r2d8c8fae2fbb898f": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2d8c8fae2fbb898f.jpg",
+      "path": "data/covers/r2d8c8fae2fbb898f.jpg",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "createdAt": "2026-11-22T01:36:07.269Z",
+      "model": "image-01",
+      "bytes": 296161
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 34,
+    "need": 25,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 4,
+    "dailyCount": 8,
     "dailyMax": 16,
     "dailyKey": "2026-11-22"
   },
   "dailyKey": "2026-11-22",
-  "dailyCount": 4
+  "dailyCount": 8
 }
