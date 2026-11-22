@@ -1,17 +1,8 @@
 {
-  "generatedAt": "2026-11-22T11:53:05.031Z",
+  "generatedAt": "2026-11-22T19:59:24.272Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 9,
+  "count": 5,
   "items": {
-    "r5fc4db4439869c09": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5fc4db4439869c09.jpg",
-      "path": "data/covers/r5fc4db4439869c09.jpg",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
-      "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
-      "createdAt": "2026-11-20T20:39:21.603Z",
-      "model": "image-01",
-      "bytes": 416822
-    },
     "r3f28272ad773fedf": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r3f28272ad773fedf.jpg",
       "path": "data/covers/r3f28272ad773fedf.jpg",
@@ -21,81 +12,54 @@
       "model": "image-01",
       "bytes": 240365
     },
-    "r2a3976eeae8ec726": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2a3976eeae8ec726.jpg",
-      "path": "data/covers/r2a3976eeae8ec726.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878735-20261122.htm",
-      "title": "芬蘭國防部指監測到一艘俄羅斯貨船受損起火 疑遭無人機襲擊",
-      "createdAt": "2026-11-21T19:46:58.754Z",
+    "rc46973dc70508385": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rc46973dc70508385.jpg",
+      "path": "data/covers/rc46973dc70508385.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
+      "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
+      "createdAt": "2026-11-22T19:56:07.372Z",
       "model": "image-01",
-      "bytes": 111677
+      "bytes": 305459
     },
-    "r6aa02831efede6b5": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6aa02831efede6b5.jpg",
-      "path": "data/covers/r6aa02831efede6b5.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878742-20261122.htm",
-      "title": "兩日本人上海餐廳衝突 一人死亡另一人被捕",
-      "createdAt": "2026-11-22T01:31:00.711Z",
+    "r8dfb85218bd9a536": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8dfb85218bd9a536.jpg",
+      "path": "data/covers/r8dfb85218bd9a536.jpg",
+      "sourceUrl": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "createdAt": "2026-11-22T19:57:15.231Z",
       "model": "image-01",
-      "bytes": 276867
+      "bytes": 264609
     },
-    "r27965964c07a89c8": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r27965964c07a89c8.jpg",
-      "path": "data/covers/r27965964c07a89c8.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
-      "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
-      "createdAt": "2026-11-22T01:34:23.988Z",
+    "ra47b84be42fa7a01": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra47b84be42fa7a01.jpg",
+      "path": "data/covers/ra47b84be42fa7a01.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878857-20261123.htm",
+      "title": "不同組別新任選委對下任行政長官抱不同期望",
+      "createdAt": "2026-11-22T19:58:17.484Z",
       "model": "image-01",
-      "bytes": 244412
+      "bytes": 341475
     },
-    "r69129640e7b33e56": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r69129640e7b33e56.jpg",
-      "path": "data/covers/r69129640e7b33e56.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878800-20261122.htm",
-      "title": "選委會界別分組選舉投票結束 票箱陸續運往中央點票站",
-      "createdAt": "2026-11-22T11:51:46.106Z",
+    "rc987dbf3f6fec65a": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rc987dbf3f6fec65a.jpg",
+      "path": "data/covers/rc987dbf3f6fec65a.jpg",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "createdAt": "2026-11-22T19:59:23.769Z",
       "model": "image-01",
-      "bytes": 516431
-    },
-    "r53199eda0b26a35e": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r53199eda0b26a35e.jpg",
-      "path": "data/covers/r53199eda0b26a35e.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878799-20261122.htm",
-      "title": "選舉委員會界別分組一般選舉投票結束 有選民形容選舉氣氛熱鬧",
-      "createdAt": "2026-11-22T11:52:15.426Z",
-      "model": "image-01",
-      "bytes": 402193
-    },
-    "r6367b5608f194249": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6367b5608f194249.jpg",
-      "path": "data/covers/r6367b5608f194249.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878797-20261122.htm",
-      "title": "寶勒巷交通意外 警方將一男子押返現場調查",
-      "createdAt": "2026-11-22T11:52:38.305Z",
-      "model": "image-01",
-      "bytes": 374577
-    },
-    "rec788c9e51908621": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rec788c9e51908621.jpg",
-      "path": "data/covers/rec788c9e51908621.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878796-20261122.htm",
-      "title": "選委會界別分組選舉投票結束 截至傍晚6時投票率98.79%",
-      "createdAt": "2026-11-22T11:53:04.528Z",
-      "model": "image-01",
-      "bytes": 453852
+      "bytes": 376382
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 25,
+    "need": 30,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 12,
+    "dailyCount": 4,
     "dailyMax": 16,
-    "dailyKey": "2026-11-22"
+    "dailyKey": "2026-11-23"
   },
-  "dailyKey": "2026-11-22",
-  "dailyCount": 12
+  "dailyKey": "2026-11-23",
+  "dailyCount": 4
 }
