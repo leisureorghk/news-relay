@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T19:59:24.272Z",
+  "generatedAt": "2026-11-23T02:00:23.647Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 5,
+  "count": 8,
   "items": {
     "r3f28272ad773fedf": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r3f28272ad773fedf.jpg",
@@ -11,15 +11,6 @@
       "createdAt": "2026-11-21T19:41:46.779Z",
       "model": "image-01",
       "bytes": 240365
-    },
-    "rc46973dc70508385": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rc46973dc70508385.jpg",
-      "path": "data/covers/rc46973dc70508385.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
-      "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
-      "createdAt": "2026-11-22T19:56:07.372Z",
-      "model": "image-01",
-      "bytes": 305459
     },
     "r8dfb85218bd9a536": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8dfb85218bd9a536.jpg",
@@ -47,19 +38,55 @@
       "createdAt": "2026-11-22T19:59:23.769Z",
       "model": "image-01",
       "bytes": 376382
+    },
+    "r5b5ffe73e3034692": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5b5ffe73e3034692.jpg",
+      "path": "data/covers/r5b5ffe73e3034692.jpg",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "createdAt": "2026-11-23T01:55:44.159Z",
+      "model": "image-01",
+      "bytes": 297910
+    },
+    "r46bcc412bab3414a": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r46bcc412bab3414a.jpg",
+      "path": "data/covers/r46bcc412bab3414a.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878888-20261123.htm",
+      "title": "港鐵：何文田站附近信號設備事故已處理 觀塘綫服務陸續恢復正常",
+      "createdAt": "2026-11-23T01:57:36.481Z",
+      "model": "image-01",
+      "bytes": 297968
+    },
+    "r62a6aaff65f43567": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r62a6aaff65f43567.jpg",
+      "path": "data/covers/r62a6aaff65f43567.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878887-20261123.htm",
+      "title": "台股初段升逾1%",
+      "createdAt": "2026-11-23T01:59:05.546Z",
+      "model": "image-01",
+      "bytes": 351490
+    },
+    "r41a709c223cbd5e9": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r41a709c223cbd5e9.jpg",
+      "path": "data/covers/r41a709c223cbd5e9.jpg",
+      "sourceUrl": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "title": "We haven’t seen the last of the major tech outages",
+      "createdAt": "2026-11-23T02:00:23.146Z",
+      "model": "image-01",
+      "bytes": 362164
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 30,
+    "need": 31,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 4,
+    "dailyCount": 8,
     "dailyMax": 16,
     "dailyKey": "2026-11-23"
   },
   "dailyKey": "2026-11-23",
-  "dailyCount": 4
+  "dailyCount": 8
 }
