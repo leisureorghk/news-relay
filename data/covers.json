@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T02:00:23.647Z",
+  "generatedAt": "2026-11-23T13:32:49.983Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 8,
+  "count": 9,
   "items": {
     "r3f28272ad773fedf": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r3f28272ad773fedf.jpg",
@@ -21,15 +21,6 @@
       "model": "image-01",
       "bytes": 264609
     },
-    "ra47b84be42fa7a01": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra47b84be42fa7a01.jpg",
-      "path": "data/covers/ra47b84be42fa7a01.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878857-20261123.htm",
-      "title": "不同組別新任選委對下任行政長官抱不同期望",
-      "createdAt": "2026-11-22T19:58:17.484Z",
-      "model": "image-01",
-      "bytes": 341475
-    },
     "rc987dbf3f6fec65a": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rc987dbf3f6fec65a.jpg",
       "path": "data/covers/rc987dbf3f6fec65a.jpg",
@@ -48,24 +39,6 @@
       "model": "image-01",
       "bytes": 297910
     },
-    "r46bcc412bab3414a": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r46bcc412bab3414a.jpg",
-      "path": "data/covers/r46bcc412bab3414a.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878888-20261123.htm",
-      "title": "港鐵：何文田站附近信號設備事故已處理 觀塘綫服務陸續恢復正常",
-      "createdAt": "2026-11-23T01:57:36.481Z",
-      "model": "image-01",
-      "bytes": 297968
-    },
-    "r62a6aaff65f43567": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r62a6aaff65f43567.jpg",
-      "path": "data/covers/r62a6aaff65f43567.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878887-20261123.htm",
-      "title": "台股初段升逾1%",
-      "createdAt": "2026-11-23T01:59:05.546Z",
-      "model": "image-01",
-      "bytes": 351490
-    },
     "r41a709c223cbd5e9": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r41a709c223cbd5e9.jpg",
       "path": "data/covers/r41a709c223cbd5e9.jpg",
@@ -74,19 +47,55 @@
       "createdAt": "2026-11-23T02:00:23.146Z",
       "model": "image-01",
       "bytes": 362164
+    },
+    "r75e4e68340e8408f": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r75e4e68340e8408f.jpg",
+      "path": "data/covers/r75e4e68340e8408f.jpg",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "createdAt": "2026-11-23T13:31:05.002Z",
+      "model": "image-01",
+      "bytes": 271701
+    },
+    "rbe948469fe940b03": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rbe948469fe940b03.jpg",
+      "path": "data/covers/rbe948469fe940b03.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-11-23/wall-street-sees-buying-opportunities-for-the-brave",
+      "title": "Wall Street Sees Buying Opportunities for the Brave",
+      "createdAt": "2026-11-23T13:31:41.388Z",
+      "model": "image-01",
+      "bytes": 303499
+    },
+    "ra29ad30331b38f7f": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra29ad30331b38f7f.jpg",
+      "path": "data/covers/ra29ad30331b38f7f.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-23/jpmorgan-traders-drop-bullish-view-on-stocks-after-selloff",
+      "title": "JPMorgan Traders Drop Bullish View on Stocks After Selloff",
+      "createdAt": "2026-11-23T13:32:15.448Z",
+      "model": "image-01",
+      "bytes": 320157
+    },
+    "r012e5e404708cdbf": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r012e5e404708cdbf.jpg",
+      "path": "data/covers/r012e5e404708cdbf.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878962-20261123.htm",
+      "title": "李家超：世界技能大賽佳績說好香港故事",
+      "createdAt": "2026-11-23T13:32:49.481Z",
+      "model": "image-01",
+      "bytes": 448759
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 31,
+    "need": 26,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 8,
+    "dailyCount": 12,
     "dailyMax": 16,
     "dailyKey": "2026-11-23"
   },
   "dailyKey": "2026-11-23",
-  "dailyCount": 8
+  "dailyCount": 12
 }
