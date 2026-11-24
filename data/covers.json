@@ -1,26 +1,8 @@
 {
-  "generatedAt": "2026-11-24T03:11:21.836Z",
+  "generatedAt": "2026-11-24T15:07:18.305Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 16,
+  "count": 18,
   "items": {
-    "rf2e22a68c74aa4d7": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf2e22a68c74aa4d7.jpg",
-      "path": "data/covers/rf2e22a68c74aa4d7.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo",
-      "title": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
-      "createdAt": "2026-11-24T02:31:09.887Z",
-      "model": "image-01",
-      "bytes": 254971
-    },
-    "rad4b82e204b186ef": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rad4b82e204b186ef.jpg",
-      "path": "data/covers/rad4b82e204b186ef.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-23/startup-options-exchange-asks-sec-to-approve-two-new-venues",
-      "title": "Startup Options Exchange Asks SEC to Approve Two New Venues",
-      "createdAt": "2026-11-24T02:31:43.122Z",
-      "model": "image-01",
-      "bytes": 296881
-    },
     "ree2a35bc22de60df": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ree2a35bc22de60df.jpg",
       "path": "data/covers/ree2a35bc22de60df.jpg",
@@ -29,51 +11,6 @@
       "createdAt": "2026-11-24T02:32:14.823Z",
       "model": "image-01",
       "bytes": 296496
-    },
-    "rab8cd0cd6a6a9ed7": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rab8cd0cd6a6a9ed7.jpg",
-      "path": "data/covers/rab8cd0cd6a6a9ed7.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
-      "title": "Latest Oil Market News and Analysis for Nov. 24",
-      "createdAt": "2026-11-24T02:32:47.099Z",
-      "model": "image-01",
-      "bytes": 299500
-    },
-    "r156ac526e7f96232": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r156ac526e7f96232.jpg",
-      "path": "data/covers/r156ac526e7f96232.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879043-20261124.htm",
-      "title": "林定國稱良性互動關鍵在動態平衡 要將發展和安全維持在平衡狀態",
-      "createdAt": "2026-11-24T03:04:22.316Z",
-      "model": "image-01",
-      "bytes": 435065
-    },
-    "r741d3b6b325537c2": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r741d3b6b325537c2.jpg",
-      "path": "data/covers/r741d3b6b325537c2.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879044-20261124.htm",
-      "title": "中國空間站將首迎外籍航天員 開展4個中巴合作科學項目",
-      "createdAt": "2026-11-24T03:05:10.794Z",
-      "model": "image-01",
-      "bytes": 353583
-    },
-    "r5bf8085f2adfa180": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5bf8085f2adfa180.jpg",
-      "path": "data/covers/r5bf8085f2adfa180.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879045-20261124.htm",
-      "title": "日股半日升2239點",
-      "createdAt": "2026-11-24T03:05:47.046Z",
-      "model": "image-01",
-      "bytes": 369209
-    },
-    "r5532001b21815255": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5532001b21815255.jpg",
-      "path": "data/covers/r5532001b21815255.jpg",
-      "sourceUrl": "https://unwire.hk/2026/11/24/nhs-edith-ai-breast-screening-trial/life-tech/health",
-      "title": "英啟動全球最大 AI 乳癌普查試驗 測試多數影像改由一名專科覆核",
-      "createdAt": "2026-11-24T03:06:30.576Z",
-      "model": "image-01",
-      "bytes": 310635
     },
     "r26a41ff9eb85d5f7": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r26a41ff9eb85d5f7.jpg",
@@ -93,24 +30,6 @@
       "model": "image-01",
       "bytes": 325251
     },
-    "re6e243f65ce8b2f6": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/re6e243f65ce8b2f6.jpg",
-      "path": "data/covers/re6e243f65ce8b2f6.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879039-20261124.htm",
-      "title": "當局稱香港航天員黎家盈在空間科學研究和科普授課等很好完成任務",
-      "createdAt": "2026-11-24T03:08:39.234Z",
-      "model": "image-01",
-      "bytes": 360680
-    },
-    "rb4c00f297b20bd91": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb4c00f297b20bd91.jpg",
-      "path": "data/covers/rb4c00f297b20bd91.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879027-20261124.htm",
-      "title": "金與正：瑞士不尊重朝鮮主權 建議責令瑞士駐平壤外交辦事處撤離",
-      "createdAt": "2026-11-24T03:09:12.054Z",
-      "model": "image-01",
-      "bytes": 330166
-    },
     "r9b10ff5701969633": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r9b10ff5701969633.jpg",
       "path": "data/covers/r9b10ff5701969633.jpg",
@@ -119,15 +38,6 @@
       "createdAt": "2026-11-24T03:09:33.331Z",
       "model": "image-01",
       "bytes": 314206
-    },
-    "r6a13a27218e5a72c": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6a13a27218e5a72c.jpg",
-      "path": "data/covers/r6a13a27218e5a72c.jpg",
-      "sourceUrl": "https://unwire.hk/2026/11/24/ai-depression-study/life-tech/health",
-      "title": "當 AI 係傾訴對象 2 萬人研究：每日用家較易有抑鬱症狀",
-      "createdAt": "2026-11-24T03:10:09.142Z",
-      "model": "image-01",
-      "bytes": 402783
     },
     "r96045e91fee2b4ee": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r96045e91fee2b4ee.jpg",
@@ -146,6 +56,114 @@
       "createdAt": "2026-11-24T03:11:21.335Z",
       "model": "image-01",
       "bytes": 321310
+    },
+    "rb23e9d098a369205": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb23e9d098a369205.jpg",
+      "path": "data/covers/rb23e9d098a369205.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879118-20261124.htm",
+      "title": "李家超：香港正鞏固與傳統市場關係 同時拓展東盟和中東利益",
+      "createdAt": "2026-11-24T14:59:32.826Z",
+      "model": "image-01",
+      "bytes": 270671
+    },
+    "ra532ca4934047439": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra532ca4934047439.jpg",
+      "path": "data/covers/ra532ca4934047439.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879120-20261124.htm",
+      "title": "英國兩名男子涉闖威廉與凱特鄉間住所被捕",
+      "createdAt": "2026-11-24T15:00:04.284Z",
+      "model": "image-01",
+      "bytes": 283553
+    },
+    "r6cf6ec4e91b96069": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6cf6ec4e91b96069.jpg",
+      "path": "data/covers/r6cf6ec4e91b96069.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
+      "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
+      "createdAt": "2026-11-24T15:00:48.171Z",
+      "model": "image-01",
+      "bytes": 268440
+    },
+    "r1e521516578c1e64": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r1e521516578c1e64.jpg",
+      "path": "data/covers/r1e521516578c1e64.jpg",
+      "sourceUrl": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale",
+      "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
+      "createdAt": "2026-11-24T15:01:21.409Z",
+      "model": "image-01",
+      "bytes": 357936
+    },
+    "r227df04856b4be66": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r227df04856b4be66.jpg",
+      "path": "data/covers/r227df04856b4be66.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879116-20261124.htm",
+      "title": "田秉毅獲聘任國家羽毛球隊主教練 張楠進入國家隊教練團工作",
+      "createdAt": "2026-11-24T15:02:18.181Z",
+      "model": "image-01",
+      "bytes": 422896
+    },
+    "r8cf1e004cab2ccba": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8cf1e004cab2ccba.jpg",
+      "path": "data/covers/r8cf1e004cab2ccba.jpg",
+      "sourceUrl": "https://www.edsurge.com/news/how-one-teacher-prep-program-made-its-technology-use-visible",
+      "title": "How One Teacher Prep Program Made Its Technology Use Visible",
+      "createdAt": "2026-11-24T15:02:59.131Z",
+      "model": "image-01",
+      "bytes": 344540
+    },
+    "rb599aaaba29dbe4d": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb599aaaba29dbe4d.jpg",
+      "path": "data/covers/rb599aaaba29dbe4d.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879117-20261124.htm",
+      "title": "伊利沙伯醫院4名女病人感染甲型流感",
+      "createdAt": "2026-11-24T15:03:36.756Z",
+      "model": "image-01",
+      "bytes": 335640
+    },
+    "rdc5d695b32648b79": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rdc5d695b32648b79.jpg",
+      "path": "data/covers/rdc5d695b32648b79.jpg",
+      "sourceUrl": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-who-are-the-big-winners-and-losers?traffic_source=rss",
+      "title": "Jensen Huang’s Nvidia return: Who are the big winners and losers?",
+      "createdAt": "2026-11-24T15:04:17.433Z",
+      "model": "image-01",
+      "bytes": 289385
+    },
+    "r54e68c073a93ff1f": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r54e68c073a93ff1f.jpg",
+      "path": "data/covers/r54e68c073a93ff1f.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+      "title": "Stocks making the biggest moves Tuesday: Nvidia, Anthropic, retailers &amp; more",
+      "createdAt": "2026-11-24T15:05:03.115Z",
+      "model": "image-01",
+      "bytes": 313727
+    },
+    "r96371c96aa60ad87": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r96371c96aa60ad87.jpg",
+      "path": "data/covers/r96371c96aa60ad87.jpg",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board",
+      "title": "Huang reportedly admitted to more than two affairs to Nvidia&#8217;s board",
+      "createdAt": "2026-11-24T15:06:02.303Z",
+      "model": "image-01",
+      "bytes": 371221
+    },
+    "r2f8e00c8ff05206c": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2f8e00c8ff05206c.jpg",
+      "path": "data/covers/r2f8e00c8ff05206c.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879003-20261124.htm",
+      "title": "國乒4名男選手及7名女選手入圍WTT香港總決賽單打",
+      "createdAt": "2026-11-24T15:06:36.734Z",
+      "model": "image-01",
+      "bytes": 450268
+    },
+    "r157ce12237fdf9df": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r157ce12237fdf9df.jpg",
+      "path": "data/covers/r157ce12237fdf9df.jpg",
+      "sourceUrl": "https://www.edsurge.com/news/ai-has-a-place-in-education-just-not-in-my-classroom",
+      "title": "AI Has a Place in Education, Just Not in My Classroom",
+      "createdAt": "2026-11-24T15:07:17.803Z",
+      "model": "image-01",
+      "bytes": 413873
     }
   },
   "lastRun": {
@@ -155,10 +173,10 @@
     "tried": 12,
     "quotaHit": false,
     "pool": 700,
-    "dailyCount": 16,
+    "dailyCount": 28,
     "dailyMax": 72,
     "dailyKey": "2026-11-24"
   },
   "dailyKey": "2026-11-24",
-  "dailyCount": 16
+  "dailyCount": 28
 }
