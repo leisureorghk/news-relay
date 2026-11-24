@@ -1,101 +1,56 @@
 {
-  "generatedAt": "2026-11-23T13:32:49.983Z",
+  "generatedAt": "2026-11-24T02:32:47.601Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 9,
+  "count": 4,
   "items": {
-    "r3f28272ad773fedf": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r3f28272ad773fedf.jpg",
-      "path": "data/covers/r3f28272ad773fedf.jpg",
-      "sourceUrl": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good",
-      "title": "Trump says reported FBI database hack is ‘not good’",
-      "createdAt": "2026-11-21T19:41:46.779Z",
+    "rf2e22a68c74aa4d7": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf2e22a68c74aa4d7.jpg",
+      "path": "data/covers/rf2e22a68c74aa4d7.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo",
+      "title": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
+      "createdAt": "2026-11-24T02:31:09.887Z",
       "model": "image-01",
-      "bytes": 240365
+      "bytes": 254971
     },
-    "r8dfb85218bd9a536": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8dfb85218bd9a536.jpg",
-      "path": "data/covers/r8dfb85218bd9a536.jpg",
-      "sourceUrl": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
-      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "createdAt": "2026-11-22T19:57:15.231Z",
+    "rad4b82e204b186ef": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rad4b82e204b186ef.jpg",
+      "path": "data/covers/rad4b82e204b186ef.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-23/startup-options-exchange-asks-sec-to-approve-two-new-venues",
+      "title": "Startup Options Exchange Asks SEC to Approve Two New Venues",
+      "createdAt": "2026-11-24T02:31:43.122Z",
       "model": "image-01",
-      "bytes": 264609
+      "bytes": 296881
     },
-    "rc987dbf3f6fec65a": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rc987dbf3f6fec65a.jpg",
-      "path": "data/covers/rc987dbf3f6fec65a.jpg",
-      "sourceUrl": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "createdAt": "2026-11-22T19:59:23.769Z",
+    "ree2a35bc22de60df": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ree2a35bc22de60df.jpg",
+      "path": "data/covers/ree2a35bc22de60df.jpg",
+      "sourceUrl": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers",
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "createdAt": "2026-11-24T02:32:14.823Z",
       "model": "image-01",
-      "bytes": 376382
+      "bytes": 296496
     },
-    "r5b5ffe73e3034692": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5b5ffe73e3034692.jpg",
-      "path": "data/covers/r5b5ffe73e3034692.jpg",
-      "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "createdAt": "2026-11-23T01:55:44.159Z",
+    "rab8cd0cd6a6a9ed7": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rab8cd0cd6a6a9ed7.jpg",
+      "path": "data/covers/rab8cd0cd6a6a9ed7.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
+      "title": "Latest Oil Market News and Analysis for Nov. 24",
+      "createdAt": "2026-11-24T02:32:47.099Z",
       "model": "image-01",
-      "bytes": 297910
-    },
-    "r41a709c223cbd5e9": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r41a709c223cbd5e9.jpg",
-      "path": "data/covers/r41a709c223cbd5e9.jpg",
-      "sourceUrl": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "title": "We haven’t seen the last of the major tech outages",
-      "createdAt": "2026-11-23T02:00:23.146Z",
-      "model": "image-01",
-      "bytes": 362164
-    },
-    "r75e4e68340e8408f": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r75e4e68340e8408f.jpg",
-      "path": "data/covers/r75e4e68340e8408f.jpg",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-      "title": "Meta Muse can do your Black Friday shopping at Walmart",
-      "createdAt": "2026-11-23T13:31:05.002Z",
-      "model": "image-01",
-      "bytes": 271701
-    },
-    "rbe948469fe940b03": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rbe948469fe940b03.jpg",
-      "path": "data/covers/rbe948469fe940b03.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-11-23/wall-street-sees-buying-opportunities-for-the-brave",
-      "title": "Wall Street Sees Buying Opportunities for the Brave",
-      "createdAt": "2026-11-23T13:31:41.388Z",
-      "model": "image-01",
-      "bytes": 303499
-    },
-    "ra29ad30331b38f7f": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra29ad30331b38f7f.jpg",
-      "path": "data/covers/ra29ad30331b38f7f.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-23/jpmorgan-traders-drop-bullish-view-on-stocks-after-selloff",
-      "title": "JPMorgan Traders Drop Bullish View on Stocks After Selloff",
-      "createdAt": "2026-11-23T13:32:15.448Z",
-      "model": "image-01",
-      "bytes": 320157
-    },
-    "r012e5e404708cdbf": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r012e5e404708cdbf.jpg",
-      "path": "data/covers/r012e5e404708cdbf.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878962-20261123.htm",
-      "title": "李家超：世界技能大賽佳績說好香港故事",
-      "createdAt": "2026-11-23T13:32:49.481Z",
-      "model": "image-01",
-      "bytes": 448759
+      "bytes": 299500
     }
   },
   "lastRun": {
     "ok": 4,
     "fail": 0,
-    "need": 26,
+    "need": 31,
     "tried": 4,
     "quotaHit": false,
     "pool": 40,
-    "dailyCount": 12,
+    "dailyCount": 4,
     "dailyMax": 16,
-    "dailyKey": "2026-11-23"
+    "dailyKey": "2026-11-24"
   },
-  "dailyKey": "2026-11-23",
-  "dailyCount": 12
+  "dailyKey": "2026-11-24",
+  "dailyCount": 4
 }
