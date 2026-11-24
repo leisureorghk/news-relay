@@ -1,30 +1,53 @@
 {
-  "generatedAt": "2026-11-23T23:46:59.983Z",
-  "count": 154,
-  "target": 200,
+  "generatedAt": "2026-11-24T03:02:29.136Z",
+  "count": 419,
+  "target": 700,
+  "targetPerCategory": 100,
   "categories": {
-    "world": 36,
-    "biz": 21,
-    "tech": 65,
-    "hk": 32
+    "hk": 65,
+    "world": 100,
+    "biz": 68,
+    "tech": 100,
+    "sport": 54,
+    "edu": 4,
+    "other": 28
   },
-  "sourcesTotal": 26,
-  "sourcesEnabled": 26,
+  "shortfall": {
+    "hk": 35,
+    "world": 0,
+    "biz": 32,
+    "tech": 0,
+    "sport": 46,
+    "edu": 96,
+    "other": 72
+  },
+  "sourcesTotal": 46,
+  "sourcesEnabled": 46,
   "sourcesDisabled": 0,
-  "sourcesOk": 26,
-  "sourcesFail": 0,
-  "fallbackUsed": 3,
-  "errors": [],
+  "sourcesOk": 41,
+  "sourcesFail": 5,
+  "fallbackUsed": 7,
+  "errors": [
+    "中央社 · 國際: https://feeds.feedburner.com/rsscna/intl: HTTP 404",
+    "Yahoo 財經 · 香港: https://hk.finance.yahoo.com/news/rssindex: HTTP 404",
+    "體路 Sportsroad: https://www.sportsroad.hk/feed/: HTTP 403",
+    "Times Higher Education: https://www.timeshighereducation.com/rss.xml: HTTP 403",
+    "端傳媒: https://theinitium.com/newsfeed/: HTTP 404"
+  ],
   "warnings": [
+    "Reuters Business: Google 新聞 0 則（解不出原文 100）",
+    "香港教育局新聞稿: Google 新聞 0 則（解不出原文 60）",
+    "香港 01 · 港聞: Google 新聞 0 則（解不出原文 100）",
     "明報 · 要聞: Google 新聞 0 則（解不出原文 100）",
     "明報 · 體育: Google 新聞 0 則（解不出原文 100）",
     "明報 · 教育: Google 新聞 0 則（解不出原文 100）",
+    "經濟日報: Google 新聞 0 則（解不出原文 100）",
     "信報財經新聞: Google 新聞 0 則（解不出原文 100）",
     "Yahoo 新聞 · 科技: Google 新聞 0 則（解不出原文 100）",
     "Google 新聞 · 香港: Google 新聞 0 則（解不出原文 30）",
-    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 100）",
+    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 72）",
     "Google 新聞 · 門球: Google 新聞 0 則（解不出原文 7）",
-    "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 100）",
+    "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 34）",
     "Google 新聞 · SEN 游泳: Google 新聞 0 則（解不出原文 1）"
   ]
 }
