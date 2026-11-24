@@ -474,9 +474,10 @@
     "trustScore": 0.8,
     "tags": [
       "設計",
-      "學習"
+      "學習",
+      "科技"
     ],
-    "category": "other",
+    "category": "tech",
     "health": {
       "checkedAt": "2026-11-18T05:12:40.804Z",
       "score": 80,
@@ -500,7 +501,7 @@
       "游泳",
       "體育"
     ],
-    "category": "other",
+    "category": "sport",
     "health": {
       "checkedAt": "2026-11-18T05:12:40.688Z",
       "score": 70,
@@ -527,7 +528,7 @@
       "門球",
       "體育"
     ],
-    "category": "other",
+    "category": "sport",
     "health": {
       "checkedAt": "2026-11-18T05:12:40.700Z",
       "score": 70,
@@ -555,7 +556,7 @@
       "特殊教育",
       "教育"
     ],
-    "category": "other",
+    "category": "edu",
     "health": {
       "checkedAt": "2026-11-18T05:12:40.716Z",
       "score": 70,
@@ -581,9 +582,10 @@
     "tags": [
       "SEN",
       "游泳",
-      "特殊教育"
+      "特殊教育",
+      "教育"
     ],
-    "category": "other",
+    "category": "edu",
     "health": {
       "checkedAt": "2026-11-18T05:12:40.722Z",
       "score": 55,
@@ -612,7 +614,7 @@
       "體育",
       "游泳"
     ],
-    "category": "other",
+    "category": "sport",
     "health": {
       "checkedAt": "2026-11-18T05:12:41.074Z",
       "score": 90,
@@ -640,7 +642,7 @@
       "教育",
       "SEN"
     ],
-    "category": "other",
+    "category": "edu",
     "health": {
       "checkedAt": "2026-11-18T05:12:41.168Z",
       "score": 90,
@@ -655,5 +657,190 @@
         "備援為 Google RSS（refresh 會解）"
       ]
     }
+  },
+  {
+    "id": "s27",
+    "name": "中央社 · 國際",
+    "url": "https://feeds.feedburner.com/rsscna/intl",
+    "language": "zh-Hant",
+    "trustScore": 0.88,
+    "tags": ["國際", "台灣"],
+    "category": "world"
+  },
+  {
+    "id": "s28",
+    "name": "NPR News",
+    "url": "https://feeds.npr.org/1001/rss.xml",
+    "language": "en",
+    "trustScore": 0.88,
+    "tags": ["國際"],
+    "category": "world"
+  },
+  {
+    "id": "s29",
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "language": "en",
+    "trustScore": 0.82,
+    "tags": ["國際"],
+    "category": "world"
+  },
+  {
+    "id": "s30",
+    "name": "The Guardian · World",
+    "url": "https://www.theguardian.com/world/rss",
+    "language": "en",
+    "trustScore": 0.86,
+    "tags": ["國際"],
+    "category": "world"
+  },
+  {
+    "id": "s31",
+    "name": "經濟日報",
+    "url": "https://www.hket.com/rss/hongkong",
+    "fallbackUrl": "https://news.google.com/rss/search?q=site:hket.com+when:7d&hl=zh-HK&gl=HK&ceid=HK:zh-Hant",
+    "softBlock": true,
+    "language": "zh-Hant",
+    "trustScore": 0.84,
+    "tags": ["財經", "香港"],
+    "category": "biz"
+  },
+  {
+    "id": "s32",
+    "name": "CNBC Top News",
+    "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+    "language": "en",
+    "trustScore": 0.84,
+    "tags": ["財經", "市場"],
+    "category": "biz"
+  },
+  {
+    "id": "s33",
+    "name": "Reuters Business",
+    "url": "https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best&best-topics=business-finance",
+    "fallbackUrl": "https://news.google.com/rss/search?q=site:reuters.com+business+when:3d&hl=en-US&gl=US&ceid=US:en",
+    "language": "en",
+    "trustScore": 0.9,
+    "tags": ["財經", "國際"],
+    "category": "biz"
+  },
+  {
+    "id": "s34",
+    "name": "Yahoo 財經 · 香港",
+    "url": "https://hk.finance.yahoo.com/news/rssindex",
+    "language": "zh-Hant",
+    "trustScore": 0.78,
+    "tags": ["財經", "香港"],
+    "category": "biz"
+  },
+  {
+    "id": "s35",
+    "name": "BBC Sport",
+    "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+    "language": "en",
+    "trustScore": 0.88,
+    "tags": ["體育"],
+    "category": "sport"
+  },
+  {
+    "id": "s36",
+    "name": "ESPN Top",
+    "url": "https://www.espn.com/espn/rss/news",
+    "language": "en",
+    "trustScore": 0.82,
+    "tags": ["體育"],
+    "category": "sport"
+  },
+  {
+    "id": "s37",
+    "name": "體路 Sportsroad",
+    "url": "https://www.sportsroad.hk/feed/",
+    "language": "zh-Hant",
+    "trustScore": 0.8,
+    "tags": ["體育", "香港"],
+    "category": "sport"
+  },
+  {
+    "id": "s38",
+    "name": "香港電台 · 體育",
+    "url": "https://rthk.hk/rthk/news/rss/c_expressnews_csport.xml",
+    "language": "zh-Hant",
+    "trustScore": 0.9,
+    "tags": ["體育", "香港"],
+    "category": "sport"
+  },
+  {
+    "id": "s39",
+    "name": "EdSurge",
+    "url": "https://www.edsurge.com/feed",
+    "language": "en",
+    "trustScore": 0.8,
+    "tags": ["教育"],
+    "category": "edu"
+  },
+  {
+    "id": "s40",
+    "name": "Times Higher Education",
+    "url": "https://www.timeshighereducation.com/rss.xml",
+    "language": "en",
+    "trustScore": 0.82,
+    "tags": ["教育", "大學"],
+    "category": "edu"
+  },
+  {
+    "id": "s41",
+    "name": "Education Week",
+    "url": "https://www.edweek.org/feed",
+    "language": "en",
+    "trustScore": 0.8,
+    "tags": ["教育"],
+    "category": "edu"
+  },
+  {
+    "id": "s42",
+    "name": "香港教育局新聞稿",
+    "url": "https://www.edb.gov.hk/tc/about-edb/press/press-releases/rss.xml",
+    "fallbackUrl": "https://news.google.com/rss/search?q=site:edb.gov.hk+when:30d&hl=zh-HK&gl=HK&ceid=HK:zh-Hant",
+    "language": "zh-Hant",
+    "trustScore": 0.9,
+    "tags": ["教育", "香港", "政府"],
+    "category": "edu"
+  },
+  {
+    "id": "s43",
+    "name": "香港 01 · 港聞",
+    "url": "https://www.hk01.com/rss/最新",
+    "fallbackUrl": "https://news.google.com/rss/search?q=site:hk01.com+%E6%B8%AF%E8%81%9E+when:3d&hl=zh-HK&gl=HK&ceid=HK:zh-Hant",
+    "language": "zh-Hant",
+    "trustScore": 0.78,
+    "tags": ["香港", "本地"],
+    "category": "hk"
+  },
+  {
+    "id": "s44",
+    "name": "端傳媒",
+    "url": "https://theinitium.com/newsfeed/",
+    "language": "zh-Hant",
+    "trustScore": 0.86,
+    "tags": ["國際", "兩岸"],
+    "category": "world"
+  },
+  {
+    "id": "s45",
+    "name": "關鍵評論網",
+    "url": "https://feeds.feedburner.com/TheNewsLens",
+    "language": "zh-Hant",
+    "trustScore": 0.8,
+    "tags": ["國際", "台灣"],
+    "category": "other"
+  },
+  {
+    "id": "s46",
+    "name": "報導者",
+    "url": "https://www.twreporter.org/a/rss2.xml",
+    "language": "zh-Hant",
+    "trustScore": 0.88,
+    "tags": ["台灣", "深度"],
+    "category": "other"
   }
 ]

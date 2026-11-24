@@ -2,8 +2,8 @@ name: Refresh news relay
 
 on:
   schedule:
-    # 每 3 小時；免費 runner 可能延遲 15–60 分鐘
-    - cron: "0 */3 * * *"
+    # 每 4 小時（UTC 0/4/8/12/16/20＝香港 8/12/16/20/0/4）；免費 runner 可能延遲
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
 permissions:

@@ -2,14 +2,14 @@ name: Generate AI covers
 
 on:
   schedule:
-    # 每 3 小時、比 refresh 晚約 30 分鐘
-    - cron: "30 */3 * * *"
+    # 每 4 小時、比 refresh 晚約 20 分鐘
+    - cron: "20 */4 * * *"
   workflow_dispatch:
     inputs:
       max:
-        description: "本輪最多生幾張（1–24；另受每日 16 上限）"
+        description: "本輪最多生幾張（1–24；另受每日 72 上限）"
         required: false
-        default: "4"
+        default: "12"
 
 permissions:
   contents: write
@@ -36,9 +36,9 @@ jobs:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
           MINIMAX_BASE_URL: ${{ secrets.MINIMAX_BASE_URL }}
           MINIMAX_REGION: ${{ secrets.MINIMAX_REGION }}
-          COVER_MAX: ${{ github.event.inputs.max || '4' }}
-          COVER_POOL: "40"
-          COVER_DAILY_MAX: "16"
+          COVER_MAX: ${{ github.event.inputs.max || '12' }}
+          COVER_POOL: "700"
+          COVER_DAILY_MAX: "72"
         run: |
           if [ -z "$MINIMAX_API_KEY" ]; then
             echo "MINIMAX_API_KEY secret 未設定，略過"

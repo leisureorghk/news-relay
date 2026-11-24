@@ -1,6 +1,6 @@
 /**
- * GitHub Actions 新聞中轉：抓 RSS → 去重／配額過濾 → data/feed.json + status.json
- * 僅輸出標題、連結、短摘要與來源；不含全文與金鑰。
+ * GitHub Actions 新聞中轉：抓 RSS → 去重 → 七類各最多 100（新鮮度優先、不跨類）
+ * → data/feed.json + status.json。僅輸出標題、連結、短摘要與來源；不含全文與金鑰。
  */
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
@@ -17,12 +17,14 @@ const CONCURRENCY = 8;
 const SOFT_CONCURRENCY = 2;
 const GNEWS_CONCURRENCY = 2;
 const PER_SOURCE_TIMEOUT_MS = 12_000;
-const PER_SOURCE_MAX = 12;
+const PER_SOURCE_MAX = 40;
 const HARD_AGE_HOURS = 48;
-const TARGET_TOTAL = 200;
+const SOFT_AGE_HOURS = 168; // 7 天：硬期限不足時同分類可補
+const PER_CATEGORY_QUOTA = 100;
+const QUOTA_ORDER = ['hk', 'world', 'biz', 'tech', 'sport', 'edu', 'other'];
+const QUOTAS = Object.fromEntries(QUOTA_ORDER.map((c) => [c, PER_CATEGORY_QUOTA]));
+const TARGET_TOTAL = PER_CATEGORY_QUOTA * QUOTA_ORDER.length;
 const SUMMARY_MAX = 280;
-const QUOTAS = { hk: 70, world: 40, biz: 40, tech: 30, other: 20 };
-const QUOTA_ORDER = ['hk', 'world', 'biz', 'tech', 'other'];
 
 const UA =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36';
@@ -265,6 +267,9 @@ function categoryOf(source) {
   const c = String(source.category || '').toLowerCase();
   if (QUOTAS[c] != null) return c;
   const tags = Array.isArray(source.tags) ? source.tags : [];
+  const blob = tags.join(' ');
+  if (/體育|游泳|門球|sports|swim|gateball|奧運|足球|籃球/i.test(blob)) return 'sport';
+  if (/\bSEN\b|特殊教育|教育|校園|學校/i.test(blob)) return 'edu';
   if (tags.includes('財經') || tags.includes('商業')) return 'biz';
   if (tags.includes('科技') || tags.includes('AI')) return 'tech';
   if (tags.includes('國際')) return 'world';
@@ -303,7 +308,7 @@ function candidateUrls(source) {
 function parseItemsFromXml(source, xml) {
   const chunks = extractItems(xml);
   const items = [];
-  const cutoff = Date.now() - HARD_AGE_HOURS * 3600 * 1000;
+  const softCutoff = Date.now() - SOFT_AGE_HOURS * 3600 * 1000;
   let skippedGoogle = 0;
   for (const chunk of chunks) {
     if (items.length >= PER_SOURCE_MAX) break;
@@ -324,7 +329,7 @@ function parseItemsFromXml(source, xml) {
       publishedAt = new Date().toISOString();
       ts = Date.now();
     }
-    if (ts < cutoff) continue;
+    if (ts < softCutoff) continue;
     items.push({
       id: makeId(source.id, url),
       sourceId: source.id,
@@ -395,6 +400,14 @@ async function ingestSource(source) {
   };
 }
 
+function emptyCatBags() {
+  return Object.fromEntries(QUOTA_ORDER.map((c) => [c, []]));
+}
+
+/**
+ * 每類各自配額：先取 48h 內新鮮稿，不足再用同分類 7 天內補滿。
+ * 不跨類借稿；仍不足則該類少於 100。
+ */
 function filterToQuota(all) {
   all.sort((a, b) => b._ts - a._ts);
   const seenUrl = new Set();
@@ -419,65 +432,40 @@ function filterToQuota(all) {
     capped.push(it);
   }
 
-  const byCat = { hk: [], world: [], biz: [], tech: [], other: [] };
+  const byCat = emptyCatBags();
   for (const it of capped) {
     const c = byCat[it.category] ? it.category : 'other';
+    it.category = c;
     byCat[c].push(it);
   }
 
+  const hardCutoff = Date.now() - HARD_AGE_HOURS * 3600 * 1000;
   const picked = [];
-  const used = new Set();
-  const takenByCat = { hk: 0, world: 0, biz: 0, tech: 0, other: 0 };
+  const shortfall = {};
 
   for (const cat of QUOTA_ORDER) {
     const quota = QUOTAS[cat];
-    for (const it of byCat[cat] || []) {
-      if (takenByCat[cat] >= quota) break;
-      if (used.has(it.id)) continue;
-      picked.push(it);
-      used.add(it.id);
-      takenByCat[cat]++;
+    const bag = byCat[cat] || [];
+    const fresh = bag.filter((it) => it._ts >= hardCutoff);
+    const older = bag.filter((it) => it._ts < hardCutoff);
+    const chosen = [];
+    for (const it of fresh) {
+      if (chosen.length >= quota) break;
+      chosen.push(it);
     }
-  }
-
-  // 名額不足：優先補「仍低於配額」的分類，避免 tech 長期超標
-  while (picked.length < TARGET_TOTAL) {
-    let added = false;
-    const shortfall = QUOTA_ORDER
-      .map((cat) => ({ cat, need: QUOTAS[cat] - takenByCat[cat] }))
-      .filter((x) => x.need > 0)
-      .sort((a, b) => b.need - a.need);
-
-    for (const { cat } of shortfall) {
-      for (const it of byCat[cat] || []) {
-        if (picked.length >= TARGET_TOTAL) break;
-        if (used.has(it.id)) continue;
-        picked.push(it);
-        used.add(it.id);
-        takenByCat[cat]++;
-        added = true;
-        break;
-      }
-      if (added) break;
+    for (const it of older) {
+      if (chosen.length >= quota) break;
+      chosen.push(it);
     }
-    if (added) continue;
-
-    // 各類已達配額或無稿：才用其餘較新稿補滿
-    let filled = false;
-    for (const it of capped) {
-      if (picked.length >= TARGET_TOTAL) break;
-      if (used.has(it.id)) continue;
-      picked.push(it);
-      used.add(it.id);
-      takenByCat[it.category] = (takenByCat[it.category] || 0) + 1;
-      filled = true;
-      break;
-    }
-    if (!filled) break;
+    shortfall[cat] = Math.max(0, quota - chosen.length);
+    picked.push(...chosen);
   }
 
   picked.sort((a, b) => b._ts - a._ts);
-  return picked.slice(0, TARGET_TOTAL).map(({ _ts, trustScore, ...rest }) => rest);
+  return {
+    items: picked.map(({ _ts, trustScore, ...rest }) => rest),
+    shortfall,
+  };
 }
 
 function isGoogleSource(source) {
@@ -542,16 +530,19 @@ async function main() {
     all.push(...r.items);
   }
 
-  const items = filterToQuota(all);
-  const byCat = {};
+  const { items, shortfall } = filterToQuota(all);
+  const byCat = Object.fromEntries(QUOTA_ORDER.map((c) => [c, 0]));
   for (const it of items) byCat[it.category] = (byCat[it.category] || 0) + 1;
   const generatedAt = new Date().toISOString();
+  const targetPerCategory = PER_CATEGORY_QUOTA;
 
   const payload = {
     generatedAt,
     count: items.length,
     target: TARGET_TOTAL,
+    targetPerCategory,
     categories: byCat,
+    shortfall,
     errors: errors.slice(0, 20),
     warnings: warnings.slice(0, 20),
     items,
@@ -561,7 +552,9 @@ async function main() {
     generatedAt,
     count: items.length,
     target: TARGET_TOTAL,
+    targetPerCategory,
     categories: byCat,
+    shortfall,
     sourcesTotal: allSources.length,
     sourcesEnabled: sources.length,
     sourcesDisabled: disabled.length,

@@ -4,16 +4,16 @@
  *
  * 省額度策略：
  *   - 只打 image-01（不先打 H3）
- *   - 只看 feed 前 COVER_POOL 則中的無圖項
+ *   - 整份 feed 無圖項；七類輪流、類內由新到舊
  *   - 每輪 COVER_MAX、每日 COVER_DAILY_MAX
- *   - 撞 quota 立刻停
+ *   - 撞 quota 立刻停；落選封面檔刪除
  *
  * 環境變數：
  *   MINIMAX_API_KEY（必填）
  *   MINIMAX_BASE_URL / MINIMAX_REGION
- *   COVER_MAX（每輪，預設 4）
- *   COVER_POOL（候選池，預設 40）
- *   COVER_DAILY_MAX（每日上限，預設 16）
+ *   COVER_MAX（每輪，預設 12）
+ *   COVER_POOL（候選池上限，預設 700）
+ *   COVER_DAILY_MAX（每日上限，預設 72）
  */
 import { readFile, writeFile, mkdir, readdir, unlink } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
@@ -25,9 +25,10 @@ const FEED_PATH = join(ROOT, 'data', 'feed.json');
 const COVERS_DIR = join(ROOT, 'data', 'covers');
 const COVERS_JSON = join(ROOT, 'data', 'covers.json');
 
-const MAX = Math.max(1, Math.min(24, Number(process.env.COVER_MAX || 4)));
-const POOL = Math.max(MAX, Math.min(80, Number(process.env.COVER_POOL || 40)));
-const DAILY_MAX = Math.max(1, Math.min(48, Number(process.env.COVER_DAILY_MAX || 16)));
+const MAX = Math.max(1, Math.min(48, Number(process.env.COVER_MAX || 12)));
+const POOL = Math.max(MAX, Math.min(700, Number(process.env.COVER_POOL || 700)));
+const DAILY_MAX = Math.max(1, Math.min(120, Number(process.env.COVER_DAILY_MAX || 72)));
+const CAT_ORDER = ['hk', 'world', 'biz', 'tech', 'sport', 'edu', 'other'];
 const TIMEOUT_MS = 180_000;
 const UA =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36';
@@ -231,16 +232,15 @@ async function main() {
     process.exit(0);
   }
 
-  // 只在 feed 前 POOL 則裡找無圖（接近精選規模，避免 need=100+）
-  const pool = items.slice(0, POOL);
-  for (const it of pool) {
+  // 回寫已有封面；只處理無圖項
+  for (const it of items) {
     if (!it?.id) continue;
     if (!String(it.imageUrl || '').trim() && covers.items[it.id]?.url) {
       it.imageUrl = covers.items[it.id].url;
     }
   }
 
-  const need = pool.filter((it) => {
+  const needAll = items.filter((it) => {
     if (!it?.id) return false;
     if (String(it.imageUrl || '').trim()) return false;
     if (covers.items[it.id]?.url) {
@@ -250,9 +250,37 @@ async function main() {
     return true;
   });
 
+  // 七類輪流、類內新到舊；再截到 POOL
+  const byCat = Object.fromEntries(CAT_ORDER.map((c) => [c, []]));
+  for (const it of needAll) {
+    const c = CAT_ORDER.includes(it.category) ? it.category : 'other';
+    byCat[c].push(it);
+  }
+  for (const c of CAT_ORDER) {
+    byCat[c].sort((a, b) => {
+      const ta = Date.parse(a.publishedAt || '') || 0;
+      const tb = Date.parse(b.publishedAt || '') || 0;
+      return tb - ta;
+    });
+  }
+  const need = [];
+  let depth = 0;
+  let progressed = true;
+  while (progressed && need.length < POOL) {
+    progressed = false;
+    for (const c of CAT_ORDER) {
+      if (need.length >= POOL) break;
+      if (depth < byCat[c].length) {
+        need.push(byCat[c][depth]);
+        progressed = true;
+      }
+    }
+    depth++;
+  }
+
   const roundMax = Math.min(MAX, dailyLeft);
   console.log(
-    `covers: need=${need.length} pool=${POOL} max=${roundMax} daily=${covers.dailyCount}/${DAILY_MAX} base=${covers.baseUrl}`,
+    `covers: need=${need.length}/${needAll.length} pool=${POOL} max=${roundMax} daily=${covers.dailyCount}/${DAILY_MAX} base=${covers.baseUrl}`,
   );
   const batch = need.slice(0, roundMax);
   let ok = 0;
