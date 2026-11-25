@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T15:07:18.305Z",
+  "generatedAt": "2026-11-25T00:58:48.520Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 18,
+  "count": 25,
   "items": {
     "ree2a35bc22de60df": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ree2a35bc22de60df.jpg",
@@ -29,15 +29,6 @@
       "createdAt": "2026-11-24T03:08:01.969Z",
       "model": "image-01",
       "bytes": 325251
-    },
-    "r9b10ff5701969633": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r9b10ff5701969633.jpg",
-      "path": "data/covers/r9b10ff5701969633.jpg",
-      "sourceUrl": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-      "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
-      "createdAt": "2026-11-24T03:09:33.331Z",
-      "model": "image-01",
-      "bytes": 314206
     },
     "r96045e91fee2b4ee": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r96045e91fee2b4ee.jpg",
@@ -75,24 +66,6 @@
       "model": "image-01",
       "bytes": 283553
     },
-    "r6cf6ec4e91b96069": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6cf6ec4e91b96069.jpg",
-      "path": "data/covers/r6cf6ec4e91b96069.jpg",
-      "sourceUrl": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
-      "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
-      "createdAt": "2026-11-24T15:00:48.171Z",
-      "model": "image-01",
-      "bytes": 268440
-    },
-    "r1e521516578c1e64": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r1e521516578c1e64.jpg",
-      "path": "data/covers/r1e521516578c1e64.jpg",
-      "sourceUrl": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale",
-      "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
-      "createdAt": "2026-11-24T15:01:21.409Z",
-      "model": "image-01",
-      "bytes": 357936
-    },
     "r227df04856b4be66": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r227df04856b4be66.jpg",
       "path": "data/covers/r227df04856b4be66.jpg",
@@ -119,15 +92,6 @@
       "createdAt": "2026-11-24T15:03:36.756Z",
       "model": "image-01",
       "bytes": 335640
-    },
-    "rdc5d695b32648b79": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rdc5d695b32648b79.jpg",
-      "path": "data/covers/rdc5d695b32648b79.jpg",
-      "sourceUrl": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-who-are-the-big-winners-and-losers?traffic_source=rss",
-      "title": "Jensen Huang’s Nvidia return: Who are the big winners and losers?",
-      "createdAt": "2026-11-24T15:04:17.433Z",
-      "model": "image-01",
-      "bytes": 289385
     },
     "r54e68c073a93ff1f": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r54e68c073a93ff1f.jpg",
@@ -156,27 +120,126 @@
       "model": "image-01",
       "bytes": 450268
     },
-    "r157ce12237fdf9df": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r157ce12237fdf9df.jpg",
-      "path": "data/covers/r157ce12237fdf9df.jpg",
-      "sourceUrl": "https://www.edsurge.com/news/ai-has-a-place-in-education-just-not-in-my-classroom",
-      "title": "AI Has a Place in Education, Just Not in My Classroom",
-      "createdAt": "2026-11-24T15:07:17.803Z",
+    "r100030b0e2b0700c": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r100030b0e2b0700c.jpg",
+      "path": "data/covers/r100030b0e2b0700c.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879133-20261125.htm",
+      "title": "天文台預料本港今晚沿岸水位較正常稍高 部分低窪地區或輕微水浸",
+      "createdAt": "2026-11-25T00:52:36.810Z",
       "model": "image-01",
-      "bytes": 413873
+      "bytes": 296709
+    },
+    "r02169d3127338041": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r02169d3127338041.jpg",
+      "path": "data/covers/r02169d3127338041.jpg",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+      "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+      "createdAt": "2026-11-25T00:53:13.056Z",
+      "model": "image-01",
+      "bytes": 257162
+    },
+    "r49381af122acb96b": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r49381af122acb96b.jpg",
+      "path": "data/covers/r49381af122acb96b.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+      "title": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
+      "createdAt": "2026-11-25T00:53:50.375Z",
+      "model": "image-01",
+      "bytes": 253369
+    },
+    "r7583b834d63f5d6c": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r7583b834d63f5d6c.jpg",
+      "path": "data/covers/r7583b834d63f5d6c.jpg",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
+      "title": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to U.S. industrial might",
+      "createdAt": "2026-11-25T00:54:23.950Z",
+      "model": "image-01",
+      "bytes": 251390
+    },
+    "r8a571cafd7ec581d": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8a571cafd7ec581d.jpg",
+      "path": "data/covers/r8a571cafd7ec581d.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879153-20261125.htm",
+      "title": "歐聯阿仙奴和曼城均賽和對手 阿士東維拉落敗",
+      "createdAt": "2026-11-25T00:54:56.989Z",
+      "model": "image-01",
+      "bytes": 353078
+    },
+    "rd7764fa14c41801e": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rd7764fa14c41801e.jpg",
+      "path": "data/covers/rd7764fa14c41801e.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879125-20261124.htm",
+      "title": "海關機場偵破兩宗販毒案 檢約懷疑大麻花巿值約4百萬",
+      "createdAt": "2026-11-25T00:55:26.678Z",
+      "model": "image-01",
+      "bytes": 303154
+    },
+    "r625e6cfdca3bb2c9": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r625e6cfdca3bb2c9.jpg",
+      "path": "data/covers/r625e6cfdca3bb2c9.jpg",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+      "createdAt": "2026-11-25T00:56:01.554Z",
+      "model": "image-01",
+      "bytes": 290010
+    },
+    "r25ae2ea4ebd611f8": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r25ae2ea4ebd611f8.jpg",
+      "path": "data/covers/r25ae2ea4ebd611f8.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
+      "title": "RBA’s Jacobs Says Financial Conditions ‘Restrictive’ After Hikes",
+      "createdAt": "2026-11-25T00:56:34.272Z",
+      "model": "image-01",
+      "bytes": 263264
+    },
+    "r434f5565312bc99d": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r434f5565312bc99d.jpg",
+      "path": "data/covers/r434f5565312bc99d.jpg",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary",
+      "title": "Trump reportedly says pardoning Jensen Huang is &#8216;an option&#8217;",
+      "createdAt": "2026-11-25T00:57:07.662Z",
+      "model": "image-01",
+      "bytes": 292251
+    },
+    "r6f2ccee96e162ab0": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6f2ccee96e162ab0.jpg",
+      "path": "data/covers/r6f2ccee96e162ab0.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878869-20261123.htm",
+      "title": "英超曼聯作客0:4不敵利物浦",
+      "createdAt": "2026-11-25T00:57:41.337Z",
+      "model": "image-01",
+      "bytes": 400530
+    },
+    "r9060e21e2f48a6b7": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r9060e21e2f48a6b7.jpg",
+      "path": "data/covers/r9060e21e2f48a6b7.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879124-20261124.htm",
+      "title": "有議員關注政府會否在壓抑及監督港燈基本電價「下大苦功」",
+      "createdAt": "2026-11-25T00:58:13.636Z",
+      "model": "image-01",
+      "bytes": 306307
+    },
+    "r2dab69857a28d4bd": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2dab69857a28d4bd.jpg",
+      "path": "data/covers/r2dab69857a28d4bd.jpg",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+      "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+      "createdAt": "2026-11-25T00:58:48.017Z",
+      "model": "image-01",
+      "bytes": 376218
     }
   },
   "lastRun": {
     "ok": 12,
     "fail": 0,
-    "need": 239,
+    "need": 230,
     "tried": 12,
     "quotaHit": false,
     "pool": 700,
-    "dailyCount": 28,
+    "dailyCount": 12,
     "dailyMax": 72,
-    "dailyKey": "2026-11-24"
+    "dailyKey": "2026-11-25"
   },
-  "dailyKey": "2026-11-24",
-  "dailyCount": 28
+  "dailyKey": "2026-11-25",
+  "dailyCount": 12
 }
