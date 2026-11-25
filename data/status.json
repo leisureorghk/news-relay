@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T14:25:36.090Z",
-  "count": 420,
+  "generatedAt": "2026-11-25T00:14:43.668Z",
+  "count": 418,
   "target": 700,
   "targetPerCategory": 100,
   "categories": {
@@ -9,7 +9,7 @@
     "biz": 67,
     "tech": 100,
     "sport": 55,
-    "edu": 5,
+    "edu": 3,
     "other": 28
   },
   "shortfall": {
@@ -18,7 +18,7 @@
     "biz": 33,
     "tech": 0,
     "sport": 45,
-    "edu": 95,
+    "edu": 97,
     "other": 72
   },
   "sourcesTotal": 46,
@@ -36,7 +36,7 @@
   ],
   "warnings": [
     "Reuters Business: Google 新聞 0 則（解不出原文 100）",
-    "香港教育局新聞稿: Google 新聞 0 則（解不出原文 100）",
+    "香港教育局新聞稿: Google 新聞 0 則（解不出原文 60）",
     "香港 01 · 港聞: Google 新聞 0 則（解不出原文 100）",
     "明報 · 要聞: Google 新聞 0 則（解不出原文 100）",
     "明報 · 體育: Google 新聞 0 則（解不出原文 100）",
@@ -45,8 +45,8 @@
     "信報財經新聞: Google 新聞 0 則（解不出原文 100）",
     "Yahoo 新聞 · 科技: Google 新聞 0 則（解不出原文 100）",
     "Google 新聞 · 香港: Google 新聞 0 則（解不出原文 30）",
-    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 100）",
-    "Google 新聞 · 門球: Google 新聞 0 則（解不出原文 40）",
+    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 71）",
+    "Google 新聞 · 門球: Google 新聞 0 則（解不出原文 7）",
     "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 33）",
     "Google 新聞 · SEN 游泳: Google 新聞 0 則（解不出原文 1）"
   ]
