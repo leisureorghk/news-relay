@@ -1,17 +1,8 @@
 {
-  "generatedAt": "2026-11-25T00:58:48.520Z",
+  "generatedAt": "2026-11-25T14:40:33.854Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 25,
+  "count": 24,
   "items": {
-    "ree2a35bc22de60df": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ree2a35bc22de60df.jpg",
-      "path": "data/covers/ree2a35bc22de60df.jpg",
-      "sourceUrl": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers",
-      "title": "Figma employee sues, alleging company forced her to confront harassers",
-      "createdAt": "2026-11-24T02:32:14.823Z",
-      "model": "image-01",
-      "bytes": 296496
-    },
     "r26a41ff9eb85d5f7": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r26a41ff9eb85d5f7.jpg",
       "path": "data/covers/r26a41ff9eb85d5f7.jpg",
@@ -48,24 +39,6 @@
       "model": "image-01",
       "bytes": 321310
     },
-    "rb23e9d098a369205": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb23e9d098a369205.jpg",
-      "path": "data/covers/rb23e9d098a369205.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879118-20261124.htm",
-      "title": "李家超：香港正鞏固與傳統市場關係 同時拓展東盟和中東利益",
-      "createdAt": "2026-11-24T14:59:32.826Z",
-      "model": "image-01",
-      "bytes": 270671
-    },
-    "ra532ca4934047439": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra532ca4934047439.jpg",
-      "path": "data/covers/ra532ca4934047439.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879120-20261124.htm",
-      "title": "英國兩名男子涉闖威廉與凱特鄉間住所被捕",
-      "createdAt": "2026-11-24T15:00:04.284Z",
-      "model": "image-01",
-      "bytes": 283553
-    },
     "r227df04856b4be66": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r227df04856b4be66.jpg",
       "path": "data/covers/r227df04856b4be66.jpg",
@@ -84,33 +57,6 @@
       "model": "image-01",
       "bytes": 344540
     },
-    "rb599aaaba29dbe4d": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb599aaaba29dbe4d.jpg",
-      "path": "data/covers/rb599aaaba29dbe4d.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879117-20261124.htm",
-      "title": "伊利沙伯醫院4名女病人感染甲型流感",
-      "createdAt": "2026-11-24T15:03:36.756Z",
-      "model": "image-01",
-      "bytes": 335640
-    },
-    "r54e68c073a93ff1f": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r54e68c073a93ff1f.jpg",
-      "path": "data/covers/r54e68c073a93ff1f.jpg",
-      "sourceUrl": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
-      "title": "Stocks making the biggest moves Tuesday: Nvidia, Anthropic, retailers &amp; more",
-      "createdAt": "2026-11-24T15:05:03.115Z",
-      "model": "image-01",
-      "bytes": 313727
-    },
-    "r96371c96aa60ad87": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r96371c96aa60ad87.jpg",
-      "path": "data/covers/r96371c96aa60ad87.jpg",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board",
-      "title": "Huang reportedly admitted to more than two affairs to Nvidia&#8217;s board",
-      "createdAt": "2026-11-24T15:06:02.303Z",
-      "model": "image-01",
-      "bytes": 371221
-    },
     "r2f8e00c8ff05206c": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2f8e00c8ff05206c.jpg",
       "path": "data/covers/r2f8e00c8ff05206c.jpg",
@@ -119,24 +65,6 @@
       "createdAt": "2026-11-24T15:06:36.734Z",
       "model": "image-01",
       "bytes": 450268
-    },
-    "r100030b0e2b0700c": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r100030b0e2b0700c.jpg",
-      "path": "data/covers/r100030b0e2b0700c.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879133-20261125.htm",
-      "title": "天文台預料本港今晚沿岸水位較正常稍高 部分低窪地區或輕微水浸",
-      "createdAt": "2026-11-25T00:52:36.810Z",
-      "model": "image-01",
-      "bytes": 296709
-    },
-    "r02169d3127338041": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r02169d3127338041.jpg",
-      "path": "data/covers/r02169d3127338041.jpg",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-      "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-      "createdAt": "2026-11-25T00:53:13.056Z",
-      "model": "image-01",
-      "bytes": 257162
     },
     "r49381af122acb96b": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r49381af122acb96b.jpg",
@@ -165,33 +93,6 @@
       "model": "image-01",
       "bytes": 353078
     },
-    "rd7764fa14c41801e": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rd7764fa14c41801e.jpg",
-      "path": "data/covers/rd7764fa14c41801e.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879125-20261124.htm",
-      "title": "海關機場偵破兩宗販毒案 檢約懷疑大麻花巿值約4百萬",
-      "createdAt": "2026-11-25T00:55:26.678Z",
-      "model": "image-01",
-      "bytes": 303154
-    },
-    "r625e6cfdca3bb2c9": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r625e6cfdca3bb2c9.jpg",
-      "path": "data/covers/r625e6cfdca3bb2c9.jpg",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
-      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-      "createdAt": "2026-11-25T00:56:01.554Z",
-      "model": "image-01",
-      "bytes": 290010
-    },
-    "r25ae2ea4ebd611f8": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r25ae2ea4ebd611f8.jpg",
-      "path": "data/covers/r25ae2ea4ebd611f8.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
-      "title": "RBA’s Jacobs Says Financial Conditions ‘Restrictive’ After Hikes",
-      "createdAt": "2026-11-25T00:56:34.272Z",
-      "model": "image-01",
-      "bytes": 263264
-    },
     "r434f5565312bc99d": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r434f5565312bc99d.jpg",
       "path": "data/covers/r434f5565312bc99d.jpg",
@@ -210,36 +111,126 @@
       "model": "image-01",
       "bytes": 400530
     },
-    "r9060e21e2f48a6b7": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r9060e21e2f48a6b7.jpg",
-      "path": "data/covers/r9060e21e2f48a6b7.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879124-20261124.htm",
-      "title": "有議員關注政府會否在壓抑及監督港燈基本電價「下大苦功」",
-      "createdAt": "2026-11-25T00:58:13.636Z",
+    "r6bfab9b53875691d": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6bfab9b53875691d.jpg",
+      "path": "data/covers/r6bfab9b53875691d.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879260-20261125.htm",
+      "title": "孫東：對有意來港發展內地企業 香港能協助連接國際創新資源",
+      "createdAt": "2026-11-25T14:35:17.909Z",
       "model": "image-01",
-      "bytes": 306307
+      "bytes": 321041
     },
-    "r2dab69857a28d4bd": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2dab69857a28d4bd.jpg",
-      "path": "data/covers/r2dab69857a28d4bd.jpg",
-      "sourceUrl": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
-      "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
-      "createdAt": "2026-11-25T00:58:48.017Z",
+    "r13e42a179f47be49": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r13e42a179f47be49.jpg",
+      "path": "data/covers/r13e42a179f47be49.jpg",
+      "sourceUrl": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
+      "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
+      "createdAt": "2026-11-25T14:35:46.151Z",
       "model": "image-01",
-      "bytes": 376218
+      "bytes": 348221
+    },
+    "r20f5d52a72182759": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r20f5d52a72182759.jpg",
+      "path": "data/covers/r20f5d52a72182759.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "title": "Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
+      "createdAt": "2026-11-25T14:36:16.385Z",
+      "model": "image-01",
+      "bytes": 304922
+    },
+    "rb010894006020cf8": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb010894006020cf8.jpg",
+      "path": "data/covers/rb010894006020cf8.jpg",
+      "sourceUrl": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "title": "Huawei found guilty of stealing trade secrets",
+      "createdAt": "2026-11-25T14:36:44.067Z",
+      "model": "image-01",
+      "bytes": 252832
+    },
+    "r5a316f0c778be343": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5a316f0c778be343.jpg",
+      "path": "data/covers/r5a316f0c778be343.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878739-20261122.htm",
+      "title": "曼城和阿仙奴分別和波失分 車路士1:4慘敗給列斯聯",
+      "createdAt": "2026-11-25T14:37:13.193Z",
+      "model": "image-01",
+      "bytes": 455189
+    },
+    "r5d724e14d465365f": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5d724e14d465365f.jpg",
+      "path": "data/covers/r5d724e14d465365f.jpg",
+      "sourceUrl": "https://www.edsurge.com/news/what-happens-when-ai-outruns-title-i-schools",
+      "title": "What Happens When AI Outruns Title I Schools?",
+      "createdAt": "2026-11-25T14:37:40.405Z",
+      "model": "image-01",
+      "bytes": 341741
+    },
+    "r42076ac39cf26eff": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r42076ac39cf26eff.jpg",
+      "path": "data/covers/r42076ac39cf26eff.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879254-20261125.htm",
+      "title": "李家超：把首個五年規劃由願景圖轉為實景圖 工商業界不可或缺",
+      "createdAt": "2026-11-25T14:38:08.408Z",
+      "model": "image-01",
+      "bytes": 303500
+    },
+    "rfc4551eff924de68": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rfc4551eff924de68.jpg",
+      "path": "data/covers/rfc4551eff924de68.jpg",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
+      "title": "Solomon Islands signs security deal with Australia",
+      "createdAt": "2026-11-25T14:38:37.548Z",
+      "model": "image-01",
+      "bytes": 380613
+    },
+    "rb8845d5b96c59410": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb8845d5b96c59410.jpg",
+      "path": "data/covers/rb8845d5b96c59410.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
+      "createdAt": "2026-11-25T14:39:06.290Z",
+      "model": "image-01",
+      "bytes": 259884
+    },
+    "r51a150e2f61ffe59": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r51a150e2f61ffe59.jpg",
+      "path": "data/covers/r51a150e2f61ffe59.jpg",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "createdAt": "2026-11-25T14:39:35.269Z",
+      "model": "image-01",
+      "bytes": 295107
+    },
+    "r813b01ee05fbeda4": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r813b01ee05fbeda4.jpg",
+      "path": "data/covers/r813b01ee05fbeda4.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878729-20261121.htm",
+      "title": "英超曼城主場1:1迫和富咸 避免聯賽四連敗但再失2分",
+      "createdAt": "2026-11-25T14:40:03.415Z",
+      "model": "image-01",
+      "bytes": 430000
+    },
+    "r90683c7717006ac3": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r90683c7717006ac3.jpg",
+      "path": "data/covers/r90683c7717006ac3.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879253-20261125.htm",
+      "title": "香港電訊明年2月25日終止提供3G服務",
+      "createdAt": "2026-11-25T14:40:33.351Z",
+      "model": "image-01",
+      "bytes": 257037
     }
   },
   "lastRun": {
     "ok": 12,
     "fail": 0,
-    "need": 230,
+    "need": 231,
     "tried": 12,
     "quotaHit": false,
     "pool": 700,
-    "dailyCount": 12,
+    "dailyCount": 24,
     "dailyMax": 72,
     "dailyKey": "2026-11-25"
   },
   "dailyKey": "2026-11-25",
-  "dailyCount": 12
+  "dailyCount": 24
 }
