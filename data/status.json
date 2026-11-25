@@ -1,34 +1,35 @@
 {
-  "generatedAt": "2026-11-25T13:43:57.846Z",
-  "count": 419,
+  "generatedAt": "2026-11-25T23:53:50.301Z",
+  "count": 421,
   "target": 700,
   "targetPerCategory": 100,
   "categories": {
     "hk": 65,
     "world": 100,
-    "biz": 68,
+    "biz": 69,
     "tech": 100,
     "sport": 54,
-    "edu": 4,
+    "edu": 5,
     "other": 28
   },
   "shortfall": {
     "hk": 35,
     "world": 0,
-    "biz": 32,
+    "biz": 31,
     "tech": 0,
     "sport": 46,
-    "edu": 96,
+    "edu": 95,
     "other": 72
   },
   "sourcesTotal": 46,
   "sourcesEnabled": 46,
   "sourcesDisabled": 0,
-  "sourcesOk": 41,
-  "sourcesFail": 5,
+  "sourcesOk": 40,
+  "sourcesFail": 6,
   "fallbackUsed": 7,
   "errors": [
     "中央社 · 國際: https://feeds.feedburner.com/rsscna/intl: HTTP 404",
+    "The Guardian · World: https://www.theguardian.com/world/rss: HTTP 403",
     "Yahoo 財經 · 香港: https://hk.finance.yahoo.com/news/rssindex: HTTP 404",
     "體路 Sportsroad: https://www.sportsroad.hk/feed/: HTTP 403",
     "Times Higher Education: https://www.timeshighereducation.com/rss.xml: HTTP 403",
@@ -45,9 +46,9 @@
     "信報財經新聞: Google 新聞 0 則（解不出原文 100）",
     "Yahoo 新聞 · 科技: Google 新聞 0 則（解不出原文 100）",
     "Google 新聞 · 香港: Google 新聞 0 則（解不出原文 30）",
-    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 100）",
-    "Google 新聞 · 門球: Google 新聞 0 則（解不出原文 40）",
-    "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 100）",
+    "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 64）",
+    "Google 新聞 · 門球: Google 新聞 0 則（解不出原文 41）",
+    "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 32）",
     "Google 新聞 · SEN 游泳: Google 新聞 0 則（解不出原文 1）"
   ]
 }
