@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T00:36:49.356Z",
+  "generatedAt": "2026-11-26T14:05:42.926Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 32,
+  "count": 35,
   "items": {
     "r26a41ff9eb85d5f7": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r26a41ff9eb85d5f7.jpg",
@@ -30,15 +30,6 @@
       "model": "image-01",
       "bytes": 422246
     },
-    "rf363753913ec4cab": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf363753913ec4cab.jpg",
-      "path": "data/covers/rf363753913ec4cab.jpg",
-      "sourceUrl": "https://www.edsurge.com/news/google-says-schools-cant-have-search-without-ai-some-are-finding-a-way",
-      "title": "Google Says Schools Can’t Have Search Without AI. Some Are Finding a Way.",
-      "createdAt": "2026-11-24T03:11:21.335Z",
-      "model": "image-01",
-      "bytes": 321310
-    },
     "r227df04856b4be66": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r227df04856b4be66.jpg",
       "path": "data/covers/r227df04856b4be66.jpg",
@@ -65,15 +56,6 @@
       "createdAt": "2026-11-24T15:06:36.734Z",
       "model": "image-01",
       "bytes": 450268
-    },
-    "r49381af122acb96b": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r49381af122acb96b.jpg",
-      "path": "data/covers/r49381af122acb96b.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
-      "title": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
-      "createdAt": "2026-11-25T00:53:50.375Z",
-      "model": "image-01",
-      "bytes": 253369
     },
     "r7583b834d63f5d6c": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r7583b834d63f5d6c.jpg",
@@ -111,15 +93,6 @@
       "model": "image-01",
       "bytes": 400530
     },
-    "r6bfab9b53875691d": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6bfab9b53875691d.jpg",
-      "path": "data/covers/r6bfab9b53875691d.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879260-20261125.htm",
-      "title": "孫東：對有意來港發展內地企業 香港能協助連接國際創新資源",
-      "createdAt": "2026-11-25T14:35:17.909Z",
-      "model": "image-01",
-      "bytes": 321041
-    },
     "r5a316f0c778be343": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5a316f0c778be343.jpg",
       "path": "data/covers/r5a316f0c778be343.jpg",
@@ -137,15 +110,6 @@
       "createdAt": "2026-11-25T14:37:40.405Z",
       "model": "image-01",
       "bytes": 341741
-    },
-    "r42076ac39cf26eff": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r42076ac39cf26eff.jpg",
-      "path": "data/covers/r42076ac39cf26eff.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879254-20261125.htm",
-      "title": "李家超：把首個五年規劃由願景圖轉為實景圖 工商業界不可或缺",
-      "createdAt": "2026-11-25T14:38:08.408Z",
-      "model": "image-01",
-      "bytes": 303500
     },
     "rb8845d5b96c59410": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb8845d5b96c59410.jpg",
@@ -174,24 +138,6 @@
       "model": "image-01",
       "bytes": 430000
     },
-    "r90683c7717006ac3": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r90683c7717006ac3.jpg",
-      "path": "data/covers/r90683c7717006ac3.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879253-20261125.htm",
-      "title": "香港電訊明年2月25日終止提供3G服務",
-      "createdAt": "2026-11-25T14:40:33.351Z",
-      "model": "image-01",
-      "bytes": 257037
-    },
-    "r877382e66b18fd82": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r877382e66b18fd82.jpg",
-      "path": "data/covers/r877382e66b18fd82.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879293-20261126.htm",
-      "title": "港鐵天水圍站故障工程車已駛離行車線 屯馬綫逐步回復正常",
-      "createdAt": "2026-11-26T00:31:46.575Z",
-      "model": "image-01",
-      "bytes": 267045
-    },
     "r8602acf6b06a2b5e": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8602acf6b06a2b5e.jpg",
       "path": "data/covers/r8602acf6b06a2b5e.jpg",
@@ -210,15 +156,6 @@
       "model": "image-01",
       "bytes": 248659
     },
-    "r7db1af66519ee634": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r7db1af66519ee634.jpg",
-      "path": "data/covers/r7db1af66519ee634.jpg",
-      "sourceUrl": "https://modaic.dev/blog/latency-doesnt-lie",
-      "title": "Jev is (probably) Qwen3.5-35B-A3B",
-      "createdAt": "2026-11-26T00:33:06.340Z",
-      "model": "image-01",
-      "bytes": 342309
-    },
     "r983466097012bbd9": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r983466097012bbd9.jpg",
       "path": "data/covers/r983466097012bbd9.jpg",
@@ -236,15 +173,6 @@
       "createdAt": "2026-11-26T00:34:00.092Z",
       "model": "image-01",
       "bytes": 364562
-    },
-    "r0283e2874baa8b71": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r0283e2874baa8b71.jpg",
-      "path": "data/covers/r0283e2874baa8b71.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879290-20261126.htm",
-      "title": "天水圍站工程車設備故障 屯馬綫候車時間預計多10至15分鐘",
-      "createdAt": "2026-11-26T00:34:26.295Z",
-      "model": "image-01",
-      "bytes": 288929
     },
     "r625f22fce1dfcd86": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r625f22fce1dfcd86.jpg",
@@ -282,27 +210,126 @@
       "model": "image-01",
       "bytes": 391700
     },
-    "r9ec076a4952845ab": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r9ec076a4952845ab.jpg",
-      "path": "data/covers/r9ec076a4952845ab.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879283-20261126.htm",
-      "title": "警方調查清水灣道昨日傍晚致命交通意外 69歲小巴司機不治",
-      "createdAt": "2026-11-26T00:36:48.851Z",
+    "r8154b51348ad9ab4": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8154b51348ad9ab4.jpg",
+      "path": "data/covers/r8154b51348ad9ab4.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879355-20261126.htm",
+      "title": "香港和南沙順利完成大灣區跨境直通救護車北向轉運演練",
+      "createdAt": "2026-11-26T14:00:38.737Z",
       "model": "image-01",
-      "bytes": 297170
+      "bytes": 254873
+    },
+    "ref13b3000c84582e": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ref13b3000c84582e.jpg",
+      "path": "data/covers/ref13b3000c84582e.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879354-20261126.htm",
+      "title": "韓國前總統尹錫悅涉嫌作偽證終審無罪",
+      "createdAt": "2026-11-26T14:01:08.170Z",
+      "model": "image-01",
+      "bytes": 360058
+    },
+    "rf3379b15c233473f": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf3379b15c233473f.jpg",
+      "path": "data/covers/rf3379b15c233473f.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
+      "title": "North Korea&apos;s Kim calls for nuclear arsenal expansion, says status &apos;will never change&apos;",
+      "createdAt": "2026-11-26T14:01:35.791Z",
+      "model": "image-01",
+      "bytes": 298124
+    },
+    "rbd023471850f9466": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rbd023471850f9466.jpg",
+      "path": "data/covers/rbd023471850f9466.jpg",
+      "sourceUrl": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "title": "Qualcomm's Oryon 3 Reaches the Top",
+      "createdAt": "2026-11-26T14:02:02.188Z",
+      "model": "image-01",
+      "bytes": 271198
+    },
+    "rcbb8c9d39ab5d68b": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rcbb8c9d39ab5d68b.jpg",
+      "path": "data/covers/rcbb8c9d39ab5d68b.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878671-20261121.htm",
+      "title": "德甲拜仁1:1逼和科隆 哈利卡尼傷出",
+      "createdAt": "2026-11-26T14:02:28.785Z",
+      "model": "image-01",
+      "bytes": 472583
+    },
+    "rf274a3ffc1ceee9c": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf274a3ffc1ceee9c.jpg",
+      "path": "data/covers/rf274a3ffc1ceee9c.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879343-20261126.htm",
+      "title": "港鐵稱屯門一輛不載客輕鐵被貨車撞到 服務一度受影響已回復正常",
+      "createdAt": "2026-11-26T14:02:54.706Z",
+      "model": "image-01",
+      "bytes": 279083
+    },
+    "rf3e370d3b6bcecad": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf3e370d3b6bcecad.jpg",
+      "path": "data/covers/rf3e370d3b6bcecad.jpg",
+      "sourceUrl": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+      "title": "U.S. Judge rules FCC violated ABC&apos;s free speech rights to please Trump",
+      "createdAt": "2026-11-26T14:03:21.959Z",
+      "model": "image-01",
+      "bytes": 226205
+    },
+    "rc215472f3cede5a2": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rc215472f3cede5a2.jpg",
+      "path": "data/covers/rc215472f3cede5a2.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-26/xpeng-president-on-carmaker-s-robot-push-video",
+      "title": "Xpeng President on Carmaker's Robot Push",
+      "createdAt": "2026-11-26T14:03:52.353Z",
+      "model": "image-01",
+      "bytes": 422518
+    },
+    "rf866e3025a38afdc": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf866e3025a38afdc.jpg",
+      "path": "data/covers/rf866e3025a38afdc.jpg",
+      "sourceUrl": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "createdAt": "2026-11-26T14:04:18.989Z",
+      "model": "image-01",
+      "bytes": 316018
+    },
+    "rcaeecb4bd64b6bc0": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rcaeecb4bd64b6bc0.jpg",
+      "path": "data/covers/rcaeecb4bd64b6bc0.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878670-20261121.htm",
+      "title": "歐國聯八強抽籤出爐 西班牙面對法國",
+      "createdAt": "2026-11-26T14:04:44.891Z",
+      "model": "image-01",
+      "bytes": 513426
+    },
+    "r44c1c6036e332e52": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r44c1c6036e332e52.jpg",
+      "path": "data/covers/r44c1c6036e332e52.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879341-20261126.htm",
+      "title": "李家超稱深化與灣區各城市協同發展 為大灣區服務貿易注入動能",
+      "createdAt": "2026-11-26T14:05:12.847Z",
+      "model": "image-01",
+      "bytes": 376781
+    },
+    "r71da29096bfd3269": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r71da29096bfd3269.jpg",
+      "path": "data/covers/r71da29096bfd3269.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879350-20261126.htm",
+      "title": "美國批准向烏克蘭逾6億美元軍售計劃",
+      "createdAt": "2026-11-26T14:05:42.416Z",
+      "model": "image-01",
+      "bytes": 321643
     }
   },
   "lastRun": {
     "ok": 12,
     "fail": 0,
-    "need": 239,
+    "need": 214,
     "tried": 12,
     "quotaHit": false,
     "pool": 700,
-    "dailyCount": 12,
+    "dailyCount": 24,
     "dailyMax": 72,
     "dailyKey": "2026-11-26"
   },
   "dailyKey": "2026-11-26",
-  "dailyCount": 12
+  "dailyCount": 24
 }
