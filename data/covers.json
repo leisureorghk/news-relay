@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T14:40:33.854Z",
+  "generatedAt": "2026-11-26T00:36:49.356Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 24,
+  "count": 32,
   "items": {
     "r26a41ff9eb85d5f7": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r26a41ff9eb85d5f7.jpg",
@@ -120,33 +120,6 @@
       "model": "image-01",
       "bytes": 321041
     },
-    "r13e42a179f47be49": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r13e42a179f47be49.jpg",
-      "path": "data/covers/r13e42a179f47be49.jpg",
-      "sourceUrl": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
-      "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
-      "createdAt": "2026-11-25T14:35:46.151Z",
-      "model": "image-01",
-      "bytes": 348221
-    },
-    "r20f5d52a72182759": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r20f5d52a72182759.jpg",
-      "path": "data/covers/r20f5d52a72182759.jpg",
-      "sourceUrl": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "title": "Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
-      "createdAt": "2026-11-25T14:36:16.385Z",
-      "model": "image-01",
-      "bytes": 304922
-    },
-    "rb010894006020cf8": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb010894006020cf8.jpg",
-      "path": "data/covers/rb010894006020cf8.jpg",
-      "sourceUrl": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-      "title": "Huawei found guilty of stealing trade secrets",
-      "createdAt": "2026-11-25T14:36:44.067Z",
-      "model": "image-01",
-      "bytes": 252832
-    },
     "r5a316f0c778be343": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5a316f0c778be343.jpg",
       "path": "data/covers/r5a316f0c778be343.jpg",
@@ -173,15 +146,6 @@
       "createdAt": "2026-11-25T14:38:08.408Z",
       "model": "image-01",
       "bytes": 303500
-    },
-    "rfc4551eff924de68": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rfc4551eff924de68.jpg",
-      "path": "data/covers/rfc4551eff924de68.jpg",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
-      "title": "Solomon Islands signs security deal with Australia",
-      "createdAt": "2026-11-25T14:38:37.548Z",
-      "model": "image-01",
-      "bytes": 380613
     },
     "rb8845d5b96c59410": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb8845d5b96c59410.jpg",
@@ -218,19 +182,127 @@
       "createdAt": "2026-11-25T14:40:33.351Z",
       "model": "image-01",
       "bytes": 257037
+    },
+    "r877382e66b18fd82": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r877382e66b18fd82.jpg",
+      "path": "data/covers/r877382e66b18fd82.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879293-20261126.htm",
+      "title": "港鐵天水圍站故障工程車已駛離行車線 屯馬綫逐步回復正常",
+      "createdAt": "2026-11-26T00:31:46.575Z",
+      "model": "image-01",
+      "bytes": 267045
+    },
+    "r8602acf6b06a2b5e": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8602acf6b06a2b5e.jpg",
+      "path": "data/covers/r8602acf6b06a2b5e.jpg",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+      "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+      "createdAt": "2026-11-26T00:32:12.912Z",
+      "model": "image-01",
+      "bytes": 328478
+    },
+    "r864692ee2d96c677": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r864692ee2d96c677.jpg",
+      "path": "data/covers/r864692ee2d96c677.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
+      "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
+      "createdAt": "2026-11-26T00:32:39.603Z",
+      "model": "image-01",
+      "bytes": 248659
+    },
+    "r7db1af66519ee634": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r7db1af66519ee634.jpg",
+      "path": "data/covers/r7db1af66519ee634.jpg",
+      "sourceUrl": "https://modaic.dev/blog/latency-doesnt-lie",
+      "title": "Jev is (probably) Qwen3.5-35B-A3B",
+      "createdAt": "2026-11-26T00:33:06.340Z",
+      "model": "image-01",
+      "bytes": 342309
+    },
+    "r983466097012bbd9": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r983466097012bbd9.jpg",
+      "path": "data/covers/r983466097012bbd9.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879298-20261126.htm",
+      "title": "歐聯利物浦3:0大勝布魯日 曼聯遭士砵亭2:2逼和",
+      "createdAt": "2026-11-26T00:33:34.381Z",
+      "model": "image-01",
+      "bytes": 305586
+    },
+    "rdc1e373f847da94e": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rdc1e373f847da94e.jpg",
+      "path": "data/covers/rdc1e373f847da94e.jpg",
+      "sourceUrl": "https://www.edsurge.com/news/why-kindergarten-shouldnt-feel-like-starting-over",
+      "title": "Why Kindergarten Shouldn’t Feel Like Starting Over",
+      "createdAt": "2026-11-26T00:34:00.092Z",
+      "model": "image-01",
+      "bytes": 364562
+    },
+    "r0283e2874baa8b71": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r0283e2874baa8b71.jpg",
+      "path": "data/covers/r0283e2874baa8b71.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879290-20261126.htm",
+      "title": "天水圍站工程車設備故障 屯馬綫候車時間預計多10至15分鐘",
+      "createdAt": "2026-11-26T00:34:26.295Z",
+      "model": "image-01",
+      "bytes": 288929
+    },
+    "r625f22fce1dfcd86": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r625f22fce1dfcd86.jpg",
+      "path": "data/covers/r625f22fce1dfcd86.jpg",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+      "title": "King tides and big waves batter coastal California",
+      "createdAt": "2026-11-26T00:34:49.892Z",
+      "model": "image-01",
+      "bytes": 270455
+    },
+    "r730f809eb5b660a8": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r730f809eb5b660a8.jpg",
+      "path": "data/covers/r730f809eb5b660a8.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "title": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
+      "createdAt": "2026-11-26T00:35:20.480Z",
+      "model": "image-01",
+      "bytes": 338673
+    },
+    "r47db73450b0dafa6": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r47db73450b0dafa6.jpg",
+      "path": "data/covers/r47db73450b0dafa6.jpg",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+      "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
+      "createdAt": "2026-11-26T00:35:57.017Z",
+      "model": "image-01",
+      "bytes": 308412
+    },
+    "raf09ffc3ea8d4e24": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/raf09ffc3ea8d4e24.jpg",
+      "path": "data/covers/raf09ffc3ea8d4e24.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878681-20261121.htm",
+      "title": "體育爭議解決高峰會下月1日舉行 探討國際體育調解仲裁最新趨勢",
+      "createdAt": "2026-11-26T00:36:24.906Z",
+      "model": "image-01",
+      "bytes": 391700
+    },
+    "r9ec076a4952845ab": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r9ec076a4952845ab.jpg",
+      "path": "data/covers/r9ec076a4952845ab.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879283-20261126.htm",
+      "title": "警方調查清水灣道昨日傍晚致命交通意外 69歲小巴司機不治",
+      "createdAt": "2026-11-26T00:36:48.851Z",
+      "model": "image-01",
+      "bytes": 297170
     }
   },
   "lastRun": {
     "ok": 12,
     "fail": 0,
-    "need": 231,
+    "need": 239,
     "tried": 12,
     "quotaHit": false,
     "pool": 700,
-    "dailyCount": 24,
+    "dailyCount": 12,
     "dailyMax": 72,
-    "dailyKey": "2026-11-25"
+    "dailyKey": "2026-11-26"
   },
-  "dailyKey": "2026-11-25",
-  "dailyCount": 24
+  "dailyKey": "2026-11-26",
+  "dailyCount": 12
 }
