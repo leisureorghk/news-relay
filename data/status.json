@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-26T05:56:06.299Z",
-  "count": 417,
+  "generatedAt": "2026-11-26T17:58:30.432Z",
+  "count": 419,
   "target": 700,
   "targetPerCategory": 100,
   "categories": {
     "hk": 65,
     "world": 100,
-    "biz": 66,
+    "biz": 69,
     "tech": 100,
-    "sport": 54,
+    "sport": 53,
     "edu": 4,
     "other": 28
   },
   "shortfall": {
     "hk": 35,
     "world": 0,
-    "biz": 34,
+    "biz": 31,
     "tech": 0,
-    "sport": 46,
+    "sport": 47,
     "edu": 96,
     "other": 72
   },
@@ -47,7 +47,7 @@
     "Google 新聞 · 香港: Google 新聞 0 則（解不出原文 30）",
     "Google 新聞 · 游泳: Google 新聞 0 則（解不出原文 61）",
     "Google 新聞 · 門球: Google 新聞 0 則（解不出原文 7）",
-    "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 32）",
+    "Google 新聞 · SEN／特殊教育: Google 新聞 0 則（解不出原文 100）",
     "Google 新聞 · SEN 游泳: Google 新聞 0 則（解不出原文 2）"
   ]
 }
