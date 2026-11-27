@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T14:05:42.926Z",
+  "generatedAt": "2026-11-27T00:45:38.737Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 35,
+  "count": 32,
   "items": {
     "r26a41ff9eb85d5f7": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r26a41ff9eb85d5f7.jpg",
@@ -75,15 +75,6 @@
       "model": "image-01",
       "bytes": 353078
     },
-    "r434f5565312bc99d": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r434f5565312bc99d.jpg",
-      "path": "data/covers/r434f5565312bc99d.jpg",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary",
-      "title": "Trump reportedly says pardoning Jensen Huang is &#8216;an option&#8217;",
-      "createdAt": "2026-11-25T00:57:07.662Z",
-      "model": "image-01",
-      "bytes": 292251
-    },
     "r6f2ccee96e162ab0": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6f2ccee96e162ab0.jpg",
       "path": "data/covers/r6f2ccee96e162ab0.jpg",
@@ -111,15 +102,6 @@
       "model": "image-01",
       "bytes": 341741
     },
-    "rb8845d5b96c59410": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb8845d5b96c59410.jpg",
-      "path": "data/covers/rb8845d5b96c59410.jpg",
-      "sourceUrl": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
-      "createdAt": "2026-11-25T14:39:06.290Z",
-      "model": "image-01",
-      "bytes": 259884
-    },
     "r51a150e2f61ffe59": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r51a150e2f61ffe59.jpg",
       "path": "data/covers/r51a150e2f61ffe59.jpg",
@@ -138,24 +120,6 @@
       "model": "image-01",
       "bytes": 430000
     },
-    "r8602acf6b06a2b5e": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8602acf6b06a2b5e.jpg",
-      "path": "data/covers/r8602acf6b06a2b5e.jpg",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
-      "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
-      "createdAt": "2026-11-26T00:32:12.912Z",
-      "model": "image-01",
-      "bytes": 328478
-    },
-    "r864692ee2d96c677": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r864692ee2d96c677.jpg",
-      "path": "data/covers/r864692ee2d96c677.jpg",
-      "sourceUrl": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
-      "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
-      "createdAt": "2026-11-26T00:32:39.603Z",
-      "model": "image-01",
-      "bytes": 248659
-    },
     "r983466097012bbd9": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r983466097012bbd9.jpg",
       "path": "data/covers/r983466097012bbd9.jpg",
@@ -173,15 +137,6 @@
       "createdAt": "2026-11-26T00:34:00.092Z",
       "model": "image-01",
       "bytes": 364562
-    },
-    "r625f22fce1dfcd86": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r625f22fce1dfcd86.jpg",
-      "path": "data/covers/r625f22fce1dfcd86.jpg",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
-      "title": "King tides and big waves batter coastal California",
-      "createdAt": "2026-11-26T00:34:49.892Z",
-      "model": "image-01",
-      "bytes": 270455
     },
     "r730f809eb5b660a8": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r730f809eb5b660a8.jpg",
@@ -210,42 +165,6 @@
       "model": "image-01",
       "bytes": 391700
     },
-    "r8154b51348ad9ab4": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8154b51348ad9ab4.jpg",
-      "path": "data/covers/r8154b51348ad9ab4.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879355-20261126.htm",
-      "title": "香港和南沙順利完成大灣區跨境直通救護車北向轉運演練",
-      "createdAt": "2026-11-26T14:00:38.737Z",
-      "model": "image-01",
-      "bytes": 254873
-    },
-    "ref13b3000c84582e": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ref13b3000c84582e.jpg",
-      "path": "data/covers/ref13b3000c84582e.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879354-20261126.htm",
-      "title": "韓國前總統尹錫悅涉嫌作偽證終審無罪",
-      "createdAt": "2026-11-26T14:01:08.170Z",
-      "model": "image-01",
-      "bytes": 360058
-    },
-    "rf3379b15c233473f": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf3379b15c233473f.jpg",
-      "path": "data/covers/rf3379b15c233473f.jpg",
-      "sourceUrl": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
-      "title": "North Korea&apos;s Kim calls for nuclear arsenal expansion, says status &apos;will never change&apos;",
-      "createdAt": "2026-11-26T14:01:35.791Z",
-      "model": "image-01",
-      "bytes": 298124
-    },
-    "rbd023471850f9466": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rbd023471850f9466.jpg",
-      "path": "data/covers/rbd023471850f9466.jpg",
-      "sourceUrl": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
-      "title": "Qualcomm's Oryon 3 Reaches the Top",
-      "createdAt": "2026-11-26T14:02:02.188Z",
-      "model": "image-01",
-      "bytes": 271198
-    },
     "rcbb8c9d39ab5d68b": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rcbb8c9d39ab5d68b.jpg",
       "path": "data/covers/rcbb8c9d39ab5d68b.jpg",
@@ -254,42 +173,6 @@
       "createdAt": "2026-11-26T14:02:28.785Z",
       "model": "image-01",
       "bytes": 472583
-    },
-    "rf274a3ffc1ceee9c": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf274a3ffc1ceee9c.jpg",
-      "path": "data/covers/rf274a3ffc1ceee9c.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879343-20261126.htm",
-      "title": "港鐵稱屯門一輛不載客輕鐵被貨車撞到 服務一度受影響已回復正常",
-      "createdAt": "2026-11-26T14:02:54.706Z",
-      "model": "image-01",
-      "bytes": 279083
-    },
-    "rf3e370d3b6bcecad": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf3e370d3b6bcecad.jpg",
-      "path": "data/covers/rf3e370d3b6bcecad.jpg",
-      "sourceUrl": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
-      "title": "U.S. Judge rules FCC violated ABC&apos;s free speech rights to please Trump",
-      "createdAt": "2026-11-26T14:03:21.959Z",
-      "model": "image-01",
-      "bytes": 226205
-    },
-    "rc215472f3cede5a2": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rc215472f3cede5a2.jpg",
-      "path": "data/covers/rc215472f3cede5a2.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-11-26/xpeng-president-on-carmaker-s-robot-push-video",
-      "title": "Xpeng President on Carmaker's Robot Push",
-      "createdAt": "2026-11-26T14:03:52.353Z",
-      "model": "image-01",
-      "bytes": 422518
-    },
-    "rf866e3025a38afdc": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf866e3025a38afdc.jpg",
-      "path": "data/covers/rf866e3025a38afdc.jpg",
-      "sourceUrl": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "createdAt": "2026-11-26T14:04:18.989Z",
-      "model": "image-01",
-      "bytes": 316018
     },
     "rcaeecb4bd64b6bc0": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rcaeecb4bd64b6bc0.jpg",
@@ -300,36 +183,126 @@
       "model": "image-01",
       "bytes": 513426
     },
-    "r44c1c6036e332e52": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r44c1c6036e332e52.jpg",
-      "path": "data/covers/r44c1c6036e332e52.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879341-20261126.htm",
-      "title": "李家超稱深化與灣區各城市協同發展 為大灣區服務貿易注入動能",
-      "createdAt": "2026-11-26T14:05:12.847Z",
+    "r12ed7fedf3a9b2be": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r12ed7fedf3a9b2be.jpg",
+      "path": "data/covers/r12ed7fedf3a9b2be.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879415-20261126.htm",
+      "title": "入境處拘捕兩名男女 涉非法改動特區護照",
+      "createdAt": "2026-11-27T00:40:26.605Z",
       "model": "image-01",
-      "bytes": 376781
+      "bytes": 363383
     },
-    "r71da29096bfd3269": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r71da29096bfd3269.jpg",
-      "path": "data/covers/r71da29096bfd3269.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879350-20261126.htm",
-      "title": "美國批准向烏克蘭逾6億美元軍售計劃",
-      "createdAt": "2026-11-26T14:05:42.416Z",
+    "rcbc854b6ec6b528b": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rcbc854b6ec6b528b.jpg",
+      "path": "data/covers/rcbc854b6ec6b528b.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879422-20261127.htm",
+      "title": "美國東岸受風暴吹襲 紐約市決定押後傳統感恩節巡遊活動",
+      "createdAt": "2026-11-27T00:40:55.044Z",
       "model": "image-01",
-      "bytes": 321643
+      "bytes": 377830
+    },
+    "r6bc526ec61ed57f1": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6bc526ec61ed57f1.jpg",
+      "path": "data/covers/r6bc526ec61ed57f1.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+      "createdAt": "2026-11-27T00:41:22.316Z",
+      "model": "image-01",
+      "bytes": 308230
+    },
+    "r501d67f77a1ad305": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r501d67f77a1ad305.jpg",
+      "path": "data/covers/r501d67f77a1ad305.jpg",
+      "sourceUrl": "https://github.com/antonpictures/youtube-punisher",
+      "title": "YouTube Ad Punisher – Bypass anti-adblock",
+      "createdAt": "2026-11-27T00:41:50.323Z",
+      "model": "image-01",
+      "bytes": 383813
+    },
+    "rc781739bbee3efa8": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rc781739bbee3efa8.jpg",
+      "path": "data/covers/rc781739bbee3efa8.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878535-20261120.htm",
+      "title": "香港公開羽毛球錦標賽 國家隊「梁王」組合、王祉怡晉級八強",
+      "createdAt": "2026-11-27T00:42:17.557Z",
+      "model": "image-01",
+      "bytes": 345787
+    },
+    "rfbb95676f73e1945": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rfbb95676f73e1945.jpg",
+      "path": "data/covers/rfbb95676f73e1945.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879410-20261126.htm",
+      "title": "政府：尊重市民心意 妥善處理宏福苑悼念花束",
+      "createdAt": "2026-11-27T00:42:45.728Z",
+      "model": "image-01",
+      "bytes": 404390
+    },
+    "r486e9f5e7269c1c4": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r486e9f5e7269c1c4.jpg",
+      "path": "data/covers/r486e9f5e7269c1c4.jpg",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
+      "title": "Syrian children continue learning amid the ruins of war in Idlib",
+      "createdAt": "2026-11-27T00:43:12.242Z",
+      "model": "image-01",
+      "bytes": 254721
+    },
+    "r475d236917d0b6e9": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r475d236917d0b6e9.jpg",
+      "path": "data/covers/r475d236917d0b6e9.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "title": "Semiconductor chips are the new oil. Here&apos;s why",
+      "createdAt": "2026-11-27T00:43:44.277Z",
+      "model": "image-01",
+      "bytes": 335108
+    },
+    "r35307dd2481e1f00": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r35307dd2481e1f00.jpg",
+      "path": "data/covers/r35307dd2481e1f00.jpg",
+      "sourceUrl": "https://diseasescuredbyai.com",
+      "title": "Tracking Diseases Cured by AI",
+      "createdAt": "2026-11-27T00:44:11.286Z",
+      "model": "image-01",
+      "bytes": 305515
+    },
+    "r5199cff2751c3e5a": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5199cff2751c3e5a.jpg",
+      "path": "data/covers/r5199cff2751c3e5a.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879408-20261126.htm",
+      "title": "旺角翠園大樓外牆圍網起火 55歲工人手腳燒傷送院治理",
+      "createdAt": "2026-11-27T00:44:39.770Z",
+      "model": "image-01",
+      "bytes": 284700
+    },
+    "rca5d423cb30eea1e": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rca5d423cb30eea1e.jpg",
+      "path": "data/covers/rca5d423cb30eea1e.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879421-20261127.htm",
+      "title": "緬甸總統表明不會遵守國際法院在裁決中的不適當內容",
+      "createdAt": "2026-11-27T00:45:11.002Z",
+      "model": "image-01",
+      "bytes": 361722
+    },
+    "r7682b782971c694a": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r7682b782971c694a.jpg",
+      "path": "data/covers/r7682b782971c694a.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
+      "title": "KKR Banks Line Up €550 Million of Debt to Back Logoplaste Buyout",
+      "createdAt": "2026-11-27T00:45:38.233Z",
+      "model": "image-01",
+      "bytes": 252381
     }
   },
   "lastRun": {
     "ok": 12,
     "fail": 0,
-    "need": 214,
+    "need": 228,
     "tried": 12,
     "quotaHit": false,
     "pool": 700,
-    "dailyCount": 24,
+    "dailyCount": 12,
     "dailyMax": 72,
-    "dailyKey": "2026-11-26"
+    "dailyKey": "2026-11-27"
   },
-  "dailyKey": "2026-11-26",
-  "dailyCount": 24
+  "dailyKey": "2026-11-27",
+  "dailyCount": 12
 }
