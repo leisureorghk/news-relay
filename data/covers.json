@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-27T00:45:38.737Z",
+  "generatedAt": "2026-11-27T14:04:21.219Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 32,
+  "count": 33,
   "items": {
     "r26a41ff9eb85d5f7": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r26a41ff9eb85d5f7.jpg",
@@ -56,15 +56,6 @@
       "createdAt": "2026-11-24T15:06:36.734Z",
       "model": "image-01",
       "bytes": 450268
-    },
-    "r7583b834d63f5d6c": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r7583b834d63f5d6c.jpg",
-      "path": "data/covers/r7583b834d63f5d6c.jpg",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
-      "title": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to U.S. industrial might",
-      "createdAt": "2026-11-25T00:54:23.950Z",
-      "model": "image-01",
-      "bytes": 251390
     },
     "r8a571cafd7ec581d": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8a571cafd7ec581d.jpg",
@@ -138,15 +129,6 @@
       "model": "image-01",
       "bytes": 364562
     },
-    "r730f809eb5b660a8": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r730f809eb5b660a8.jpg",
-      "path": "data/covers/r730f809eb5b660a8.jpg",
-      "sourceUrl": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "title": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
-      "createdAt": "2026-11-26T00:35:20.480Z",
-      "model": "image-01",
-      "bytes": 338673
-    },
     "r47db73450b0dafa6": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r47db73450b0dafa6.jpg",
       "path": "data/covers/r47db73450b0dafa6.jpg",
@@ -183,24 +165,6 @@
       "model": "image-01",
       "bytes": 513426
     },
-    "r12ed7fedf3a9b2be": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r12ed7fedf3a9b2be.jpg",
-      "path": "data/covers/r12ed7fedf3a9b2be.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879415-20261126.htm",
-      "title": "入境處拘捕兩名男女 涉非法改動特區護照",
-      "createdAt": "2026-11-27T00:40:26.605Z",
-      "model": "image-01",
-      "bytes": 363383
-    },
-    "rcbc854b6ec6b528b": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rcbc854b6ec6b528b.jpg",
-      "path": "data/covers/rcbc854b6ec6b528b.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879422-20261127.htm",
-      "title": "美國東岸受風暴吹襲 紐約市決定押後傳統感恩節巡遊活動",
-      "createdAt": "2026-11-27T00:40:55.044Z",
-      "model": "image-01",
-      "bytes": 377830
-    },
     "r6bc526ec61ed57f1": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6bc526ec61ed57f1.jpg",
       "path": "data/covers/r6bc526ec61ed57f1.jpg",
@@ -219,33 +183,6 @@
       "model": "image-01",
       "bytes": 383813
     },
-    "rc781739bbee3efa8": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rc781739bbee3efa8.jpg",
-      "path": "data/covers/rc781739bbee3efa8.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878535-20261120.htm",
-      "title": "香港公開羽毛球錦標賽 國家隊「梁王」組合、王祉怡晉級八強",
-      "createdAt": "2026-11-27T00:42:17.557Z",
-      "model": "image-01",
-      "bytes": 345787
-    },
-    "rfbb95676f73e1945": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rfbb95676f73e1945.jpg",
-      "path": "data/covers/rfbb95676f73e1945.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879410-20261126.htm",
-      "title": "政府：尊重市民心意 妥善處理宏福苑悼念花束",
-      "createdAt": "2026-11-27T00:42:45.728Z",
-      "model": "image-01",
-      "bytes": 404390
-    },
-    "r486e9f5e7269c1c4": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r486e9f5e7269c1c4.jpg",
-      "path": "data/covers/r486e9f5e7269c1c4.jpg",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
-      "title": "Syrian children continue learning amid the ruins of war in Idlib",
-      "createdAt": "2026-11-27T00:43:12.242Z",
-      "model": "image-01",
-      "bytes": 254721
-    },
     "r475d236917d0b6e9": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r475d236917d0b6e9.jpg",
       "path": "data/covers/r475d236917d0b6e9.jpg",
@@ -255,54 +192,126 @@
       "model": "image-01",
       "bytes": 335108
     },
-    "r35307dd2481e1f00": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r35307dd2481e1f00.jpg",
-      "path": "data/covers/r35307dd2481e1f00.jpg",
-      "sourceUrl": "https://diseasescuredbyai.com",
-      "title": "Tracking Diseases Cured by AI",
-      "createdAt": "2026-11-27T00:44:11.286Z",
+    "r4d476a531bf873ba": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r4d476a531bf873ba.jpg",
+      "path": "data/covers/r4d476a531bf873ba.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879529-20261127.htm",
+      "title": "羅淑佩：各項盛事帶動下 不但人氣旺財氣亦旺",
+      "createdAt": "2026-11-27T13:59:32.887Z",
       "model": "image-01",
-      "bytes": 305515
+      "bytes": 422204
     },
-    "r5199cff2751c3e5a": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5199cff2751c3e5a.jpg",
-      "path": "data/covers/r5199cff2751c3e5a.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879408-20261126.htm",
-      "title": "旺角翠園大樓外牆圍網起火 55歲工人手腳燒傷送院治理",
-      "createdAt": "2026-11-27T00:44:39.770Z",
+    "r65c5e01a5c8a551a": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r65c5e01a5c8a551a.jpg",
+      "path": "data/covers/r65c5e01a5c8a551a.jpg",
+      "sourceUrl": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
+      "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+      "createdAt": "2026-11-27T13:59:55.917Z",
       "model": "image-01",
-      "bytes": 284700
+      "bytes": 368760
     },
-    "rca5d423cb30eea1e": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rca5d423cb30eea1e.jpg",
-      "path": "data/covers/rca5d423cb30eea1e.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879421-20261127.htm",
-      "title": "緬甸總統表明不會遵守國際法院在裁決中的不適當內容",
-      "createdAt": "2026-11-27T00:45:11.002Z",
+    "re690acf3c19b7f2d": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/re690acf3c19b7f2d.jpg",
+      "path": "data/covers/re690acf3c19b7f2d.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "title": "Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
+      "createdAt": "2026-11-27T14:00:21.738Z",
       "model": "image-01",
-      "bytes": 361722
+      "bytes": 306374
     },
-    "r7682b782971c694a": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r7682b782971c694a.jpg",
-      "path": "data/covers/r7682b782971c694a.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
-      "title": "KKR Banks Line Up €550 Million of Debt to Back Logoplaste Buyout",
-      "createdAt": "2026-11-27T00:45:38.233Z",
+    "r00342b2305bfb03b": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r00342b2305bfb03b.jpg",
+      "path": "data/covers/r00342b2305bfb03b.jpg",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "createdAt": "2026-11-27T14:00:47.174Z",
       "model": "image-01",
-      "bytes": 252381
+      "bytes": 354895
+    },
+    "r1e97fc751f76a422": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r1e97fc751f76a422.jpg",
+      "path": "data/covers/r1e97fc751f76a422.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879441-20261127.htm",
+      "title": "歐霸盃般尼茅夫2:1反勝切爾達 水晶宮同樣比數反勝皇蘇",
+      "createdAt": "2026-11-27T14:01:16.307Z",
+      "model": "image-01",
+      "bytes": 449937
+    },
+    "rdc80600baf84e92e": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rdc80600baf84e92e.jpg",
+      "path": "data/covers/rdc80600baf84e92e.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879532-20261127.htm",
+      "title": "海事處：十分關注客輪青衣撞浮塢事故 已登船展開調查",
+      "createdAt": "2026-11-27T14:01:43.459Z",
+      "model": "image-01",
+      "bytes": 416957
+    },
+    "rf5f41fccfcbf7975": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf5f41fccfcbf7975.jpg",
+      "path": "data/covers/rf5f41fccfcbf7975.jpg",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
+      "title": "European football violence causes concern with far-right claim in UEFA game",
+      "createdAt": "2026-11-27T14:02:08.464Z",
+      "model": "image-01",
+      "bytes": 367625
+    },
+    "r89130fe8707aaf9d": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r89130fe8707aaf9d.jpg",
+      "path": "data/covers/r89130fe8707aaf9d.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
+      "title": "Rheinmetall reins in growth ambitions as Europe&apos;s rearmament boom hits hurdles",
+      "createdAt": "2026-11-27T14:02:35.082Z",
+      "model": "image-01",
+      "bytes": 238301
+    },
+    "rd73c79f3b9578cee": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rd73c79f3b9578cee.jpg",
+      "path": "data/covers/rd73c79f3b9578cee.jpg",
+      "sourceUrl": "https://eprint.iacr.org/2026/3020.pdf",
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "createdAt": "2026-11-27T14:03:01.295Z",
+      "model": "image-01",
+      "bytes": 273322
+    },
+    "r5aea2d3d9b75da76": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5aea2d3d9b75da76.jpg",
+      "path": "data/covers/r5aea2d3d9b75da76.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879426-20261127.htm",
+      "title": "亞冠二 大埔主場1:7大敗予阿德萊德聯 傑志兩度領先下遭反勝",
+      "createdAt": "2026-11-27T14:03:28.145Z",
+      "model": "image-01",
+      "bytes": 332398
+    },
+    "rbd8a2dc73dc02f02": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rbd8a2dc73dc02f02.jpg",
+      "path": "data/covers/rbd8a2dc73dc02f02.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879531-20261127.htm",
+      "title": "八達通系統遭網絡攻擊 涉約7500客戶及2.2萬商戶資料",
+      "createdAt": "2026-11-27T14:03:52.946Z",
+      "model": "image-01",
+      "bytes": 305754
+    },
+    "r2b1b8a58ca571866": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2b1b8a58ca571866.jpg",
+      "path": "data/covers/r2b1b8a58ca571866.jpg",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+      "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+      "createdAt": "2026-11-27T14:04:20.715Z",
+      "model": "image-01",
+      "bytes": 370121
     }
   },
   "lastRun": {
     "ok": 12,
     "fail": 0,
-    "need": 228,
+    "need": 227,
     "tried": 12,
     "quotaHit": false,
     "pool": 700,
-    "dailyCount": 12,
+    "dailyCount": 24,
     "dailyMax": 72,
     "dailyKey": "2026-11-27"
   },
   "dailyKey": "2026-11-27",
-  "dailyCount": 12
+  "dailyCount": 24
 }
