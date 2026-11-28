@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-28T08:07:48.170Z",
+  "generatedAt": "2026-11-28T17:03:10.368Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 49,
+  "count": 40,
   "items": {
     "r26a41ff9eb85d5f7": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r26a41ff9eb85d5f7.jpg",
@@ -102,15 +102,6 @@
       "model": "image-01",
       "bytes": 295107
     },
-    "r813b01ee05fbeda4": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r813b01ee05fbeda4.jpg",
-      "path": "data/covers/r813b01ee05fbeda4.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878729-20261121.htm",
-      "title": "英超曼城主場1:1迫和富咸 避免聯賽四連敗但再失2分",
-      "createdAt": "2026-11-25T14:40:03.415Z",
-      "model": "image-01",
-      "bytes": 430000
-    },
     "r983466097012bbd9": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r983466097012bbd9.jpg",
       "path": "data/covers/r983466097012bbd9.jpg",
@@ -147,24 +138,6 @@
       "model": "image-01",
       "bytes": 308230
     },
-    "r475d236917d0b6e9": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r475d236917d0b6e9.jpg",
-      "path": "data/covers/r475d236917d0b6e9.jpg",
-      "sourceUrl": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-      "title": "Semiconductor chips are the new oil. Here&apos;s why",
-      "createdAt": "2026-11-27T00:43:44.277Z",
-      "model": "image-01",
-      "bytes": 335108
-    },
-    "r4d476a531bf873ba": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r4d476a531bf873ba.jpg",
-      "path": "data/covers/r4d476a531bf873ba.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879529-20261127.htm",
-      "title": "羅淑佩：各項盛事帶動下 不但人氣旺財氣亦旺",
-      "createdAt": "2026-11-27T13:59:32.887Z",
-      "model": "image-01",
-      "bytes": 422204
-    },
     "re690acf3c19b7f2d": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/re690acf3c19b7f2d.jpg",
       "path": "data/covers/re690acf3c19b7f2d.jpg",
@@ -192,24 +165,6 @@
       "model": "image-01",
       "bytes": 449937
     },
-    "rdc80600baf84e92e": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rdc80600baf84e92e.jpg",
-      "path": "data/covers/rdc80600baf84e92e.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879532-20261127.htm",
-      "title": "海事處：十分關注客輪青衣撞浮塢事故 已登船展開調查",
-      "createdAt": "2026-11-27T14:01:43.459Z",
-      "model": "image-01",
-      "bytes": 416957
-    },
-    "r89130fe8707aaf9d": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r89130fe8707aaf9d.jpg",
-      "path": "data/covers/r89130fe8707aaf9d.jpg",
-      "sourceUrl": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
-      "title": "Rheinmetall reins in growth ambitions as Europe&apos;s rearmament boom hits hurdles",
-      "createdAt": "2026-11-27T14:02:35.082Z",
-      "model": "image-01",
-      "bytes": 238301
-    },
     "r5aea2d3d9b75da76": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5aea2d3d9b75da76.jpg",
       "path": "data/covers/r5aea2d3d9b75da76.jpg",
@@ -218,33 +173,6 @@
       "createdAt": "2026-11-27T14:03:28.145Z",
       "model": "image-01",
       "bytes": 332398
-    },
-    "rbd8a2dc73dc02f02": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rbd8a2dc73dc02f02.jpg",
-      "path": "data/covers/rbd8a2dc73dc02f02.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879531-20261127.htm",
-      "title": "八達通系統遭網絡攻擊 涉約7500客戶及2.2萬商戶資料",
-      "createdAt": "2026-11-27T14:03:52.946Z",
-      "model": "image-01",
-      "bytes": 305754
-    },
-    "r66e22ee0db09f436": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r66e22ee0db09f436.jpg",
-      "path": "data/covers/r66e22ee0db09f436.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879551-20261128.htm",
-      "title": "長沙灣有地盤發現二戰美製燃燒式子彈 爆炸品處理課人員到場檢走",
-      "createdAt": "2026-11-28T00:06:49.199Z",
-      "model": "image-01",
-      "bytes": 291896
-    },
-    "rbc910de5ff9eb769": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rbc910de5ff9eb769.jpg",
-      "path": "data/covers/rbc910de5ff9eb769.jpg",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-      "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
-      "createdAt": "2026-11-28T00:07:17.123Z",
-      "model": "image-01",
-      "bytes": 342878
     },
     "r8d34e07f18555e24": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8d34e07f18555e24.jpg",
@@ -255,15 +183,6 @@
       "model": "image-01",
       "bytes": 329294
     },
-    "rbb57184b4478d075": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rbb57184b4478d075.jpg",
-      "path": "data/covers/rbb57184b4478d075.jpg",
-      "sourceUrl": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
-      "title": "Roborock, Dreame, and Eufy are cutting robovac prices in half for Black Friday",
-      "createdAt": "2026-11-28T00:08:06.937Z",
-      "model": "image-01",
-      "bytes": 282608
-    },
     "r685864be92f47aa8": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r685864be92f47aa8.jpg",
       "path": "data/covers/r685864be92f47aa8.jpg",
@@ -272,24 +191,6 @@
       "createdAt": "2026-11-28T00:08:35.354Z",
       "model": "image-01",
       "bytes": 364083
-    },
-    "rb3483b575c1e07e0": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb3483b575c1e07e0.jpg",
-      "path": "data/covers/rb3483b575c1e07e0.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879540-20261127.htm",
-      "title": "控方推斷鄺港智按計劃殺害蔡天鳳可能性最能夠解釋所有證據",
-      "createdAt": "2026-11-28T00:09:02.388Z",
-      "model": "image-01",
-      "bytes": 292382
-    },
-    "r114dd0dff6e52f9f": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r114dd0dff6e52f9f.jpg",
-      "path": "data/covers/r114dd0dff6e52f9f.jpg",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
-      "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
-      "createdAt": "2026-11-28T00:09:29.736Z",
-      "model": "image-01",
-      "bytes": 284080
     },
     "r39ea550c6a577c69": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r39ea550c6a577c69.jpg",
@@ -300,15 +201,6 @@
       "model": "image-01",
       "bytes": 336346
     },
-    "r14dc94c7a93dc5e4": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r14dc94c7a93dc5e4.jpg",
-      "path": "data/covers/r14dc94c7a93dc5e4.jpg",
-      "sourceUrl": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
-      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
-      "createdAt": "2026-11-28T00:10:23.981Z",
-      "model": "image-01",
-      "bytes": 328347
-    },
     "rad09b3e269ee489e": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rad09b3e269ee489e.jpg",
       "path": "data/covers/rad09b3e269ee489e.jpg",
@@ -317,51 +209,6 @@
       "createdAt": "2026-11-28T00:10:51.470Z",
       "model": "image-01",
       "bytes": 404990
-    },
-    "rd54d838e6ae21ad7": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rd54d838e6ae21ad7.jpg",
-      "path": "data/covers/rd54d838e6ae21ad7.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879537-20261127.htm",
-      "title": "陳健波稱要正視醫療保費加幅大",
-      "createdAt": "2026-11-28T00:11:19.296Z",
-      "model": "image-01",
-      "bytes": 317276
-    },
-    "r9c647ffbe06ef185": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r9c647ffbe06ef185.jpg",
-      "path": "data/covers/r9c647ffbe06ef185.jpg",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
-      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
-      "createdAt": "2026-11-28T00:11:42.669Z",
-      "model": "image-01",
-      "bytes": 308131
-    },
-    "r181710e00bd2af36": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r181710e00bd2af36.jpg",
-      "path": "data/covers/r181710e00bd2af36.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879582-20261128.htm",
-      "title": "公屋綜合輪候時間4.4年屬10年新低 黃偉綸稱對供應有信心",
-      "createdAt": "2026-11-28T08:02:36.217Z",
-      "model": "image-01",
-      "bytes": 372764
-    },
-    "r0bd708ad417daac7": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r0bd708ad417daac7.jpg",
-      "path": "data/covers/r0bd708ad417daac7.jpg",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support?traffic_source=rss",
-      "title": "Behind India’s IIT dream: Student suicides and gaps in support",
-      "createdAt": "2026-11-28T08:03:03.135Z",
-      "model": "image-01",
-      "bytes": 280428
-    },
-    "r5dcce5e81581fbf5": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5dcce5e81581fbf5.jpg",
-      "path": "data/covers/r5dcce5e81581fbf5.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
-      "title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
-      "createdAt": "2026-11-28T08:03:29.617Z",
-      "model": "image-01",
-      "bytes": 250976
     },
     "r280c7fbc24f29161": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r280c7fbc24f29161.jpg",
@@ -381,24 +228,6 @@
       "model": "image-01",
       "bytes": 324847
     },
-    "r24ab27de268eed35": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r24ab27de268eed35.jpg",
-      "path": "data/covers/r24ab27de268eed35.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879581-20261128.htm",
-      "title": "勳銜頒授典禮 何偉豪獲追授金英勇勳章由兄長及未婚妻代領",
-      "createdAt": "2026-11-28T08:05:15.752Z",
-      "model": "image-01",
-      "bytes": 257601
-    },
-    "rd386efe23946d92b": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rd386efe23946d92b.jpg",
-      "path": "data/covers/rd386efe23946d92b.jpg",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
-      "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
-      "createdAt": "2026-11-28T08:05:43.022Z",
-      "model": "image-01",
-      "bytes": 318598
-    },
     "raf225205b33538a4": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/raf225205b33538a4.jpg",
       "path": "data/covers/raf225205b33538a4.jpg",
@@ -417,15 +246,6 @@
       "model": "image-01",
       "bytes": 324926
     },
-    "rb2eaf4a4f77dcc9f": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb2eaf4a4f77dcc9f.jpg",
-      "path": "data/covers/rb2eaf4a4f77dcc9f.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879578-20261128.htm",
-      "title": "許正宇稱亞投行落戶香港意義大 當局與亞投行商討細節涉法律修訂",
-      "createdAt": "2026-11-28T08:06:58.347Z",
-      "model": "image-01",
-      "bytes": 279423
-    },
     "rce72dea8e4330709": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rce72dea8e4330709.jpg",
       "path": "data/covers/rce72dea8e4330709.jpg",
@@ -435,27 +255,126 @@
       "model": "image-01",
       "bytes": 302248
     },
-    "rcf3cf40b8ada146c": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rcf3cf40b8ada146c.jpg",
-      "path": "data/covers/rcf3cf40b8ada146c.jpg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
-      "title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
-      "createdAt": "2026-11-28T08:07:47.668Z",
+    "rb57f4cc3b06637df": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb57f4cc3b06637df.jpg",
+      "path": "data/covers/rb57f4cc3b06637df.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879622-20261128.htm",
+      "title": "勞工處下周一起展開特別執法行動 巡查架設大型棚架維修工程地盤",
+      "createdAt": "2026-11-28T16:58:30.854Z",
       "model": "image-01",
-      "bytes": 262103
+      "bytes": 305269
+    },
+    "re5aeb5a85f42f6cd": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/re5aeb5a85f42f6cd.jpg",
+      "path": "data/covers/re5aeb5a85f42f6cd.jpg",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/28/video-shows-aftermath-of-deadly-air-strike-at-myanmar-wedding-venue?traffic_source=rss",
+      "title": "Video shows aftermath of deadly air strike at Myanmar wedding venue",
+      "createdAt": "2026-11-28T16:58:56.942Z",
+      "model": "image-01",
+      "bytes": 290833
+    },
+    "r009086c84fff8068": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r009086c84fff8068.jpg",
+      "path": "data/covers/r009086c84fff8068.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/28/supreme-court-to-decide-if-assault-weapons-bans-violate-2nd-amendment.html",
+      "title": "Supreme Court will decide whether assault weapons bans violate the Second Amendment",
+      "createdAt": "2026-11-28T16:59:23.304Z",
+      "model": "image-01",
+      "bytes": 259811
+    },
+    "r253620a773758863": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r253620a773758863.jpg",
+      "path": "data/covers/r253620a773758863.jpg",
+      "sourceUrl": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "createdAt": "2026-11-28T16:59:48.051Z",
+      "model": "image-01",
+      "bytes": 282000
+    },
+    "ref44b5e6d7007ce8": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ref44b5e6d7007ce8.jpg",
+      "path": "data/covers/ref44b5e6d7007ce8.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879618-20261128.htm",
+      "title": "屯門利通工業大廈棚網起火 消防初步相信起火原因與煙頭有關",
+      "createdAt": "2026-11-28T17:00:12.790Z",
+      "model": "image-01",
+      "bytes": 343261
+    },
+    "rf5e7776df38cef80": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf5e7776df38cef80.jpg",
+      "path": "data/covers/rf5e7776df38cef80.jpg",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/28/aje-onl-nf_mo-salah-gets-on-wrong-team-bus-281126?traffic_source=rss",
+      "title": "Mo Salah’s red bus blunder leaves players amused",
+      "createdAt": "2026-11-28T17:00:37.403Z",
+      "model": "image-01",
+      "bytes": 342128
+    },
+    "r3a91789204516338": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r3a91789204516338.jpg",
+      "path": "data/covers/r3a91789204516338.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-28/nigeria-central-bank-plans-2027-launch-of-repo-and-swap-markets",
+      "title": "Nigeria Central Bank Plans 2027 Launch of Repo and Swap Markets",
+      "createdAt": "2026-11-28T17:01:02.784Z",
+      "model": "image-01",
+      "bytes": 294300
+    },
+    "r1ab00e24aa7682b2": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r1ab00e24aa7682b2.jpg",
+      "path": "data/covers/r1ab00e24aa7682b2.jpg",
+      "sourceUrl": "https://www.theverge.com/gadgets/1045251/what-verge-readers-bought-black-friday",
+      "title": "Here’s what other Verge readers bought during Black Friday",
+      "createdAt": "2026-11-28T17:01:27.539Z",
+      "model": "image-01",
+      "bytes": 360131
+    },
+    "ra13ae1924a259dc1": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/ra13ae1924a259dc1.jpg",
+      "path": "data/covers/ra13ae1924a259dc1.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879616-20261128.htm",
+      "title": "勞顧會僱員代表選舉結束 周思傑等人當選",
+      "createdAt": "2026-11-28T17:01:55.467Z",
+      "model": "image-01",
+      "bytes": 371103
+    },
+    "rb19ff91732a838b6": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb19ff91732a838b6.jpg",
+      "path": "data/covers/rb19ff91732a838b6.jpg",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/11/28/arsenal-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "title": "Arsenal vs Manchester City: Premier League – teams, prediction, lineups",
+      "createdAt": "2026-11-28T17:02:21.478Z",
+      "model": "image-01",
+      "bytes": 361035
+    },
+    "re9c01bf5aeb973f7": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/re9c01bf5aeb973f7.jpg",
+      "path": "data/covers/re9c01bf5aeb973f7.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html",
+      "title": "He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
+      "createdAt": "2026-11-28T17:02:45.321Z",
+      "model": "image-01",
+      "bytes": 269871
+    },
+    "r7db0125da0e953e3": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r7db0125da0e953e3.jpg",
+      "path": "data/covers/r7db0125da0e953e3.jpg",
+      "sourceUrl": "https://www.theverge.com/gadgets/1044917/kodak-charmera-keychain-digital-camera-black-friday-deal-sale-2026",
+      "title": "Kodak’s adorable Charmera keychain camera is on sale for just $30",
+      "createdAt": "2026-11-28T17:03:09.864Z",
+      "model": "image-01",
+      "bytes": 461631
     }
   },
   "lastRun": {
     "ok": 12,
     "fail": 0,
-    "need": 221,
+    "need": 215,
     "tried": 12,
     "quotaHit": false,
     "pool": 700,
-    "dailyCount": 24,
+    "dailyCount": 12,
     "dailyMax": 72,
-    "dailyKey": "2026-11-28"
+    "dailyKey": "2026-11-29"
   },
-  "dailyKey": "2026-11-28",
-  "dailyCount": 24
+  "dailyKey": "2026-11-29",
+  "dailyCount": 12
 }
