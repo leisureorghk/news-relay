@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-27T14:04:21.219Z",
+  "generatedAt": "2026-11-28T00:11:43.171Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 33,
+  "count": 38,
   "items": {
     "r26a41ff9eb85d5f7": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r26a41ff9eb85d5f7.jpg",
@@ -147,24 +147,6 @@
       "model": "image-01",
       "bytes": 391700
     },
-    "rcbb8c9d39ab5d68b": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rcbb8c9d39ab5d68b.jpg",
-      "path": "data/covers/rcbb8c9d39ab5d68b.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878671-20261121.htm",
-      "title": "德甲拜仁1:1逼和科隆 哈利卡尼傷出",
-      "createdAt": "2026-11-26T14:02:28.785Z",
-      "model": "image-01",
-      "bytes": 472583
-    },
-    "rcaeecb4bd64b6bc0": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rcaeecb4bd64b6bc0.jpg",
-      "path": "data/covers/rcaeecb4bd64b6bc0.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878670-20261121.htm",
-      "title": "歐國聯八強抽籤出爐 西班牙面對法國",
-      "createdAt": "2026-11-26T14:04:44.891Z",
-      "model": "image-01",
-      "bytes": 513426
-    },
     "r6bc526ec61ed57f1": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6bc526ec61ed57f1.jpg",
       "path": "data/covers/r6bc526ec61ed57f1.jpg",
@@ -173,15 +155,6 @@
       "createdAt": "2026-11-27T00:41:22.316Z",
       "model": "image-01",
       "bytes": 308230
-    },
-    "r501d67f77a1ad305": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r501d67f77a1ad305.jpg",
-      "path": "data/covers/r501d67f77a1ad305.jpg",
-      "sourceUrl": "https://github.com/antonpictures/youtube-punisher",
-      "title": "YouTube Ad Punisher – Bypass anti-adblock",
-      "createdAt": "2026-11-27T00:41:50.323Z",
-      "model": "image-01",
-      "bytes": 383813
     },
     "r475d236917d0b6e9": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r475d236917d0b6e9.jpg",
@@ -200,15 +173,6 @@
       "createdAt": "2026-11-27T13:59:32.887Z",
       "model": "image-01",
       "bytes": 422204
-    },
-    "r65c5e01a5c8a551a": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r65c5e01a5c8a551a.jpg",
-      "path": "data/covers/r65c5e01a5c8a551a.jpg",
-      "sourceUrl": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
-      "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
-      "createdAt": "2026-11-27T13:59:55.917Z",
-      "model": "image-01",
-      "bytes": 368760
     },
     "re690acf3c19b7f2d": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/re690acf3c19b7f2d.jpg",
@@ -246,15 +210,6 @@
       "model": "image-01",
       "bytes": 416957
     },
-    "rf5f41fccfcbf7975": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rf5f41fccfcbf7975.jpg",
-      "path": "data/covers/rf5f41fccfcbf7975.jpg",
-      "sourceUrl": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
-      "title": "European football violence causes concern with far-right claim in UEFA game",
-      "createdAt": "2026-11-27T14:02:08.464Z",
-      "model": "image-01",
-      "bytes": 367625
-    },
     "r89130fe8707aaf9d": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r89130fe8707aaf9d.jpg",
       "path": "data/covers/r89130fe8707aaf9d.jpg",
@@ -263,15 +218,6 @@
       "createdAt": "2026-11-27T14:02:35.082Z",
       "model": "image-01",
       "bytes": 238301
-    },
-    "rd73c79f3b9578cee": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rd73c79f3b9578cee.jpg",
-      "path": "data/covers/rd73c79f3b9578cee.jpg",
-      "sourceUrl": "https://eprint.iacr.org/2026/3020.pdf",
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "createdAt": "2026-11-27T14:03:01.295Z",
-      "model": "image-01",
-      "bytes": 273322
     },
     "r5aea2d3d9b75da76": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5aea2d3d9b75da76.jpg",
@@ -291,27 +237,126 @@
       "model": "image-01",
       "bytes": 305754
     },
-    "r2b1b8a58ca571866": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r2b1b8a58ca571866.jpg",
-      "path": "data/covers/r2b1b8a58ca571866.jpg",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
-      "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
-      "createdAt": "2026-11-27T14:04:20.715Z",
+    "r66e22ee0db09f436": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r66e22ee0db09f436.jpg",
+      "path": "data/covers/r66e22ee0db09f436.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879551-20261128.htm",
+      "title": "長沙灣有地盤發現二戰美製燃燒式子彈 爆炸品處理課人員到場檢走",
+      "createdAt": "2026-11-28T00:06:49.199Z",
       "model": "image-01",
-      "bytes": 370121
+      "bytes": 291896
+    },
+    "rbc910de5ff9eb769": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rbc910de5ff9eb769.jpg",
+      "path": "data/covers/rbc910de5ff9eb769.jpg",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+      "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+      "createdAt": "2026-11-28T00:07:17.123Z",
+      "model": "image-01",
+      "bytes": 342878
+    },
+    "r8d34e07f18555e24": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r8d34e07f18555e24.jpg",
+      "path": "data/covers/r8d34e07f18555e24.jpg",
+      "sourceUrl": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "createdAt": "2026-11-28T00:07:40.891Z",
+      "model": "image-01",
+      "bytes": 329294
+    },
+    "rbb57184b4478d075": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rbb57184b4478d075.jpg",
+      "path": "data/covers/rbb57184b4478d075.jpg",
+      "sourceUrl": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+      "title": "Roborock, Dreame, and Eufy are cutting robovac prices in half for Black Friday",
+      "createdAt": "2026-11-28T00:08:06.937Z",
+      "model": "image-01",
+      "bytes": 282608
+    },
+    "r685864be92f47aa8": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r685864be92f47aa8.jpg",
+      "path": "data/covers/r685864be92f47aa8.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879563-20261128.htm",
+      "title": "英超諾定咸森林3:2擊敗車路士",
+      "createdAt": "2026-11-28T00:08:35.354Z",
+      "model": "image-01",
+      "bytes": 364083
+    },
+    "rb3483b575c1e07e0": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb3483b575c1e07e0.jpg",
+      "path": "data/covers/rb3483b575c1e07e0.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879540-20261127.htm",
+      "title": "控方推斷鄺港智按計劃殺害蔡天鳳可能性最能夠解釋所有證據",
+      "createdAt": "2026-11-28T00:09:02.388Z",
+      "model": "image-01",
+      "bytes": 292382
+    },
+    "r114dd0dff6e52f9f": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r114dd0dff6e52f9f.jpg",
+      "path": "data/covers/r114dd0dff6e52f9f.jpg",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+      "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+      "createdAt": "2026-11-28T00:09:29.736Z",
+      "model": "image-01",
+      "bytes": 284080
+    },
+    "r39ea550c6a577c69": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r39ea550c6a577c69.jpg",
+      "path": "data/covers/r39ea550c6a577c69.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879565-20261128.htm",
+      "title": "港股ADR與本港收市個別發展",
+      "createdAt": "2026-11-28T00:09:57.311Z",
+      "model": "image-01",
+      "bytes": 336346
+    },
+    "r14dc94c7a93dc5e4": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r14dc94c7a93dc5e4.jpg",
+      "path": "data/covers/r14dc94c7a93dc5e4.jpg",
+      "sourceUrl": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "createdAt": "2026-11-28T00:10:23.981Z",
+      "model": "image-01",
+      "bytes": 328347
+    },
+    "rad09b3e269ee489e": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rad09b3e269ee489e.jpg",
+      "path": "data/covers/rad09b3e269ee489e.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879545-20261128.htm",
+      "title": "英超阿仙奴將主場鬥曼城 阿迪達稱絕不輕視對手",
+      "createdAt": "2026-11-28T00:10:51.470Z",
+      "model": "image-01",
+      "bytes": 404990
+    },
+    "rd54d838e6ae21ad7": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rd54d838e6ae21ad7.jpg",
+      "path": "data/covers/rd54d838e6ae21ad7.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879537-20261127.htm",
+      "title": "陳健波稱要正視醫療保費加幅大",
+      "createdAt": "2026-11-28T00:11:19.296Z",
+      "model": "image-01",
+      "bytes": 317276
+    },
+    "r9c647ffbe06ef185": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r9c647ffbe06ef185.jpg",
+      "path": "data/covers/r9c647ffbe06ef185.jpg",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+      "createdAt": "2026-11-28T00:11:42.669Z",
+      "model": "image-01",
+      "bytes": 308131
     }
   },
   "lastRun": {
     "ok": 12,
     "fail": 0,
-    "need": 227,
+    "need": 232,
     "tried": 12,
     "quotaHit": false,
     "pool": 700,
-    "dailyCount": 24,
+    "dailyCount": 12,
     "dailyMax": 72,
-    "dailyKey": "2026-11-27"
+    "dailyKey": "2026-11-28"
   },
-  "dailyKey": "2026-11-27",
-  "dailyCount": 24
+  "dailyKey": "2026-11-28",
+  "dailyCount": 12
 }
