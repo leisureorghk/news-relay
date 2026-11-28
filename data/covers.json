@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-28T00:11:43.171Z",
+  "generatedAt": "2026-11-28T08:07:48.170Z",
   "baseUrl": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers",
-  "count": 38,
+  "count": 49,
   "items": {
     "r26a41ff9eb85d5f7": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r26a41ff9eb85d5f7.jpg",
@@ -137,15 +137,6 @@
       "createdAt": "2026-11-26T00:35:57.017Z",
       "model": "image-01",
       "bytes": 308412
-    },
-    "raf09ffc3ea8d4e24": {
-      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/raf09ffc3ea8d4e24.jpg",
-      "path": "data/covers/raf09ffc3ea8d4e24.jpg",
-      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878681-20261121.htm",
-      "title": "體育爭議解決高峰會下月1日舉行 探討國際體育調解仲裁最新趨勢",
-      "createdAt": "2026-11-26T00:36:24.906Z",
-      "model": "image-01",
-      "bytes": 391700
     },
     "r6bc526ec61ed57f1": {
       "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r6bc526ec61ed57f1.jpg",
@@ -344,19 +335,127 @@
       "createdAt": "2026-11-28T00:11:42.669Z",
       "model": "image-01",
       "bytes": 308131
+    },
+    "r181710e00bd2af36": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r181710e00bd2af36.jpg",
+      "path": "data/covers/r181710e00bd2af36.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879582-20261128.htm",
+      "title": "公屋綜合輪候時間4.4年屬10年新低 黃偉綸稱對供應有信心",
+      "createdAt": "2026-11-28T08:02:36.217Z",
+      "model": "image-01",
+      "bytes": 372764
+    },
+    "r0bd708ad417daac7": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r0bd708ad417daac7.jpg",
+      "path": "data/covers/r0bd708ad417daac7.jpg",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support?traffic_source=rss",
+      "title": "Behind India’s IIT dream: Student suicides and gaps in support",
+      "createdAt": "2026-11-28T08:03:03.135Z",
+      "model": "image-01",
+      "bytes": 280428
+    },
+    "r5dcce5e81581fbf5": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5dcce5e81581fbf5.jpg",
+      "path": "data/covers/r5dcce5e81581fbf5.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
+      "title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
+      "createdAt": "2026-11-28T08:03:29.617Z",
+      "model": "image-01",
+      "bytes": 250976
+    },
+    "r280c7fbc24f29161": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r280c7fbc24f29161.jpg",
+      "path": "data/covers/r280c7fbc24f29161.jpg",
+      "sourceUrl": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "title": "The absolute best Black Friday deals you can still get",
+      "createdAt": "2026-11-28T08:03:56.710Z",
+      "model": "image-01",
+      "bytes": 353636
+    },
+    "rdc2e32941afbddba": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rdc2e32941afbddba.jpg",
+      "path": "data/covers/rdc2e32941afbddba.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879463-20261127.htm",
+      "title": "國際足協證實受到網絡攻擊",
+      "createdAt": "2026-11-28T08:04:52.356Z",
+      "model": "image-01",
+      "bytes": 324847
+    },
+    "r24ab27de268eed35": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r24ab27de268eed35.jpg",
+      "path": "data/covers/r24ab27de268eed35.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879581-20261128.htm",
+      "title": "勳銜頒授典禮 何偉豪獲追授金英勇勳章由兄長及未婚妻代領",
+      "createdAt": "2026-11-28T08:05:15.752Z",
+      "model": "image-01",
+      "bytes": 257601
+    },
+    "rd386efe23946d92b": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rd386efe23946d92b.jpg",
+      "path": "data/covers/rd386efe23946d92b.jpg",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
+      "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
+      "createdAt": "2026-11-28T08:05:43.022Z",
+      "model": "image-01",
+      "bytes": 318598
+    },
+    "raf225205b33538a4": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/raf225205b33538a4.jpg",
+      "path": "data/covers/raf225205b33538a4.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879564-20261128.htm",
+      "title": "現貨金高收逾2% 本周升逾3%結束兩周跌勢",
+      "createdAt": "2026-11-28T08:06:07.465Z",
+      "model": "image-01",
+      "bytes": 303901
+    },
+    "r5a8c492b4640b652": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/r5a8c492b4640b652.jpg",
+      "path": "data/covers/r5a8c492b4640b652.jpg",
+      "sourceUrl": "https://unkernel.dev",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "createdAt": "2026-11-28T08:06:32.596Z",
+      "model": "image-01",
+      "bytes": 324926
+    },
+    "rb2eaf4a4f77dcc9f": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rb2eaf4a4f77dcc9f.jpg",
+      "path": "data/covers/rb2eaf4a4f77dcc9f.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879578-20261128.htm",
+      "title": "許正宇稱亞投行落戶香港意義大 當局與亞投行商討細節涉法律修訂",
+      "createdAt": "2026-11-28T08:06:58.347Z",
+      "model": "image-01",
+      "bytes": 279423
+    },
+    "rce72dea8e4330709": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rce72dea8e4330709.jpg",
+      "path": "data/covers/rce72dea8e4330709.jpg",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879585-20261128.htm",
+      "title": "韓情報當局密切關注金正恩可能訪華的報道",
+      "createdAt": "2026-11-28T08:07:24.287Z",
+      "model": "image-01",
+      "bytes": 302248
+    },
+    "rcf3cf40b8ada146c": {
+      "url": "https://raw.githubusercontent.com/leisureorghk/news-relay/main/data/covers/rcf3cf40b8ada146c.jpg",
+      "path": "data/covers/rcf3cf40b8ada146c.jpg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
+      "title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+      "createdAt": "2026-11-28T08:07:47.668Z",
+      "model": "image-01",
+      "bytes": 262103
     }
   },
   "lastRun": {
     "ok": 12,
     "fail": 0,
-    "need": 232,
+    "need": 221,
     "tried": 12,
     "quotaHit": false,
     "pool": 700,
-    "dailyCount": 12,
+    "dailyCount": 24,
     "dailyMax": 72,
     "dailyKey": "2026-11-28"
   },
   "dailyKey": "2026-11-28",
-  "dailyCount": 12
+  "dailyCount": 24
 }
